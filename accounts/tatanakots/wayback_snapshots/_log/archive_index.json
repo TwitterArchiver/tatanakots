@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-26T20:41:01",
+  "last_updated": "2026-05-26T21:07:07",
   "html": {
     "https://web.archive.org/web/20240505091932if_/https://twitter.com/tatanakots/status/1787049480795398265": {
       "status": "done",
@@ -72193,22 +72193,22 @@
       "last_updated": "2026-05-26T14:55:02"
     },
     "https://video.twimg.com/amplify_video/1815793546441687040/vid/avc1/1280x720/Q-CZMJIHkVV_2P4d.mp4?tag=14": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240723165832_twitter_com_tatanakots_status_1815793632924110987.json",
         "20240723170022_twitter_com_tatanakots_status_1815794096029802894.json",
         "20240723170155_twitter_com_tatanakots_status_1815794482413248673.json"
       ],
-      "last_updated": "2026-05-26T14:55:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240723165832/https://video.twimg.com/amplify_video/1815793546441687040/vid/avc1/1280x720/Q-CZMJIHkVV_2P4d.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf38099520>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 7
+      "last_updated": "2026-05-26T20:41:48",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240723165832/https://video.twimg.com/amplify_video/1815793546441687040/vid/avc1/1280x720/Q-CZMJIHkVV_2P4d.mp4?tag=14",
+      "miss_count": 8
     },
     "https://video.twimg.com/tweet_video/Ea3lHL6UEAAqe6q.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20240805171008_twitter_com_tatanakots_status_1820507592927637683.json"
       ],
-      "last_updated": "2026-05-26T14:55:18",
+      "last_updated": "2026-05-26T20:41:57",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240805171008/https://video.twimg.com/tweet_video/Ea3lHL6UEAAqe6q.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380994f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72217,62 +72217,62 @@
       "referenced_by": [
         "20240807092843_twitter_com_tatanakots_status_1821116249067405667.json"
       ],
-      "last_updated": "2026-05-26T14:55:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240807092843/https://video.twimg.com/ext_tw_video/1821103382830182400/pu/vid/avc1/1920x1080/AEZA5M6mj2sKnBvj.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809af00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:42:07",
+      "last_reason": "HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://web.archive.org/save/_embed/https://video.twimg.com/ext_tw_video/1821103382830182400/pu/vid/avc1/1920x1080/AEZA5M6mj2sKnBvj.mp4?tag=14",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1843655842941546496/pu/vid/avc1/1920x1080/bOo8IUqTpcPmy0u3.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20241008141915_twitter_com_tatanakots_status_1843657414098432487.json"
       ],
-      "last_updated": "2026-05-26T14:55:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241008141915/https://video.twimg.com/ext_tw_video/1843655842941546496/pu/vid/avc1/1920x1080/bOo8IUqTpcPmy0u3.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809ba40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:42:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241008141915/https://video.twimg.com/ext_tw_video/1843655842941546496/pu/vid/avc1/1920x1080/bOo8IUqTpcPmy0u3.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67683b60>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1843659648655863813/pu/vid/avc1/1920x1080/OvZ8-A1kfVp-c0GL.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20241008143223_twitter_com_tatanakots_status_1843660718555713986.json"
       ],
-      "last_updated": "2026-05-26T14:55:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241008143223/https://video.twimg.com/ext_tw_video/1843659648655863813/pu/vid/avc1/1920x1080/OvZ8-A1kfVp-c0GL.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38098f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:42:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20241008143223/https://video.twimg.com/ext_tw_video/1843659648655863813/pu/vid/avc1/1920x1080/OvZ8-A1kfVp-c0GL.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676090a0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1878051349017104384/vid/avc1/1920x1080/gsOkWknawA5XTq_v.mp4?tag=16": {
       "status": "failed",
       "referenced_by": [
         "20250111135130_twitter_com_tatanakots_status_1878077278816747956.json"
       ],
-      "last_updated": "2026-05-26T14:55:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250111135130/https://video.twimg.com/amplify_video/1878051349017104384/vid/avc1/1920x1080/gsOkWknawA5XTq_v.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800d550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:43:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250111135130/https://video.twimg.com/amplify_video/1878051349017104384/vid/avc1/1920x1080/gsOkWknawA5XTq_v.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67609490>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1882834294378582016/pu/vid/avc1/590x1280/XTosxK7oCHyhUphJ.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250124165427_twitter_com_tatanakots_status_1882834358685557138.json"
       ],
-      "last_updated": "2026-05-26T14:56:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250124165427/https://video.twimg.com/ext_tw_video/1882834294378582016/pu/vid/avc1/590x1280/XTosxK7oCHyhUphJ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38098860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:43:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250124165427/https://video.twimg.com/ext_tw_video/1882834294378582016/pu/vid/avc1/590x1280/XTosxK7oCHyhUphJ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67626e10>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1882838913150328832/pu/vid/avc1/590x1280/RMbwEf89WKI73M8p.mp4?tag=12": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250124171243_twitter_com_tatanakots_status_1882838958692090056.json"
       ],
-      "last_updated": "2026-05-26T14:56:13",
+      "last_updated": "2026-05-26T20:44:16",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250124171243/https://video.twimg.com/ext_tw_video/1882838913150328832/pu/vid/avc1/590x1280/RMbwEf89WKI73M8p.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800ed50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1892092208972693505/vid/avc1/1920x1080/G7ZbTwQqo4Rn4RNs.mp4?tag=16": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250219060330_twitter_com_tatanakots_status_1892092629069725764.json",
         "20250219060547_twitter_com_tatanakots_status_1892093204356345905.json"
       ],
-      "last_updated": "2026-05-26T14:56:22",
+      "last_updated": "2026-05-26T20:44:25",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250219060330/https://video.twimg.com/amplify_video/1892092208972693505/vid/avc1/1920x1080/G7ZbTwQqo4Rn4RNs.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38099b20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 5
     },
@@ -72281,124 +72281,124 @@
       "referenced_by": [
         "20250228043450_twitter_com_tatanakots_status_1895331806398029869.json"
       ],
-      "last_updated": "2026-05-26T14:56:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250228043450/https://video.twimg.com/amplify_video/1894794363114237952/vid/avc1/1280x720/l9o0Vzp-v3nG7uW_.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800c0e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:44:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250228043450/https://video.twimg.com/amplify_video/1894794363114237952/vid/avc1/1280x720/l9o0Vzp-v3nG7uW_.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760a000>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1898571302094442496/pu/vid/avc1/1280x720/h-pPxJOtYyKDQlsW.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250309031819_twitter_com_tatanakots_status_1898574038651535732.json"
       ],
-      "last_updated": "2026-05-26T14:56:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250309031819/https://video.twimg.com/ext_tw_video/1898571302094442496/pu/vid/avc1/1280x720/h-pPxJOtYyKDQlsW.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38099400>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:44:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250309031819/https://video.twimg.com/ext_tw_video/1898571302094442496/pu/vid/avc1/1280x720/h-pPxJOtYyKDQlsW.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67624920>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1902775890184110080/vid/avc1/480x270/MsH1to5D8fp3Uv8j.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20250320173810_twitter_com_tatanakots_status_1902776694211219954.json"
       ],
-      "last_updated": "2026-05-26T14:56:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250320173810/https://video.twimg.com/amplify_video/1902775890184110080/vid/avc1/480x270/MsH1to5D8fp3Uv8j.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800d7f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:45:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250320173810/https://video.twimg.com/amplify_video/1902775890184110080/vid/avc1/480x270/MsH1to5D8fp3Uv8j.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67645820>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1904874886881005569/pu/vid/avc1/1280x720/Ydx1dN6851gxSvyT.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250326173712_twitter_com_tatanakots_status_1904950779758494096.json"
       ],
-      "last_updated": "2026-05-26T14:56:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250326173712/https://video.twimg.com/ext_tw_video/1904874886881005569/pu/vid/avc1/1280x720/Ydx1dN6851gxSvyT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809b6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:45:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250326173712/https://video.twimg.com/ext_tw_video/1904874886881005569/pu/vid/avc1/1280x720/Ydx1dN6851gxSvyT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67608800>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1905985898585735170/vid/avc1/1080x1920/HrM9gdpP-5MX0Uql.mp4?tag=16": {
       "status": "failed",
       "referenced_by": [
         "20250329141130_twitter_com_tatanakots_status_1905986176257024275.json"
       ],
-      "last_updated": "2026-05-26T14:57:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250329141130/https://video.twimg.com/amplify_video/1905985898585735170/vid/avc1/1080x1920/HrM9gdpP-5MX0Uql.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800ffe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:46:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250329141130/https://video.twimg.com/amplify_video/1905985898585735170/vid/avc1/1080x1920/HrM9gdpP-5MX0Uql.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67646960>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1911939480522530818/pu/vid/avc1/720x1280/3-PwAH_59jLdRuqj.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250415143901_twitter_com_tatanakots_status_1912153695451562401.json"
       ],
-      "last_updated": "2026-05-26T14:57:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415143901/https://video.twimg.com/ext_tw_video/1911939480522530818/pu/vid/avc1/720x1280/3-PwAH_59jLdRuqj.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ad3d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:46:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415143901/https://video.twimg.com/ext_tw_video/1911939480522530818/pu/vid/avc1/720x1280/3-PwAH_59jLdRuqj.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67627cb0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1911396595595087872/pu/vid/avc1/582x1278/yO26tE2F8DzWdzWj.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250415175656_twitter_com_tatanakots_status_1912203502362980641.json"
       ],
-      "last_updated": "2026-05-26T14:57:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415175656/https://video.twimg.com/ext_tw_video/1911396595595087872/pu/vid/avc1/582x1278/yO26tE2F8DzWdzWj.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809b440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:46:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415175656/https://video.twimg.com/ext_tw_video/1911396595595087872/pu/vid/avc1/582x1278/yO26tE2F8DzWdzWj.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67644110>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1911943764240732160/pu/vid/avc1/720x1280/5ATZe1gTdAt-5US8.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250416063315_twitter_com_tatanakots_status_1912393834043998430.json"
       ],
-      "last_updated": "2026-05-26T14:57:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416063315/https://video.twimg.com/ext_tw_video/1911943764240732160/pu/vid/avc1/720x1280/5ATZe1gTdAt-5US8.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809bf80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:47:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416063315/https://video.twimg.com/ext_tw_video/1911943764240732160/pu/vid/avc1/720x1280/5ATZe1gTdAt-5US8.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67624f50>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1911943778719379456/pu/vid/avc1/720x1280/oVAqq0N1FJUIod5C.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250416063315_twitter_com_tatanakots_status_1912393834043998430.json"
       ],
-      "last_updated": "2026-05-26T14:57:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416063315/https://video.twimg.com/ext_tw_video/1911943778719379456/pu/vid/avc1/720x1280/oVAqq0N1FJUIod5C.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38098cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:47:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416063315/https://video.twimg.com/ext_tw_video/1911943778719379456/pu/vid/avc1/720x1280/oVAqq0N1FJUIod5C.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760bf20>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1919973383175094272/vid/avc1/720x1280/2Ab8kQIit_ixkC7v.mp4?tag=16": {
       "status": "failed",
       "referenced_by": [
         "20250508182246_twitter_com_tatanakots_status_1920544924925120699.json"
       ],
-      "last_updated": "2026-05-26T14:57:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250508182246/https://video.twimg.com/amplify_video/1919973383175094272/vid/avc1/720x1280/2Ab8kQIit_ixkC7v.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380aecc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:48:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250508182246/https://video.twimg.com/amplify_video/1919973383175094272/vid/avc1/720x1280/2Ab8kQIit_ixkC7v.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676250a0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GqeS7WHXUAAdkOI.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250509031021_twitter_com_tatanakots_status_1920677695362330947.json"
       ],
-      "last_updated": "2026-05-26T14:58:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250509031021/https://video.twimg.com/tweet_video/GqeS7WHXUAAdkOI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800e2d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:48:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250509031021/https://video.twimg.com/tweet_video/GqeS7WHXUAAdkOI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67647e60>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1920052915797929984/vid/avc1/1920x1080/vI0mOjgvuxtUP7By.mp4?tag=16": {
       "status": "failed",
       "referenced_by": [
         "20250515182251_twitter_com_tatanakots_status_1923081659034800531.json"
       ],
-      "last_updated": "2026-05-26T14:58:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250515182251/https://video.twimg.com/amplify_video/1920052915797929984/vid/avc1/1920x1080/vI0mOjgvuxtUP7By.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38099d90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:48:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250515182251/https://video.twimg.com/amplify_video/1920052915797929984/vid/avc1/1920x1080/vI0mOjgvuxtUP7By.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67624890>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1928474490721423361/vid/avc1/1030x720/f9V2FQc6BgE3QUXJ.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250601042440_twitter_com_tatanakots_status_1929031317519253790.json"
       ],
-      "last_updated": "2026-05-26T14:58:24",
+      "last_updated": "2026-05-26T20:49:02",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250601042440/https://video.twimg.com/amplify_video/1928474490721423361/vid/avc1/1030x720/f9V2FQc6BgE3QUXJ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ae930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1930163537831403520/vid/avc1/720x1560/ZNwirFsLR2rw37pa.mp4?tag=16": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250604072400_twitter_com_tatanakots_status_1930163613790286266.json"
       ],
-      "last_updated": "2026-05-26T14:58:34",
+      "last_updated": "2026-05-26T20:49:13",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250604072400/https://video.twimg.com/amplify_video/1930163537831403520/vid/avc1/720x1560/ZNwirFsLR2rw37pa.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38099eb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72407,16 +72407,16 @@
       "referenced_by": [
         "20250604072939_twitter_com_tatanakots_status_1930165034342330587.json"
       ],
-      "last_updated": "2026-05-26T14:58:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250604072939/https://video.twimg.com/amplify_video/1930164834227892225/vid/avc1/720x1560/N49dN72raeHjY99I.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380d4950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:49:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250604072939/https://video.twimg.com/amplify_video/1930164834227892225/vid/avc1/720x1560/N49dN72raeHjY99I.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67626150>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1930166799259316226/vid/avc1/720x1560/8CzqpQmTrfnIsByQ.mp4?tag=16": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250604073724_twitter_com_tatanakots_status_1930166984123064552.json"
       ],
-      "last_updated": "2026-05-26T14:58:52",
+      "last_updated": "2026-05-26T20:49:28",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250604073724/https://video.twimg.com/amplify_video/1930166799259316226/vid/avc1/720x1560/8CzqpQmTrfnIsByQ.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809b920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72425,54 +72425,54 @@
       "referenced_by": [
         "20250607022256_twitter_com_tatanakots_status_1931175011164795377.json"
       ],
-      "last_updated": "2026-05-26T14:59:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250607022256/https://video.twimg.com/amplify_video/1930839977824559104/vid/avc1/720x1280/5kxyNs0Q_BnFayVV.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800d850>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:49:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250607022256/https://video.twimg.com/amplify_video/1930839977824559104/vid/avc1/720x1280/5kxyNs0Q_BnFayVV.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676dac00>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1931765412737290240/pu/vid/avc1/336x560/It5DSWOxIZwK3j3A.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250609061530_twitter_com_tatanakots_status_1931958312624660874.json"
       ],
-      "last_updated": "2026-05-26T14:59:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250609061530/https://video.twimg.com/ext_tw_video/1931765412737290240/pu/vid/avc1/336x560/It5DSWOxIZwK3j3A.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800d790>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:50:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250609061530/https://video.twimg.com/ext_tw_video/1931765412737290240/pu/vid/avc1/336x560/It5DSWOxIZwK3j3A.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67624b00>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GtYFfuAbMAQcuAa.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250614041243_twitter_com_tatanakots_status_1933739352917749808.json"
       ],
-      "last_updated": "2026-05-26T14:59:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250614041243/https://video.twimg.com/tweet_video/GtYFfuAbMAQcuAa.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380986b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:50:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250614041243/https://video.twimg.com/tweet_video/GtYFfuAbMAQcuAa.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676d8770>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1941055349592907776/vid/avc1/1920x1080/865iDsaJEZIq9Myg.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250705005029_twitter_com_tatanakots_status_1941298604058214435.json"
       ],
-      "last_updated": "2026-05-26T14:59:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250705005029/https://video.twimg.com/amplify_video/1941055349592907776/vid/avc1/1920x1080/865iDsaJEZIq9Myg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800c0b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:50:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250705005029/https://video.twimg.com/amplify_video/1941055349592907776/vid/avc1/1920x1080/865iDsaJEZIq9Myg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676276e0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1946803728389992449/pu/vid/avc1/720x720/rwNv3jEFMyTvRbIq.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250721002547_twitter_com_tatanakots_status_1947090592611336609.json"
       ],
-      "last_updated": "2026-05-26T14:59:44",
-      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=10)",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:51:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250721002547/https://video.twimg.com/ext_tw_video/1946803728389992449/pu/vid/avc1/720x720/rwNv3jEFMyTvRbIq.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67647f20>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1948639729643388932/pu/vid/avc1/720x960/HZV98PYAWaz9nbL0.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250725211652_twitter_com_tatanakots_status_1948854990124318993.json"
       ],
-      "last_updated": "2026-05-26T14:59:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250725211652/https://video.twimg.com/ext_tw_video/1948639729643388932/pu/vid/avc1/720x960/HZV98PYAWaz9nbL0.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380d66c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:51:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250725211652/https://video.twimg.com/ext_tw_video/1948639729643388932/pu/vid/avc1/720x960/HZV98PYAWaz9nbL0.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67647e60>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1962093023476793344/vid/avc1/1080x1920/Pvk4xl_NyjRY_vOc.mp4": {
       "status": "done",
@@ -72497,43 +72497,43 @@
       "referenced_by": [
         "20250922150822_twitter_com_tatanakots_status_1970143138816967148.json"
       ],
-      "last_updated": "2026-05-26T15:00:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250922150822/https://video.twimg.com/amplify_video/1970107650030665729/vid/avc1/1920x1080/x1LKT5CCP-r3GMFC.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380af5f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:52:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250922150822/https://video.twimg.com/amplify_video/1970107650030665729/vid/avc1/1920x1080/x1LKT5CCP-r3GMFC.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67645ee0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1982582367492456448/vid/avc1/1280x720/HkYQYlDmo1DMlzXZ.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251026225751_twitter_com_tatanakots_status_1982582475751866657.json"
       ],
-      "last_updated": "2026-05-26T15:00:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026225751/https://video.twimg.com/amplify_video/1982582367492456448/vid/avc1/1280x720/HkYQYlDmo1DMlzXZ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3a1a5e50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:52:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026225751/https://video.twimg.com/amplify_video/1982582367492456448/vid/avc1/1280x720/HkYQYlDmo1DMlzXZ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67625310>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1983099085663154180/vid/avc1/590x1280/0YdacsXd3Ny0erzI.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251028094445_twitter_com_tatanakots_status_1983107660095664478.json"
       ],
-      "last_updated": "2026-05-26T15:00:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251028094445/https://video.twimg.com/amplify_video/1983099085663154180/vid/avc1/590x1280/0YdacsXd3Ny0erzI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ac8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:52:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251028094445/https://video.twimg.com/amplify_video/1983099085663154180/vid/avc1/590x1280/0YdacsXd3Ny0erzI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67645d90>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1997668380762091520/vid/avc1/1080x1920/qXEWOApFWf3v64J9.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251207181500_twitter_com_tatanakots_status_1997731585765040269.json"
       ],
-      "last_updated": "2026-05-26T15:00:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251207181500/https://video.twimg.com/amplify_video/1997668380762091520/vid/avc1/1080x1920/qXEWOApFWf3v64J9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380af650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:53:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251207181500/https://video.twimg.com/amplify_video/1997668380762091520/vid/avc1/1080x1920/qXEWOApFWf3v64J9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67646bd0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2000642716951064582/vid/avc1/880x1116/6lSa6QcXjYTC6D_k.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20251216085115_twitter_com_tatanakots_status_2000851203044073700.json"
       ],
-      "last_updated": "2026-05-26T15:00:51",
+      "last_updated": "2026-05-26T20:53:26",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251216085115/https://video.twimg.com/amplify_video/2000642716951064582/vid/avc1/880x1116/6lSa6QcXjYTC6D_k.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ae9c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72542,63 +72542,63 @@
       "referenced_by": [
         "20251225120911_twitter_com_tatanakots_status_2004162504478659030.json"
       ],
-      "last_updated": "2026-05-26T15:01:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225120911/https://video.twimg.com/tweet_video/G86lcuSaAAARamo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ace30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:53:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225120911/https://video.twimg.com/tweet_video/G86lcuSaAAARamo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67644080>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2003820138286706689/vid/avc1/720x960/epJNDrq2hMKxJxsB.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251225133533_twitter_com_tatanakots_status_2004184241131999722.json"
       ],
-      "last_updated": "2026-05-26T15:01:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225133533/https://video.twimg.com/amplify_video/2003820138286706689/vid/avc1/720x960/epJNDrq2hMKxJxsB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ad3a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:54:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225133533/https://video.twimg.com/amplify_video/2003820138286706689/vid/avc1/720x960/epJNDrq2hMKxJxsB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67626e70>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/1920x1080/0tvX8I_HyefkHqsu.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251227204156_twitter_com_tatanakots_status_2005016319725633763.json"
       ],
-      "last_updated": "2026-05-26T15:01:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251227204156/https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/1920x1080/0tvX8I_HyefkHqsu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380af530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:54:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251227204156/https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/1920x1080/0tvX8I_HyefkHqsu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676253a0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G9KZIL7agAA454R.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251228070523_twitter_com_tatanakots_status_2005173213559734688.json"
       ],
-      "last_updated": "2026-05-26T15:01:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251228070523/https://video.twimg.com/tweet_video/G9KZIL7agAA454R.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809a8a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:54:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251228070523/https://video.twimg.com/tweet_video/G9KZIL7agAA454R.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67645af0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2006670013185585152/vid/avc1/1278x720/nXk56naxxC5c3KMQ.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260102060238_twitter_com_tatanakots_status_2006969362478170599.json"
       ],
-      "last_updated": "2026-05-26T15:01:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102060238/https://video.twimg.com/amplify_video/2006670013185585152/vid/avc1/1278x720/nXk56naxxC5c3KMQ.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380aecf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:55:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102060238/https://video.twimg.com/amplify_video/2006670013185585152/vid/avc1/1278x720/nXk56naxxC5c3KMQ.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67646420>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2006701172967505921/vid/avc1/592x1280/O6slu0iFgQs3u7uu.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260102065830_twitter_com_tatanakots_status_2006983422833750450.json"
       ],
-      "last_updated": "2026-05-26T15:01:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102065830/https://video.twimg.com/amplify_video/2006701172967505921/vid/avc1/592x1280/O6slu0iFgQs3u7uu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809bf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:55:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102065830/https://video.twimg.com/amplify_video/2006701172967505921/vid/avc1/592x1280/O6slu0iFgQs3u7uu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b697c0cb0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2013194606477774848/vid/avc1/2160x3840/0wY-TTjOyCiChkQC.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260120000211_twitter_com_tatanakots_status_2013401636199375209.json"
       ],
-      "last_updated": "2026-05-26T15:01:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260120000211/https://video.twimg.com/amplify_video/2013194606477774848/vid/avc1/2160x3840/0wY-TTjOyCiChkQC.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809b500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:56:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260120000211/https://video.twimg.com/amplify_video/2013194606477774848/vid/avc1/2160x3840/0wY-TTjOyCiChkQC.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67627cb0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2013756065075101696/vid/avc1/720x1280/zJNi9nI0jrNsA1MF.mp4": {
       "status": "done",
@@ -72614,45 +72614,45 @@
       "referenced_by": [
         "20260127174001_twitter_com_tatanakots_status_2016204561640460742.json"
       ],
-      "last_updated": "2026-05-26T15:02:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260127174001/https://video.twimg.com/ext_tw_video/2016057914251993088/pu/vid/avc1/1280x576/y3Rod32PD9gp95sR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380afda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:56:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260127174001/https://video.twimg.com/ext_tw_video/2016057914251993088/pu/vid/avc1/1280x576/y3Rod32PD9gp95sR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67644ef0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2016143157738799109/vid/avc1/1180x2252/4B-Jm0mk4krdInfK.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260128101010_twitter_com_tatanakots_status_2016453741214650500.json"
       ],
-      "last_updated": "2026-05-26T15:02:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260128101010/https://video.twimg.com/amplify_video/2016143157738799109/vid/avc1/1180x2252/4B-Jm0mk4krdInfK.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ad820>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:56:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260128101010/https://video.twimg.com/amplify_video/2016143157738799109/vid/avc1/1180x2252/4B-Jm0mk4krdInfK.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67609f40>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2019315131335766016/vid/avc1/720x1280/FESbLf8MS5fmGgq3.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260206003231_twitter_com_tatanakots_status_2019569862327300576.json"
       ],
-      "last_updated": "2026-05-26T15:02:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206003231/https://video.twimg.com/amplify_video/2019315131335766016/vid/avc1/720x1280/FESbLf8MS5fmGgq3.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38098890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:57:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206003231/https://video.twimg.com/amplify_video/2019315131335766016/vid/avc1/720x1280/FESbLf8MS5fmGgq3.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67646660>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2020663059770146816/vid/avc1/1080x1920/Hh2bBChqjfZvM97H.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260209104059_twitter_com_tatanakots_status_2020810153113653395.json"
       ],
-      "last_updated": "2026-05-26T15:02:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260209104059/https://video.twimg.com/amplify_video/2020663059770146816/vid/avc1/1080x1920/Hh2bBChqjfZvM97H.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800f050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:57:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260209104059/https://video.twimg.com/amplify_video/2020663059770146816/vid/avc1/1080x1920/Hh2bBChqjfZvM97H.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67683b00>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2021530839901974528/pu/vid/avc1/720x1280/C5NIVixqPsK6Hu0y.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260211171420_twitter_com_tatanakots_status_2021633918349566382.json"
       ],
-      "last_updated": "2026-05-26T15:02:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211171420/https://video.twimg.com/ext_tw_video/2021530839901974528/pu/vid/avc1/720x1280/C5NIVixqPsK6Hu0y.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809aae0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:57:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211171420/https://video.twimg.com/ext_tw_video/2021530839901974528/pu/vid/avc1/720x1280/C5NIVixqPsK6Hu0y.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760be30>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2022034926716239872/vid/avc1/720x960/O7YQYzXMhwrcycVx.mp4": {
       "status": "done",
@@ -72668,43 +72668,43 @@
       "referenced_by": [
         "20260219033157_twitter_com_tatanakots_status_2024326058640834572.json"
       ],
-      "last_updated": "2026-05-26T15:02:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219033157/https://video.twimg.com/ext_tw_video/2024126411427258368/pu/vid/avc1/1280x720/pEn0UbpqZaCpe2mM.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800ffe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:58:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219033157/https://video.twimg.com/ext_tw_video/2024126411427258368/pu/vid/avc1/1280x720/pEn0UbpqZaCpe2mM.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67647b90>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2024126418612084736/pu/vid/avc1/720x960/luaZKOf5aLz4v8hX.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260219033157_twitter_com_tatanakots_status_2024326058640834572.json"
       ],
-      "last_updated": "2026-05-26T15:03:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219033157/https://video.twimg.com/ext_tw_video/2024126418612084736/pu/vid/avc1/720x960/luaZKOf5aLz4v8hX.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380af440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:58:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219033157/https://video.twimg.com/ext_tw_video/2024126418612084736/pu/vid/avc1/720x960/luaZKOf5aLz4v8hX.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676d9a60>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HB2-cH5acAAveMl.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260223202213_twitter_com_tatanakots_status_2026029853682897080.json"
       ],
-      "last_updated": "2026-05-26T15:03:13",
+      "last_updated": "2026-05-26T20:59:00",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223202213/https://video.twimg.com/tweet_video/HB2-cH5acAAveMl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf38098260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2026523580851433472/vid/avc1/960x432/TUjYp4_5f49KywF-.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260225065157_twitter_com_tatanakots_status_2026550720603062548.json"
       ],
-      "last_updated": "2026-05-26T15:03:22",
+      "last_updated": "2026-05-26T20:59:17",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260225065157/https://video.twimg.com/amplify_video/2026523580851433472/vid/avc1/960x432/TUjYp4_5f49KywF-.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809a780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2032114841943416832/vid/avc1/1920x1080/lXsBOYPlvF8p-_Mj.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260312225446_twitter_com_tatanakots_status_2032228838139474154.json"
       ],
-      "last_updated": "2026-05-26T15:03:31",
+      "last_updated": "2026-05-26T20:59:20",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312225446/https://video.twimg.com/amplify_video/2032114841943416832/vid/avc1/1920x1080/lXsBOYPlvF8p-_Mj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380afdd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72713,25 +72713,25 @@
       "referenced_by": [
         "20260316155713_twitter_com_tatanakots_status_2033573310718730627.json"
       ],
-      "last_updated": "2026-05-26T15:03:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316155713/https://video.twimg.com/tweet_video/HDii-KEa4AA9mVn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800e960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T20:59:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316155713/https://video.twimg.com/tweet_video/HDii-KEa4AA9mVn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760aae0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2033551804848553984/vid/avc1/720x1280/V4NT3CqhaZrVmBpx.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260316171207_twitter_com_tatanakots_status_2033592158742249612.json"
       ],
-      "last_updated": "2026-05-26T15:03:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316171207/https://video.twimg.com/amplify_video/2033551804848553984/vid/avc1/720x1280/V4NT3CqhaZrVmBpx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800cb00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:00:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316171207/https://video.twimg.com/amplify_video/2033551804848553984/vid/avc1/720x1280/V4NT3CqhaZrVmBpx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67608a10>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2034465890453032960/vid/avc1/720x1280/dje3qQzUwwCG8S8G.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260319124808_twitter_com_tatanakots_status_2034612890158985713.json"
       ],
-      "last_updated": "2026-05-26T15:03:58",
+      "last_updated": "2026-05-26T21:00:17",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319124808/https://video.twimg.com/amplify_video/2034465890453032960/vid/avc1/720x1280/dje3qQzUwwCG8S8G.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380af260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72740,34 +72740,34 @@
       "referenced_by": [
         "20260322060349_twitter_com_tatanakots_status_2035598301643645290.json"
       ],
-      "last_updated": "2026-05-26T15:04:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322060349/https://video.twimg.com/amplify_video/2035298919786430464/vid/avc1/1180x2556/1cME18t_4ARS6ZdX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380d4aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:00:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322060349/https://video.twimg.com/amplify_video/2035298919786430464/vid/avc1/1180x2556/1cME18t_4ARS6ZdX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67624d40>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HEEY_WTa4AARADn.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260323065625_twitter_com_tatanakots_status_2035973927743439359.json"
       ],
-      "last_updated": "2026-05-26T15:04:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323065625/https://video.twimg.com/tweet_video/HEEY_WTa4AARADn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800ec90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:00:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323065625/https://video.twimg.com/tweet_video/HEEY_WTa4AARADn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b697c1550>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2036729810920366080/pu/vid/avc1/960x544/cxwOIdBSlXba8-7E.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260325153534_twitter_com_tatanakots_status_2036829353439531448.json"
       ],
-      "last_updated": "2026-05-26T15:04:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325153534/https://video.twimg.com/ext_tw_video/2036729810920366080/pu/vid/avc1/960x544/cxwOIdBSlXba8-7E.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380d5670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:01:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325153534/https://video.twimg.com/ext_tw_video/2036729810920366080/pu/vid/avc1/960x544/cxwOIdBSlXba8-7E.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67627f50>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2037510910781407232/pu/vid/avc1/720x720/seD0bjRch1nIFToX.mp4?tag=12": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260328000817_twitter_com_tatanakots_status_2037683156950868373.json"
       ],
-      "last_updated": "2026-05-26T15:04:35",
+      "last_updated": "2026-05-26T21:01:32",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328000817/https://video.twimg.com/ext_tw_video/2037510910781407232/pu/vid/avc1/720x720/seD0bjRch1nIFToX.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800dc10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
@@ -72776,18 +72776,18 @@
       "referenced_by": [
         "20260328024000_twitter_com_tatanakots_status_2037721337184297021.json"
       ],
-      "last_updated": "2026-05-26T15:04:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328024000/https://video.twimg.com/ext_tw_video/2037556638383779840/pu/vid/avc1/720x720/cRQAhoWU78sdVj8A.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380afdd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:01:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328024000/https://video.twimg.com/ext_tw_video/2037556638383779840/pu/vid/avc1/720x720/cRQAhoWU78sdVj8A.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67645d00>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2039016581318287361/vid/avc1/720x1280/SHpUD6L0G0dUj9pv.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260331182305_twitter_com_tatanakots_status_2039045835661660237.json"
       ],
-      "last_updated": "2026-05-26T15:04:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331182305/https://video.twimg.com/amplify_video/2039016581318287361/vid/avc1/720x1280/SHpUD6L0G0dUj9pv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf378f9b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:02:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331182305/https://video.twimg.com/amplify_video/2039016581318287361/vid/avc1/720x1280/SHpUD6L0G0dUj9pv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676db350>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2040237624942874624/pu/vid/avc1/720x1280/RjcMEeiW51lbpedG.mp4?tag=12": {
       "status": "done",
@@ -72803,70 +72803,70 @@
       "referenced_by": [
         "20260409093354_twitter_com_tatanakots_status_2042174153286168838.json"
       ],
-      "last_updated": "2026-05-26T15:05:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409093354/https://video.twimg.com/tweet_video/HFY6_OYa8Ac7Hik.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ae3c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:02:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409093354/https://video.twimg.com/tweet_video/HFY6_OYa8Ac7Hik.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676d8050>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2042217065038462976/vid/avc1/2048x1190/qaLL-nr3bjRlvJnN.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260409230454_twitter_com_tatanakots_status_2042378246071992715.json"
       ],
-      "last_updated": "2026-05-26T15:05:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409230454/https://video.twimg.com/amplify_video/2042217065038462976/vid/avc1/2048x1190/qaLL-nr3bjRlvJnN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800eb70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:02:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409230454/https://video.twimg.com/amplify_video/2042217065038462976/vid/avc1/2048x1190/qaLL-nr3bjRlvJnN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760b2c0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2043271114189942784/vid/avc1/270x386/GGRzqpRaC2qspSMN.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260412110219_twitter_com_tatanakots_status_2043283568600969507.json"
       ],
-      "last_updated": "2026-05-26T15:05:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412110219/https://video.twimg.com/amplify_video/2043271114189942784/vid/avc1/270x386/GGRzqpRaC2qspSMN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800d2e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:03:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412110219/https://video.twimg.com/amplify_video/2043271114189942784/vid/avc1/270x386/GGRzqpRaC2qspSMN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676dbfe0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2045107295395389440/vid/avc1/720x1280/epUID9VrD_CdN3qs.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260417115549_twitter_com_tatanakots_status_2045108971862945841.json"
       ],
-      "last_updated": "2026-05-26T15:05:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417115549/https://video.twimg.com/amplify_video/2045107295395389440/vid/avc1/720x1280/epUID9VrD_CdN3qs.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ae780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:03:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417115549/https://video.twimg.com/amplify_video/2045107295395389440/vid/avc1/720x1280/epUID9VrD_CdN3qs.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760aae0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/886x1570/3pfq46PYbbwZwVTD.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260429060031_twitter_com_tatanakots_status_2049368209753817088.json"
       ],
-      "last_updated": "2026-05-26T15:05:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429060031/https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/886x1570/3pfq46PYbbwZwVTD.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800ffb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:04:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429060031/https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/886x1570/3pfq46PYbbwZwVTD.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676d9280>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2051211235648266240/vid/avc1/720x1280/tfaKVnF-1dqLnmsR.mp4?tag=27": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260504082104_twitter_com_tatanakots_status_2051215520129781934.json"
       ],
-      "last_updated": "2026-05-26T15:05:47",
+      "last_updated": "2026-05-26T21:04:05",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504082104/https://video.twimg.com/amplify_video/2051211235648266240/vid/avc1/720x1280/tfaKVnF-1dqLnmsR.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ac080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2052841358734585856/vid/avc1/1920x1080/EQc88F-pcmyYMCnr.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260508232911_twitter_com_tatanakots_status_2052893605212393490.json"
       ],
-      "last_updated": "2026-05-26T15:05:58",
+      "last_updated": "2026-05-26T21:04:07",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508232911/https://video.twimg.com/amplify_video/2052841358734585856/vid/avc1/1920x1080/EQc88F-pcmyYMCnr.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800d310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2052675372416950272/vid/avc1/1920x1080/dOmXncXuHcCEN0et.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260509101031_twitter_com_tatanakots_status_2053055005503246523.json"
       ],
-      "last_updated": "2026-05-26T15:06:15",
+      "last_updated": "2026-05-26T21:04:09",
       "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=10)",
       "miss_count": 3
     },
@@ -72875,72 +72875,72 @@
       "referenced_by": [
         "20260510181728_twitter_com_tatanakots_status_2053539936503202290.json"
       ],
-      "last_updated": "2026-05-26T15:06:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510181728/https://video.twimg.com/amplify_video/2053536984438910976/vid/avc1/720x1280/ypDK4g2yBzEuygHG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3a1a68d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:04:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510181728/https://video.twimg.com/amplify_video/2053536984438910976/vid/avc1/720x1280/ypDK4g2yBzEuygHG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760ae40>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2055271098288349185/vid/avc1/1280x720/TfxbCJemmxWcjd4K.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260515172304_twitter_com_tatanakots_status_2055338186466058363.json"
       ],
-      "last_updated": "2026-05-26T15:06:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515172304/https://video.twimg.com/amplify_video/2055271098288349185/vid/avc1/1280x720/TfxbCJemmxWcjd4K.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800eb10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:04:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515172304/https://video.twimg.com/amplify_video/2055271098288349185/vid/avc1/1280x720/TfxbCJemmxWcjd4K.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760ac00>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2055313056897605632/vid/avc1/318x314/Axr3LCa2VvZE7Cot.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260515193455_twitter_com_tatanakots_status_2055371366283858240.json"
       ],
-      "last_updated": "2026-05-26T15:06:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515193455/https://video.twimg.com/amplify_video/2055313056897605632/vid/avc1/318x314/Axr3LCa2VvZE7Cot.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809aed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:05:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515193455/https://video.twimg.com/amplify_video/2055313056897605632/vid/avc1/318x314/Axr3LCa2VvZE7Cot.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760ad50>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2055512693445185536/vid/avc1/720x1280/z4A1x_e2W3VjgKuX.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260516065223_twitter_com_tatanakots_status_2055541856432439744.json"
       ],
-      "last_updated": "2026-05-26T15:06:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516065223/https://video.twimg.com/amplify_video/2055512693445185536/vid/avc1/720x1280/z4A1x_e2W3VjgKuX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380ace90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:05:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516065223/https://video.twimg.com/amplify_video/2055512693445185536/vid/avc1/720x1280/z4A1x_e2W3VjgKuX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676d8b00>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HIh6jMHaQAACHiG.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260517150524_twitter_com_tatanakots_status_2056028317879595320.json"
       ],
-      "last_updated": "2026-05-26T15:06:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517150524/https://video.twimg.com/tweet_video/HIh6jMHaQAACHiG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809a6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:05:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517150524/https://video.twimg.com/tweet_video/HIh6jMHaQAACHiG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b67609c70>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2057912990213541888/vid/avc1/320x360/ecMWr6CJA7CGPjUH.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260524024413_twitter_com_tatanakots_status_2058378507504480287.json"
       ],
-      "last_updated": "2026-05-26T15:07:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524024413/https://video.twimg.com/amplify_video/2057912990213541888/vid/avc1/320x360/ecMWr6CJA7CGPjUH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf380af020>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:06:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524024413/https://video.twimg.com/amplify_video/2057912990213541888/vid/avc1/320x360/ecMWr6CJA7CGPjUH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b676db230>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/1440x2560/S03_BZyMh659k1wR.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260524025252_twitter_com_tatanakots_status_2058380684058829030.json"
       ],
-      "last_updated": "2026-05-26T15:07:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524025252/https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/1440x2560/S03_BZyMh659k1wR.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3800fbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:06:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524025252/https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/1440x2560/S03_BZyMh659k1wR.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b6760b7d0>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HJFk5tFbsAEXE8O.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260524133126_twitter_com_tatanakots_status_2058541385272398271.json"
       ],
-      "last_updated": "2026-05-26T15:07:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524133126/https://video.twimg.com/tweet_video/HJFk5tFbsAEXE8O.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf3809a330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-26T21:07:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524133126/https://video.twimg.com/tweet_video/HJFk5tFbsAEXE8O.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b697c1640>, 'Connection to web.archive.org timed out. (connect timeout=8)'))",
+      "miss_count": 4
     }
   },
   "avatars": {
@@ -239514,7 +239514,7 @@
       "miss_count": 2
     },
     "20260225065157_twitter_com_tatanakots_status_2026550720603062548.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -239525,7 +239525,7 @@
           "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T14:55:04",
+      "last_updated": "2026-05-26T20:59:17",
       "miss_count": 2
     },
     "20260225065730_twitter_com_tatanakots_status_2026552116173853155.json": {
@@ -243715,7 +243715,7 @@
       "last_updated": "2026-05-26T13:38:27"
     },
     "20260312225446_twitter_com_tatanakots_status_2032228838139474154.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -243728,7 +243728,7 @@
           "https://pbs.twimg.com/profile_images/1539293929031421958/cy-uzR2t_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T14:55:04",
+      "last_updated": "2026-05-26T20:59:20",
       "miss_count": 2
     },
     "20260312225821_twitter_com_tatanakots_status_2032229737385640064.json": {
@@ -245884,7 +245884,7 @@
       "last_updated": "2026-05-26T13:38:27"
     },
     "20260319124808_twitter_com_tatanakots_status_2034612890158985713.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -245895,7 +245895,7 @@
           "https://pbs.twimg.com/profile_images/2031660388593672192/cVUUB4V2_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T14:55:04",
+      "last_updated": "2026-05-26T21:00:17",
       "miss_count": 2
     },
     "20260319125739_twitter_com_tatanakots_status_2034615281981768121.json": {
@@ -261737,7 +261737,7 @@
       "last_updated": "2026-05-26T13:38:28"
     },
     "20260504082104_twitter_com_tatanakots_status_2051215520129781934.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -261748,7 +261748,7 @@
           "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T14:55:04",
+      "last_updated": "2026-05-26T21:04:05",
       "miss_count": 2
     },
     "20260504082424_twitter_com_tatanakots_status_2051216357459628157.json": {
@@ -262928,7 +262928,7 @@
       "last_updated": "2026-05-26T13:38:28"
     },
     "20260508232911_twitter_com_tatanakots_status_2052893605212393490.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -262939,7 +262939,7 @@
           "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T14:55:04",
+      "last_updated": "2026-05-26T21:04:07",
       "miss_count": 2
     },
     "20260508233656_twitter_com_tatanakots_status_2052895555714703471.json": {
@@ -263104,7 +263104,7 @@
       "miss_count": 2
     },
     "20260509101031_twitter_com_tatanakots_status_2053055005503246523.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -263115,7 +263115,7 @@
           "https://pbs.twimg.com/profile_images/2010360210008023040/tDA3CwgH_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-26T14:55:04",
+      "last_updated": "2026-05-26T21:04:09",
       "miss_count": 2
     },
     "20260509102859_twitter_com_tatanakots_status_2053059651760267758.json": {
