@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "854949050151452672",
+          "name": "Splatoon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "854949050151452672",
+          "name": "Splatoon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2025481998727553295",
+    "created_at": "2026-02-22T21:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T22:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025683315672732110"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "WiiU",
+          "probability": 0.7114,
+          "start": 27,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487937024443449344",
+          "start": 0,
+          "username": "Osusiwaikadake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tatanakots/sta…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/tatanakots/status/2018328865266082099",
+          "start": 54,
+          "url": "https://t.co/LYExwPgToB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025683315672732110",
+    "in_reply_to_user_id": "1487937024443449344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018328865266082099",
+        "type": "quoted"
+      },
+      {
+        "id": "2025481998727553295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Osusiwaikadake 私はこのソフトのためにWiiUを買った\nスプラトゥーンはいいゲームです！🥰 https://t.co/LYExwPgToB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2018328775013064704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKLU8qaYAADj3J.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2976,
+        "media_key": "3_2025481722482343936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBv05SebQAAnT8N.jpg",
+        "width": 2976
+      },
+      {
+        "height": 2976,
+        "media_key": "3_2025481843475447808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBv1AVNbgAAHZbT.jpg",
+        "width": 2976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2025481998727553295",
+        "created_at": "2026-02-22T21:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T22:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025683315672732110"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "WiiU",
+              "probability": 0.7114,
+              "start": 27,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487937024443449344",
+              "start": 0,
+              "username": "Osusiwaikadake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/tatanakots/status/2018328865266082099",
+              "start": 54,
+              "url": "https://t.co/LYExwPgToB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025683315672732110",
+        "in_reply_to_user_id": "1487937024443449344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018328865266082099",
+            "type": "quoted"
+          },
+          {
+            "id": "2025481998727553295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Osusiwaikadake 私はこのソフトのためにWiiUを買った\nスプラトゥーンはいいゲームです！🥰 https://t.co/LYExwPgToB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018328775013064704"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2018328865266082099",
+        "created_at": "2026-02-02T14:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018328865266082099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "Splatoon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sbr0PZ7EAa",
+              "end": 40,
+              "expanded_url": "https://x.com/tatanakots/status/2018328865266082099/photo/1",
+              "media_key": "3_2018328775013064704",
+              "start": 17,
+              "url": "https://t.co/Sbr0PZ7EAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018328865266082099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已玩上 #Splatoon ~🥰 https://t.co/Sbr0PZ7EAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025481722482343936",
+            "3_2025481843475447808"
+          ]
+        },
+        "author_id": "1487937024443449344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10024011469",
+              "name": "Nintendo Wii"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2025481998727553295",
+        "created_at": "2026-02-22T08:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025481998727553295"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Wii",
+              "probability": 0.645,
+              "start": 0,
+              "type": "Product"
+            },
+            {
+              "end": 15,
+              "normalized_text": "WiiU",
+              "probability": 0.728,
+              "start": 12,
+              "type": "Product"
+            },
+            {
+              "end": 34,
+              "normalized_text": "スプラトゥーン",
+              "probability": 0.4747,
+              "start": 28,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UZa64kNrj",
+              "end": 67,
+              "expanded_url": "https://x.com/Osusiwaikadake/status/2025481998727553295/photo/1",
+              "media_key": "3_2025481722482343936",
+              "start": 44,
+              "url": "https://t.co/6UZa64kNrj"
+            },
+            {
+              "display_url": "pic.x.com/6UZa64kNrj",
+              "end": 67,
+              "expanded_url": "https://x.com/Osusiwaikadake/status/2025481998727553295/photo/1",
+              "media_key": "3_2025481843475447808",
+              "start": 44,
+              "url": "https://t.co/6UZa64kNrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025481998727553295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 23612,
+          "like_count": 831,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Wiiしか持ってないのにWiiUのソフト買っちゃった。\nスプラトゥーンっていうゲーム。 https://t.co/6UZa64kNrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 347,
+          "like_count": 24873,
+          "listed_count": 6,
+          "media_count": 1556,
+          "tweet_count": 10802
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T23:54:23.000Z",
+        "description": "14歳の子とその母です。\n娘(うきわぷか)→バイト勢。無印で野良カンスト。NWでは黄金編成時にカンスト2回。絵を描くのが大好き！\n母→2022.04.01にナワバリ開始。\n記憶力低下でフォロバをなかなかできず申し訳ございません(誰が誰だか分からなくなってしまうのです🙇‍♀️)",
+        "id": "1487937024443449344",
+        "location": "ナイスダマの中心地(もちろんキルされる側w)",
+        "name": "いかよろしゅう～！",
+        "pinned_tweet_id": "1898386427236565049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591958264111046657/oYHzmIPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 169,
+          "like_count": 161426,
+          "listed_count": 6,
+          "media_count": 4242,
+          "tweet_count": 26196
+        },
+        "username": "Osusiwaikadake",
+        "verified": false
+      }
+    ]
+  }
+}

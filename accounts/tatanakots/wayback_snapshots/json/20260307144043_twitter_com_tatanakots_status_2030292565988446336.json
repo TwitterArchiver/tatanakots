@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10024011469",
+          "name": "Nintendo Wii"
+        }
+      }
+    ],
+    "conversation_id": "2030197330960629946",
+    "created_at": "2026-03-07T14:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030292565988446336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "870666640752467968",
+          "start": 0,
+          "username": "belostedme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030292565988446336",
+    "in_reply_to_user_id": "870666640752467968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030291818408288595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@belostedme 那tx岂不是还出了一个 中国语限定·国内专用 的Switch，来开启这个先河\n不过说实话switch之前的wiiu、wii这些全都是锁区锁语言的机器，只有到Switch这一代才开始的搭载全球语言，可以登陆全球账号访问全球内容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10024011469",
+              "name": "Nintendo Wii"
+            }
+          }
+        ],
+        "conversation_id": "2030197330960629946",
+        "created_at": "2026-03-07T14:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030292565988446336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "870666640752467968",
+              "start": 0,
+              "username": "belostedme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030292565988446336",
+        "in_reply_to_user_id": "870666640752467968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030291818408288595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belostedme 那tx岂不是还出了一个 中国语限定·国内专用 的Switch，来开启这个先河\n不过说实话switch之前的wiiu、wii这些全都是锁区锁语言的机器，只有到Switch这一代才开始的搭载全球语言，可以登陆全球账号访问全球内容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "870666640752467968",
+        "conversation_id": "2030197330960629946",
+        "created_at": "2026-03-07T14:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030291818408288595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030291818408288595",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030214593294041255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 毕竟是会出现「立本语only」机型的厂商"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 357,
+          "like_count": 25195,
+          "listed_count": 6,
+          "media_count": 1576,
+          "tweet_count": 11088
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-02T15:41:18.000Z",
+        "description": "ENFP-T | 09 | 想交朋友 | 可爱的男孩纸 | 中(native) Eng(maybe fluent) 日(translator) 是(伪)技术宅 or 科技爱好者 | 暂时还没想好写什么…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/belostedme",
+                "end": 23,
+                "expanded_url": "https://t.me/belostedme",
+                "start": 0,
+                "url": "https://t.co/QtxvUZrJd5"
+              }
+            ]
+          }
+        },
+        "id": "870666640752467968",
+        "location": "あまねく奇跡の始発点",
+        "name": "罗斯特",
+        "pinned_tweet_id": "1839996964592857435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806317193900249089/wQlLShaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 2659,
+          "like_count": 13714,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 6655
+        },
+        "url": "https://t.co/QtxvUZrJd5",
+        "username": "belostedme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491833436499107849",
+          "name": "Gaming hardware & accessories"
+        }
+      }
+    ],
+    "conversation_id": "2026790306059018540",
+    "created_at": "2026-02-25T22:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T23:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026790306059018540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/famitsu/status…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/famitsu/status/2026673679963402658",
+          "start": 48,
+          "url": "https://t.co/cKPgvYqvt7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026790306059018540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026673679963402658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天居然是Nintendo 3DS发售15周年诶！\n3DS什么时候能降价呢，现在二手价好贵…… https://t.co/cKPgvYqvt7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2026673675802652673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAw-GnaMAErntl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          }
+        ],
+        "conversation_id": "2026790306059018540",
+        "created_at": "2026-02-25T22:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T23:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026790306059018540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/famitsu/status…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/famitsu/status/2026673679963402658",
+              "start": 48,
+              "url": "https://t.co/cKPgvYqvt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026790306059018540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026673679963402658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天居然是Nintendo 3DS发售15周年诶！\n3DS什么时候能降价呢，现在二手价好贵…… https://t.co/cKPgvYqvt7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026673675802652673"
+          ]
+        },
+        "author_id": "5921162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1492296947465555970",
+              "name": "Famitsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492296947465555970",
+              "name": "Famitsu"
+            }
+          }
+        ],
+        "conversation_id": "2026673679963402658",
+        "created_at": "2026-02-25T15:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026673679963402658"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ニンテンドー3DS",
+              "probability": 0.4623,
+              "start": 10,
+              "type": "Product"
+            },
+            {
+              "end": 62,
+              "normalized_text": "https://t.co/47zKYcy2Qf",
+              "probability": 0.4285,
+              "start": 40,
+              "type": "Product"
+            },
+            {
+              "end": 72,
+              "normalized_text": "ニンテンドーDS",
+              "probability": 0.3512,
+              "start": 65,
+              "type": "Product"
+            },
+            {
+              "end": 115,
+              "normalized_text": "すれちがいMii広場",
+              "probability": 0.5224,
+              "start": 106,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "過去のこの日、ゲーム業界に何があったのかを振り返る。2011年（平成23年）2月26日は、ニンテンドー3DSが発売された日。",
+              "display_url": "famitsu.com/article/202602…",
+              "end": 63,
+              "expanded_url": "https://www.famitsu.com/article/202602/66533",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2026673684845645824/VXN4bKa-?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026673684845645824/VXN4bKa-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "ニンテンドー3DS 15周年。裸眼で3D映像のゲームが楽しめるハードに誰もが驚いた【今日は何の日？】 | ゲーム・エンタメ最新情報のファミ通.com",
+              "unwound_url": "https://www.famitsu.com/article/202602/66533",
+              "url": "https://t.co/47zKYcy2Qf"
+            },
+            {
+              "display_url": "pic.x.com/zRMr9kSKsA",
+              "end": 185,
+              "expanded_url": "https://x.com/famitsu/status/2026673679963402658/photo/1",
+              "media_key": "3_2026673675802652673",
+              "start": 162,
+              "url": "https://t.co/zRMr9kSKsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026673679963402658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 496,
+          "impression_count": 319283,
+          "like_count": 8708,
+          "quote_count": 609,
+          "reply_count": 78,
+          "retweet_count": 2924
+        },
+        "reply_settings": "everyone",
+        "text": "【今日は何の日？】\nニンテンドー3DS 発売15周年（2011年2月26発売）\nhttps://t.co/47zKYcy2Qf\n\nニンテンドーDSの後継機。裸眼で3D映像のゲームが楽しめるハードに誰もが驚いた。『すれちがいMii広場』でほかのプレイヤーのMiiと楽しく交流。2020年9月16日に本体の生産は終了している。 https://t.co/zRMr9kSKsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 348,
+          "like_count": 24927,
+          "listed_count": 6,
+          "media_count": 1560,
+          "tweet_count": 10875
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-10T05:03:05.000Z",
+        "description": "ゲーム、エンタメ情報サイト「ファミ通.com」の公式アカウントです。ゲーム、アニメ、マンガなど、いろいろなエンタメ情報を発信中！ YouTubeチャンネル▶https://t.co/TrFZeaPZs8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/famitsutu…",
+                "end": 101,
+                "expanded_url": "https://www.youtube.com/user/famitsutube",
+                "start": 78,
+                "url": "https://t.co/TrFZeaPZs8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "famitsu.com",
+                "end": 23,
+                "expanded_url": "https://www.famitsu.com/",
+                "start": 0,
+                "url": "https://t.co/MmaWx7YOAT"
+              }
+            ]
+          }
+        },
+        "id": "5921162",
+        "name": "ファミ通.com",
+        "pinned_tweet_id": "2024326180233761088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963800212306341888/CeZD_6Pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295195,
+          "following_count": 42589,
+          "like_count": 105,
+          "listed_count": 12224,
+          "media_count": 173138,
+          "tweet_count": 336022
+        },
+        "url": "https://t.co/MmaWx7YOAT",
+        "username": "famitsu",
+        "verified": true
+      }
+    ]
+  }
+}

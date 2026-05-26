@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2042031375918759959",
+    "created_at": "2026-04-09T09:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042167200665227380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1380358768001576961",
+          "start": 0,
+          "username": "yuchaiyunqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042167200665227380",
+    "in_reply_to_user_id": "1380358768001576961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042159156359217159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuchaiyunqi 没办法，国内政府审查就这样，想合法发行必须做出这样的取舍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2042031375918759959",
+        "created_at": "2026-04-09T09:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042167200665227380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1380358768001576961",
+              "start": 0,
+              "username": "yuchaiyunqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042167200665227380",
+        "in_reply_to_user_id": "1380358768001576961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042159156359217159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchaiyunqi 没办法，国内政府审查就这样，想合法发行必须做出这样的取舍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380358768001576961",
+        "conversation_id": "2042031375918759959",
+        "created_at": "2026-04-09T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042159156359217159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042159156359217159",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042151526345666869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 你就看腾讯代理ns发行那几个游戏的文字狱，我只能说还是别糟蹋东西了，现在灰色地带就挺好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 381,
+          "like_count": 26254,
+          "listed_count": 6,
+          "media_count": 1643,
+          "tweet_count": 11811
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-09T03:16:02.000Z",
+        "description": "",
+        "id": "1380358768001576961",
+        "location": "京都 京都市 南区",
+        "name": "Eki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975123286687744/e8xWWYi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 82,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 149
+        },
+        "username": "yuchaiyunqi",
+        "verified": false
+      }
+    ]
+  }
+}

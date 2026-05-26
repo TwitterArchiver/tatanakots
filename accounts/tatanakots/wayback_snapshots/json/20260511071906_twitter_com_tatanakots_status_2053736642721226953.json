@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2053717964097253871",
+    "created_at": "2026-05-11T07:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053736642721226953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SGR_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053736642721226953",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053717964097253871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SGR_nya 这下终于知道为什么这些代开看起来这么赚钱但是我自己去做mc云服务的时候亏欠钱了\n原来都是坑用户的，我一个良心商家入行自然会被排挤😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2292,
+        "media_key": "3_2053717955717042176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBFmYNbEAAw9pL.jpg",
+        "width": 1102
+      },
+      {
+        "height": 1751,
+        "media_key": "3_2053717955712888832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBFmYMbsAA5sxD.jpg",
+        "width": 1116
+      },
+      {
+        "height": 1659,
+        "media_key": "3_2053717955721170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBFmYOaEAA-3HH.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2053717964097253871",
+        "created_at": "2026-05-11T07:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053736642721226953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053736642721226953",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053717964097253871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 这下终于知道为什么这些代开看起来这么赚钱但是我自己去做mc云服务的时候亏欠钱了\n原来都是坑用户的，我一个良心商家入行自然会被排挤😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053717955717042176",
+            "3_2053717955712888832",
+            "3_2053717955721170944"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2053717964097253871",
+        "created_at": "2026-05-11T06:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053717964097253871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krW7ISVlXQ",
+              "end": 132,
+              "expanded_url": "https://x.com/SGR_nya/status/2053717964097253871/photo/1",
+              "media_key": "3_2053717955717042176",
+              "start": 109,
+              "url": "https://t.co/krW7ISVlXQ"
+            },
+            {
+              "display_url": "pic.x.com/krW7ISVlXQ",
+              "end": 132,
+              "expanded_url": "https://x.com/SGR_nya/status/2053717964097253871/photo/1",
+              "media_key": "3_2053717955712888832",
+              "start": 109,
+              "url": "https://t.co/krW7ISVlXQ"
+            },
+            {
+              "display_url": "pic.x.com/krW7ISVlXQ",
+              "end": 132,
+              "expanded_url": "https://x.com/SGR_nya/status/2053717964097253871/photo/1",
+              "media_key": "3_2053717955721170944",
+              "start": 109,
+              "url": "https://t.co/krW7ISVlXQ"
+            },
+            {
+              "display_url": "x.com/sgr_nya/status…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/sgr_nya/status/2050916836242595920",
+              "start": 133,
+              "url": "https://t.co/artUba7kvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053717964097253871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1141,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050916836242595920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "来点后续：经过我的投诉之后，他把存档发给我了。你以为事情就到这？不是！\n发给我的存档被他加密了，没有办法在服务器上使用，而且密钥是在他手里，每次打开存档联网获取，获取失败的话，直接帮我闪退\n总之，大家千万不要找代开！ https://t.co/krW7ISVlXQ https://t.co/artUba7kvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3771,
+          "following_count": 411,
+          "like_count": 28732,
+          "listed_count": 7,
+          "media_count": 1713,
+          "tweet_count": 12705
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62722,
+          "following_count": 2083,
+          "like_count": 51952,
+          "listed_count": 6,
+          "media_count": 428,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948766688201375748"
+      ],
+      "media_source_tweet_id": [
+        "1948766693926588528"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      }
+    ],
+    "conversation_id": "1948969683191038467",
+    "created_at": "2025-07-26T04:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T05:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948969683191038467"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "#タコピーの原罪",
+          "probability": 0.4733,
+          "start": 74,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "タコピーの原罪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1864871366241193984",
+          "start": 3,
+          "username": "takopi_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rSf0ZGR3R",
+          "end": 124,
+          "expanded_url": "https://x.com/takopi_pr/status/1948766693926588528/photo/1",
+          "media_key": "3_1948766688201375748",
+          "start": 101,
+          "url": "https://t.co/8rSf0ZGR3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948969683191038467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14553
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948766693926588528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takopi_pr: ╋━━\n 　　　　次回、最終話\n   8月2日(土)午前0時 配信開始\n　  　　　　　　　　　　━━╋ \n\nアニメ『#タコピーの原罪』\n　　　　　　全6話、堂々完結—— https://t.co/8rSf0ZGR3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_1948766688201375748",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwto-lhbgAQkAT5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948766688201375748"
+          ],
+          "media_source_tweet_id": [
+            "1948766693926588528"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1948969683191038467",
+        "created_at": "2025-07-26T04:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T05:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948969683191038467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "#タコピーの原罪",
+              "probability": 0.4733,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "タコピーの原罪"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1864871366241193984",
+              "start": 3,
+              "username": "takopi_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rSf0ZGR3R",
+              "end": 124,
+              "expanded_url": "https://x.com/takopi_pr/status/1948766693926588528/photo/1",
+              "media_key": "3_1948766688201375748",
+              "start": 101,
+              "url": "https://t.co/8rSf0ZGR3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948969683191038467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14553
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948766693926588528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takopi_pr: ╋━━\n 　　　　次回、最終話\n   8月2日(土)午前0時 配信開始\n　  　　　　　　　　　　━━╋ \n\nアニメ『#タコピーの原罪』\n　　　　　　全6話、堂々完結—— https://t.co/8rSf0ZGR3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948766688201375748"
+          ]
+        },
+        "author_id": "1864871366241193984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1948766693926588528",
+        "created_at": "2025-07-25T15:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948766693926588528"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "#タコピーの原罪",
+              "probability": 0.4759,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "タコピーの原罪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rSf0ZGR3R",
+              "end": 109,
+              "expanded_url": "https://x.com/takopi_pr/status/1948766693926588528/photo/1",
+              "media_key": "3_1948766688201375748",
+              "start": 86,
+              "url": "https://t.co/8rSf0ZGR3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948766693926588528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3100,
+          "impression_count": 4697024,
+          "like_count": 90674,
+          "quote_count": 3362,
+          "reply_count": 309,
+          "retweet_count": 14553
+        },
+        "reply_settings": "everyone",
+        "text": "╋━━\n 　　　　次回、最終話\n   8月2日(土)午前0時 配信開始\n　  　　　　　　　　　　━━╋ \n\nアニメ『#タコピーの原罪』\n　　　　　　全6話、堂々完結—— https://t.co/8rSf0ZGR3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 202,
+          "like_count": 22201,
+          "listed_count": 3,
+          "media_count": 1227,
+          "tweet_count": 7866
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T03:16:38.000Z",
+        "description": "アニメ『タコピーの原罪』公式アカウント🐙\n各プラットフォームにて毎週土曜日0時から配信！\n監督・シリーズ構成：飯野慎也｜キャラクターデザイン：長原圭太｜アニメーション制作：ENISHIYA　タコピー：間宮くるみ｜しずか：上田麗奈\n推奨ハッシュタグ：#タコピーの原罪　#タコピー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 124,
+                "tag": "タコピーの原罪"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "タコピー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tbs.co.jp/anime/takopi_p…",
+                "end": 23,
+                "expanded_url": "https://www.tbs.co.jp/anime/takopi_project/",
+                "start": 0,
+                "url": "https://t.co/LJ4IFGDMR2"
+              }
+            ]
+          }
+        },
+        "id": "1864871366241193984",
+        "location": "ハッピー星",
+        "name": "『タコピーの原罪』アニメ公式",
+        "pinned_tweet_id": "1948766693926588528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866131947384389632/CZJwqD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103601,
+          "following_count": 8,
+          "like_count": 78,
+          "listed_count": 296,
+          "media_count": 407,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/LJ4IFGDMR2",
+        "username": "takopi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

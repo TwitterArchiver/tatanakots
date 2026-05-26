@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2055214399145812183",
+    "created_at": "2026-05-15T19:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055371366283858240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "993493604",
+          "start": 0,
+          "username": "ClockWorkMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055371366283858240",
+    "in_reply_to_user_id": "993493604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055313066301280691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClockWorkMe 看起来当前焦点在按钮上，我要是按回车会怎么样（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10006,
+        "height": 314,
+        "media_key": "13_2055313056897605632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055313056897605632/img/n579dhZRBSdgXzF6.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055313056897605632/vid/avc1/272x270/qJwdkbQthA25Eofw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055313056897605632/vid/avc1/318x314/Axr3LCa2VvZE7Cot.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055313056897605632/pl/FM8PxJiLgPgdRonM.m3u8"
+          }
+        ],
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2055214399145812183",
+        "created_at": "2026-05-15T19:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055371366283858240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "993493604",
+              "start": 0,
+              "username": "ClockWorkMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055371366283858240",
+        "in_reply_to_user_id": "993493604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055313066301280691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClockWorkMe 看起来当前焦点在按钮上，我要是按回车会怎么样（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055313056897605632"
+          ]
+        },
+        "author_id": "993493604",
+        "conversation_id": "2055214399145812183",
+        "created_at": "2026-05-15T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055313066301280691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Contribute to boris1993/CatchMeIfYouCan development by creating an account on GitHub.",
+              "display_url": "github.com/boris1993/Catc…",
+              "end": 61,
+              "expanded_url": "https://github.com/boris1993/CatchMeIfYouCan",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2055313071984574464/Ou878_hL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055313071984574464/Ou878_hL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "GitHub - boris1993/CatchMeIfYouCan",
+              "unwound_url": "https://github.com/boris1993/CatchMeIfYouCan",
+              "url": "https://t.co/r8qbqoNw1O"
+            },
+            {
+              "display_url": "pic.x.com/L4edviId9U",
+              "end": 85,
+              "expanded_url": "https://x.com/ClockWorkMe/status/2055313066301280691/video/1",
+              "media_key": "13_2055313056897605632",
+              "start": 62,
+              "url": "https://t.co/L4edviId9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055313066301280691",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055214399145812183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 我大学学C井那会搞出的抽象玩意……\n原谅我那会嘴有点臭……\nhttps://t.co/r8qbqoNw1O https://t.co/L4edviId9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 414,
+          "like_count": 29031,
+          "listed_count": 7,
+          "media_count": 1731,
+          "tweet_count": 12850
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-06T17:28:20.000Z",
+        "description": "一个靠出卖写代码的能力换饭钱的家伙，但是技术力可能只有二流甚至三流。\n母语是普通话，英语也算是流利，会两句半吊子日语并且想学到向英语一样流利。\nGitHub: https://t.co/nZbTSvwAfb\nIG: https://t.co/TzSbshybsi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/boris1993",
+                "end": 103,
+                "expanded_url": "http://github.com/boris1993",
+                "start": 80,
+                "url": "https://t.co/nZbTSvwAfb"
+              },
+              {
+                "display_url": "instagram.com/boris.zhao/",
+                "end": 131,
+                "expanded_url": "http://instagram.com/boris.zhao/",
+                "start": 108,
+                "url": "https://t.co/TzSbshybsi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boris1993.com",
+                "end": 23,
+                "expanded_url": "https://www.boris1993.com",
+                "start": 0,
+                "url": "https://t.co/Nlmhu0aOj6"
+              }
+            ]
+          }
+        },
+        "id": "993493604",
+        "name": "boris1993",
+        "pinned_tweet_id": "1889540230723805670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1014585662161342464/QkPWFgJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 322,
+          "like_count": 154153,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 9799
+        },
+        "url": "https://t.co/Nlmhu0aOj6",
+        "username": "ClockWorkMe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2047701329804685473",
+    "created_at": "2026-04-24T15:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047703445038387312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2017448841940000768",
+          "start": 0,
+          "username": "Nekostve"
+        },
+        {
+          "end": 23,
+          "id": "1981924659437383680",
+          "start": 10,
+          "username": "publicwy_ext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047703445038387312",
+    "in_reply_to_user_id": "2017448841940000768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047703027885482389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekostve @publicwy_ext 不用漫游，在大陆只是不能登录，登录后浏览和听歌都是正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2047701329804685473",
+        "created_at": "2026-04-24T15:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047703445038387312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2017448841940000768",
+              "start": 0,
+              "username": "Nekostve"
+            },
+            {
+              "end": 23,
+              "id": "1981924659437383680",
+              "start": 10,
+              "username": "publicwy_ext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047703445038387312",
+        "in_reply_to_user_id": "2017448841940000768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047703027885482389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekostve @publicwy_ext 不用漫游，在大陆只是不能登录，登录后浏览和听歌都是正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017448841940000768",
+        "conversation_id": "2047701329804685473",
+        "created_at": "2026-04-24T15:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047703027885482389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981924659437383680",
+              "start": 0,
+              "username": "publicwy_ext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047703027885482389",
+        "in_reply_to_user_id": "1981924659437383680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047701329804685473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@publicwy_ext 这就是漫游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 398,
+          "like_count": 27482,
+          "listed_count": 6,
+          "media_count": 1674,
+          "tweet_count": 12270
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T04:04:34.000Z",
+        "description": "a fish🐟 in the s?e?a?\nin favor of tsf\n但现世科技不足以使男性变为完全功能的女性\n故暂不发难)\n偏爱科学与数据，为此可以暂时锁上情感与强制保持理智\n06年老头子……\nneko4linux@gmail.com\n出来觅食多巴胺，会回关吧说是……",
+        "id": "2017448841940000768",
+        "location": "shadow banned",
+        "name": "Neko",
+        "pinned_tweet_id": "2044090666314289390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865787778080772/er30A-2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 125,
+          "like_count": 8220,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1504
+        },
+        "username": "Nekostve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:24:18.000Z",
+        "description": "13岁但是身体十分早熟（走两步就累）\n精通（实际上就看了两眼）编程 Python/Java\n缺少电脑的\nBuild Time: 2012-05-30",
+        "id": "1981924659437383680",
+        "location": "提瓦特大陆",
+        "name": "publicwy ext🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964968227229696/T9YDX3Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 135,
+          "like_count": 3690,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1133
+        },
+        "username": "publicwy_ext",
+        "verified": true
+      }
+    ]
+  }
+}

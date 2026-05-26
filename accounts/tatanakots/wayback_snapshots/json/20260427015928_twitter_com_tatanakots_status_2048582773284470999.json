@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Chrome",
+          "id": "10052778493",
+          "name": "Google Chrome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2048568309877264419",
+    "created_at": "2026-04-27T01:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048582773284470999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "description": "得益于 Google 智能功能，Chrome 现在更易用、更安全，也更快速。",
+          "display_url": "google.cn/chrome",
+          "end": 84,
+          "expanded_url": "http://www.google.cn/chrome",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2031644871270739968/xjqwIKQ-?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2031644871270739968/xjqwIKQ-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 61,
+          "status": 200,
+          "title": "Google Chrome 网络浏览器",
+          "unwound_url": "https://www.google.cn/chrome/",
+          "url": "https://t.co/qWNdYr5V1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048582773284470999",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048568309877264419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 所以一般安装chrome的时候记住地址很重要\nwww[.]google[.]cn/chrome\nhttps://t.co/qWNdYr5V1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2048440499573575680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2FyACbUAAqVK_.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2048440499284099072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2Fx-9aQAAp5fH.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2048568309877264419",
+        "created_at": "2026-04-27T01:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048582773284470999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "description": "得益于 Google 智能功能，Chrome 现在更易用、更安全，也更快速。",
+              "display_url": "google.cn/chrome",
+              "end": 84,
+              "expanded_url": "http://www.google.cn/chrome",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2031644871270739968/xjqwIKQ-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031644871270739968/xjqwIKQ-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "Google Chrome 网络浏览器",
+              "unwound_url": "https://www.google.cn/chrome/",
+              "url": "https://t.co/qWNdYr5V1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048582773284470999",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048568309877264419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 所以一般安装chrome的时候记住地址很重要\nwww[.]google[.]cn/chrome\nhttps://t.co/qWNdYr5V1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048440499573575680",
+            "3_2048440499284099072"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2048568309877264419",
+        "created_at": "2026-04-27T01:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048568309877264419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "Chrome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyPWu5jHoe",
+              "end": 191,
+              "expanded_url": "https://x.com/landiantech/status/2048568309877264419/photo/1",
+              "media_key": "3_2048440499573575680",
+              "start": 168,
+              "url": "https://t.co/LyPWu5jHoe"
+            },
+            {
+              "display_url": "pic.x.com/LyPWu5jHoe",
+              "end": 191,
+              "expanded_url": "https://x.com/landiantech/status/2048568309877264419/photo/1",
+              "media_key": "3_2048440499284099072",
+              "start": 168,
+              "url": "https://t.co/LyPWu5jHoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048568309877264419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 5,
+                "tag": "Chrome"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/112825",
+                "end": 247,
+                "expanded_url": "https://ourl.co/112825",
+                "start": 224,
+                "url": "https://t.co/NzPm0f5pUT"
+              }
+            ]
+          },
+          "text": "必应搜索 #Chrome 被奇怪的山寨网站占领，这些网站均使用黑龙江省级域名 hl[.]cn 的子域名，直接霸占 Chrome 关键词搜索结果前三。\n\n山寨网站只允许通过必应搜索访问，直接访问会报错，而在沙盒中安装山寨版则会下载官方版 Chrome，说明安装程序也会对抗检测，考虑到 Windows 11 默认预装 Microsoft Edge 以及默认使用必应搜索，这可能导致新装系统想要安装 Chrome 的用户直接进入钓鱼网站。\n\n查看详情：https://t.co/NzPm0f5pUT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2234,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "必应搜索 #Chrome 被奇怪的山寨网站占领，这些网站均使用黑龙江省级域名 hl[.]cn 的子域名，直接霸占 Chrome 关键词搜索结果前三。\n\n山寨网站只允许通过必应搜索访问，直接访问会报错，而在沙盒中安装山寨版则会下载官方版 Chrome，说明安装程序也会对抗检测，考虑到 Windows 11 默认预装 Microsoft https://t.co/LyPWu5jHoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 405,
+          "like_count": 27554,
+          "listed_count": 7,
+          "media_count": 1678,
+          "tweet_count": 12305
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34850,
+          "following_count": 721,
+          "like_count": 4795,
+          "listed_count": 274,
+          "media_count": 5418,
+          "tweet_count": 15164
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

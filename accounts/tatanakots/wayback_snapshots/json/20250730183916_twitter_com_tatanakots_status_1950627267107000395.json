@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950626594386808832",
+        "3_1950626788289433600"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "1950627267107000395",
+    "created_at": "2025-07-30T18:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950627267107000395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PNs1fmjLVC",
+          "end": 134,
+          "expanded_url": "https://x.com/tatanakots/status/1950627267107000395/photo/1",
+          "media_key": "3_1950626594386808832",
+          "start": 111,
+          "url": "https://t.co/PNs1fmjLVC"
+        },
+        {
+          "display_url": "pic.x.com/PNs1fmjLVC",
+          "end": 134,
+          "expanded_url": "https://x.com/tatanakots/status/1950627267107000395/photo/1",
+          "media_key": "3_1950626788289433600",
+          "start": 111,
+          "url": "https://t.co/PNs1fmjLVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950627267107000395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上次服务器重装改架构之后一直没给自己的备用节点搭回来，正好最近大量中转拔线，不得不把这件事提上日程，现在终于搭好了\n用docker手搓config.json来配置的原始方式感觉真没以前用的面板方便，但是安全性更高了（吧） https://t.co/PNs1fmjLVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1950626594386808832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxIEjX_bEAAsDDu.jpg",
+        "width": 2250
+      },
+      {
+        "height": 289,
+        "media_key": "3_1950626788289433600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxIEuqVaUAAT8Jg.png",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950626594386808832",
+            "3_1950626788289433600"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "1950627267107000395",
+        "created_at": "2025-07-30T18:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950627267107000395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PNs1fmjLVC",
+              "end": 134,
+              "expanded_url": "https://x.com/tatanakots/status/1950627267107000395/photo/1",
+              "media_key": "3_1950626594386808832",
+              "start": 111,
+              "url": "https://t.co/PNs1fmjLVC"
+            },
+            {
+              "display_url": "pic.x.com/PNs1fmjLVC",
+              "end": 134,
+              "expanded_url": "https://x.com/tatanakots/status/1950627267107000395/photo/1",
+              "media_key": "3_1950626788289433600",
+              "start": 111,
+              "url": "https://t.co/PNs1fmjLVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950627267107000395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次服务器重装改架构之后一直没给自己的备用节点搭回来，正好最近大量中转拔线，不得不把这件事提上日程，现在终于搭好了\n用docker手搓config.json来配置的原始方式感觉真没以前用的面板方便，但是安全性更高了（吧） https://t.co/PNs1fmjLVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 205,
+          "like_count": 22276,
+          "listed_count": 3,
+          "media_count": 1234,
+          "tweet_count": 7915
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

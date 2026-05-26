@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2011036007131418823",
+    "created_at": "2026-01-14T09:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011370426811953516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1543580881540943872",
+          "start": 0,
+          "username": "zaochih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011370426811953516",
+    "in_reply_to_user_id": "1543580881540943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011116906254925960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaochih 其实自己拉机房专线接入一直都没有强制备案的，但是现有的idc怕你买了他家服务器出什么事情找不到担责的所以idc自己建了未备案域名阻断的防火墙在机房内部\n家宽也可以随意使用非备案域名解析"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2011036007131418823",
+        "created_at": "2026-01-14T09:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011370426811953516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1543580881540943872",
+              "start": 0,
+              "username": "zaochih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011370426811953516",
+        "in_reply_to_user_id": "1543580881540943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011116906254925960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaochih 其实自己拉机房专线接入一直都没有强制备案的，但是现有的idc怕你买了他家服务器出什么事情找不到担责的所以idc自己建了未备案域名阻断的防火墙在机房内部\n家宽也可以随意使用非备案域名解析"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543580881540943872",
+        "conversation_id": "2011036007131418823",
+        "created_at": "2026-01-13T16:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011116906254925960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126880447",
+              "start": 0,
+              "username": "miantiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011116906254925960",
+        "in_reply_to_user_id": "126880447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1542,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011036007131418823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miantiao gstatic 和 googleapis 一直都有.cn 来着，不过其实 .com 谷歌也解析了国内 IP 的，虽然没备案但是谷歌自己的机房 miit 也是睁一只眼闭一只眼的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 255,
+          "like_count": 24032,
+          "listed_count": 6,
+          "media_count": 1478,
+          "tweet_count": 9915
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-03T13:02:26.000Z",
+        "description": "技术向 → @C4O2H1 | 遗憾地成为男大 | 双非二本新工科 | 当朋友圈发 | MSA Gold | 或许是 18 y.o. | 豫裔渝籍 QTH OL86se | 关注重庆轨道交通谢谢喵 | 非典型性男同 | 简/部分繁中 🉑 EN-US OK 其他语言本当下手",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "C4O2H1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.zaochih.com",
+                "end": 23,
+                "expanded_url": "https://about.zaochih.com",
+                "start": 0,
+                "url": "https://t.co/rGxmbyYs4B"
+              }
+            ]
+          }
+        },
+        "id": "1543580881540943872",
+        "location": "B4/BG8",
+        "name": "草纸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009640224536829952/t5ar05J2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 325,
+          "like_count": 133477,
+          "listed_count": 1,
+          "media_count": 2038,
+          "tweet_count": 10132
+        },
+        "url": "https://t.co/rGxmbyYs4B",
+        "username": "zaochih",
+        "verified": false
+      }
+    ]
+  }
+}

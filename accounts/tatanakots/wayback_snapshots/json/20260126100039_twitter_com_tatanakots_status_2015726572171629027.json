@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2015726572171629027",
+    "created_at": "2026-01-26T10:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015726572171629027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        },
+        {
+          "end": 27,
+          "id": "1628256242832666624",
+          "start": 16,
+          "username": "pikaray168"
+        },
+        {
+          "end": 36,
+          "id": "1618557658163970049",
+          "start": 28,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015726572171629027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015725800419696646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: @pikaray168 @qqqqqf5 人也能跨啦，源码状态下改一个编译参数就行，最方便\n但是一旦已经release了，那就只能改环境变量了，但是这会带来一些bug，而且有些功能还需要patch后才能用，还可能会崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2015726572171629027",
+        "created_at": "2026-01-26T10:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015726572171629027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            },
+            {
+              "end": 27,
+              "id": "1628256242832666624",
+              "start": 16,
+              "username": "pikaray168"
+            },
+            {
+              "end": 36,
+              "id": "1618557658163970049",
+              "start": 28,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015726572171629027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015725800419696646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: @pikaray168 @qqqqqf5 人也能跨啦，源码状态下改一个编译参数就行，最方便\n但是一旦已经release了，那就只能改环境变量了，但是这会带来一些bug，而且有些功能还需要patch后才能用，还可能会崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2015687726939676762",
+        "created_at": "2026-01-26T09:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015725800419696646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1628256242832666624",
+              "start": 0,
+              "username": "pikaray168"
+            },
+            {
+              "end": 20,
+              "id": "1618557658163970049",
+              "start": 12,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015725800419696646",
+        "in_reply_to_user_id": "1628256242832666624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015688988875764212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pikaray168 @qqqqqf5 人也能跨啦，源码状态下改一个编译参数就行，最方便\n但是一旦已经release了，那就只能改环境变量了，但是这会带来一些bug，而且有些功能还需要patch后才能用，还可能会崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 329,
+          "like_count": 24222,
+          "listed_count": 6,
+          "media_count": 1501,
+          "tweet_count": 10182
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T04:52:26.000Z",
+        "description": "程序員，關注財經及AI，分享動畫及生活點滴",
+        "id": "1628256242832666624",
+        "name": "皮卡瑞",
+        "pinned_tweet_id": "2012550608415494404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009514146392625153/6gFF5AIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 1249,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1420
+        },
+        "username": "pikaray168",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信投稿内容\nPython/Rust/JS后端个人开发者 | 学生\nAI | 量化 | 交易\nGithub求follow\n逃生舱:@qqqqqf_\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 138,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 115,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2013835813071790433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6575,
+          "following_count": 2044,
+          "like_count": 12382,
+          "listed_count": 14,
+          "media_count": 1660,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

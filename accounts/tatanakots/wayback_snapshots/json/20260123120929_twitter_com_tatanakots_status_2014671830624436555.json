@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2014124601060495548",
+    "created_at": "2026-01-23T12:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014671830624436555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609444126751330305",
+          "start": 0,
+          "username": "JirkaKalvoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014671830624436555",
+    "in_reply_to_user_id": "1609444126751330305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014578621600694475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JirkaKalvoda 用aosp的话不需要授权费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2014124601060495548",
+        "created_at": "2026-01-23T12:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014671830624436555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609444126751330305",
+              "start": 0,
+              "username": "JirkaKalvoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014671830624436555",
+        "in_reply_to_user_id": "1609444126751330305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014578621600694475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JirkaKalvoda 用aosp的话不需要授权费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609444126751330305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2014124601060495548",
+        "created_at": "2026-01-23T05:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014578621600694475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014578621600694475",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014124601060495548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq google早就把一些业务撤出中国了吧，不知道安卓系统是每家手机商按数量给google授权费还是早就一次性给齐了授权费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 324,
+          "like_count": 24176,
+          "listed_count": 6,
+          "media_count": 1493,
+          "tweet_count": 10106
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-01T06:59:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/JirkaKalvoda",
+                "end": 23,
+                "expanded_url": "https://github.com/JirkaKalvoda",
+                "start": 0,
+                "url": "https://t.co/xx9nv9bD2J"
+              }
+            ]
+          }
+        },
+        "id": "1609444126751330305",
+        "name": "Jirka Kalvoda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609444986789179393/uY5Brsxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 13,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/xx9nv9bD2J",
+        "username": "JirkaKalvoda",
+        "verified": false
+      }
+    ]
+  }
+}

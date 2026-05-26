@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2006213889990816134",
+    "created_at": "2025-12-31T16:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006397492674678880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2815027514",
+          "start": 0,
+          "username": "justzhengwei"
+        },
+        {
+          "end": 22,
+          "id": "1164388321545449472",
+          "start": 14,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006397492674678880",
+    "in_reply_to_user_id": "2815027514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006223077408137257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justzhengwei @imwsl90 那不得装个kali"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2006213889990816134",
+        "created_at": "2025-12-31T16:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006397492674678880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2815027514",
+              "start": 0,
+              "username": "justzhengwei"
+            },
+            {
+              "end": 22,
+              "id": "1164388321545449472",
+              "start": 14,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006397492674678880",
+        "in_reply_to_user_id": "2815027514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006223077408137257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justzhengwei @imwsl90 那不得装个kali"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2815027514",
+        "conversation_id": "2006213889990816134",
+        "created_at": "2025-12-31T04:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006223077408137257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006223077408137257",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3778,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006213889990816134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 😂，你不懂，这是黑客专用系统，很安全，这个系统一万块呢，你要不要，500块给你安装一个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 246,
+          "like_count": 23958,
+          "listed_count": 6,
+          "media_count": 1459,
+          "tweet_count": 9689
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-17T14:27:33.000Z",
+        "description": "C/C++ Developer | 跨平台开发 (Win/Mac/Linux) Python & Java enthusiast. 🐧 Linux power user. Building software that runs everywhere.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/weizhengwei",
+                "end": 23,
+                "expanded_url": "https://github.com/weizhengwei",
+                "start": 0,
+                "url": "https://t.co/Mf99cOWQjr"
+              }
+            ]
+          }
+        },
+        "id": "2815027514",
+        "location": "shenzhen",
+        "name": "zhengwei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998697727551827968/a2wLIciF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 2884,
+          "like_count": 22369,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/Mf99cOWQjr",
+        "username": "justzhengwei",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXic3G8\n我的服务：https://t.co/35tV6ds2ny\n推荐魔法：https://t.co/B5SfJ7LlqH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXic3G8"
+              },
+              {
+                "display_url": "fuwu.super.site",
+                "end": 101,
+                "expanded_url": "https://fuwu.super.site/",
+                "start": 78,
+                "url": "https://t.co/35tV6ds2ny"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 130,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 107,
+                "url": "https://t.co/B5SfJ7LlqH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSo0I"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2005801449746485623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82395,
+          "following_count": 7501,
+          "like_count": 45486,
+          "listed_count": 525,
+          "media_count": 12952,
+          "tweet_count": 74734
+        },
+        "url": "https://t.co/jkPrQuSo0I",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

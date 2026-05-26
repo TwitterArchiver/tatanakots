@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "1964588616560320610",
+    "created_at": "2025-09-07T10:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T11:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964637782992970184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964637782992970184",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964588616560320610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO Apple Color Emoji和Google Noto Color Emoji的区别\n不过Apple用的是位图存储彩色表情，Google是矢量图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964588571534462976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Oe5aAakAAzxVf.jpg",
+        "width": 1869
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964588571354091520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Oe5ZVaUAAK1_8.jpg",
+        "width": 1948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1964588616560320610",
+        "created_at": "2025-09-07T10:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T11:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964637782992970184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964637782992970184",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964588616560320610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO Apple Color Emoji和Google Noto Color Emoji的区别\n不过Apple用的是位图存储彩色表情，Google是矢量图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964588571534462976",
+            "3_1964588571354091520"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964588616560320610",
+        "created_at": "2025-09-07T07:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964588616560320610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxmaledPNs",
+              "end": 52,
+              "expanded_url": "https://x.com/StarNekOvO/status/1964588616560320610/photo/1",
+              "media_key": "3_1964588571534462976",
+              "start": 29,
+              "url": "https://t.co/oxmaledPNs"
+            },
+            {
+              "display_url": "pic.x.com/oxmaledPNs",
+              "end": 52,
+              "expanded_url": "https://x.com/StarNekOvO/status/1964588616560320610/photo/1",
+              "media_key": "3_1964588571354091520",
+              "start": 29,
+              "url": "https://t.co/oxmaledPNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964588616560320610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 865,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥹🥰原來這些表情在安卓和蘋果系系統裡看起來完全不一樣呀 https://t.co/oxmaledPNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生  🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 213,
+          "like_count": 21956,
+          "listed_count": 3,
+          "media_count": 1283,
+          "tweet_count": 8236
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "⭐️🌕🪼还叫浅羽星晚/叽翅，可能是 Queer， 漏洞赏金猎人(见习)，可能出没在杭州/深圳/东京/重庆，INFJ，双相重抑躁焦bpdADHD地雷Warning，💕@Ganlongyu_ Star # whoami⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ㅤ⠀／dev／null",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Ganlongyu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "Star Neko🪼",
+        "pinned_tweet_id": "1961330113535954962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962354179005169664/_8eXHFYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3961,
+          "following_count": 1917,
+          "like_count": 24466,
+          "listed_count": 15,
+          "media_count": 1026,
+          "tweet_count": 8618
+        },
+        "url": "https://t.co/nVL53sBJjI",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

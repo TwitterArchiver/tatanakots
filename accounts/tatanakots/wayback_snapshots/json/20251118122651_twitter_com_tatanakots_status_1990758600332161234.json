@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1990705924592579050",
+    "created_at": "2025-11-18T12:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T13:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990758600332161234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990758600332161234",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990705924592579050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 其实你很pass，可以去哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1990705924592579050",
+        "created_at": "2025-11-18T12:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990758600332161234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990758600332161234",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990705924592579050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 其实你很pass，可以去哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618909954156679168",
+        "conversation_id": "1990705924592579050",
+        "created_at": "2025-11-18T08:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990705924592579050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990705924592579050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想上无障碍总被在无障碍里摸鱼的保洁赶去女厕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 242,
+          "like_count": 23718,
+          "listed_count": 5,
+          "media_count": 1391,
+          "tweet_count": 9035
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "日记\n研究对象@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃鱼板",
+        "pinned_tweet_id": "1956672365686923539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927690192225439744/dn0SEBPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 937,
+          "like_count": 11727,
+          "listed_count": 15,
+          "media_count": 1409,
+          "tweet_count": 7237
+        },
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

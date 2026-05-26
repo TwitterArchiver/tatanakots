@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1985242981750997448",
+    "created_at": "2025-11-04T09:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T10:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985633697723531571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1190856277242470400",
+          "start": 0,
+          "username": "SocialSisterYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985633697723531571",
+    "in_reply_to_user_id": "1190856277242470400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985512550772191412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SocialSisterYi 舞萌DX Title Server的Preview api（面向机台的API）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1985242981750997448",
+        "created_at": "2025-11-04T09:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985633697723531571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1190856277242470400",
+              "start": 0,
+              "username": "SocialSisterYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985633697723531571",
+        "in_reply_to_user_id": "1190856277242470400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985512550772191412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SocialSisterYi 舞萌DX Title Server的Preview api（面向机台的API）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190856277242470400",
+        "conversation_id": "1985242981750997448",
+        "created_at": "2025-11-04T01:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985512550772191412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985512550772191412",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985242981750997448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 这是从公共api爬的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 240,
+          "like_count": 23563,
+          "listed_count": 5,
+          "media_count": 1382,
+          "tweet_count": 8925
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-03T05:00:44.000Z",
+        "description": "普通打工可爱男孩子 | 全栈技术宅 | INFJ-A | TS Vue Python Rust | 开源开发者 | MaiMai MuseDash Phigros  | 车车人&术术人 | B站🕊咕鸽UP主 | 不是mtf啊啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shakaianee.top",
+                "end": 23,
+                "expanded_url": "http://shakaianee.top",
+                "start": 0,
+                "url": "https://t.co/zBwEys1IW8"
+              }
+            ]
+          }
+        },
+        "id": "1190856277242470400",
+        "name": "社会易姐QwQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190856488442564608/DoSZmalo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 134,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/zBwEys1IW8",
+        "username": "SocialSisterYi",
+        "verified": false
+      }
+    ]
+  }
+}

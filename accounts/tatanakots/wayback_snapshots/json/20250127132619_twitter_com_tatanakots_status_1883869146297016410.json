@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1883539991323988302",
+    "created_at": "2025-01-27T13:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T14:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883869146297016410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1716653440309538816",
+          "start": 0,
+          "username": "DanWebb66632"
+        },
+        {
+          "end": 22,
+          "id": "1433678976564662273",
+          "start": 14,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883869146297016410",
+    "in_reply_to_user_id": "1716653440309538816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883808832524276209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanWebb66632 @hsn8086 理论上是ISP在PPPoE的时候下发的公网地址（国内大部分普通用户是NAT地址），这个地址是不使用代理的用户访问到服务器时服务器了解到的用户IP地址，也是可以定位到用户大致位置的地址。\n而中国人在海外网站上被服务器获取到的IP地址通常是海外机房IP，这种IP或许没有位置信息（Anycast）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1883539991323988302",
+        "created_at": "2025-01-27T13:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883869146297016410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1716653440309538816",
+              "start": 0,
+              "username": "DanWebb66632"
+            },
+            {
+              "end": 22,
+              "id": "1433678976564662273",
+              "start": 14,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883869146297016410",
+        "in_reply_to_user_id": "1716653440309538816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883808832524276209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanWebb66632 @hsn8086 理论上是ISP在PPPoE的时候下发的公网地址（国内大部分普通用户是NAT地址），这个地址是不使用代理的用户访问到服务器时服务器了解到的用户IP地址，也是可以定位到用户大致位置的地址。\n而中国人在海外网站上被服务器获取到的IP地址通常是海外机房IP，这种IP或许没有位置信息（Anycast）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716653440309538816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1883539991323988302",
+        "created_at": "2025-01-27T09:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883808832524276209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883808832524276209",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 876,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883539991323988302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 其實他們這句本身已經很傻。\n敢問何謂\"真實的\"IP地址？哪一個IP才叫\"真實\"？\n\n你電腦用著的那個192.168？\n你ISP派給你的那個DHCP？\n你租Azure/AWS給你那個cloud IP？\n\n要求\"真實的IP地址\"這件事本身就是極度可笑的 — mac address怎麼又不見他們用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 177,
+          "like_count": 20424,
+          "listed_count": 3,
+          "media_count": 977,
+          "tweet_count": 6194
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T03:10:57.000Z",
+        "description": "",
+        "id": "1716653440309538816",
+        "name": "Dan Webb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783113289146478592/TV8KuK78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 62,
+          "like_count": 17088,
+          "listed_count": 5,
+          "media_count": 2280,
+          "tweet_count": 6277
+        },
+        "username": "DanWebb66632",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32650,
+          "following_count": 903,
+          "like_count": 36437,
+          "listed_count": 90,
+          "media_count": 5494,
+          "tweet_count": 10430
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

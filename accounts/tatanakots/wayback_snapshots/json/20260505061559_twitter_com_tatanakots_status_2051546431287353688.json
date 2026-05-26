@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2051309533340000375",
+    "created_at": "2026-05-05T06:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051546431287353688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1398530874400935937",
+          "start": 0,
+          "username": "akazwz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051546431287353688",
+    "in_reply_to_user_id": "1398530874400935937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051309533340000375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akazwz_ 阿里云的sdk包真的很臃肿而且奇怪，不管哪个语言，不如vibe一下自己按照文档直接用api调用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2051309533340000375",
+        "created_at": "2026-05-05T06:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051546431287353688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1398530874400935937",
+              "start": 0,
+              "username": "akazwz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051546431287353688",
+        "in_reply_to_user_id": "1398530874400935937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051309533340000375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akazwz_ 阿里云的sdk包真的很臃肿而且奇怪，不管哪个语言，不如vibe一下自己按照文档直接用api调用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398530874400935937",
+        "conversation_id": "2051309533340000375",
+        "created_at": "2026-05-04T14:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051309533340000375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051309533340000375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17109,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近在写一个 demo，短信验证用了阿里云的服务。结果发现他们的 ts sdk 难用得一塌糊涂。就实现一个极小的功能，需要装好几个不支持esm，类型完全不安全，一调用全是esm报错的 sdk。我直接删除了所有的sdk。让 codex照着签名算法和文档，自己写了一个出来，总共就 100 多行代码，完美运行，0 依赖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 412,
+          "like_count": 28283,
+          "listed_count": 7,
+          "media_count": 1708,
+          "tweet_count": 12596
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T06:45:30.000Z",
+        "description": "个人观点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akazwz.com",
+                "end": 23,
+                "expanded_url": "https://akazwz.com",
+                "start": 0,
+                "url": "https://t.co/KIBl8mLrOd"
+              }
+            ]
+          }
+        },
+        "id": "1398530874400935937",
+        "location": "chengdu",
+        "name": "akazwz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048289331509624832/eXseLqig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5766,
+          "following_count": 746,
+          "like_count": 77536,
+          "listed_count": 58,
+          "media_count": 1019,
+          "tweet_count": 9344
+        },
+        "url": "https://t.co/KIBl8mLrOd",
+        "username": "akazwz_",
+        "verified": true
+      }
+    ]
+  }
+}

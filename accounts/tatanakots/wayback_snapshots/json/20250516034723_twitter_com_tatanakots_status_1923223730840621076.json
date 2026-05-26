@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1923053666845458898",
+    "created_at": "2025-05-16T03:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T04:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923223730840621076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1558094918228144130",
+          "start": 0,
+          "username": "SkimrMe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923223730840621076",
+    "in_reply_to_user_id": "1558094918228144130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "可是docker不就是一个轻量级的虚拟机嘛，当虚拟机用完全没问题啊\n虽然我平时用docker确实是正常构建项目，但是试过docker的容器内shell之后觉得这和完整的虚拟机也没什么区别，当虚拟机用完全可以\n不过还是要吐槽docker的网关之前出过怪怪的问题，虽然最后修好了（详见我以前的帖子）\n我的理念是：能用就行，好用就行"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923098962623451362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkimrMe_ 可是docker不就是一个轻量级的虚拟机嘛，当虚拟机用完全没问题啊\n虽然我平时用docker确实是正常构建项目，但是试过docker的容器内shell之后觉得这和完整的虚拟机也没什么区别，当虚拟机用完全可以\n不过还是要吐槽docker的网关之前出过怪怪的问题，虽然最后修好了（详见我以前的帖子）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1923053666845458898",
+        "created_at": "2025-05-16T03:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T04:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923223730840621076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1558094918228144130",
+              "start": 0,
+              "username": "SkimrMe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923223730840621076",
+        "in_reply_to_user_id": "1558094918228144130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可是docker不就是一个轻量级的虚拟机嘛，当虚拟机用完全没问题啊\n虽然我平时用docker确实是正常构建项目，但是试过docker的容器内shell之后觉得这和完整的虚拟机也没什么区别，当虚拟机用完全可以\n不过还是要吐槽docker的网关之前出过怪怪的问题，虽然最后修好了（详见我以前的帖子）\n我的理念是：能用就行，好用就行"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923098962623451362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkimrMe_ 可是docker不就是一个轻量级的虚拟机嘛，当虚拟机用完全没问题啊\n虽然我平时用docker确实是正常构建项目，但是试过docker的容器内shell之后觉得这和完整的虚拟机也没什么区别，当虚拟机用完全可以\n不过还是要吐槽docker的网关之前出过怪怪的问题，虽然最后修好了（详见我以前的帖子）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558094918228144130",
+        "conversation_id": "1923053666845458898",
+        "created_at": "2025-05-15T19:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T20:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923098962623451362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923098962623451362",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923053666845458898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 认同的，不按标准来就会被说\n😭😭😭\ndocker当虚拟机，明明能够解决我的所有问题，却还有人说，你就不能正经的用吗？正经的构建，我根本不会，不要活在自己的世界里，闭门造车😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 192,
+          "like_count": 21499,
+          "listed_count": 2,
+          "media_count": 1168,
+          "tweet_count": 7315
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-12T14:16:18.000Z",
+        "description": "中：徽徽\n英：SkimrMe\n日：スキー\n爱好：尝试未知事物与败北\n个人信条：中日友好，世界友好\n\n关联账号：已注销\n-\n你是否在半夜中听到硬盘的滋滋声",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ww.3.edu.kg/blog/skimrme/",
+                "end": 23,
+                "expanded_url": "https://ww.3.edu.kg/blog/skimrme/",
+                "start": 0,
+                "url": "https://t.co/OcJBBgt4yU"
+              }
+            ]
+          }
+        },
+        "id": "1558094918228144130",
+        "location": "心中所想，便是所在",
+        "name": "❄️滑雪丶徽徽子/スキー❄️",
+        "pinned_tweet_id": "1852649536847482991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907116437942251520/QX-4JPFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 490,
+          "like_count": 6940,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 6100
+        },
+        "url": "https://t.co/OcJBBgt4yU",
+        "username": "SkimrMe_",
+        "verified": false
+      }
+    ]
+  }
+}

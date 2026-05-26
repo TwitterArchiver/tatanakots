@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1856517103974789527",
+    "created_at": "2024-11-14T01:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T02:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856876454111580530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545375129726685184",
+          "start": 0,
+          "username": "EmptyplateFo"
+        },
+        {
+          "end": 29,
+          "id": "1789837129247531008",
+          "start": 14,
+          "username": "Shirasu8964228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856876454111580530",
+    "in_reply_to_user_id": "1545375129726685184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856735404126564863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmptyplateFo @Shirasu8964228 我是习近平，别看你今天闹得欢，小心给你拉清单😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1856517103974789527",
+        "created_at": "2024-11-14T01:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T02:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856876454111580530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545375129726685184",
+              "start": 0,
+              "username": "EmptyplateFo"
+            },
+            {
+              "end": 29,
+              "id": "1789837129247531008",
+              "start": 14,
+              "username": "Shirasu8964228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856876454111580530",
+        "in_reply_to_user_id": "1545375129726685184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856735404126564863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmptyplateFo @Shirasu8964228 我是习近平，别看你今天闹得欢，小心给你拉清单😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545375129726685184",
+        "conversation_id": "1856517103974789527",
+        "created_at": "2024-11-13T16:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T17:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856735404126564863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 27,
+              "id": "1789837129247531008",
+              "start": 12,
+              "username": "Shirasu8964228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856735404126564863",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856706873329963057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Shirasu8964228 习😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 154,
+          "like_count": 18983,
+          "listed_count": 1,
+          "tweet_count": 5326
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T11:52:11.000Z",
+        "description": "JavaScript is the best language😋😋😋 IT爱好/不会运动/Progressive Liberalism 进步自由主义者/Vers/高二/有时鉴证/🌈🕯️ 互fo不及时，可以DM/\nBluesky：@emptyplatefo.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "emptyplatefo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meow.com",
+                "end": 23,
+                "expanded_url": "https://meow.com",
+                "start": 0,
+                "url": "https://t.co/HmjLDEkDuA"
+              }
+            ]
+          }
+        },
+        "id": "1545375129726685184",
+        "location": "喵喵",
+        "name": "我是空盘",
+        "pinned_tweet_id": "1846959848547815886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825398067916627968/gWdgM5Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 295,
+          "like_count": 1329,
+          "listed_count": 0,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/HmjLDEkDuA",
+        "username": "EmptyplateFo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T01:58:49.000Z",
+        "description": "一個毫無中非價值的人類罷了🥹\n妹妹：@honxine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "honxine"
+              }
+            ]
+          }
+        },
+        "id": "1789837129247531008",
+        "location": "New Game！",
+        "name": "⛩️✝️🇩🇪🇯🇵茉莉奶茶🇳🇫🇬🇧🎌🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852311877214416896/r7S15g83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 2152,
+          "like_count": 28320,
+          "listed_count": 9,
+          "tweet_count": 10846
+        },
+        "username": "Shirasu8964228",
+        "verified": false
+      }
+    ]
+  }
+}

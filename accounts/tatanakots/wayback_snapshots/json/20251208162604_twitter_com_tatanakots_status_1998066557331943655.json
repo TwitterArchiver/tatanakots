@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Internet of Things",
+          "id": "898657691010191360",
+          "name": "Internet of things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Internet of Things",
+          "id": "898657691010191360",
+          "name": "Internet of things"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1997918693586812957",
+    "created_at": "2025-12-08T16:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998066557331943655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "26654586",
+          "start": 0,
+          "username": "wlzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998066557331943655",
+    "in_reply_to_user_id": "26654586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997918693586812957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wlzh 可以试试插入支持4/5G的iot设备中，然后用ssh直接发送ping，只要保证嵌入式的linux系统中没有其他应用会访问公网即可，当然也可以用iptables屏蔽，然后还可以接一根网线让嵌入式设备把收到的短信转发出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Giffgaff SIM/eSIM卡，超低成本保活方案，\n\n一次只需 0.01 英镑，比发短信便宜 30 倍！\n\n之前开卡充的 10 镑，短信保号 20 年，这个方案可以保活 几百年了！～\n\n详细方案如图，操作简单⬇️\n\n并附各方案价格详细对比，如果还有更优方案欢迎补充！",
+        "height": 1536,
+        "media_key": "3_1997918594861318144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7oIYGjbQAASnq2.jpg",
+        "width": 2752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1997918693586812957",
+        "created_at": "2025-12-08T16:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998066557331943655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "26654586",
+              "start": 0,
+              "username": "wlzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998066557331943655",
+        "in_reply_to_user_id": "26654586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997918693586812957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlzh 可以试试插入支持4/5G的iot设备中，然后用ssh直接发送ping，只要保证嵌入式的linux系统中没有其他应用会访问公网即可，当然也可以用iptables屏蔽，然后还可以接一根网线让嵌入式设备把收到的短信转发出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997918594861318144"
+          ]
+        },
+        "author_id": "26654586",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1997918693586812957",
+        "created_at": "2025-12-08T06:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997918693586812957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/offvfsViuF",
+              "end": 160,
+              "expanded_url": "https://x.com/wlzh/status/1997918693586812957/photo/1",
+              "media_key": "3_1997918594861318144",
+              "start": 137,
+              "url": "https://t.co/offvfsViuF"
+            },
+            {
+              "display_url": "x.com/wlzh/status/19…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/wlzh/status/1997303322618028446",
+              "start": 161,
+              "url": "https://t.co/OrMGBKLyTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997918693586812957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 29525,
+          "like_count": 220,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997303322618028446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Giffgaff SIM/eSIM卡，超低成本保活方案，\n\n一次只需 0.01 英镑，比发短信便宜 30 倍！\n\n之前开卡充的 10 镑，短信保号 20 年，这个方案可以保活 几百年了！～\n\n详细方案如图，操作简单⬇️\n\n并附各方案价格详细对比，如果还有更优方案欢迎补充！ https://t.co/offvfsViuF https://t.co/OrMGBKLyTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 243,
+          "like_count": 23901,
+          "listed_count": 5,
+          "media_count": 1423,
+          "tweet_count": 9316
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-26T01:31:32.000Z",
+        "description": "🎯AI玩家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tgmShare",
+                "end": 23,
+                "expanded_url": "https://t.me/tgmShare",
+                "start": 0,
+                "url": "https://t.co/adQDh149Oi"
+              }
+            ]
+          }
+        },
+        "id": "26654586",
+        "location": "VX&TG：+gxjdian",
+        "name": "M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971564093330100224/LUdVXeKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 304,
+          "like_count": 8673,
+          "listed_count": 62,
+          "media_count": 1117,
+          "tweet_count": 5643
+        },
+        "url": "https://t.co/adQDh149Oi",
+        "username": "wlzh",
+        "verified": true
+      }
+    ]
+  }
+}

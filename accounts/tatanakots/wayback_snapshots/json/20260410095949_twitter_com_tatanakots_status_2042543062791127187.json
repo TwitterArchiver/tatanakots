@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2042519440533917763",
+    "created_at": "2026-04-10T09:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042543062791127187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760164538677395456",
+          "start": 0,
+          "username": "stellar22333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042543062791127187",
+    "in_reply_to_user_id": "1760164538677395456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042542382475022452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellar22333 刷类原生还是算了吧，这样会失去文石闭源专有的FPGA墨水屏刷新调度的，没有针对墨水屏优化过的桌面一定体验会很差\n另外文石这板子CPU很垃圾，没它的精简版系统估计掉电会很快而且会发热很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2042519440533917763",
+        "created_at": "2026-04-10T09:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042543062791127187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760164538677395456",
+              "start": 0,
+              "username": "stellar22333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042543062791127187",
+        "in_reply_to_user_id": "1760164538677395456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042542382475022452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellar22333 刷类原生还是算了吧，这样会失去文石闭源专有的FPGA墨水屏刷新调度的，没有针对墨水屏优化过的桌面一定体验会很差\n另外文石这板子CPU很垃圾，没它的精简版系统估计掉电会很快而且会发热很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760164538677395456",
+        "conversation_id": "2042519440533917763",
+        "created_at": "2026-04-10T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042542382475022452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042542382475022452",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042542043768246767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 啊？我想刷类原生（x\n只不过可以预见的墨水屏体验差……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3673,
+          "following_count": 383,
+          "like_count": 26347,
+          "listed_count": 6,
+          "media_count": 1646,
+          "tweet_count": 11867
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T04:48:49.000Z",
+        "description": "INFJ-A | MtF 🏳️‍⚧️ | les 🏳️‍🌈 | HRT since 25.10.20 🍥 | 家长中立党 | AuDHD | GNU/Linux | vibe coding | Minecraft | Sky: Children of the Light | 看成分互fo喵 | 好多管道符喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stella223.top",
+                "end": 23,
+                "expanded_url": "https://blog.stella223.top",
+                "start": 0,
+                "url": "https://t.co/xY2kZnQ6eV"
+              }
+            ]
+          }
+        },
+        "id": "1760164538677395456",
+        "name": "Stella223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037898429301690368/jizY7Pui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 1310,
+          "like_count": 53890,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/xY2kZnQ6eV",
+        "username": "stellar22333",
+        "verified": false
+      }
+    ]
+  }
+}

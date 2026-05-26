@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1819779126225711598",
+    "created_at": "2024-08-04T02:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T03:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819930710599500086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1595663749574463489",
+          "start": 0,
+          "username": "yifusuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819930710599500086",
+    "in_reply_to_user_id": "1595663749574463489",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819779126225711598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifusuyi 为什么有一个手机打开的是GitHub客户端（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1819779126225711598",
+        "created_at": "2024-08-04T02:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T03:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819930710599500086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1595663749574463489",
+              "start": 0,
+              "username": "yifusuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819930710599500086",
+        "in_reply_to_user_id": "1595663749574463489",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819779126225711598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifusuyi 为什么有一个手机打开的是GitHub客户端（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819778815523979264",
+            "3_1819779048966680576",
+            "3_1819779120685088769"
+          ]
+        },
+        "author_id": "1595663749574463489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1819779126225711598",
+        "created_at": "2024-08-03T16:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T17:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819779126225711598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nB3sYiyScG",
+              "end": 178,
+              "expanded_url": "https://twitter.com/yifusuyi/status/1819779126225711598/photo/1",
+              "media_key": "3_1819778815523979264",
+              "start": 155,
+              "url": "https://t.co/nB3sYiyScG"
+            },
+            {
+              "display_url": "pic.twitter.com/nB3sYiyScG",
+              "end": 178,
+              "expanded_url": "https://twitter.com/yifusuyi/status/1819779126225711598/photo/1",
+              "media_key": "3_1819779048966680576",
+              "start": 155,
+              "url": "https://t.co/nB3sYiyScG"
+            },
+            {
+              "display_url": "pic.twitter.com/nB3sYiyScG",
+              "end": 178,
+              "expanded_url": "https://twitter.com/yifusuyi/status/1819779126225711598/photo/1",
+              "media_key": "3_1819779120685088769",
+              "start": 155,
+              "url": "https://t.co/nB3sYiyScG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819779126225711598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3882,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泰国 day1\n凌晨三点落地浦东，熬到七点坐地铁去徐家汇打舞萌。在二号线上站了一个小时\n下午PVG-HKG-BKK。有小孩在飞机上吵吵，一共睡了俩小时。因为熬夜了24h+，胃很难受，第二程把第一程的饭吐了。不过国泰的饭真的很好吃\n在第一程登机口很有缘地抓到了桂桂\n在泰国 711 看到了本土二椅子，打了个招呼 https://t.co/nB3sYiyScG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 128,
+          "like_count": 10992,
+          "listed_count": 3,
+          "tweet_count": 3458
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-24T06:21:06.000Z",
+        "description": "喵 | mtf | SDU CS 本科在读 | 算法竞赛选手 | 舞萌玩家 | hrt 2023.07.24 | 常驻济南青岛 |\n和姐姐永远在一起 @BeiyanNa3AlF6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "BeiyanNa3AlF6"
+              }
+            ]
+          }
+        },
+        "id": "1595663749574463489",
+        "location": "青岛市",
+        "name": "Fusu🍥",
+        "pinned_tweet_id": "1807026708186554816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682422608221061120/HL6JxP0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 252,
+          "like_count": 3518,
+          "listed_count": 6,
+          "tweet_count": 921
+        },
+        "username": "yifusuyi",
+        "verified": false
+      }
+    ]
+  }
+}

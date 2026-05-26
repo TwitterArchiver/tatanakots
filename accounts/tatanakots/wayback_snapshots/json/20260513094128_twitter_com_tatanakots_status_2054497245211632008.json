@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2054455995657806134",
+    "created_at": "2026-05-13T09:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054497245211632008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054497245211632008",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054496623666057580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium 看到底是梯子炸了还是网站炸了很简单\n去客户端给梯子进行连通性测试，节点超时就是梯子炸了\n选取一个不超时的节点，连上看错误码，cf炸了会有cf报错，源站炸了cf会提示，不套cf的源站炸了也看报错，首页5xx基本就是源站炸了\n当然，百度访问不了的时候其实也不用自己去排障了直接打运营商客服电话也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2054455995657806134",
+        "created_at": "2026-05-13T09:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054497245211632008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054497245211632008",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054496623666057580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 看到底是梯子炸了还是网站炸了很简单\n去客户端给梯子进行连通性测试，节点超时就是梯子炸了\n选取一个不超时的节点，连上看错误码，cf炸了会有cf报错，源站炸了cf会提示，不套cf的源站炸了也看报错，首页5xx基本就是源站炸了\n当然，百度访问不了的时候其实也不用自己去排障了直接打运营商客服电话也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2054455995657806134",
+        "created_at": "2026-05-13T09:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054496623666057580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ],
+          "urls": [
+            {
+              "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+              "display_url": "baidu.com",
+              "end": 49,
+              "expanded_url": "http://www.baidu.com",
+              "start": 26,
+              "title": "百度一下，你就知道",
+              "unwound_url": "http://www.baidu.com",
+              "url": "https://t.co/Ul5z9CaT74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054496623666057580",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054455995657806134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 故障排除步骤：\n访问https://t.co/Ul5z9CaT74，能访问，那就是梯子炸了或者网站炸了，不能，下一步\nping 223.5.5.5，通了，可能dns炸了，不能，网炸了，下一步\nping 网关（例如：10.0.0.1），不通，路由器炸了，通，下一步\n进路由器后台看拨号情况，拨号掉线，拨打运营商客服电话，排障结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3779,
+          "following_count": 411,
+          "like_count": 28849,
+          "listed_count": 7,
+          "media_count": 1720,
+          "tweet_count": 12773
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11898,
+          "following_count": 679,
+          "like_count": 88486,
+          "listed_count": 39,
+          "media_count": 2088,
+          "tweet_count": 32153
+        },
+        "username": "libertyelysium",
+        "verified": false
+      }
+    ]
+  }
+}

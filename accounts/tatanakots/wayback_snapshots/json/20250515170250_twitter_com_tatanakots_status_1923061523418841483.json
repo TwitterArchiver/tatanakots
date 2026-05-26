@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1923053666845458898",
+    "created_at": "2025-05-15T17:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T18:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923061523418841483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923061523418841483",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "只是说我觉得fttr理论上也是属于ac（主光猫集成ac功能）+ap（子光猫就是个带光纤接入和电口接入的ap）\n而且因为fttr给下行光口，加上分光器就可以用光路部署ap或者其他设备，这不比传统的电口ac+ap方案高级多了，这可是ONT内网的ac+ap，而且光纤细，长距离也比六类网线便宜，自己组设备不用运营商定制设备的话选更好的光模块还能有更好的内网性能\nbut，如果你还是喜欢电口布网，或者只预留了电口，那就自己用传统的布网方案，该mesh就mesh，该ac+ap就传统ac+ap，骂我干什么……😇"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923058471479456030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ 只是说我觉得fttr理论上也是属于ac（主光猫集成ac功能）+ap（子光猫就是个带光纤接入和电口接入的ap）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1923058471479456030].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1923058471479456030",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1923058471479456030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1923053666845458898",
+        "created_at": "2025-05-15T17:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T18:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923061523418841483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923061523418841483",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只是说我觉得fttr理论上也是属于ac（主光猫集成ac功能）+ap（子光猫就是个带光纤接入和电口接入的ap）\n而且因为fttr给下行光口，加上分光器就可以用光路部署ap或者其他设备，这不比传统的电口ac+ap方案高级多了，这可是ONT内网的ac+ap，而且光纤细，长距离也比六类网线便宜，自己组设备不用运营商定制设备的话选更好的光模块还能有更好的内网性能\nbut，如果你还是喜欢电口布网，或者只预留了电口，那就自己用传统的布网方案，该mesh就mesh，该ac+ap就传统ac+ap，骂我干什么……😇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923058471479456030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ 只是说我觉得fttr理论上也是属于ac（主光猫集成ac功能）+ap（子光猫就是个带光纤接入和电口接入的ap）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 192,
+          "like_count": 21484,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 7301
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 1094,
+          "like_count": 57469,
+          "listed_count": 3,
+          "media_count": 1462,
+          "tweet_count": 11175
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

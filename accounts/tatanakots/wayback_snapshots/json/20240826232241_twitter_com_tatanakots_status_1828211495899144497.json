@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042866033",
+          "name": "VMware"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "1828143621083930684",
+    "created_at": "2024-08-26T23:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T00:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828211495899144497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554005819649568768",
+          "start": 0,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828211495899144497",
+    "in_reply_to_user_id": "1554005819649568768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828143621083930684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingattackqwq 我就vscode、vs还有android studio\n立创EDA还有vmware"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1828143621083930684",
+        "created_at": "2024-08-26T23:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T00:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828211495899144497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828211495899144497",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828143621083930684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 我就vscode、vs还有android studio\n立创EDA还有vmware"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828143593296666625"
+          ]
+        },
+        "author_id": "1554005819649568768",
+        "conversation_id": "1828143621083930684",
+        "created_at": "2024-08-26T18:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T19:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828143621083930684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7rtq8cokv",
+              "end": 34,
+              "expanded_url": "https://twitter.com/wingattackqwq/status/1828143621083930684/photo/1",
+              "media_key": "3_1828143593296666625",
+              "start": 11,
+              "url": "https://t.co/g7rTq8COkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828143621083930684",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，我是差生文具多了 https://t.co/g7rTq8COkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 143,
+          "like_count": 13735,
+          "listed_count": 2,
+          "tweet_count": 4002
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "普通女大～诚招手术投资人|  \nrust，zephyr，ros，tenserflow",
+        "id": "1554005819649568768",
+        "location": "枕阳",
+        "name": "小兔叽没有小肚叽🧸",
+        "pinned_tweet_id": "1699582001031102760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800152492036304897/Zj9RQm7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 3332,
+          "like_count": 2517,
+          "listed_count": 9,
+          "tweet_count": 1903
+        },
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

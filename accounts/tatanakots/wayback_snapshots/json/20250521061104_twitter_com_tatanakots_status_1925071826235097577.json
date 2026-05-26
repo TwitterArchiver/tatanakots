@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925071763970654209"
+      ],
+      "media_source_tweet_id": [
+        "1925071777400815869"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "1925071826235097577",
+    "created_at": "2025-05-21T06:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T07:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925071826235097577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 31,
+          "id": "1753293214826848256",
+          "start": 20,
+          "username": "tatanakots"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FsA9MZOK5x",
+          "end": 55,
+          "expanded_url": "https://x.com/AcboxLiu/status/1925071777400815869/photo/1",
+          "media_key": "3_1925071763970654209",
+          "start": 32,
+          "url": "https://t.co/FsA9MZOK5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925071826235097577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925071777400815869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: 我宣布个事 @tatanakots https://t.co/FsA9MZOK5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925071763970654209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grc6keKbAAEn62e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925071763970654209"
+          ],
+          "media_source_tweet_id": [
+            "1925071777400815869"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "1925071826235097577",
+        "created_at": "2025-05-21T06:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925071826235097577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 31,
+              "id": "1753293214826848256",
+              "start": 20,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsA9MZOK5x",
+              "end": 55,
+              "expanded_url": "https://x.com/AcboxLiu/status/1925071777400815869/photo/1",
+              "media_key": "3_1925071763970654209",
+              "start": 32,
+              "url": "https://t.co/FsA9MZOK5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925071826235097577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925071777400815869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: 我宣布个事 @tatanakots https://t.co/FsA9MZOK5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925071763970654209"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1925071777400815869",
+        "created_at": "2025-05-21T06:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925071777400815869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1753293214826848256",
+              "start": 6,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsA9MZOK5x",
+              "end": 41,
+              "expanded_url": "https://x.com/AcboxLiu/status/1925071777400815869/photo/1",
+              "media_key": "3_1925071763970654209",
+              "start": 18,
+              "url": "https://t.co/FsA9MZOK5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925071777400815869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布个事 @tatanakots https://t.co/FsA9MZOK5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 198,
+          "like_count": 21598,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 7398
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/16岁/全职开发EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🇭🇰A-level&IELTS/🏳️‍⚧️/🧭@sciuxkit @bugduckteam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "bugduckteam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acbox.lol",
+                "end": 23,
+                "expanded_url": "https://acbox.lol",
+                "start": 0,
+                "url": "https://t.co/kJvOSjAt1j"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1923974641959436786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914958257879441409/Yh9QRIIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4540,
+          "following_count": 2906,
+          "like_count": 2230,
+          "listed_count": 17,
+          "media_count": 688,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/kJvOSjAt1j",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

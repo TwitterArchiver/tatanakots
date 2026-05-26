@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2041703096662081943",
+    "created_at": "2026-04-08T19:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041957749526049153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041957749526049153",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041703096662081943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 这种情况会不会是人机验证系统向模块返回了验证成功，然后前端自动向后端提交数据，后端将验证令牌向人机验证系统请求验证状态，但是不知为何或者可能后端代码出bug导致被后端判定为验证失败（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 321,
+        "media_key": "3_2041703094573264896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWWJaja8AAYJwL.jpg",
+        "width": 518
+      },
+      {
+        "height": 341,
+        "media_key": "3_2041703094569070596",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWWJaia8AQHo9t.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2041703096662081943",
+        "created_at": "2026-04-08T19:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041957749526049153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041957749526049153",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041703096662081943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 这种情况会不会是人机验证系统向模块返回了验证成功，然后前端自动向后端提交数据，后端将验证令牌向人机验证系统请求验证状态，但是不知为何或者可能后端代码出bug导致被后端判定为验证失败（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041703094573264896",
+            "3_2041703094569070596"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041703096662081943",
+        "created_at": "2026-04-08T02:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041703096662081943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2vVszM9yn",
+              "end": 46,
+              "expanded_url": "https://x.com/qianxunchan/status/2041703096662081943/photo/1",
+              "media_key": "3_2041703094573264896",
+              "start": 23,
+              "url": "https://t.co/i2vVszM9yn"
+            },
+            {
+              "display_url": "pic.x.com/i2vVszM9yn",
+              "end": 46,
+              "expanded_url": "https://x.com/qianxunchan/status/2041703096662081943/photo/1",
+              "media_key": "3_2041703094569070596",
+              "start": 23,
+              "url": "https://t.co/i2vVszM9yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041703096662081943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁研究的验证系统🫪🫪😂🤣\n这是人啊……😂😂😂 https://t.co/i2vVszM9yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 380,
+          "like_count": 26243,
+          "listed_count": 6,
+          "media_count": 1642,
+          "tweet_count": 11787
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 889,
+          "like_count": 1137,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1003
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

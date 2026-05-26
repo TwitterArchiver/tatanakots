@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1943976490213028048",
+    "created_at": "2025-07-13T00:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T01:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944193656992542814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1136890000711213056",
+          "start": 0,
+          "username": "ReMiRiA_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944193656992542814",
+    "in_reply_to_user_id": "1136890000711213056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943976490213028048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReMiRiA_maimai でも、maimaiでらくすのシステムはWindows10ですよ\nそして、maimaiでらくすのファイルネームはSinmai.exeですよね"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_1943976483036254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpkT8sW0AA3ZyC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1943976490213028048",
+        "created_at": "2025-07-13T00:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944193656992542814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1136890000711213056",
+              "start": 0,
+              "username": "ReMiRiA_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944193656992542814",
+        "in_reply_to_user_id": "1136890000711213056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943976490213028048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReMiRiA_maimai でも、maimaiでらくすのシステムはWindows10ですよ\nそして、maimaiでらくすのファイルネームはSinmai.exeですよね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943976483036254208"
+          ]
+        },
+        "author_id": "1136890000711213056",
+        "conversation_id": "1943976490213028048",
+        "created_at": "2025-07-12T10:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943976490213028048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 9,
+              "tag": "KALEIDX_SCOPE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AeaIhsZ3vX",
+              "end": 47,
+              "expanded_url": "https://x.com/ReMiRiA_maimai/status/1943976490213028048/photo/1",
+              "media_key": "3_1943976483036254208",
+              "start": 24,
+              "url": "https://t.co/AeaIhsZ3vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943976490213028048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 150771,
+          "like_count": 1723,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "共有しておきます\n#KALEIDX_SCOPE https://t.co/AeaIhsZ3vX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 202,
+          "like_count": 22098,
+          "listed_count": 3,
+          "media_count": 1224,
+          "tweet_count": 7794
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-07T06:57:53.000Z",
+        "description": "2022.9.13〜 maimai制覇  KoP5th 準優勝 系ぎてRe:MASTER最速AP/☆5/理論値 KoP6th スコアアタック1位 弐寺 CHUNITHM オンゲキ SDVX アイコンは麗星夜いぶさんより(@Eve24186720)\n気軽に話してる垢→（@ReMiRiA__sub）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Eve24186720"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "ReMiRiA__sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCl7qv…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCl7qvrReik70YENwdT64CiQ/videos?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/cphbzQHlMi"
+              }
+            ]
+          }
+        },
+        "id": "1136890000711213056",
+        "location": "紅魔館でありたい人生でした",
+        "name": "ハル",
+        "pinned_tweet_id": "1770326016440807582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766042118160834560/wHVL2yhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21822,
+          "following_count": 705,
+          "like_count": 53715,
+          "listed_count": 57,
+          "media_count": 5076,
+          "tweet_count": 40463
+        },
+        "url": "https://t.co/cphbzQHlMi",
+        "username": "ReMiRiA_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

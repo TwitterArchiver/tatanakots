@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1994341178444030201",
+    "created_at": "2025-11-29T16:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994812697788256766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1094420453261746176",
+          "start": 0,
+          "username": "shadowKrysztal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994812697788256766",
+    "in_reply_to_user_id": "1094420453261746176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994685254691676463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadowKrysztal 20T以内问题不大😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1994341178444030201",
+        "created_at": "2025-11-29T16:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994812697788256766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1094420453261746176",
+              "start": 0,
+              "username": "shadowKrysztal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994812697788256766",
+        "in_reply_to_user_id": "1094420453261746176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994685254691676463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadowKrysztal 20T以内问题不大😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094420453261746176",
+        "conversation_id": "1994341178444030201",
+        "created_at": "2025-11-29T08:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994685254691676463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994685254691676463",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994672069414625328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 应该是远比这个多的，22年之前的书80%有，22年之后的都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2883,
+          "following_count": 243,
+          "like_count": 23810,
+          "listed_count": 5,
+          "media_count": 1406,
+          "tweet_count": 9146
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-10T02:19:04.000Z",
+        "description": "NSFW Account | Perfer et obdura, dolor hic tibi proderit olim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.krysztal.dev",
+                "end": 23,
+                "expanded_url": "https://blog.krysztal.dev",
+                "start": 0,
+                "url": "https://t.co/GyAtCswHRL"
+              }
+            ]
+          }
+        },
+        "id": "1094420453261746176",
+        "location": "Beside you.",
+        "name": "krysztal.rs",
+        "pinned_tweet_id": "1953739786805817614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929851681300459520/i81W2PNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1015,
+          "like_count": 17925,
+          "listed_count": 2,
+          "media_count": 1897,
+          "tweet_count": 32834
+        },
+        "url": "https://t.co/GyAtCswHRL",
+        "username": "shadowKrysztal",
+        "verified": false
+      }
+    ]
+  }
+}

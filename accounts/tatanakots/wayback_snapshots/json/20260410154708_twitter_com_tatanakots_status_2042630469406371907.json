@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2042587012214198775",
+    "created_at": "2026-04-10T15:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042630469406371907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690565622227423232",
+          "start": 0,
+          "username": "dmorest0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042630469406371907",
+    "in_reply_to_user_id": "1690565622227423232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042629709452972382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dmorest0609 更新后出现我估计是可能更新的时候更新脚本意外动到哪个底层配置文件导致语言配置失效被重置到默认值英语了吧\n但是思维驰大陆版的表现显然不是这样，不过大陆版本身应该算是分支了，现在的锁区版更像是切换了feature flag的版本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2042587012214198775",
+        "created_at": "2026-04-10T15:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042630469406371907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690565622227423232",
+              "start": 0,
+              "username": "dmorest0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042630469406371907",
+        "in_reply_to_user_id": "1690565622227423232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042629709452972382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmorest0609 更新后出现我估计是可能更新的时候更新脚本意外动到哪个底层配置文件导致语言配置失效被重置到默认值英语了吧\n但是思维驰大陆版的表现显然不是这样，不过大陆版本身应该算是分支了，现在的锁区版更像是切换了feature flag的版本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690565622227423232",
+        "conversation_id": "2042587012214198775",
+        "created_at": "2026-04-10T15:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042629709452972382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042629709452972382",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042628662852563206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 🤔不过原po说是更新后出现的，会不会是更新发的包有问题（真的有更新下发本地化包的吗）\n不过按思维驰的尿性随便改一点再加个地区锁就当xx only版端上了也是常有的事情（逃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 384,
+          "like_count": 26380,
+          "listed_count": 6,
+          "media_count": 1648,
+          "tweet_count": 11895
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:27:15.000Z",
+        "description": "🇨🇳🇬🇧🇯🇵 ←利用可能な言語\n中国からの音ゲーマーです。みんなと仲良くして欲しい！\n跨友好 ｜Trans friendly｜互fo希望\nNow Playing: Phigros(15.87), Arcaea(11.71), maimaiでらっくす(14099)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/T9eEd1Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/T9eEd1Z",
+                "start": 0,
+                "url": "https://t.co/VctkVxXo7U"
+              }
+            ]
+          }
+        },
+        "id": "1690565622227423232",
+        "location": "Tokyo Japan",
+        "name": "DersuelsMorest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690566853834481664/ert988GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 209,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/VctkVxXo7U",
+        "username": "dmorest0609",
+        "verified": false
+      }
+    ]
+  }
+}

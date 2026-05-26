@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1843484101988495390",
+    "created_at": "2024-10-08T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843651753100861947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843651753100861947",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843635337484251320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ 你用户名变好抽象了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1843635337484251320].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1843635337484251320",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1843635337484251320"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1843484101988495390",
+        "created_at": "2024-10-08T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843651753100861947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843651753100861947",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843635337484251320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ 你用户名变好抽象了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 🌟😠@Victoria__Nagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "ins_wan"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "Victoria__Nagi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 153,
+          "like_count": 17930,
+          "listed_count": 2,
+          "tweet_count": 4873
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "依巴斯汀具有迅速而长效的组织胺抑制作用，并且具有对组胺H1受体的超强亲和力，口服给药，依巴斯汀及其代谢产物均不能穿过血脑屏障。这解释了在试验过程中观察到依巴斯汀对于中枢神经系统的轻微的镇静作用。使用于伴有或不伴有过敏性结膜炎的过敏性鼻炎（季节性和常年性），慢性特发性荨麻疹的对症治疗，以及湿疹、皮炎、痒疹、皮肤瘙痒症等。",
+        "id": "1709376564713127936",
+        "name": "依巴斯汀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843649225290338305/3igB1y3Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1034,
+          "like_count": 37135,
+          "listed_count": 6,
+          "tweet_count": 6820
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

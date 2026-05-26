@@ -1,0 +1,130 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793555558395764738",
+        "3_1793555558395727872"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "1793555575680430122",
+    "created_at": "2024-05-23T08:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T09:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793555575680430122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/eSnKCBDvsK",
+          "end": 58,
+          "expanded_url": "https://twitter.com/tatanakots/status/1793555575680430122/photo/1",
+          "media_key": "3_1793555558395764738",
+          "start": 35,
+          "url": "https://t.co/eSnKCBDvsK"
+        },
+        {
+          "display_url": "pic.twitter.com/eSnKCBDvsK",
+          "end": 58,
+          "expanded_url": "https://twitter.com/tatanakots/status/1793555575680430122/photo/1",
+          "media_key": "3_1793555558395727872",
+          "start": 35,
+          "url": "https://t.co/eSnKCBDvsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793555575680430122",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、好疼\n2、好臭\n3、再也不想下油锅了呜啊啊啊啊啊\n😭😭😭😭😭😭😭 https://t.co/eSnKCBDvsK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793555575680430122].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793555575680430122",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793555575680430122"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1793555558395764738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOP9RxcbYAIZ_UO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1793555558395727872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOP9Rxca0AAabdU.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / QQ群：833142742 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1788785530056093957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 92,
+          "like_count": 4493,
+          "listed_count": 2,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

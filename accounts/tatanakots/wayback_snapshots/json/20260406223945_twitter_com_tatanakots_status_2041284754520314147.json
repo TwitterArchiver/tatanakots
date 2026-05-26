@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2041081617859690754",
+    "created_at": "2026-04-06T22:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T23:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041284754520314147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1444953520860323843",
+          "start": 0,
+          "username": "gemwalkonwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041284754520314147",
+    "in_reply_to_user_id": "1444953520860323843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041282870665445562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gemwalkonwater 一般执法机构按照正规法律流程申请的话，即使是端到端加密苹果也会取出云端备份密钥帮助执法机构解密的\n所有公有云都不是安全的，私有云+密钥只有自己知道才安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2041081617859690754",
+        "created_at": "2026-04-06T22:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041284754520314147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1444953520860323843",
+              "start": 0,
+              "username": "gemwalkonwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041284754520314147",
+        "in_reply_to_user_id": "1444953520860323843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041282870665445562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gemwalkonwater 一般执法机构按照正规法律流程申请的话，即使是端到端加密苹果也会取出云端备份密钥帮助执法机构解密的\n所有公有云都不是安全的，私有云+密钥只有自己知道才安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444953520860323843",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2041081617859690754",
+        "created_at": "2026-04-06T22:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041282870665445562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041282870665445562",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041282374152175960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots iCloud的端到端加密不是默认打开的呀～而且之前还打不开来着。iCloud不就是数据最重要的地方吗？我之前看过苹果官方信息披露网站的白皮书，iCloud里的所有资料没有主动打开端到端加密的情况下都是可以披露的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 379,
+          "like_count": 26190,
+          "listed_count": 6,
+          "media_count": 1636,
+          "tweet_count": 11741
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T09:12:32.000Z",
+        "description": "",
+        "id": "1444953520860323843",
+        "name": "Jim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444953574757191683/yZkYL2U7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 2195,
+          "like_count": 3104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 233
+        },
+        "username": "gemwalkonwater",
+        "verified": false
+      }
+    ]
+  }
+}

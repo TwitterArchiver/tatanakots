@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2028421553734689019",
+    "created_at": "2026-03-02T14:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028473773259985001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1177394641",
+          "start": 0,
+          "username": "BakaChinatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028473773259985001",
+    "in_reply_to_user_id": "1177394641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028421553734689019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BakaChinatsu 「私」又不是「あたし」，本来就偏向中性一点，非要改成「僕」有点过分了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2028421553734689019",
+        "created_at": "2026-03-02T14:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028473773259985001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1177394641",
+              "start": 0,
+              "username": "BakaChinatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028473773259985001",
+        "in_reply_to_user_id": "1177394641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028421553734689019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BakaChinatsu 「私」又不是「あたし」，本来就偏向中性一点，非要改成「僕」有点过分了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177394641",
+        "conversation_id": "2028421553734689019",
+        "created_at": "2026-03-02T10:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028421553734689019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shiho_MtF_/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Shiho_MtF_/status/2028097838882947387",
+              "start": 78,
+              "url": "https://t.co/Huw0yq26QX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028421553734689019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1013,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028097838882947387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你日警察在给跨性别女性录口供时会把当事人本人自称的「私」（女性/中性第一人称）给强制改为男性的第一人称「僕」，在称呼这种事情上也要老保成这样真是太恶心了（ https://t.co/Huw0yq26QX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 354,
+          "like_count": 25061,
+          "listed_count": 6,
+          "media_count": 1569,
+          "tweet_count": 10990
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-14T02:01:51.000Z",
+        "description": "with @sumimakito 「永遠とはそういうこと。ワビの世界よ。」負けネコ https://t.co/naGFo5kgWv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "sumimakito"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "misskey.io/@BakaChinatsu",
+                "end": 65,
+                "expanded_url": "https://misskey.io/@BakaChinatsu",
+                "start": 42,
+                "url": "https://t.co/naGFo5kgWv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uuz.moe",
+                "end": 23,
+                "expanded_url": "https://uuz.moe",
+                "start": 0,
+                "url": "https://t.co/fuYJodSeco"
+              }
+            ]
+          }
+        },
+        "id": "1177394641",
+        "location": "幻想鄉",
+        "name": "千夏🌸",
+        "pinned_tweet_id": "1671776351785975809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671907006947684353/LWDIPAvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 711,
+          "like_count": 11634,
+          "listed_count": 23,
+          "media_count": 9351,
+          "tweet_count": 57175
+        },
+        "url": "https://t.co/fuYJodSeco",
+        "username": "BakaChinatsu",
+        "verified": false
+      }
+    ]
+  }
+}

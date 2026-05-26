@@ -1,0 +1,386 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Chrome",
+          "id": "10052778493",
+          "name": "Google Chrome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "1813060993104159004",
+    "created_at": "2024-07-16T08:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T09:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813127663974031587"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Google Chrome",
+          "probability": 0.8795,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702925354132992000",
+          "start": 0,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813127663974031587",
+    "in_reply_to_user_id": "1702925354132992000",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813060993104159004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remilia_servant Google Chrome"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1813060993104159004",
+        "created_at": "2024-07-16T08:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T09:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813127663974031587"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Google Chrome",
+              "probability": 0.8795,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813127663974031587",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813060993104159004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant Google Chrome"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812862099972055040"
+          ]
+        },
+        "author_id": "1702925354132992000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813060993104159004",
+        "created_at": "2024-07-16T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813060993104159004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jA680vN8o3",
+              "end": 23,
+              "expanded_url": "https://twitter.com/remilia_servant/status/1813060993104159004/photo/1",
+              "media_key": "3_1812862099972055040",
+              "start": 0,
+              "url": "https://t.co/jA680vN8o3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813060993104159004",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 54359,
+          "like_count": 424,
+          "quote_count": 35,
+          "reply_count": 259,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jA680vN8o3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / QQ群：833142742 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 109,
+          "like_count": 8147,
+          "listed_count": 2,
+          "tweet_count": 2876
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "［粵/Eng/台/普］香港中學生🤍💙///密友 @irohakawaiinee | 教主 @lainlain8964 | 帕琪 @patchy_servant | Comrade @liminfin | 台妹 @kotorichyandesu | 猴子 @George0_1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "irohakawaiinee"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "lainlain8964"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "patchy_servant"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "liminfin"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "kotorichyandesu"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "George0_1114"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "幻想鄉",
+        "name": "❣蕾米の妖精僕❣",
+        "pinned_tweet_id": "1811641685082026342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812148169821638656/gwTkNOfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11422,
+          "following_count": 1376,
+          "like_count": 75096,
+          "listed_count": 46,
+          "tweet_count": 22346
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

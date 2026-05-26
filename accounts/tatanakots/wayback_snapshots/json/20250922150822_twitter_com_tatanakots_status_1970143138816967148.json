@@ -1,0 +1,604 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1970143138816967148",
+    "created_at": "2025-09-22T15:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970143138816967148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chunithm/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/chunithm/status/1970109819093930111",
+          "start": 9,
+          "url": "https://t.co/JPiDaa9iqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970143138816967148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970109819093930111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是官方手台吗 https://t.co/JPiDaa9iqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34993,
+        "height": 1080,
+        "media_key": "13_1970107650030665729",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970107650030665729/img/5VjB20w5t3yrlMgP.jpg",
+        "public_metrics": {
+          "view_count": 29404
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970107650030665729/vid/avc1/640x360/ZBl_J4U32ptSnNfH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970107650030665729/vid/avc1/1920x1080/x1LKT5CCP-r3GMFC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970107650030665729/vid/avc1/1280x720/fjOpWz2WX7nBqiYZ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970107650030665729/vid/avc1/480x270/xTYaqF_Nu_CzmRal.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970107650030665729/pl/_TULhbMRxjiNU_g-.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1970143138816967148",
+        "created_at": "2025-09-22T15:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970143138816967148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chunithm/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/chunithm/status/1970109819093930111",
+              "start": 9,
+              "url": "https://t.co/JPiDaa9iqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970143138816967148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970109819093930111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是官方手台吗 https://t.co/JPiDaa9iqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970107650030665729"
+          ]
+        },
+        "author_id": "2903786371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1970109819093930111",
+        "created_at": "2025-09-22T12:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970109819093930111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "CHUNITHM10周年 大正義祭",
+              "probability": 0.5143,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "ギガニズム",
+              "probability": 0.3392,
+              "start": 28,
+              "type": "Organization"
+            },
+            {
+              "end": 57,
+              "normalized_text": "RED°TOKYO TOWER 5F",
+              "probability": 0.2568,
+              "start": 40,
+              "type": "Organization"
+            },
+            {
+              "end": 69,
+              "normalized_text": "SKY STADIUM",
+              "probability": 0.6458,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "CHUNITHM10周年 大正義祭",
+              "probability": 0.3151,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2025年9月13日(土)より RED° TOKYO TOWER にて「CHUNITHM10周年 大正義祭」を開催！ 特別仕様のチュウニズムや、展示、スタンプラリー、クイズ、コラボドリンクなどファン必見の内容が盛りだくさ […]",
+              "display_url": "tokyotower.red-brand.jp/event/red_chun…",
+              "end": 180,
+              "expanded_url": "https://tokyotower.red-brand.jp/event/red_chunithm/",
+              "start": 157,
+              "status": 200,
+              "title": "CHUNITHM10周年 大正義祭 | RED° TOKYO TOWER OFFICIAL WEBSITE",
+              "unwound_url": "https://tokyotower.red-brand.jp/event/red_chunithm/",
+              "url": "https://t.co/gjDZP3ACrh"
+            },
+            {
+              "display_url": "pic.x.com/cFI6Mxx8Um",
+              "end": 204,
+              "expanded_url": "https://x.com/chunithm/status/1970109819093930111/video/1",
+              "media_key": "13_1970107650030665729",
+              "start": 181,
+              "url": "https://t.co/cFI6Mxx8Um"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970109819093930111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "tokyotower.red-brand.jp/event/red_chun…",
+                "end": 180,
+                "expanded_url": "https://tokyotower.red-brand.jp/event/red_chunithm/",
+                "start": 157,
+                "url": "https://t.co/iADOW7ImjT"
+              }
+            ]
+          },
+          "text": "【CHUNITHM10周年 大正義祭】\nいよいよ明日からギガニズムがオープン！\nRED°TOKYO TOWER 5F「SKY STADIUM」にて、大型4面LEDパネルを使った“巨大チュウニズム”が登場！\nチュウニペンギンによる、ギガニズム体験をチラ見せ！\n\n🔽CHUNITHM10周年 大正義祭の詳細はコチラ🔽\nhttps://t.co/iADOW7ImjT\n\n※ギガニズムのプレイには時間指定のある「ギガニズムプレイ付きのチケット」が必要です。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 81856,
+          "like_count": 1228,
+          "quote_count": 54,
+          "reply_count": 6,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "【CHUNITHM10周年 大正義祭】\nいよいよ明日からギガニズムがオープン！\nRED°TOKYO TOWER 5F「SKY STADIUM」にて、大型4面LEDパネルを使った“巨大チュウニズム”が登場！\nチュウニペンギンによる、ギガニズム体験をチラ見せ！\n\n🔽CHUNITHM10周年 大正義祭の詳細はコチラ🔽\nhttps://t.co/gjDZP3ACrh https://t.co/cFI6Mxx8Um"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生  🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 221,
+          "like_count": 22374,
+          "listed_count": 4,
+          "media_count": 1304,
+          "tweet_count": 8386
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-18T15:12:08.000Z",
+        "description": "SEGA音楽ゲーム「CHUNITHM（チュウニズム）」の公式アカウントです。▼ゲキチュウマイ→@performai ▼イロドリミドリ→ @irodorimidori5 ▼maimai公式→ @maimai_official ▼オンゲキ公式→ @ongeki_official ▼公式全国大会→ @kop_sega",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "performai"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "irodorimidori5"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "maimai_official"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "ongeki_official"
+              },
+              {
+                "end": 156,
+                "start": 147,
+                "username": "kop_sega"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunithm.sega.jp",
+                "end": 23,
+                "expanded_url": "http://chunithm.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/ieZUf6RyaN"
+              }
+            ]
+          }
+        },
+        "id": "2903786371",
+        "location": "セガ",
+        "name": "チュウニズム公式",
+        "pinned_tweet_id": "1967423132118982799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945320758713982976/Jjt7GUrh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221809,
+          "following_count": 161,
+          "like_count": 323,
+          "listed_count": 1903,
+          "media_count": 1915,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/ieZUf6RyaN",
+        "username": "chunithm",
+        "verified": true
+      }
+    ]
+  }
+}

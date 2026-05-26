@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1905923021698961750",
+    "created_at": "2025-03-29T16:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T17:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906021139861921910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777773509332393984",
+          "start": 0,
+          "username": "luo_bei96733"
+        },
+        {
+          "end": 24,
+          "id": "1597257668313260033",
+          "start": 14,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906021139861921910",
+    "in_reply_to_user_id": "1777773509332393984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906017794862493764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_bei96733 @Minokakay 您是想卖毒品嘛搞这么麻烦\n快递可以不用填真实地址，不实名，墙内收款方式都可以用别人的，就看愿不愿意增加点成本了（不过最后成本还是会转嫁在消费者身上）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1905923021698961750",
+        "created_at": "2025-03-29T16:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906021139861921910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777773509332393984",
+              "start": 0,
+              "username": "luo_bei96733"
+            },
+            {
+              "end": 24,
+              "id": "1597257668313260033",
+              "start": 14,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906021139861921910",
+        "in_reply_to_user_id": "1777773509332393984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906017794862493764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_bei96733 @Minokakay 您是想卖毒品嘛搞这么麻烦\n快递可以不用填真实地址，不实名，墙内收款方式都可以用别人的，就看愿不愿意增加点成本了（不过最后成本还是会转嫁在消费者身上）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777773509332393984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1905923021698961750",
+        "created_at": "2025-03-29T16:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906017794862493764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906017794862493764",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905923021698961750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我突然在想一个问题，如果把整个交易流程复杂化，比如拿csgo的饰品作为中间交易，然后你“感谢”对方便宜卖你饰品所以送ta零食，然后其中有一个袋子是药，反正最近不是有快递公司塞诈骗信息的新闻嘛，要是被发现了就说不知道应该是快递公司塞的，这样相对来说是不是好一点，但是次数多了会有点奇怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 181,
+          "like_count": 20923,
+          "listed_count": 3,
+          "media_count": 1077,
+          "tweet_count": 6737
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T19:00:18.000Z",
+        "description": "是男的，上推是为了看黄的，但是啥都爱凑热闹，所以可能各种地方都会评论，如果是因为我的评论觉得我挺有意思，建议只收藏评论，因为我过来就是看黄的，关注我可能会刷到一堆黄推",
+        "id": "1777773509332393984",
+        "name": "洛北川",
+        "pinned_tweet_id": "1873608514519924906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846613288219824129/v9I--AA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 295,
+          "like_count": 21026,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2359
+        },
+        "username": "luo_bei96733",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 850,
+          "like_count": 39521,
+          "listed_count": 28,
+          "media_count": 707,
+          "tweet_count": 15574
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

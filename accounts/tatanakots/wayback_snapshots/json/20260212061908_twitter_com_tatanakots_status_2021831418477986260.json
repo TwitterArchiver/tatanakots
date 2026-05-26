@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2021784574674817426",
+    "created_at": "2026-02-12T06:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021831418477986260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841605378267561984",
+          "start": 0,
+          "username": "EmilyKruse34690"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021831418477986260",
+    "in_reply_to_user_id": "1841605378267561984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021784574674817426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmilyKruse34690 はい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2021784574674817426",
+        "created_at": "2026-02-12T06:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021831418477986260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841605378267561984",
+              "start": 0,
+              "username": "EmilyKruse34690"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021831418477986260",
+        "in_reply_to_user_id": "1841605378267561984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021784574674817426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmilyKruse34690 はい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841605378267561984",
+        "conversation_id": "2021784574674817426",
+        "created_at": "2026-02-12T03:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021784574674817426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021784574674817426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1028,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女性ホルモン投与してるー🙋‍♀️って人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 348,
+          "like_count": 24709,
+          "listed_count": 6,
+          "media_count": 1538,
+          "tweet_count": 10609
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T22:25:23.000Z",
+        "description": "女の子になりたいです。 2024.9〜女性ホルモン投与中",
+        "id": "1841605378267561984",
+        "name": "るな@女性ホルモン投与中",
+        "pinned_tweet_id": "2020129993691365483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991018011415977984/M6_wj0R7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12480,
+          "following_count": 57,
+          "like_count": 406,
+          "listed_count": 37,
+          "media_count": 93,
+          "tweet_count": 617
+        },
+        "username": "EmilyKruse34690",
+        "verified": false
+      }
+    ]
+  }
+}

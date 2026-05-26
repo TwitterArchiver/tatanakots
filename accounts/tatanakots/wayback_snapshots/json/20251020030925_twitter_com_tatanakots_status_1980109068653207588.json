@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1980002698788581488",
+    "created_at": "2025-10-20T03:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980109068653207588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2909931697",
+          "start": 0,
+          "username": "baobao1270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980109068653207588",
+    "in_reply_to_user_id": "2909931697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980086168437113107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao1270 阿里好像也有公共ntp服务器来着，不过我更喜欢用授时中心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1980002698788581488",
+        "created_at": "2025-10-20T03:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980109068653207588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2909931697",
+              "start": 0,
+              "username": "baobao1270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980109068653207588",
+        "in_reply_to_user_id": "2909931697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980086168437113107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao1270 阿里好像也有公共ntp服务器来着，不过我更喜欢用授时中心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2909931697",
+        "conversation_id": "1980002698788581488",
+        "created_at": "2025-10-20T01:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T02:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980086168437113107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980086168437113107",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980084716499021988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 神奇.......听说前几年Web对时实际用的是美团的接口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 229,
+          "like_count": 23129,
+          "listed_count": 4,
+          "media_count": 1355,
+          "tweet_count": 8775
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-25T10:56:02.000Z",
+        "description": "「生如逆旅 · 一苇以航」| Naïve Vocaloid Producer - 天依粉 / 南北一生推 | Full Stack Developer - Python / TypeScript / C# / Linux / Docker | BGP Player | FCC T Class HAM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "josephcz.xyz",
+                "end": 23,
+                "expanded_url": "https://josephcz.xyz/",
+                "start": 0,
+                "url": "https://t.co/zAct5bSovf"
+              }
+            ]
+          }
+        },
+        "id": "2909931697",
+        "location": "California",
+        "name": "Joseph Chris",
+        "pinned_tweet_id": "1727791349729309049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 342,
+          "like_count": 1118,
+          "listed_count": 17,
+          "media_count": 509,
+          "tweet_count": 4471
+        },
+        "url": "https://t.co/zAct5bSovf",
+        "username": "baobao1270",
+        "verified": false
+      }
+    ]
+  }
+}

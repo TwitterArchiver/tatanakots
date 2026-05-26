@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2011702095955836941",
+    "created_at": "2026-01-16T19:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T20:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012240314267001236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "831495289441628160",
+          "start": 0,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012240314267001236",
+    "in_reply_to_user_id": "831495289441628160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011702095955836941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changwei1006 估计是忘记配置tls证书了，负载均衡出口那边默认回退到*.facebook.com的证书来保证https连接能够正常进行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2011702088196374529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sAZAjbQAE9hcY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1313,
+        "media_key": "3_2011702088192180228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sAZAibQAQI7qA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2011702095955836941",
+        "created_at": "2026-01-16T19:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012240314267001236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012240314267001236",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011702095955836941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 估计是忘记配置tls证书了，负载均衡出口那边默认回退到*.facebook.com的证书来保证https连接能够正常进行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011702088196374529",
+            "3_2011702088192180228"
+          ]
+        },
+        "author_id": "831495289441628160",
+        "conversation_id": "2011702095955836941",
+        "created_at": "2026-01-15T07:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011702095955836941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Create an account or log in to Instagram - Share what you're into with the people who get you.",
+              "display_url": "nstagram.com",
+              "end": 29,
+              "expanded_url": "http://nstagram.com",
+              "images": [
+                {
+                  "height": 4168,
+                  "url": "https://pbs.twimg.com/news_img/2011292707826675713/_2ADtizf?format=jpg&name=orig",
+                  "width": 4168
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011292707826675713/_2ADtizf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "Instagram",
+              "unwound_url": "https://www.instagram.com/",
+              "url": "https://t.co/naORWrCzvL"
+            },
+            {
+              "description": "Create an account or log in to Instagram - Share what you're into with the people who get you.",
+              "display_url": "Instagram.com",
+              "end": 62,
+              "expanded_url": "http://Instagram.com",
+              "images": [
+                {
+                  "height": 4168,
+                  "url": "https://pbs.twimg.com/news_img/2011292707826675713/_2ADtizf?format=jpg&name=orig",
+                  "width": 4168
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011292707826675713/_2ADtizf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "Instagram",
+              "unwound_url": "https://www.instagram.com/",
+              "url": "https://t.co/HXMAOJkqp9"
+            },
+            {
+              "description": "Create an account or log in to Instagram - Share what you're into with the people who get you.",
+              "display_url": "nstagram.com",
+              "end": 95,
+              "expanded_url": "http://nstagram.com",
+              "images": [
+                {
+                  "height": 4168,
+                  "url": "https://pbs.twimg.com/news_img/2011292707826675713/_2ADtizf?format=jpg&name=orig",
+                  "width": 4168
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011292707826675713/_2ADtizf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "Instagram",
+              "unwound_url": "https://www.instagram.com/",
+              "url": "https://t.co/naORWrCzvL"
+            },
+            {
+              "display_url": "pic.x.com/rrZWF26yiJ",
+              "end": 169,
+              "expanded_url": "https://x.com/changwei1006/status/2011702095955836941/photo/1",
+              "media_key": "3_2011702088196374529",
+              "start": 146,
+              "url": "https://t.co/rrZWF26yiJ"
+            },
+            {
+              "display_url": "pic.x.com/rrZWF26yiJ",
+              "end": 169,
+              "expanded_url": "https://x.com/changwei1006/status/2011702095955836941/photo/1",
+              "media_key": "3_2011702088192180228",
+              "start": 146,
+              "url": "https://t.co/rrZWF26yiJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "2011702095955836941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1131,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：访问https://t.co/naORWrCzvL会redirect到https://t.co/HXMAOJkqp9\n不过Meta公司把https://t.co/naORWrCzvL的SSL证书放错了，把属于*.facebook.com挂到了*.nstagram.com这个域名上😅 https://t.co/rrZWF26yiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3571,
+          "following_count": 257,
+          "like_count": 24062,
+          "listed_count": 6,
+          "media_count": 1485,
+          "tweet_count": 9969
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "PhD student, Dept of Adult & Continuing Education, National Taiwan Normal University.\nFormerly studied ECE & CSIE.\nInterned at @PingCAP & @RisingWaveLabs as FE.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "PingCAP"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "RisingWaveLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "https://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/d6BXAYKIG3"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18528,
+          "following_count": 5037,
+          "like_count": 132612,
+          "listed_count": 140,
+          "media_count": 5725,
+          "tweet_count": 18269
+        },
+        "url": "https://t.co/d6BXAYKIG3",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

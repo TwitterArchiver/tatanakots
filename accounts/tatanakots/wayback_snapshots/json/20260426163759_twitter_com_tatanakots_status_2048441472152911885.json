@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2048256578751730025",
+    "created_at": "2026-04-26T16:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048441472152911885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "466143675",
+          "start": 0,
+          "username": "ipid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048441472152911885",
+    "in_reply_to_user_id": "466143675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048440107049582691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ipid__ 我的电脑比较纯洁，没记几个牛郎的地址"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2048256578751730025",
+        "created_at": "2026-04-26T16:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048441472152911885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "466143675",
+              "start": 0,
+              "username": "ipid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048441472152911885",
+        "in_reply_to_user_id": "466143675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048440107049582691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ipid__ 我的电脑比较纯洁，没记几个牛郎的地址"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "466143675",
+        "conversation_id": "2048256578751730025",
+        "created_at": "2026-04-26T16:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048440107049582691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048440107049582691",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048256578751730025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 每台电脑里面都有一个 hosts，记载了很多个牛郎的列表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 405,
+          "like_count": 27551,
+          "listed_count": 7,
+          "media_count": 1678,
+          "tweet_count": 12303
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-17T03:18:43.000Z",
+        "description": "ip（読み方：あいぴー）と呼んでください！♂、日本語・中国語🙆、DM・リプ大歓迎！　  　　                                     　　　　　 ┆鯉友（Liyuu / リーユウ）┆えもとも（絵森彩 / #AyaEmori）┆Liella!（リエラ）┆ちいかわ┆踊ってみた┆日本語学習者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 118,
+                "tag": "AyaEmori"
+              }
+            ]
+          }
+        },
+        "id": "466143675",
+        "location": "中国（上海）",
+        "name": "ip（あいぴー）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890392446938587136/98NefBmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 519,
+          "like_count": 9580,
+          "listed_count": 7,
+          "media_count": 378,
+          "tweet_count": 2381
+        },
+        "username": "ipid__",
+        "verified": false
+      }
+    ]
+  }
+}

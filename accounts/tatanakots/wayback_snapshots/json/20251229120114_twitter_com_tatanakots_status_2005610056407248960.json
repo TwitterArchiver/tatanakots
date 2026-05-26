@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2004942771300470955",
+    "created_at": "2025-12-29T12:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005610056407248960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818868633759858688",
+          "start": 0,
+          "username": "Xxw3nSyxX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005610056407248960",
+    "in_reply_to_user_id": "1818868633759858688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005347006957728207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxw3nSyxX_ 我咋知道，我说过我没毁过别人的号，而且我现在是短发"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005347006957728207].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005347006957728207",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005347006957728207"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2004942771300470955",
+        "created_at": "2025-12-29T12:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005610056407248960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818868633759858688",
+              "start": 0,
+              "username": "Xxw3nSyxX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005610056407248960",
+        "in_reply_to_user_id": "1818868633759858688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005347006957728207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxw3nSyxX_ 我咋知道，我说过我没毁过别人的号，而且我现在是短发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3462,
+          "following_count": 244,
+          "like_count": 23962,
+          "listed_count": 6,
+          "media_count": 1458,
+          "tweet_count": 9637
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-01T04:37:40.000Z",
+        "description": "请叫我绿猫",
+        "id": "1818868633759858688",
+        "location": "把我的舞萌号还给我",
+        "name": "意大利绿猫杰拉多尼🍨",
+        "pinned_tweet_id": "1993933112443851220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003398832651173888/A0tmjsA4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 156,
+          "like_count": 2081,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1427
+        },
+        "username": "Xxw3nSyxX_",
+        "verified": false
+      }
+    ]
+  }
+}

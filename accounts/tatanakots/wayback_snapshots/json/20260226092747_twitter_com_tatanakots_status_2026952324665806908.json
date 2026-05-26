@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2026932700670800380",
+    "created_at": "2026-02-26T09:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026952324665806908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026952324665806908",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026950669324939345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk main函数的返回值会作为程序的返回值传递给调用该程序的程序，一般返回0代表程序正常结束，非0值代表程序异常结束\n一般在自动化ci/cd工作流中守护进程会读取返回值以确保程序在按计划运行，在返回非0值的情况下可能会切断整个工作流并申请人工介入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2026932700670800380",
+        "created_at": "2026-02-26T09:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026952324665806908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026952324665806908",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026950669324939345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk main函数的返回值会作为程序的返回值传递给调用该程序的程序，一般返回0代表程序正常结束，非0值代表程序异常结束\n一般在自动化ci/cd工作流中守护进程会读取返回值以确保程序在按计划运行，在返回非0值的情况下可能会切断整个工作流并申请人工介入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2026932700670800380",
+        "created_at": "2026-02-26T09:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026950669324939345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "1753293214826848256",
+              "start": 6,
+              "username": "tatanakots"
+            },
+            {
+              "end": 34,
+              "id": "1752640236138684416",
+              "start": 18,
+              "username": "xiohunggu251015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026950669324939345",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026950139168911732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @tatanakots @xiohunggu251015 返回 0 有什么作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 349,
+          "like_count": 24939,
+          "listed_count": 6,
+          "media_count": 1560,
+          "tweet_count": 10887
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 282,
+          "like_count": 3203,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 305
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

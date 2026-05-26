@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "1976974107620393073",
+    "created_at": "2025-10-12T11:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T12:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977329024813908167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4827701473",
+          "start": 0,
+          "username": "Arlia_etoile"
+        },
+        {
+          "end": 23,
+          "id": "1600261024338399241",
+          "start": 14,
+          "username": "riinne39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977329024813908167",
+    "in_reply_to_user_id": "4827701473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977157061990662155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arlia_etoile @riinne39 可能是云控下发的热更新模块，大版本上架或者ip位于上海会屏蔽这个功能（大陆AppStore审核中心在上海）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1976974107620393073",
+        "created_at": "2025-10-12T11:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977329024813908167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4827701473",
+              "start": 0,
+              "username": "Arlia_etoile"
+            },
+            {
+              "end": 23,
+              "id": "1600261024338399241",
+              "start": 14,
+              "username": "riinne39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977329024813908167",
+        "in_reply_to_user_id": "4827701473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977157061990662155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arlia_etoile @riinne39 可能是云控下发的热更新模块，大版本上架或者ip位于上海会屏蔽这个功能（大陆AppStore审核中心在上海）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4827701473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1976974107620393073",
+        "created_at": "2025-10-11T23:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T00:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977157061990662155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600261024338399241",
+              "start": 0,
+              "username": "riinne39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977157061990662155",
+        "in_reply_to_user_id": "1600261024338399241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3873,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976974107620393073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riinne39 app store审核给国产app放水，本来实时活动不允许打广告的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 📃大证 25/09/22 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 228,
+          "like_count": 22887,
+          "listed_count": 4,
+          "media_count": 1343,
+          "tweet_count": 8667
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-28T23:24:41.000Z",
+        "description": "MTF🏳️‍⚧️（含糖）｜叫我Arlia就可以啦～｜自己想发的东西不是很多，通常活跃在各大评论区｜风向总是会变的，总有一天会吹向更加光明的地方｜超级超级可爱的姐姐：澪姐姐@Natsusorami_pro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "Natsusorami_pro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.one/@arlia",
+                "end": 23,
+                "expanded_url": "https://nya.one/@arlia",
+                "start": 0,
+                "url": "https://t.co/mSeKN5IkPr"
+              }
+            ]
+          }
+        },
+        "id": "4827701473",
+        "location": "迦勒底 南极洲",
+        "name": "Arlia Étoile",
+        "pinned_tweet_id": "1535480570771148800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896046353966620672/uMLD_xF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 854,
+          "like_count": 75730,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 15572
+        },
+        "url": "https://t.co/mSeKN5IkPr",
+        "username": "Arlia_etoile",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T22:49:22.000Z",
+        "description": "“Life’s insane.” University of Bristol UG CS | UTC +1 time zone | English & Chinese available",
+        "id": "1600261024338399241",
+        "location": "Hong Kong",
+        "name": "Rinne",
+        "pinned_tweet_id": "1748763230988804362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873953222273990656/xCYt1bp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 852,
+          "like_count": 21914,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 2828
+        },
+        "username": "riinne39",
+        "verified": false
+      }
+    ]
+  }
+}

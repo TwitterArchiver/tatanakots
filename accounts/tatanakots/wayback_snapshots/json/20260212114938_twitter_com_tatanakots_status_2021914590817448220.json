@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021914444746637312"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10024011469",
+          "name": "Nintendo Wii"
+        }
+      }
+    ],
+    "conversation_id": "2021914590817448220",
+    "created_at": "2026-02-12T11:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021914590817448220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BKQ0pMWcb1",
+          "end": 63,
+          "expanded_url": "https://x.com/tatanakots/status/2021914590817448220/photo/1",
+          "media_key": "3_2021914444746637312",
+          "start": 40,
+          "url": "https://t.co/BKQ0pMWcb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021914590817448220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "节奏天国好玩！\n但是任天堂怎么不出一个wiiu的节奏天国啊，wii版的好糊啊🙃 https://t.co/BKQ0pMWcb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2021914444746637312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9IeZVawAAfzNs.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021914444746637312"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10024011469",
+              "name": "Nintendo Wii"
+            }
+          }
+        ],
+        "conversation_id": "2021914590817448220",
+        "created_at": "2026-02-12T11:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021914590817448220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKQ0pMWcb1",
+              "end": 63,
+              "expanded_url": "https://x.com/tatanakots/status/2021914590817448220/photo/1",
+              "media_key": "3_2021914444746637312",
+              "start": 40,
+              "url": "https://t.co/BKQ0pMWcb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021914590817448220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "节奏天国好玩！\n但是任天堂怎么不出一个wiiu的节奏天国啊，wii版的好糊啊🙃 https://t.co/BKQ0pMWcb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 348,
+          "like_count": 24716,
+          "listed_count": 6,
+          "media_count": 1540,
+          "tweet_count": 10615
+        },
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1998291267579773043",
+    "created_at": "2025-12-09T15:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998414487234486466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1707686509267304448",
+          "start": 0,
+          "username": "oooX_Oxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998414487234486466",
+    "in_reply_to_user_id": "1707686509267304448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998409934766289310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooX_Oxxx 啊，typo！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1998291267579773043",
+        "created_at": "2025-12-09T15:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998414487234486466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1707686509267304448",
+              "start": 0,
+              "username": "oooX_Oxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998414487234486466",
+        "in_reply_to_user_id": "1707686509267304448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998409934766289310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooX_Oxxx 啊，typo！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707686509267304448",
+        "conversation_id": "1998291267579773043",
+        "created_at": "2025-12-09T15:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998409934766289310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 17,
+              "id": "1909390269533011968",
+              "start": 12,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998409934766289310",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998291267579773043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @gork 她@錯你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 243,
+          "like_count": 23913,
+          "listed_count": 5,
+          "media_count": 1431,
+          "tweet_count": 9348
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-29T09:19:38.000Z",
+        "description": "",
+        "id": "1707686509267304448",
+        "location": "",
+        "name": "oxo",
+        "pinned_tweet_id": "1955311545417666843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997924182882144258/gJNG7Quq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 994,
+          "like_count": 12889,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 935
+        },
+        "username": "oooX_Oxxx",
+        "verified": false
+      }
+    ]
+  }
+}

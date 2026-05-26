@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2022276708137943067",
+    "created_at": "2026-02-19T07:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024388433821782471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992785513993089024",
+          "start": 0,
+          "username": "xuelang114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lemon_wahlap/s…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/lemon_wahlap/status/2002013480388587697",
+          "start": 150,
+          "url": "https://t.co/h2zvMWouOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024388433821782471",
+    "in_reply_to_user_id": "1992785513993089024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002013480388587697",
+        "type": "quoted"
+      },
+      {
+        "id": "2022300407876501617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelang114514 对的，因为核心py我魔改过，缝合了一些函数，你可以去用当时我开盒事件泄漏的核心文件直接套进去用\nwebui是我直接拷贝的maimaidxnet，然后用vue做了header和footer的复用之类的东西\n不过舞萌更新后后端其实有些接口需要更新了，但是我不打算继续维护了 https://t.co/h2zvMWouOr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2022276708137943067",
+        "created_at": "2026-02-19T07:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024388433821782471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992785513993089024",
+              "start": 0,
+              "username": "xuelang114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lemon_wahlap/s…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/lemon_wahlap/status/2002013480388587697",
+              "start": 150,
+              "url": "https://t.co/h2zvMWouOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024388433821782471",
+        "in_reply_to_user_id": "1992785513993089024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002013480388587697",
+            "type": "quoted"
+          },
+          {
+            "id": "2022300407876501617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelang114514 对的，因为核心py我魔改过，缝合了一些函数，你可以去用当时我开盒事件泄漏的核心文件直接套进去用\nwebui是我直接拷贝的maimaidxnet，然后用vue做了header和footer的复用之类的东西\n不过舞萌更新后后端其实有些接口需要更新了，但是我不打算继续维护了 https://t.co/h2zvMWouOr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002004181373341696",
+        "conversation_id": "2002013480388587697",
+        "created_at": "2025-12-19T13:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002013480388587697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This file has been shared with you on pixeldrain",
+              "display_url": "pixeldrain.com/u/RuawfBWy",
+              "end": 190,
+              "expanded_url": "https://pixeldrain.com/u/RuawfBWy",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2002013522813919233/HlNGdVBt?format=png&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2002013522813919233/HlNGdVBt?format=png&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 167,
+              "status": 200,
+              "title": "userleaked-tech-001.zip",
+              "unwound_url": "https://pixeldrain.com/u/RuawfBWy",
+              "url": "https://t.co/F6W4tWxwEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002013480388587697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 9392,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "We have noticed database files and cheating tools publicly released by some users, and we have saved and are analyzing them.\n\nWould you like to analyze them with us? →https://t.co/F6W4tWxwEE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992785513993089024",
+        "conversation_id": "2022276708137943067",
+        "created_at": "2026-02-13T13:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022300407876501617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022300407876501617",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022299029900820747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots py我找到了，但是好像类名不一样，但是前端跑起来了，webui还是挺好看的😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 352,
+          "like_count": 24814,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 10725
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T02:42:01.000Z",
+        "description": "尊重任何人",
+        "id": "1992785513993089024",
+        "name": "雪狼sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009104235158491138/8Hycy4Yx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "xuelang114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T13:13:11.000Z",
+        "description": "Working at WAHLAP, Maimai DX CHN operations.",
+        "id": "2002004181373341696",
+        "name": "柠檬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002005597827579905/ik02JXoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "lemon_wahlap",
+        "verified": false
+      }
+    ]
+  }
+}

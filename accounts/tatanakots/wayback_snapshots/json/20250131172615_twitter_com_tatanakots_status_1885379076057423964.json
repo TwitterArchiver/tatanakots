@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885379067979194370",
+        "3_1885379067987582981"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      }
+    ],
+    "conversation_id": "1885379076057423964",
+    "created_at": "2025-01-31T17:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T18:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885379076057423964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kApOoac0Na",
+          "end": 137,
+          "expanded_url": "https://x.com/tatanakots/status/1885379076057423964/photo/1",
+          "media_key": "3_1885379067979194370",
+          "start": 114,
+          "url": "https://t.co/kApOoac0Na"
+        },
+        {
+          "display_url": "pic.x.com/kApOoac0Na",
+          "end": 137,
+          "expanded_url": "https://x.com/tatanakots/status/1885379076057423964/photo/1",
+          "media_key": "3_1885379067987582981",
+          "start": 114,
+          "url": "https://t.co/kApOoac0Na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885379076057423964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好奇为什么中国银行的系统里面新台币的货币代号是TWD而不是更通用的NTD\n是因为觉得NT太脑瘫了嘛🤔\n\n（不过我发现支付X Premium的时候一次都没有触发过3DS，但是每次我付巴哈的费用的时候都要3DS一下，即使金额很小） https://t.co/kApOoac0Na"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1885379067979194370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gio2Re3bYAIJzoe.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1885379067987582981",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gio2Re5bYAUTmiF.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885379067979194370",
+            "3_1885379067987582981"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          }
+        ],
+        "conversation_id": "1885379076057423964",
+        "created_at": "2025-01-31T17:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T18:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885379076057423964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kApOoac0Na",
+              "end": 137,
+              "expanded_url": "https://x.com/tatanakots/status/1885379076057423964/photo/1",
+              "media_key": "3_1885379067979194370",
+              "start": 114,
+              "url": "https://t.co/kApOoac0Na"
+            },
+            {
+              "display_url": "pic.x.com/kApOoac0Na",
+              "end": 137,
+              "expanded_url": "https://x.com/tatanakots/status/1885379076057423964/photo/1",
+              "media_key": "3_1885379067987582981",
+              "start": 114,
+              "url": "https://t.co/kApOoac0Na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885379076057423964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇为什么中国银行的系统里面新台币的货币代号是TWD而不是更通用的NTD\n是因为觉得NT太脑瘫了嘛🤔\n\n（不过我发现支付X Premium的时候一次都没有触发过3DS，但是每次我付巴哈的费用的时候都要3DS一下，即使金额很小） https://t.co/kApOoac0Na"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 177,
+          "like_count": 20551,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 6237
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

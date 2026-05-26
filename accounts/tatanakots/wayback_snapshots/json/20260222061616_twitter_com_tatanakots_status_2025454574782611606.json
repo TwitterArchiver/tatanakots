@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025454567249641477",
+        "3_2025454567253737472"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      }
+    ],
+    "conversation_id": "2025348083429900681",
+    "created_at": "2026-02-22T06:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025454574782611606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1928687976281944068",
+          "start": 0,
+          "username": "juhuhiulzy448"
+        },
+        {
+          "end": 23,
+          "id": "21308096",
+          "start": 15,
+          "username": "cloudwu"
+        },
+        {
+          "end": 33,
+          "id": "1828632343680294916",
+          "start": 24,
+          "username": "jianlvya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T82Y5RNBqV",
+          "end": 109,
+          "expanded_url": "https://x.com/tatanakots/status/2025454574782611606/photo/1",
+          "media_key": "3_2025454567249641477",
+          "start": 86,
+          "url": "https://t.co/T82Y5RNBqV"
+        },
+        {
+          "display_url": "pic.x.com/T82Y5RNBqV",
+          "end": 109,
+          "expanded_url": "https://x.com/tatanakots/status/2025454574782611606/photo/1",
+          "media_key": "3_2025454567253737472",
+          "start": 86,
+          "url": "https://t.co/T82Y5RNBqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025454574782611606",
+    "in_reply_to_user_id": "1928687976281944068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025387067446882615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juhuhiulzy448 @cloudwu @jianlvya 王者荣耀是Arena of Valor\n蛋仔派对是Eggy Party\n都可以在eShop里面免费下载 https://t.co/T82Y5RNBqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2025454567249641477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvcMpWbgAU_TXu.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2025454567253737472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvcMpXaAAA8889.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025454567249641477",
+            "3_2025454567253737472"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2025348083429900681",
+        "created_at": "2026-02-22T06:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025454574782611606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1928687976281944068",
+              "start": 0,
+              "username": "juhuhiulzy448"
+            },
+            {
+              "end": 23,
+              "id": "21308096",
+              "start": 15,
+              "username": "cloudwu"
+            },
+            {
+              "end": 33,
+              "id": "1828632343680294916",
+              "start": 24,
+              "username": "jianlvya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T82Y5RNBqV",
+              "end": 109,
+              "expanded_url": "https://x.com/tatanakots/status/2025454574782611606/photo/1",
+              "media_key": "3_2025454567249641477",
+              "start": 86,
+              "url": "https://t.co/T82Y5RNBqV"
+            },
+            {
+              "display_url": "pic.x.com/T82Y5RNBqV",
+              "end": 109,
+              "expanded_url": "https://x.com/tatanakots/status/2025454574782611606/photo/1",
+              "media_key": "3_2025454567253737472",
+              "start": 86,
+              "url": "https://t.co/T82Y5RNBqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025454574782611606",
+        "in_reply_to_user_id": "1928687976281944068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025387067446882615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhuhiulzy448 @cloudwu @jianlvya 王者荣耀是Arena of Valor\n蛋仔派对是Eggy Party\n都可以在eShop里面免费下载 https://t.co/T82Y5RNBqV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928687976281944068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2025348083429900681",
+        "created_at": "2026-02-22T01:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025387067446882615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "21308096",
+              "start": 0,
+              "username": "cloudwu"
+            },
+            {
+              "end": 18,
+              "id": "1828632343680294916",
+              "start": 9,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025387067446882615",
+        "in_reply_to_user_id": "21308096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2358,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025383938227937583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cloudwu @jianlvya No，王者荣耀玩不了\n但任天堂确实出了一个switch版的蛋仔派对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 347,
+          "like_count": 24866,
+          "listed_count": 6,
+          "media_count": 1555,
+          "tweet_count": 10790
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T05:40:34.000Z",
+        "description": "初中生，轻度抑郁，是 pepoyo 的粉丝。\n想含又不敢含糖（?），无性恋。\n极度反共，和我一样的可互fo。\n全力支持同性恋及跨性别社群，反对的和习猪头一样没fm。\n可能会因为前面的原因不定时锁推。\n另外，超时空辉夜姬牛逼。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/P8uFgSTrmG"
+              }
+            ]
+          }
+        },
+        "id": "1928687976281944068",
+        "location": "自己猜",
+        "name": "pepoyoPPY（互fo）(淡推中)",
+        "pinned_tweet_id": "2024448565280379044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969427681247715329/DmJPucs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 319,
+          "like_count": 7753,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/P8uFgSTrmG",
+        "username": "juhuhiulzy448",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-19T15:35:03.000Z",
+        "description": "Coder, Freelancer, Blogger, Gamer, Father of 2 kids, Rock climber. Author of open source projects : skynet, ltask, sproto, luaecs, lua-bgfx, soluna, etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.codingnow.com",
+                "end": 23,
+                "expanded_url": "http://blog.codingnow.com",
+                "start": 0,
+                "url": "https://t.co/oGMgBSTSLo"
+              }
+            ]
+          }
+        },
+        "id": "21308096",
+        "location": "广州",
+        "name": "云风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385692491/me2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50519,
+          "following_count": 70,
+          "like_count": 495,
+          "listed_count": 556,
+          "media_count": 765,
+          "tweet_count": 10349
+        },
+        "url": "https://t.co/oGMgBSTSLo",
+        "username": "cloudwu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互fo）",
+        "pinned_tweet_id": "2025354486831874356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 755,
+          "like_count": 7550,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 590
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

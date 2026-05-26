@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2036733693008748584",
+    "created_at": "2026-03-25T10:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036748380458889318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036748380458889318",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036733693008748584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako 看浏览器的适配的吧，不过iOS26的Safari填充主题色的地方都用流体玻璃了，估计最后没啥效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2036733693008748584",
+        "created_at": "2026-03-25T10:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036748380458889318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036748380458889318",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036733693008748584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako 看浏览器的适配的吧，不过iOS26的Safari填充主题色的地方都用流体玻璃了，估计最后没啥效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "2036733693008748584",
+        "created_at": "2026-03-25T09:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036733693008748584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036733693008748584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iOS 26 上的 meta 标签 `theme-color` 是不是不生效？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 367,
+          "like_count": 25502,
+          "listed_count": 6,
+          "media_count": 1609,
+          "tweet_count": 11452
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "🧁🏳️‍⚧️ Founder of @AB_aboutTrans",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "AB_aboutTrans"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "大连",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "2032531944907616526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005160042845405188/7FNnSndN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6051,
+          "following_count": 1551,
+          "like_count": 43519,
+          "listed_count": 10,
+          "media_count": 73,
+          "tweet_count": 823
+        },
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

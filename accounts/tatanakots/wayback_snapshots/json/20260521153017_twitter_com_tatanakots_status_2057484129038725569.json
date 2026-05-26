@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2057392861658960196",
+    "created_at": "2026-05-21T15:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057484129038725569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057484129038725569",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057483829192052977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2057392861658960196",
+        "created_at": "2026-05-21T15:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057484129038725569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057484129038725569",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057483829192052977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "conversation_id": "2057392861658960196",
+        "created_at": "2026-05-21T15:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057483829192052977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057483829192052977",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057392861658960196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 喝口湯😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 422,
+          "like_count": 29688,
+          "listed_count": 8,
+          "media_count": 1739,
+          "tweet_count": 13053
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "Moonlight @RedteaCattleya ｜📷 | 🚃 | 🇲🇴 | 🇭🇰 | contact@amiya.eu.org ｜Best Linux @debian｜💫@McXiaowei @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "RedteaCattleya"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "debian"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "RenkoUsagi1155"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "win7.win",
+                "end": 23,
+                "expanded_url": "https://win7.win",
+                "start": 0,
+                "url": "https://t.co/ds9KOmXi36"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "name": "Mio",
+        "pinned_tweet_id": "1911442925419975127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000262071259377664/pPzK0Ja7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 890,
+          "like_count": 79170,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 4648
+        },
+        "url": "https://t.co/ds9KOmXi36",
+        "username": "Meowneko_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

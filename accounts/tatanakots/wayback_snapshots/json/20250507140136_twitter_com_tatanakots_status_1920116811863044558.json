@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920116798739124224"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1919439668015464722",
+    "created_at": "2025-05-07T14:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920116811863044558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1031845805244608518",
+          "start": 0,
+          "username": "McBilibili"
+        },
+        {
+          "end": 28,
+          "id": "1477695390619254794",
+          "start": 12,
+          "username": "shishishidifufu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5FqVK2gumf",
+          "end": 63,
+          "expanded_url": "https://x.com/tatanakots/status/1920116811863044558/photo/1",
+          "media_key": "3_1920116798739124224",
+          "start": 40,
+          "url": "https://t.co/5FqVK2gumf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920116811863044558",
+    "in_reply_to_user_id": "1031845805244608518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919858269792960656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McBilibili @shishishidifufu 你这个不够新不够热了 https://t.co/5FqVK2gumf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1919858269792960656].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919858269792960656",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919858269792960656"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_1920116798739124224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWgDiQbEAArNA4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920116798739124224"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919439668015464722",
+        "created_at": "2025-05-07T14:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920116811863044558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1031845805244608518",
+              "start": 0,
+              "username": "McBilibili"
+            },
+            {
+              "end": 28,
+              "id": "1477695390619254794",
+              "start": 12,
+              "username": "shishishidifufu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FqVK2gumf",
+              "end": 63,
+              "expanded_url": "https://x.com/tatanakots/status/1920116811863044558/photo/1",
+              "media_key": "3_1920116798739124224",
+              "start": 40,
+              "url": "https://t.co/5FqVK2gumf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920116811863044558",
+        "in_reply_to_user_id": "1031845805244608518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919858269792960656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McBilibili @shishishidifufu 你这个不够新不够热了 https://t.co/5FqVK2gumf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 189,
+          "like_count": 21432,
+          "listed_count": 2,
+          "media_count": 1145,
+          "tweet_count": 7209
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-21T10:09:45.000Z",
+        "description": "光遇推文民間翻譯\nUnofficial translation\n此号更新慢，可以使用英语和简体/繁体中文与我交流 | 泛 | ISFP\nThis account is slow to update, you can communicate with me in English and Chinese\n🏳️‍⚧️",
+        "id": "1031845805244608518",
+        "location": "Sky",
+        "name": "芯沐喵🍥",
+        "pinned_tweet_id": "1916633186244984969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887625971148464128/uITKbg_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 181,
+          "like_count": 9241,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 702
+        },
+        "username": "McBilibili",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1915438317363224787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 704,
+          "like_count": 817,
+          "listed_count": 4,
+          "media_count": 868,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2053911149092147429",
+    "created_at": "2026-05-12T07:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054104576333406208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618521",
+          "start": 0,
+          "username": "CatChen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054104576333406208",
+    "in_reply_to_user_id": "1618521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053911149092147429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatChen 一份合同在git下改动，markdown的每一条diff，每一个经过gpg签名的commit，都是你支付的高昂律师费在落地\n每一个branch都能设定保护，防止别人错误commit上去，每一条修改都有记录可以追溯，每一条gpg签名都确保修改来自对应的负责人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2053911149092147429",
+        "created_at": "2026-05-12T07:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054104576333406208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618521",
+              "start": 0,
+              "username": "CatChen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054104576333406208",
+        "in_reply_to_user_id": "1618521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053911149092147429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatChen 一份合同在git下改动，markdown的每一条diff，每一个经过gpg签名的commit，都是你支付的高昂律师费在落地\n每一个branch都能设定保护，防止别人错误commit上去，每一条修改都有记录可以追溯，每一条gpg签名都确保修改来自对应的负责人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689826",
+              "name": "Google Docs"
+            }
+          }
+        ],
+        "conversation_id": "2053911149092147429",
+        "created_at": "2026-05-11T18:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T19:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053911149092147429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pengchujin/sta…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/pengchujin/status/2053658061903163656",
+              "start": 86,
+              "url": "https://t.co/ro3ZanMVPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053911149092147429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看一下律师是怎样工作的，你就不会再质疑为什么他们用 Word。最乐观的结局是改用 Google Docs，迁移到 Markdown 是绝不可能的。\n\n一份合同在 Word 审阅模式下进行改动，红线把对你不利的条件删掉，红字把保护你的条款加上，那都是你支付的高昂律师费在落地。一份合同的最高境界被称之为「滴水不漏」，就是这样在双方律师之间一遍又一遍地来回改动而来的。这 Markdown 根本做不到。\n\n你可以尝试建议律师把邮件发送 Word 文档改为 Google Docs 线上修改，但他们不一定接受多人实时修改。有些律师会坚持他本地审阅必须是原子化操作，他批准了的文档必须锁定，别人只要改了一个标点这文档立即变回未批准状态。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 96520,
+          "like_count": 297,
+          "quote_count": 9,
+          "reply_count": 52,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053658061903163656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看一下律师是怎样工作的，你就不会再质疑为什么他们用 Word。最乐观的结局是改用 Google Docs，迁移到 Markdown 是绝不可能的。\n\n一份合同在 Word https://t.co/ro3ZanMVPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 411,
+          "like_count": 28807,
+          "listed_count": 7,
+          "media_count": 1717,
+          "tweet_count": 12743
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-20T12:06:33.000Z",
+        "description": "Career coach, programmer, author, speaker. Former engineer & manager @ Chime, Robinhood, Facebook, Wandou Labs, Yahoo, Baidu. Career coaching available.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catchen.me",
+                "end": 23,
+                "expanded_url": "https://catchen.me",
+                "start": 0,
+                "url": "https://t.co/LL9AZnFz1Z"
+              }
+            ]
+          }
+        },
+        "id": "1618521",
+        "location": "Palo Alto, CA",
+        "name": "Cat Chen, @catchen@mastodon.world",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1157952088/Cat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18949,
+          "following_count": 305,
+          "like_count": 21,
+          "listed_count": 339,
+          "media_count": 2109,
+          "tweet_count": 81640
+        },
+        "url": "https://t.co/LL9AZnFz1Z",
+        "username": "CatChen",
+        "verified": true
+      }
+    ]
+  }
+}

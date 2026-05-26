@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2042613162877555103",
+    "created_at": "2026-04-10T14:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042614051071832205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832688819017277440",
+          "start": 0,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042614051071832205",
+    "in_reply_to_user_id": "1832688819017277440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042613162877555103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@homeCollider 哇好贵的保护费！\n但是不需要标记AI生成内容和自动发推这些信息的吗（不是很懂）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2042613162877555103",
+        "created_at": "2026-04-10T14:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042614051071832205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832688819017277440",
+              "start": 0,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042614051071832205",
+        "in_reply_to_user_id": "1832688819017277440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042613162877555103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@homeCollider 哇好贵的保护费！\n但是不需要标记AI生成内容和自动发推这些信息的吗（不是很懂）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2042613162877555103",
+        "created_at": "2026-04-10T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042613162877555103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/tatanakots/status/2042612624999997484",
+              "start": 27,
+              "url": "https://t.co/VrQeEIRJAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042613162877555103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042612624999997484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我使用的官方 API。目前每周开销在 40 USD。 https://t.co/VrQeEIRJAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 384,
+          "like_count": 26371,
+          "listed_count": 6,
+          "media_count": 1648,
+          "tweet_count": 11888
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ Trans-female | 架构师 | 讼棍 | Quantic MBA '26\n赢得中国首宗涉跨性别保险案件 | 神经罕见病患者\n- 蒸馏推特上的任何人并一键部署 Agent 账号: https://t.co/oxPjs4Nzen\n- 如果哪天我不在了，请忘记我，这是我的愿望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellyfishai.org",
+                "end": 123,
+                "expanded_url": "http://jellyfishai.org",
+                "start": 100,
+                "url": "https://t.co/oxPjs4Nzen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/carolynsun",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/carolynsun",
+                "start": 0,
+                "url": "https://t.co/NGUZW7F9S9"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "location": "Shanghai",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "1981006583816753388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 257,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/NGUZW7F9S9",
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1888828323465396351",
+    "created_at": "2025-02-10T05:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T06:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888828323465396351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wenqiangjp/sta…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/wenqiangjp/status/1888543054015111624",
+          "start": 128,
+          "url": "https://t.co/dJjdWnA7tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888828323465396351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我本地部署过DeepSeek-r1 32B的Qwen蒸馏模型，也用过DeepSeek官方服务，同时拥有ChatGPT Plus订阅\n\n但是个人意见依然是ChatGPT比DeepSeek好用，但是DeepSeek能把这么好用的推理模型开源确实是很不错的。\n毕竟如果只是使用的话，我是一个普通用户，被黑客攻击不是我的问题，你应该提供稳定的服务，ChatGPT没被攻击过吗？OpenAI也有服务不稳定的时候啊，但是现在问题解决了，用户体验自然就好了。\n\n在DeepSeek解决服务可用性问题之前，其综合用户体验肯定不如ChatGPT，但是我是宽容的，这不怪他们，ChatGPT刚火起来的时候也经常服务不稳定，这种事情还是要积累经验来解决。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888543054015111624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本地部署过DeepSeek-r1 32B的Qwen蒸馏模型，也用过DeepSeek官方服务，同时拥有ChatGPT Plus订阅\n\n但是个人意见依然是ChatGPT比DeepSeek好用，但是DeepSeek能把这么好用的推理模型开源确实是很不错的。… https://t.co/dJjdWnA7tr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1888828323465396351",
+        "created_at": "2025-02-10T05:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T06:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888828323465396351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wenqiangjp/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/wenqiangjp/status/1888543054015111624",
+              "start": 128,
+              "url": "https://t.co/dJjdWnA7tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888828323465396351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我本地部署过DeepSeek-r1 32B的Qwen蒸馏模型，也用过DeepSeek官方服务，同时拥有ChatGPT Plus订阅\n\n但是个人意见依然是ChatGPT比DeepSeek好用，但是DeepSeek能把这么好用的推理模型开源确实是很不错的。\n毕竟如果只是使用的话，我是一个普通用户，被黑客攻击不是我的问题，你应该提供稳定的服务，ChatGPT没被攻击过吗？OpenAI也有服务不稳定的时候啊，但是现在问题解决了，用户体验自然就好了。\n\n在DeepSeek解决服务可用性问题之前，其综合用户体验肯定不如ChatGPT，但是我是宽容的，这不怪他们，ChatGPT刚火起来的时候也经常服务不稳定，这种事情还是要积累经验来解决。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888543054015111624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本地部署过DeepSeek-r1 32B的Qwen蒸馏模型，也用过DeepSeek官方服务，同时拥有ChatGPT Plus订阅\n\n但是个人意见依然是ChatGPT比DeepSeek好用，但是DeepSeek能把这么好用的推理模型开源确实是很不错的。… https://t.co/dJjdWnA7tr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "318366744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1888543054015111624",
+        "created_at": "2025-02-09T10:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T11:57:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888542801639739872",
+          "1888543054015111624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888543054015111624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "到目前为止，DeepSeek给我最多的反馈就是：“服务器繁忙，请稍后再试。”前些天，我以个人用户的身份在Twitter上吐槽了一下DeepSeek，结果被骂到半夜起来删帖了事。我这才意识到，这玩意儿是比“遥遥领先”还要敏感的存在。\n\n从生态多样性的角度来看，DeepSeek的出现当然是好事，但对于一个普通用户而言（注意：是一个普通用户），它目前的体验真是烂成渣。它之所以能如此火爆，只是因为有一堵墙挡住了十几亿人，让他们无法使用ChatGPT，仅此而已。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 650223,
+          "like_count": 1510,
+          "quote_count": 13,
+          "reply_count": 402,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "到目前为止，DeepSeek给我最多的反馈就是：“服务器繁忙，请稍后再试。”前些天，我以个人用户的身份在Twitter上吐槽了一下DeepSeek，结果被骂到半夜起来删帖了事。我这才意识到，这玩意儿是比“遥遥领先”还要敏感的存在。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 176,
+          "like_count": 20488,
+          "listed_count": 2,
+          "media_count": 999,
+          "tweet_count": 6312
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-16T11:23:09.000Z",
+        "description": "🇯🇵前网易新闻(日本)总编辑、教育博主、日本移民顾问 🚗日本旅游包车(绿牌)🗼定居东京第14年 📸日常分享：#温哥看日本｜#日本现场｜#每天拍一个日本人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "温哥看日本"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "日本现场"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "tag": "每天拍一个日本人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/wenqiangjp",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/wenqiangjp",
+                "start": 0,
+                "url": "https://t.co/NSFv0KNr7k"
+              }
+            ]
+          }
+        },
+        "id": "318366744",
+        "location": "Tokyo-to, Japan",
+        "name": "东京温哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826373040273588227/YrBMtIEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109772,
+          "following_count": 1146,
+          "like_count": 42914,
+          "listed_count": 324,
+          "media_count": 1517,
+          "tweet_count": 14851
+        },
+        "url": "https://t.co/NSFv0KNr7k",
+        "username": "wenqiangjp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1361684423754665994",
+          "name": "Arduino"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1361716950590623744",
+          "name": "Microcontrollers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1884080256090607838",
+    "created_at": "2025-01-28T10:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T11:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884180639580316062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2893886738",
+          "start": 0,
+          "username": "bbjk666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884180639580316062",
+    "in_reply_to_user_id": "2893886738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884080256090607838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbjk666 为什么这牙齿里面有一个Arduino UNO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1361684423754665994",
+              "name": "Arduino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1361716950590623744",
+              "name": "Microcontrollers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1884080256090607838",
+        "created_at": "2025-01-28T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884180639580316062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2893886738",
+              "start": 0,
+              "username": "bbjk666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884180639580316062",
+        "in_reply_to_user_id": "2893886738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884080256090607838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbjk666 为什么这牙齿里面有一个Arduino UNO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883908367992639488"
+          ],
+          "media_source_tweet_id": [
+            "1883908443670458617"
+          ]
+        },
+        "author_id": "2893886738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884080256090607838",
+        "created_at": "2025-01-28T03:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T04:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884080256090607838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/heHGf2Dcrh",
+              "end": 31,
+              "expanded_url": "https://x.com/zackdfilms1/status/1883908443670458617/video/1",
+              "media_key": "7_1883908367992639488",
+              "start": 8,
+              "url": "https://t.co/heHGf2Dcrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884080256090607838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 19951,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "种植智能牙齿🤔 https://t.co/heHGf2Dcrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 177,
+          "like_count": 20477,
+          "listed_count": 2,
+          "media_count": 979,
+          "tweet_count": 6208
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "分享医药资讯和科普知识，相关内容源自网络。\n不看病、不卖药，点赞=已阅。不要相信评论区各种“非官方”广告。\n欢迎关注YouTube频道：https://t.co/zsfhBqMRYo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=LO…",
+                "end": 91,
+                "expanded_url": "https://youtube.com/@bbyk168?si=LOJbYsdZfRUV8o93",
+                "start": 68,
+                "url": "https://t.co/zsfhBqMRYo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIoM9"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "地球和火星之间",
+        "name": "背包健客",
+        "pinned_tweet_id": "1882683680382165142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145344,
+          "following_count": 1324,
+          "like_count": 14691,
+          "listed_count": 550,
+          "media_count": 7773,
+          "tweet_count": 10201
+        },
+        "url": "https://t.co/XQRiJuIoM9",
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

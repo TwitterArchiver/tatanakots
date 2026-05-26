@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1964403101886271962",
+    "created_at": "2025-09-06T23:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T00:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964470125081612439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890291176227631110",
+          "start": 0,
+          "username": "xiaoxiangziqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964470125081612439",
+    "in_reply_to_user_id": "1890291176227631110",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964403101886271962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiangziqwq 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964403101886271962].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1964403101886271962",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1964403101886271962"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1964403101886271962",
+        "created_at": "2025-09-06T23:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T00:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964470125081612439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890291176227631110",
+              "start": 0,
+              "username": "xiaoxiangziqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964470125081612439",
+        "in_reply_to_user_id": "1890291176227631110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964403101886271962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiangziqwq 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生  🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 213,
+          "like_count": 21927,
+          "listed_count": 3,
+          "media_count": 1280,
+          "tweet_count": 8226
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T06:45:28.000Z",
+        "description": "@AcboxLiu的小号/常年在深圳/仅好朋友可关注/MaimaiDX/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxsky",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxsky",
+                "start": 0,
+                "url": "https://t.co/pxn13TObMN"
+              }
+            ]
+          }
+        },
+        "id": "1890291176227631110",
+        "location": "🟩深圳地铁一号线",
+        "name": "小箱子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915780424359710720/fAscXWYm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 131,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/pxn13TObMN",
+        "username": "xiaoxiangziqwq",
+        "verified": false
+      }
+    ]
+  }
+}

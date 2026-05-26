@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1858331827116921245",
+    "created_at": "2024-11-18T12:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T13:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858485885957980374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858485885957980374",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）\nLinux在引入BSOD之前不也是崩溃后直接重启的嘛，所以我估计BSD和Darwin应该内核也是类似的写法，但是紫屏有可能是没有针对用户优化过的类似Win11的BSOD一样的错误收集过程？或者可能只是某些必要的系统组件关闭后显示驱动出现了问题导致的，这具体应该要看代码的实现了吧，既然是设备共有的，那我估计可能是Darwin内核或者其他全系统都共有的组件的问题"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858331827116921245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ 今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1858331827116921245",
+        "created_at": "2024-11-18T12:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T13:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858485885957980374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858485885957980374",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）\nLinux在引入BSOD之前不也是崩溃后直接重启的嘛，所以我估计BSD和Darwin应该内核也是类似的写法，但是紫屏有可能是没有针对用户优化过的类似Win11的BSOD一样的错误收集过程？或者可能只是某些必要的系统组件关闭后显示驱动出现了问题导致的，这具体应该要看代码的实现了吧，既然是设备共有的，那我估计可能是Darwin内核或者其他全系统都共有的组件的问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858331827116921245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858331820716417024",
+            "3_1858331820720631808",
+            "3_1858331820716384256"
+          ]
+        },
+        "author_id": "1352281301613568000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1858331827116921245",
+        "created_at": "2024-11-18T02:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T03:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858331827116921245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svF0FLIZ19",
+              "end": 168,
+              "expanded_url": "https://x.com/Starlight4You_/status/1858331827116921245/photo/1",
+              "media_key": "3_1858331820716417024",
+              "start": 145,
+              "url": "https://t.co/svF0FLIZ19"
+            },
+            {
+              "display_url": "pic.x.com/svF0FLIZ19",
+              "end": 168,
+              "expanded_url": "https://x.com/Starlight4You_/status/1858331827116921245/photo/1",
+              "media_key": "3_1858331820720631808",
+              "start": 145,
+              "url": "https://t.co/svF0FLIZ19"
+            },
+            {
+              "display_url": "pic.x.com/svF0FLIZ19",
+              "end": 168,
+              "expanded_url": "https://x.com/Starlight4You_/status/1858331827116921245/photo/1",
+              "media_key": "3_1858331820716384256",
+              "start": 145,
+              "url": "https://t.co/svF0FLIZ19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858331827116921245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12695,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "苹果设备的故障总会伴随着奇怪的、极为鲜艳的紫色。\n\n为什么会是这个颜色？为什么苹果的所有设备都是统一的这个颜色呢？\n\n刚才看到Linux也在Kernel Panic提示里加入了一块二维码，联想到了Windows的BSOD。但好像Mac……它系统崩溃了会直接闪一下紫屏然后重启就当无事发生？ https://t.co/svF0FLIZ19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 154,
+          "like_count": 19124,
+          "listed_count": 1,
+          "tweet_count": 5402
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "年年岁岁花相似，岁岁年年人不同。",
+        "id": "1352281301613568000",
+        "location": "星星",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 255,
+          "like_count": 33196,
+          "listed_count": 16,
+          "tweet_count": 14659
+        },
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2032367806004752396",
+    "created_at": "2026-03-14T10:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032764359685058660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535196633079631872",
+          "start": 0,
+          "username": "MG42_DoraemonHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032764359685058660",
+    "in_reply_to_user_id": "1535196633079631872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032762839686119439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MG42_DoraemonHD 不过有可能是你家有电视盒子之类的东西偷偷打洞自己跑的pcdn，这在腾讯视频、爱奇艺、京东云路由器、百度网盘等上面很常见，不是自己跑的，收益进人家口袋，宽带封你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2032367806004752396",
+        "created_at": "2026-03-14T10:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032764359685058660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535196633079631872",
+              "start": 0,
+              "username": "MG42_DoraemonHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764359685058660",
+        "in_reply_to_user_id": "1535196633079631872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032762839686119439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MG42_DoraemonHD 不过有可能是你家有电视盒子之类的东西偷偷打洞自己跑的pcdn，这在腾讯视频、爱奇艺、京东云路由器、百度网盘等上面很常见，不是自己跑的，收益进人家口袋，宽带封你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535196633079631872",
+        "conversation_id": "2032367806004752396",
+        "created_at": "2026-03-14T10:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032762839686119439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032762839686119439",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032762277468975299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 我没有跑过，我只直播过，而且也是去年了，而被封是我不直播后，所以大流量上传更是无稽之谈，给客服打电话就是说他没权限查看，我说既然没权限你咋就认为我违规了，然后就是套话车轱辘的什么实在抱歉之类的，最后退了线换了条宽带，现在全流量代理一直没有事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 357,
+          "like_count": 25305,
+          "listed_count": 6,
+          "media_count": 1591,
+          "tweet_count": 11230
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T09:46:24.000Z",
+        "description": "すべての新鮮なものが好きだ",
+        "id": "1535196633079631872",
+        "name": "【MG42】DoraemonHD05",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003363458004451328/gmFFfVhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 53,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 899
+        },
+        "username": "MG42_DoraemonHD",
+        "verified": false
+      }
+    ]
+  }
+}

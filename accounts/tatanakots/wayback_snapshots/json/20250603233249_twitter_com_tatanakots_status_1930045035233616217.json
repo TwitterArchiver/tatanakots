@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1929849142412738605",
+    "created_at": "2025-06-03T23:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T00:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930045035233616217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        },
+        {
+          "end": 28,
+          "id": "1884959792390938624",
+          "start": 15,
+          "username": "mengqing5735"
+        },
+        {
+          "end": 45,
+          "id": "1889157954143981568",
+          "start": 29,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930045035233616217",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929849142412738605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao @mengqing5735 @_blueberrysauce 唉，出柜变成家暴党每次女装出门都会被打的TTNK表示羡慕……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929849142412738605].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929849142412738605",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929849142412738605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1929849142412738605",
+        "created_at": "2025-06-03T23:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T00:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930045035233616217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            },
+            {
+              "end": 28,
+              "id": "1884959792390938624",
+              "start": 15,
+              "username": "mengqing5735"
+            },
+            {
+              "end": 45,
+              "id": "1889157954143981568",
+              "start": 29,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930045035233616217",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929849142412738605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao @mengqing5735 @_blueberrysauce 唉，出柜变成家暴党每次女装出门都会被打的TTNK表示羡慕……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 203,
+          "like_count": 21846,
+          "listed_count": 2,
+          "media_count": 1194,
+          "tweet_count": 7539
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜HRT咨询｜提问箱链接↓｜拼图积木代拼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/gJXJMEKNKy"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你1.7km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1929840899108065792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 736,
+          "like_count": 197,
+          "listed_count": 3,
+          "media_count": 946,
+          "tweet_count": 5338
+        },
+        "url": "https://t.co/gJXJMEKNKy",
+        "username": "sxshuishuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "female/14-year-old/patients with moderate depression/pacifist（女孩子/14岁/中度抑郁/爱好和平）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luna57351",
+                "end": 23,
+                "expanded_url": "http://t.me/luna57351",
+                "start": 0,
+                "url": "https://t.co/0elVIHwpOu"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "美丽新世界",
+        "name": "梦情🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929155386973822977/1FhMRHW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1069,
+          "like_count": 14128,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 6890
+        },
+        "url": "https://t.co/0elVIHwpOu",
+        "username": "mengqing5735",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 🚪门槛40支付宝🧧 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 54,
+                "username": "wwjxx"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "pinned_tweet_id": "1919217286923080152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 1303,
+          "like_count": 9337,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2053739963951575114",
+    "created_at": "2026-05-12T07:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054097334825607544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris73645268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054097334825607544",
+    "in_reply_to_user_id": "1171043978201878528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054096469398086092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris73645268 play版的微信有fcm推送来着，可惜好像在国内使用部分功能不全\n安卓应用为了推送全挂后台真的很烂🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2053739963951575114",
+        "created_at": "2026-05-12T07:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054097334825607544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054097334825607544",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054096469398086092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 play版的微信有fcm推送来着，可惜好像在国内使用部分功能不全\n安卓应用为了推送全挂后台真的很烂🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171043978201878528",
+        "conversation_id": "2053739963951575114",
+        "created_at": "2026-05-12T07:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054096469398086092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 25,
+              "id": "1118160765200920576",
+              "start": 12,
+              "username": "Talloran4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054096469398086092",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053739963951575114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Talloran4869 没有消息推送，所以东西全挂后台🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 411,
+          "like_count": 28805,
+          "listed_count": 7,
+          "media_count": 1717,
+          "tweet_count": 12741
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtx（？）欢迎来戳",
+        "id": "1171043978201878528",
+        "location": "关你屁事，关我屁事",
+        "name": "Claris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 213,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2167
+        },
+        "username": "Claris73645268",
+        "verified": false
+      }
+    ]
+  }
+}

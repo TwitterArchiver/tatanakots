@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863558714797744128"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1665842709817442304",
+          "name": "Apple Vision Pro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1863560580814213219",
+    "created_at": "2024-12-02T12:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T13:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863560580814213219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bPqDlrK7lF",
+          "end": 149,
+          "expanded_url": "https://x.com/tatanakots/status/1863560580814213219/photo/1",
+          "media_key": "3_1863558714797744128",
+          "start": 126,
+          "url": "https://t.co/bPqDlrK7lF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863560580814213219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天去南京东路的Apple Store体验了一下Apple Vision Pro！\n敲敲敲开心的~\n店员姐姐超级热情，说我是胆子很大的女孩子，因为很多女孩子看到恐龙的那个演示都会害怕，但是我在和恐龙贴贴戳戳（诶嘿）\n不得不说Apple Vision Pro的屏幕显示能力真的很惊艳到我——我此前还没体验过如此清晰的头显，眼前的影像仿佛是真的一样~\n不过它的缺点其实也很明显，透传用的摄像头其实还是有很大的不足的（糊糊~）\n诶嘿嘿，能在Apple Store pass还是很开心的~"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去南京东路的Apple Store体验了一下Apple Vision Pro！\n敲敲敲开心的~\n店员姐姐超级热情，说我是胆子很大的女孩子，因为很多女孩子看到恐龙的那个演示都会害怕，但是我在和恐龙贴贴戳戳（诶嘿）\n不得不说Apple Vision… https://t.co/bPqDlrK7lF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_1863558714797744128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdywxw2aYAA7Smv.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863558714797744128"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1665842709817442304",
+              "name": "Apple Vision Pro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1863560580814213219",
+        "created_at": "2024-12-02T12:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T13:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863560580814213219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPqDlrK7lF",
+              "end": 149,
+              "expanded_url": "https://x.com/tatanakots/status/1863560580814213219/photo/1",
+              "media_key": "3_1863558714797744128",
+              "start": 126,
+              "url": "https://t.co/bPqDlrK7lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863560580814213219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天去南京东路的Apple Store体验了一下Apple Vision Pro！\n敲敲敲开心的~\n店员姐姐超级热情，说我是胆子很大的女孩子，因为很多女孩子看到恐龙的那个演示都会害怕，但是我在和恐龙贴贴戳戳（诶嘿）\n不得不说Apple Vision Pro的屏幕显示能力真的很惊艳到我——我此前还没体验过如此清晰的头显，眼前的影像仿佛是真的一样~\n不过它的缺点其实也很明显，透传用的摄像头其实还是有很大的不足的（糊糊~）\n诶嘿嘿，能在Apple Store pass还是很开心的~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去南京东路的Apple Store体验了一下Apple Vision Pro！\n敲敲敲开心的~\n店员姐姐超级热情，说我是胆子很大的女孩子，因为很多女孩子看到恐龙的那个演示都会害怕，但是我在和恐龙贴贴戳戳（诶嘿）\n不得不说Apple Vision… https://t.co/bPqDlrK7lF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 159,
+          "like_count": 19289,
+          "listed_count": 1,
+          "media_count": 875,
+          "tweet_count": 5566
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

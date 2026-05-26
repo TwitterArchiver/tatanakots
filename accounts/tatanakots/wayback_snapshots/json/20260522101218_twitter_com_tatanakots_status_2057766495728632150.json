@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2057737664200421885",
+    "created_at": "2026-05-22T10:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057766495728632150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988674513517834244",
+          "start": 0,
+          "username": "mikanmkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057766495728632150",
+    "in_reply_to_user_id": "1988674513517834244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057766187006870011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikanmkx 但是我也没想过一定是合法渠道啊，法律规定了但是没人查所以卖给我也是有可能的嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2057737664200421885",
+        "created_at": "2026-05-22T10:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057766495728632150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057766495728632150",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057766187006870011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 但是我也没想过一定是合法渠道啊，法律规定了但是没人查所以卖给我也是有可能的嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2057737664200421885",
+        "created_at": "2026-05-22T10:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057766187006870011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057766187006870011",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057765785431638075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 处方药这种可能需要医疗法人甚至要资格证，所以还是算了吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806,
+          "following_count": 422,
+          "like_count": 29777,
+          "listed_count": 8,
+          "media_count": 1739,
+          "tweet_count": 13081
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 202,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+<!-- Source: https://web.archive.org/web/20251220085440if_/twitter_com_tatanakots_status_2002301614586277972 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="たたなこ🏳️‍⚧️🍥" src="../avatar/avatar_1783413612331352064.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  たたなこ🏳️‍⚧️🍥
+  </div>
+  <div class="tweet-author-username">
+  @tatanakots
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  让我们来解释一下科技是如何运作的，以及它是怎么被用来毁你的账号或者保护你的账号的。
+  <br/>
+  首先我们先来看一个正常的舞萌机台是怎么运作的：
+  <br/>
+  用户通过公众号获得二维码给机台扫码→机台通过扫码器获得二维码中的一串代码（WCMAID开头），发送给一个代号为wcaime的服务器，服务器会返回一个8位的十进制数字（userId），这就是你的账号（这个请求只用到了hash加签）
+  <br/>
+  服务器知道你的账号了之后，会用这个账号去请求一个内部代号为title的服务器，这是游戏的主服务器，所有通讯都使用AES加密保护。
+  <br/>
+  首先会请求title的预览接口，从这个接口获得到的数据将会被显示在那个像护照一样的页面上，用于向你确认这是不是你的账号，确认了才会登录账号。
+  <br/>
+  你确认登录了，机台用你的账号和一串时间戳请求了登录接口，服务器除了返回登录成功的信息之外，还会给机台一个loginId，这个是用于写入你的数据的重要凭证，没有这个就无法向你的账号写入数据。
+  <br/>
+  接下来，机台要开始获取你的历史游戏数据了，这个时候你就会看到“不要大力拍打或滑动呦~”“请稍后……”
+  <br/>
+  机台会请求一个获取用户详细数据的接口，请求这个接口虽然用不着loginId，但是需要你的账号处于登录状态，否则服务器会返回null
+  <br/>
+  然后机台会分页获取你的收藏品信息和乐曲信息，最后获取你的游玩偏好设置（这些数据即使不处于登录状态也能被科技从服务器获取）
+  <br/>
+  然后你就进入游戏愉快地玩耍了
+  <br/>
+  等你玩好一首曲子，机台就会上传一遍这首曲子的详细得分情况，但是这个时候不会立即在net里面显示出来。（这个接口需要使用之前提到的loginId，否则服务器会拒绝）
+  <br/>
+  因为等你1pc结束，机台会重新计算你的rating、获得的新收藏品、你的乐曲成绩是否需要更新，然后将这些数据总结起来发送给服务器，当然，需要附上loginId，否则服务器会拒绝记录这些数据。
+  <br/>
+  然后会慢慢上传你选择上传的成绩图（没错还是会上传的，只是你看不到）
+  <br/>
+  等一切结束了，机台会使用之前请求登录接口的时间戳去请求登出接口，你的账号就被登出了，然后你将会看到是否续关的画面，或者跳回首页。
+  <br/>
+  <br/>
+  而在此期间，登录所使用的只需要一个机台开机时间戳（任意时间戳都可以，不会被服务器拒绝，只要登出的时候保持同样的就行）和你的八位神秘账号数字（userId），完全无需二维码中的临时授权码等数据，这，就是科技能够随意写入他人账号的原理。
+  <br/>
+  <br/>
+  而科技同样可以通过机台同款的读取接口获取你的游戏数据，这就是需要二维码的查分器、查分bot的原理（当然二维码只需要绑定一次是因为绑好了就直接记录你的userId到数据库里面了）
+  <!-- If there's a quoted tweet, embed it here!-->
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2025-12-20T08:54:40.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

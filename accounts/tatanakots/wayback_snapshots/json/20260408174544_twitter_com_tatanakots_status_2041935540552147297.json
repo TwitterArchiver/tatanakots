@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2041858045723209732",
+    "created_at": "2026-04-08T17:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041935540552147297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420377473901072390",
+          "start": 0,
+          "username": "Timfurry233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041935540552147297",
+    "in_reply_to_user_id": "1420377473901072390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041887856323653742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timfurry233 有按地区做cdn优化的话可能这么设置dns会导致大陆网站cdn也给你默认分配海外cdn节点，然后传输速度会变慢（流媒体传输或大文件下载等场景会更明显）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2041858045723209732",
+        "created_at": "2026-04-08T17:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041935540552147297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420377473901072390",
+              "start": 0,
+              "username": "Timfurry233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041935540552147297",
+        "in_reply_to_user_id": "1420377473901072390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041887856323653742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timfurry233 有按地区做cdn优化的话可能这么设置dns会导致大陆网站cdn也给你默认分配海外cdn节点，然后传输速度会变慢（流媒体传输或大文件下载等场景会更明显）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420377473901072390",
+        "conversation_id": "2041858045723209732",
+        "created_at": "2026-04-08T14:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041887856323653742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484296250",
+              "start": 0,
+              "username": "0xBCD18E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041887856323653742",
+        "in_reply_to_user_id": "1484296250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041873732357255475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xBCD18E 也就首次握手时间长，对于长时间访问一个网站来说倒是没什么影响（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 379,
+          "like_count": 26272,
+          "listed_count": 6,
+          "media_count": 1642,
+          "tweet_count": 11785
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFMyMd blog: https://t.co/sjwsjkHAB1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFMyMd"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜绒爪兽聚FURPAW",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4865,
+          "following_count": 3385,
+          "like_count": 39178,
+          "listed_count": 20,
+          "media_count": 650,
+          "tweet_count": 3731
+        },
+        "url": "https://t.co/sjwsjkHAB1",
+        "username": "Timfurry233",
+        "verified": true
+      }
+    ]
+  }
+}

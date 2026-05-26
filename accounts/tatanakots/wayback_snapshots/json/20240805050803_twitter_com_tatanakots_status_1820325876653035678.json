@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1820096238244757718",
+    "created_at": "2024-08-05T05:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T06:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820325876653035678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "MtF.im: A dedicated space for transgender women, providing support and resources in a warm and welcoming environment. Note: Services are exclusively for transgender women with identity verification.",
+          "display_url": "mtf.im",
+          "end": 45,
+          "expanded_url": "http://mtf.im",
+          "start": 22,
+          "status": 200,
+          "title": "MtF.im",
+          "unwound_url": "https://mtf.im/",
+          "url": "https://t.co/mRW7JpFgbb"
+        },
+        {
+          "description": "The Homepage of MtF.im, A Warm Space for MtF Transgender Individuals. - mtf-im/mtf-im",
+          "display_url": "github.com/mtf-im/mtf-im",
+          "end": 81,
+          "expanded_url": "https://github.com/mtf-im/mtf-im",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1820325877366079488/dhly-IO1?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1820325877366079488/dhly-IO1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "GitHub - mtf-im/mtf-im: The Homepage of MtF.im, A Warm Space for MtF Transgender Individuals.",
+          "unwound_url": "https://github.com/mtf-im/mtf-im",
+          "url": "https://t.co/btl9DkdniK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820325876653035678",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820096238244757718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ 为什么不学vue！\n（https://t.co/mRW7JpFgbb的前端基于vue构建）\n\nhttps://t.co/btl9DkdniK"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1820096238244757718].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1820096238244757718",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1820096238244757718"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1820096238244757718",
+        "created_at": "2024-08-05T05:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T06:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820325876653035678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MtF.im: A dedicated space for transgender women, providing support and resources in a warm and welcoming environment. Note: Services are exclusively for transgender women with identity verification.",
+              "display_url": "mtf.im",
+              "end": 45,
+              "expanded_url": "http://mtf.im",
+              "start": 22,
+              "status": 200,
+              "title": "MtF.im",
+              "unwound_url": "https://mtf.im/",
+              "url": "https://t.co/mRW7JpFgbb"
+            },
+            {
+              "description": "The Homepage of MtF.im, A Warm Space for MtF Transgender Individuals. - mtf-im/mtf-im",
+              "display_url": "github.com/mtf-im/mtf-im",
+              "end": 81,
+              "expanded_url": "https://github.com/mtf-im/mtf-im",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1820325877366079488/dhly-IO1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1820325877366079488/dhly-IO1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "GitHub - mtf-im/mtf-im: The Homepage of MtF.im, A Warm Space for MtF Transgender Individuals.",
+              "unwound_url": "https://github.com/mtf-im/mtf-im",
+              "url": "https://t.co/btl9DkdniK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820325876653035678",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820096238244757718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ 为什么不学vue！\n（https://t.co/mRW7JpFgbb的前端基于vue构建）\n\nhttps://t.co/btl9DkdniK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 129,
+          "like_count": 11099,
+          "listed_count": 3,
+          "tweet_count": 3474
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/天残党/深柜/INT(F?)P/音游人//////////////\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 919,
+          "like_count": 24757,
+          "listed_count": 5,
+          "tweet_count": 4770
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

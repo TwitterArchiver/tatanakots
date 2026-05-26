@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405172481590140933",
+          "name": "Music streaming service"
+        }
+      }
+    ],
+    "conversation_id": "1859091553836319197",
+    "created_at": "2024-11-20T20:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T21:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859334000818663512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601485198021263360",
+          "start": 0,
+          "username": "yunshang481"
+        },
+        {
+          "end": 29,
+          "id": "862694084065935360",
+          "start": 13,
+          "username": "StateInterOffic"
+        },
+        {
+          "end": 38,
+          "id": "1660343948945006593",
+          "start": 30,
+          "username": "qiand33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859334000818663512",
+    "in_reply_to_user_id": "1601485198021263360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859248838160363821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunshang481 @StateInterOffic @qiand33 还好我歌单在Spotify也有一份，主要是有些小众好听的歌曲网易云没买版权，国内其他平台也找不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "1859091553836319197",
+        "created_at": "2024-11-20T20:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T21:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859334000818663512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601485198021263360",
+              "start": 0,
+              "username": "yunshang481"
+            },
+            {
+              "end": 29,
+              "id": "862694084065935360",
+              "start": 13,
+              "username": "StateInterOffic"
+            },
+            {
+              "end": 38,
+              "id": "1660343948945006593",
+              "start": 30,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859334000818663512",
+        "in_reply_to_user_id": "1601485198021263360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859248838160363821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunshang481 @StateInterOffic @qiand33 还好我歌单在Spotify也有一份，主要是有些小众好听的歌曲网易云没买版权，国内其他平台也找不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601485198021263360",
+        "conversation_id": "1859091553836319197",
+        "created_at": "2024-11-20T14:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T15:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859248838160363821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "862694084065935360",
+              "start": 0,
+              "username": "StateInterOffic"
+            },
+            {
+              "end": 25,
+              "id": "1660343948945006593",
+              "start": 17,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859248838160363821",
+        "in_reply_to_user_id": "862694084065935360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4037,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859242406799106096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StateInterOffic @qiand33 之前的歌单都在那边 一个个导太麻烦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 151,
+          "like_count": 19155,
+          "listed_count": 1,
+          "tweet_count": 5439
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T07:53:55.000Z",
+        "description": "🇨🇳✈️🇲🇾 EE 你好 cn云裳 kl 辽宁  放假了全国🦐🐔⑧飞\n  cosplay kigurumi 摄影 绳子 \n  kiger会回关 欢迎扩列!私戳发qq!",
+        "id": "1601485198021263360",
+        "location": "Kuala Lumpur, Wilayah Persekut",
+        "name": "云裳481",
+        "pinned_tweet_id": "1727330505312632848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829077671445250048/Sr3CxgGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 1031,
+          "like_count": 48673,
+          "listed_count": 6,
+          "tweet_count": 1005
+        },
+        "username": "yunshang481",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-11T15:41:12.000Z",
+        "description": "管天管地管拉屎放屁！干啥啥不行，就会一刀切！",
+        "id": "862694084065935360",
+        "name": "网络大帝鲁炜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501103240879886336/Mc8_zjEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 436,
+          "like_count": 2351,
+          "listed_count": 1,
+          "tweet_count": 2090
+        },
+        "username": "StateInterOffic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T17:57:15.000Z",
+        "description": "14歲/infp/10後/抖m屬性 願生活如清泉，永流不息希望生活能更甜一些，苦澀消逝願關係如同在星軌上的星星，願我們永遠在一起，永遠愛與相信@EDU1991US來自香港🇭🇰，小學中文水平，星粉(三星愛好者)永遠的三星主義者 中推第一三星正星旗星粉 首批10後 推特的知名10後 背景@ShaDow_0528白影畫的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "EDU1991US"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "ShaDow_0528"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/245i0ts0rwhi1u…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/245i0ts0rwhi1ue?t=pzqq6L&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Dgf5GvNm1c"
+              }
+            ]
+          }
+        },
+        "id": "1660343948945006593",
+        "location": "永遠陪在你身邊",
+        "name": "千晴",
+        "pinned_tweet_id": "1854366322034974998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853354024118226944/wmSH0PkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8023,
+          "following_count": 104,
+          "like_count": 38778,
+          "listed_count": 15,
+          "tweet_count": 17702
+        },
+        "url": "https://t.co/Dgf5GvNm1c",
+        "username": "qiand33",
+        "verified": true
+      }
+    ]
+  }
+}

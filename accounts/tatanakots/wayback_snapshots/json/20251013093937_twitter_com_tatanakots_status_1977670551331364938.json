@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977669448560758784",
+        "3_1977669473139384320"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "1977670551331364938",
+    "created_at": "2025-10-13T09:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T10:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977670551331364938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 47,
+          "id": "753683447172911104",
+          "start": 32,
+          "username": "BZissimopoulos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0dRPZbdUhW",
+          "end": 179,
+          "expanded_url": "https://x.com/tatanakots/status/1977670551331364938/photo/1",
+          "media_key": "3_1977669448560758784",
+          "start": 156,
+          "url": "https://t.co/0dRPZbdUhW"
+        },
+        {
+          "display_url": "pic.x.com/0dRPZbdUhW",
+          "end": 179,
+          "expanded_url": "https://x.com/tatanakots/status/1977670551331364938/photo/1",
+          "media_key": "3_1977669473139384320",
+          "start": 156,
+          "url": "https://t.co/0dRPZbdUhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977670551331364938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Gork简直就是天才！\n果然是系统中存在WinFSP的问题！\n\n@BZissimopoulos Can you fix the issue where WinFSP causes some software to crash when opening the Windows File Save Dialog? https://t.co/0dRPZbdUhW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_1977669448560758784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IX4qSbUAAiaFC.jpg",
+        "width": 853
+      },
+      {
+        "height": 746,
+        "media_key": "3_1977669473139384320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IX6F2bYAAYJVE.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977669448560758784",
+            "3_1977669473139384320"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1977670551331364938",
+        "created_at": "2025-10-13T09:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977670551331364938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "753683447172911104",
+              "start": 32,
+              "username": "BZissimopoulos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dRPZbdUhW",
+              "end": 179,
+              "expanded_url": "https://x.com/tatanakots/status/1977670551331364938/photo/1",
+              "media_key": "3_1977669448560758784",
+              "start": 156,
+              "url": "https://t.co/0dRPZbdUhW"
+            },
+            {
+              "display_url": "pic.x.com/0dRPZbdUhW",
+              "end": 179,
+              "expanded_url": "https://x.com/tatanakots/status/1977670551331364938/photo/1",
+              "media_key": "3_1977669473139384320",
+              "start": 156,
+              "url": "https://t.co/0dRPZbdUhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977670551331364938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gork简直就是天才！\n果然是系统中存在WinFSP的问题！\n\n@BZissimopoulos Can you fix the issue where WinFSP causes some software to crash when opening the Windows File Save Dialog? https://t.co/0dRPZbdUhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 📃大证 25/09/22 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 228,
+          "like_count": 22918,
+          "listed_count": 4,
+          "media_count": 1346,
+          "tweet_count": 8683
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-14T20:11:51.000Z",
+        "description": "Author of WinFsp. Founder/owner at Navimatics. Previously at Microsoft and Netscape. Airplane, floatplane and helicopter pilot. Sailor.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "navimatics.com",
+                "end": 23,
+                "expanded_url": "http://navimatics.com",
+                "start": 0,
+                "url": "https://t.co/E7YI6DeozO"
+              }
+            ]
+          }
+        },
+        "id": "753683447172911104",
+        "location": "Kinsale, Ireland",
+        "name": "Bill Zissimopoulos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193739880095895552/0MQ9UzT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 3,
+          "like_count": 167,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/E7YI6DeozO",
+        "username": "BZissimopoulos",
+        "verified": false
+      }
+    ]
+  }
+}

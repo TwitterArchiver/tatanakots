@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998994673071960066",
+        "3_1998994712334872576"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1998994747474718839",
+    "created_at": "2025-12-11T05:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T06:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998994747474718839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oru4O4w5SB",
+          "end": 34,
+          "expanded_url": "https://x.com/tatanakots/status/1998994747474718839/photo/1",
+          "media_key": "3_1998994673071960066",
+          "start": 11,
+          "url": "https://t.co/Oru4O4w5SB"
+        },
+        {
+          "display_url": "pic.x.com/Oru4O4w5SB",
+          "end": 34,
+          "expanded_url": "https://x.com/tatanakots/status/1998994747474718839/photo/1",
+          "media_key": "3_1998994712334872576",
+          "start": 11,
+          "url": "https://t.co/Oru4O4w5SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998994747474718839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开始白嫖Google https://t.co/Oru4O4w5SB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_1998994673071960066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73bEGRaMAI7iTJ.jpg",
+        "width": 728
+      },
+      {
+        "height": 971,
+        "media_key": "3_1998994712334872576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73bGYiasAA3h-9.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998994673071960066",
+            "3_1998994712334872576"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1998994747474718839",
+        "created_at": "2025-12-11T05:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998994747474718839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oru4O4w5SB",
+              "end": 34,
+              "expanded_url": "https://x.com/tatanakots/status/1998994747474718839/photo/1",
+              "media_key": "3_1998994673071960066",
+              "start": 11,
+              "url": "https://t.co/Oru4O4w5SB"
+            },
+            {
+              "display_url": "pic.x.com/Oru4O4w5SB",
+              "end": 34,
+              "expanded_url": "https://x.com/tatanakots/status/1998994747474718839/photo/1",
+              "media_key": "3_1998994712334872576",
+              "start": 11,
+              "url": "https://t.co/Oru4O4w5SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998994747474718839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始白嫖Google https://t.co/Oru4O4w5SB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 241,
+          "like_count": 23910,
+          "listed_count": 5,
+          "media_count": 1432,
+          "tweet_count": 9368
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

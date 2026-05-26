@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2041185686032936992",
+    "created_at": "2026-04-06T21:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041264221347053746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "964534819664289792",
+          "start": 0,
+          "username": "SujitGund"
+        },
+        {
+          "end": 20,
+          "id": "1683218035602255872",
+          "start": 11,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041264221347053746",
+    "in_reply_to_user_id": "964534819664289792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041189591781380435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SujitGund @jlxc2001 如果地面站的出口ip（也就是飞机上网会显示的ip地址）被GFW墙了的话，是无法连接任何境内服务器的，虽然一般isp的ip很多，不太可能会墙\n但是部分国内服务器为了防止被攻击会在防火墙上默认拒绝一切海外访问，这种情况也是有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2041185686032936992",
+        "created_at": "2026-04-06T21:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041264221347053746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "964534819664289792",
+              "start": 0,
+              "username": "SujitGund"
+            },
+            {
+              "end": 20,
+              "id": "1683218035602255872",
+              "start": 11,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041264221347053746",
+        "in_reply_to_user_id": "964534819664289792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041189591781380435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SujitGund @jlxc2001 如果地面站的出口ip（也就是飞机上网会显示的ip地址）被GFW墙了的话，是无法连接任何境内服务器的，虽然一般isp的ip很多，不太可能会墙\n但是部分国内服务器为了防止被攻击会在防火墙上默认拒绝一切海外访问，这种情况也是有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964534819664289792",
+        "conversation_id": "2041185686032936992",
+        "created_at": "2026-04-06T16:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041189591781380435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041189591781380435",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 742,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041189381822922791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 好吧，我也感觉有点怪，理论来说，如果没有屏蔽（诸如dns屏蔽）哪怕是在国内的服务器，在海外应该也能访问吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 379,
+          "like_count": 26184,
+          "listed_count": 6,
+          "media_count": 1636,
+          "tweet_count": 11730
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "你好，我使用绪山真寻的头像，并不代表我是跨性别者，我再次澄清这一事实，谢谢。 用Twi就是玩玩，祝你今天有个好心情哦～ 我能看懂的语言：简中 繁中 English(a little) 我的立场：没有立场，不想吵架 X千万不要设置出生日期，血淋淋的教训啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "X.com",
+                "end": 23,
+                "expanded_url": "http://X.com",
+                "start": 0,
+                "url": "https://t.co/hBbyQdZmLl"
+              }
+            ]
+          }
+        },
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "寻明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999833160323072000/yY_RFNC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 200,
+          "like_count": 16410,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 6203
+        },
+        "url": "https://t.co/hBbyQdZmLl",
+        "username": "SujitGund",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵（已于26年年初搬到江西萍乡老家了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14059,
+          "following_count": 191,
+          "like_count": 460,
+          "listed_count": 28,
+          "media_count": 843,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

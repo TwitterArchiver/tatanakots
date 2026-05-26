@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2015291633030562048",
+    "created_at": "2026-01-26T02:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015613458696597736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1136087708",
+          "start": 0,
+          "username": "huhuhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015613458696597736",
+    "in_reply_to_user_id": "1136087708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015612517805113349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhuhang 我是作为个人邮箱使用，目前发信成功率100%，mailtest评分为满分10分，0退信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2015291633030562048",
+        "created_at": "2026-01-26T02:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015613458696597736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1136087708",
+              "start": 0,
+              "username": "huhuhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015613458696597736",
+        "in_reply_to_user_id": "1136087708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015612517805113349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhuhang 我是作为个人邮箱使用，目前发信成功率100%，mailtest评分为满分10分，0退信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1136087708",
+        "conversation_id": "2015291633030562048",
+        "created_at": "2026-01-26T02:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015612517805113349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015612517805113349",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015555757090255150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 自己搭，触达率是大问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 329,
+          "like_count": 24213,
+          "listed_count": 6,
+          "media_count": 1500,
+          "tweet_count": 10175
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-31T05:16:32.000Z",
+        "description": "Co-founder of https://t.co/irs8Hk0K03, author of https://t.co/6XgZpVs94g, and a hobbyist iOS developer https://t.co/lry8V2ezoq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "labex.io",
+                "end": 37,
+                "expanded_url": "https://labex.io",
+                "start": 14,
+                "url": "https://t.co/irs8Hk0K03"
+              },
+              {
+                "display_url": "aibydoing.com",
+                "end": 72,
+                "expanded_url": "https://aibydoing.com",
+                "start": 49,
+                "url": "https://t.co/6XgZpVs94g"
+              },
+              {
+                "display_url": "shorturl.at/xkQNI",
+                "end": 126,
+                "expanded_url": "https://shorturl.at/xkQNI",
+                "start": 103,
+                "url": "https://t.co/lry8V2ezoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "huhuhang.com",
+                "end": 23,
+                "expanded_url": "http://huhuhang.com",
+                "start": 0,
+                "url": "https://t.co/sP2eisYq1H"
+              }
+            ]
+          }
+        },
+        "id": "1136087708",
+        "location": "Jupiter",
+        "name": "huhuhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480533985294155778/w_C8FTn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7076,
+          "following_count": 806,
+          "like_count": 1741,
+          "listed_count": 69,
+          "media_count": 1140,
+          "tweet_count": 3748
+        },
+        "url": "https://t.co/sP2eisYq1H",
+        "username": "huhuhang",
+        "verified": true
+      }
+    ]
+  }
+}

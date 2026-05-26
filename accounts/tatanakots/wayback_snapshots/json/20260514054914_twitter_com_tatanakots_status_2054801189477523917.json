@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2054536519327580213",
+    "created_at": "2026-05-14T05:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054801189477523917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "100399047",
+          "start": 0,
+          "username": "Tz_2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054801189477523917",
+    "in_reply_to_user_id": "100399047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054536519327580213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tz_2022 他们发评论的时候还不是这套个人资料，发完了才改的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2054536515783376896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMuE2FWQAAs8bJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2054536519327580213",
+        "created_at": "2026-05-14T05:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054801189477523917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "100399047",
+              "start": 0,
+              "username": "Tz_2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054801189477523917",
+        "in_reply_to_user_id": "100399047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054536519327580213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tz_2022 他们发评论的时候还不是这套个人资料，发完了才改的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054536515783376896"
+          ]
+        },
+        "author_id": "100399047",
+        "conversation_id": "2054536519327580213",
+        "created_at": "2026-05-13T12:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054536519327580213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmFHJ7TQQg",
+              "end": 146,
+              "expanded_url": "https://x.com/Tz_2022/status/2054536519327580213/photo/1",
+              "media_key": "3_2054536515783376896",
+              "start": 123,
+              "url": "https://t.co/EmFHJ7TQQg"
+            },
+            {
+              "display_url": "x.com/tz_2022/status…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/tz_2022/status/2045520082843938862",
+              "start": 147,
+              "url": "https://t.co/44gGj4cyir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054536519327580213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 31198,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045520082843938862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现了一个简单的判定机制，能破解这些 bot 帐号用正则表达式无法匹配屏蔽的问题：\n\n点击头像看它的个人简介页，只要有任何 .top 链接的信息在个人简介里露出的，100% 是 bot。。。\n\n有人能做一个基于这个规则的一键举报/屏蔽脚本不？ https://t.co/EmFHJ7TQQg https://t.co/44gGj4cyir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 410,
+          "like_count": 28931,
+          "listed_count": 7,
+          "media_count": 1724,
+          "tweet_count": 12807
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "2039485765193801819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23618,
+          "following_count": 1559,
+          "like_count": 11266,
+          "listed_count": 272,
+          "media_count": 1880,
+          "tweet_count": 9108
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

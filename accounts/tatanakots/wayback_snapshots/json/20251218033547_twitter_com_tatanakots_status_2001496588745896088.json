@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2000772939638001787",
+    "created_at": "2025-12-18T03:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T04:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001496588745896088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4881937996",
+          "start": 0,
+          "username": "ragnasola"
+        },
+        {
+          "end": 23,
+          "id": "1767040816986656768",
+          "start": 11,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001496588745896088",
+    "in_reply_to_user_id": "4881937996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001233484875239846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ragnasola @MeviuslX_Xl 据说xyn都喜欢折腾arch linux，虽然我图省事一直用的是ubuntu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2000772939638001787",
+        "created_at": "2025-12-18T03:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001496588745896088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4881937996",
+              "start": 0,
+              "username": "ragnasola"
+            },
+            {
+              "end": 23,
+              "id": "1767040816986656768",
+              "start": 11,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001496588745896088",
+        "in_reply_to_user_id": "4881937996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001233484875239846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ragnasola @MeviuslX_Xl 据说xyn都喜欢折腾arch linux，虽然我图省事一直用的是ubuntu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4881937996",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2000772939638001787",
+        "created_at": "2025-12-17T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001233484875239846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001233484875239846",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 847,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000772939638001787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl arch linux到底有啥关系没明白，你要说debian，我倒觉得很像……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 244,
+          "like_count": 23921,
+          "listed_count": 6,
+          "media_count": 1450,
+          "tweet_count": 9462
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-06T15:14:25.000Z",
+        "description": "我没有什么力量，做不到任何事，所以除了当一名键盘侠以外，我什么都无能为力。对不起，这是我仅能做到的事。\nStand With Ukraine",
+        "id": "4881937996",
+        "name": "文樂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599589615182417920/_SAOzHH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 162,
+          "like_count": 439,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 4862
+        },
+        "username": "ragnasola",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "一只笨笨的邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜很喜欢很喜欢的酸汤面姐姐大人@wang3289 ，小梅的妈咪@miya051223｜有点腹黑毒舌，但是很好相处，想认识好多好多朋友｜目前精神状态有点差，但是在努力克服啦｜最后……这里有提问箱⬇️可以问小梅任何问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "wang3289"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "miya051223"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/MeviuslX_Xl843…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/MeviuslX_Xl84305",
+                "start": 0,
+                "url": "https://t.co/raPAD3y7nK"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "魔王城",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098651299581952/LUPlmVG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13067,
+          "following_count": 1075,
+          "like_count": 18383,
+          "listed_count": 28,
+          "media_count": 1126,
+          "tweet_count": 8760
+        },
+        "url": "https://t.co/raPAD3y7nK",
+        "username": "MeviuslX_Xl",
+        "verified": false
+      }
+    ]
+  }
+}

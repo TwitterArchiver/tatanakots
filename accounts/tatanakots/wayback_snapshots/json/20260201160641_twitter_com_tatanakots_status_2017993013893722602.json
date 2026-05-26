@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017993004368412672"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "2017810716976443434",
+    "created_at": "2026-02-01T16:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017993013893722602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LsV0dszvEI",
+          "end": 43,
+          "expanded_url": "https://x.com/tatanakots/status/2017993013893722602/photo/1",
+          "media_key": "3_2017993004368412672",
+          "start": 20,
+          "url": "https://t.co/LsV0dszvEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017993013893722602",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017991176633319593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 😡禁止看唧唧❌ https://t.co/LsV0dszvEI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017993013893722602].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017993013893722602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017993013893722602"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2017993004368412672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFZ8hiaQAA4WrK.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "2017810716976443434",
+        "created_at": "2026-02-01T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017991176633319593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017991176633319593",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017810716976443434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 和我互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 344,
+          "like_count": 24453,
+          "listed_count": 6,
+          "media_count": 1522,
+          "tweet_count": 10401
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9192,
+          "following_count": 5781,
+          "like_count": 51284,
+          "listed_count": 11,
+          "media_count": 838,
+          "tweet_count": 6979
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

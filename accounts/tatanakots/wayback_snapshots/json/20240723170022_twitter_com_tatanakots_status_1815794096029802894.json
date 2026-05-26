@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1815793546441687040"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "1815794096029802894",
+    "created_at": "2024-07-23T17:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T17:58:32.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815793632924110987",
+      "1815794096029802894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/e5F9HIIwXi",
+          "end": 81,
+          "expanded_url": "https://twitter.com/tatanakots/status/1815794096029802894/video/1",
+          "media_key": "13_1815793546441687040",
+          "start": 58,
+          "url": "https://t.co/e5F9HIIwXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815794096029802894",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人想听听我的声音，于是我就从《泰戈尔诗选》中节选了一段念了一下\n音频所用文案节选自《春——豆蔻花开》作者泰戈尔。 https://t.co/e5F9HIIwXi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1815793632924110987].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1815793632924110987",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1815793632924110987"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1815794096029802894].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1815794096029802894",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1815794096029802894"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107243,
+        "height": 720,
+        "media_key": "13_1815793546441687040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1815793546441687040/img/Qujlia2zCTCAsFV1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815793546441687040/vid/avc1/480x270/C8MwImhteEQnVpa2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815793546441687040/vid/avc1/640x360/G511nsRdhsvMP1iP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815793546441687040/vid/avc1/1280x720/Q-CZMJIHkVV_2P4d.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1815793546441687040/pl/YKaWHetP9VwrUH-e.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / QQ群：833142742 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 122,
+          "like_count": 9237,
+          "listed_count": 2,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

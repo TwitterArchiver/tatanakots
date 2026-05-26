@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2000207230138716306",
+    "created_at": "2025-12-15T10:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000511399261565150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "296593919",
+          "start": 0,
+          "username": "vikingmute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000511399261565150",
+    "in_reply_to_user_id": "296593919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000207230138716306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vikingmute 微信支付真的很烂，同样的开个支付，微信要上传一堆材料，我盖完公章上传后还给拒了，相比支付宝不仅有完善的文档，而且只要企业实名完账号就能开支付接口，审核超快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_2000206167839318016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Io6X-boAACelj.png",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2000207230138716306",
+        "created_at": "2025-12-15T10:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000511399261565150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "296593919",
+              "start": 0,
+              "username": "vikingmute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000511399261565150",
+        "in_reply_to_user_id": "296593919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000207230138716306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vikingmute 微信支付真的很烂，同样的开个支付，微信要上传一堆材料，我盖完公章上传后还给拒了，相比支付宝不仅有完善的文档，而且只要企业实名完账号就能开支付接口，审核超快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000206167839318016"
+          ]
+        },
+        "author_id": "296593919",
+        "conversation_id": "2000207230138716306",
+        "created_at": "2025-12-14T14:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000207230138716306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "现代化、功能齐全的 monorepo 启动套件，用于构建支持国内外双市场的 SaaS 应用程序。基于 Next.js/Nuxt.js、TypeScript 和完整认证系统构建。",
+              "display_url": "tinyship.cn",
+              "end": 26,
+              "expanded_url": "http://tinyship.cn",
+              "start": 3,
+              "status": 200,
+              "title": "TinyShip - 现代化全栈 SaaS 开发启动器",
+              "unwound_url": "https://tinyship.cn/zh-CN",
+              "url": "https://t.co/fbylYylcpx"
+            },
+            {
+              "display_url": "pic.x.com/YxQocgQSiQ",
+              "end": 178,
+              "expanded_url": "https://x.com/vikingmute/status/2000207230138716306/photo/1",
+              "media_key": "3_2000206167839318016",
+              "start": 155,
+              "url": "https://t.co/YxQocgQSiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000207230138716306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 26,
+                "expanded_url": "http://tinyship.cn",
+                "start": 3,
+                "url": "https://t.co/o0BI6W861D"
+              }
+            ]
+          },
+          "text": "在写 https://t.co/o0BI6W861D 的代码过程中，最让我感觉到困难的应该是接入原生微信支付了，虽然我在简单简历已经有接入的经历，但是这次还是挑战十足。\n\n非常屎和古老的设计，缺失的文档以及缺少沙盒环境（每次需要用一分钱的真实订单），要接入新版的微信支付居然需要 8 个环境变量（请看图）！和 Stripe 相比，真的是差的太远太远了。\n\n我将每个环境变量的作用以及整个流程都记录在文档和注释中，最后几乎写了快一千字的内容。\n\n每次要调试的时候我都会拿出来认真的读一遍，因为根本不可能记住。\n\n我发现现在微信支付几乎没有好的 Node.js SDK 了，所以所有流程都是重新写的，我打算把这部分抽出来单独的开源一个现代化的 Node.js SDK。\n\n虽然微信支付这么屎，但是如果你是在做一个针对国内的付费应用，微信支付绝对是不可或缺的，有了它绝对让你的付费率提高几倍，毕竟能接受 Stripe 这种国外平台填写信用卡的用户其实是少很多的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 24148,
+          "like_count": 93,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "在写 https://t.co/fbylYylcpx 的代码过程中，最让我感觉到困难的应该是接入原生微信支付了，虽然我在简单简历已经有接入的经历，但是这次还是挑战十足。\n\n非常屎和古老的设计，缺失的文档以及缺少沙盒环境（每次需要用一分钱的真实订单），要接入新版的微信支付居然需要 8 个环境变量（请看图）！和 https://t.co/YxQocgQSiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 244,
+          "like_count": 23913,
+          "listed_count": 6,
+          "media_count": 1439,
+          "tweet_count": 9412
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "easycv.cn",
+                "end": 44,
+                "expanded_url": "http://easycv.cn",
+                "start": 21,
+                "url": "https://t.co/xMu5JFIGnr"
+              },
+              {
+                "display_url": "imooc.com/t/6012904",
+                "end": 96,
+                "expanded_url": "http://www.imooc.com/t/6012904",
+                "start": 73,
+                "url": "https://t.co/NTyFFrvHwL"
+              },
+              {
+                "display_url": "vikingz.me/1000-days",
+                "end": 136,
+                "expanded_url": "http://vikingz.me/1000-days",
+                "start": 113,
+                "url": "https://t.co/bonuLQCCsY"
+              },
+              {
+                "display_url": "youtube.com/@vikingzhang",
+                "end": 166,
+                "expanded_url": "http://www.youtube.com/@vikingzhang",
+                "start": 143,
+                "url": "https://t.co/aQYLgujIyC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60925,
+          "following_count": 280,
+          "like_count": 837,
+          "listed_count": 622,
+          "media_count": 1341,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2035549877070160009",
+    "created_at": "2026-03-22T03:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035560051692511571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        },
+        {
+          "end": 21,
+          "id": "273798879",
+          "start": 13,
+          "username": "Tencent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035560051692511571",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035549877070160009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech @Tencent 那岂不是在执行定时任务需要推送又不想手动发消息的时候，还要用OpenClaw每隔24小时用用户账户发一条消息给自己（？"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Tencent].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Tencent",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Tencent"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2035548069228691456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-4LyWbwAAlbzU.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1504,
+        "media_key": "3_2035548069228642305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-4LyWbAAE_S52.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2035549877070160009",
+        "created_at": "2026-03-22T03:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035560051692511571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 21,
+              "id": "273798879",
+              "start": 13,
+              "username": "Tencent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035560051692511571",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035549877070160009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @Tencent 那岂不是在执行定时任务需要推送又不想手动发消息的时候，还要用OpenClaw每隔24小时用用户账户发一条消息给自己（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035548069228691456",
+            "3_2035548069228642305"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2035549877070160009",
+        "created_at": "2026-03-22T02:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:44:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035548089134833850",
+          "2035549877070160009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "ClawBot"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 119,
+              "id": "273798879",
+              "start": 111,
+              "username": "Tencent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsHs307Llj",
+              "end": 211,
+              "expanded_url": "https://x.com/landiantech/status/2035549877070160009/photo/1",
+              "media_key": "3_2035548069228691456",
+              "start": 188,
+              "url": "https://t.co/dsHs307Llj"
+            },
+            {
+              "display_url": "pic.x.com/dsHs307Llj",
+              "end": 211,
+              "expanded_url": "https://x.com/landiantech/status/2035549877070160009/photo/1",
+              "media_key": "3_2035548069228642305",
+              "start": 188,
+              "url": "https://t.co/dsHs307Llj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035549877070160009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 15,
+                "tag": "ClawBot"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "id": "273798879",
+                "start": 111,
+                "username": "tencent"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/112284?x",
+                "end": 380,
+                "expanded_url": "https://ourl.co/112284?x",
+                "start": 357,
+                "url": "https://t.co/lpnJrWDSFA"
+              }
+            ]
+          },
+          "text": "[安装指南] 重磅！微信推出 #ClawBot 插件，正式接入OpenClaw AI机器人项目！\n\n1.将微信更新到v8.0.70或更高版本\n\n2.在已经部署OpenClaw的设备上使用如下命令安装插件：\n\nnpx -y @tencent-weixin/openclaw-weixin-cli@latest install\n\n3.使用最新版微信扫码完成配对。\n\n微信的限制：\n\n按微信要求，ClawBot机器人仅可转发24小时以内的消息，即用户如果超过24小时没有给ClawBot发送消息，则OpenClaw下发的消息将被丢弃，用户看不到消息。\n\n所以如果执行某些定时任务的话，用户还需要确保每24小时至少向ClawBot发送1条消息进行保活，不然OpenClaw的定时任务执行结果将无法推送给用户。\n\n更多说明：https://t.co/lpnJrWDSFA"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1816,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "[安装指南] 重磅！微信推出 #ClawBot 插件，正式接入OpenClaw AI机器人项目！\n\n1.将微信更新到v8.0.70或更高版本\n\n2.在已经部署OpenClaw的设备上使用如下命令安装插件：\n\nnpx -y @tencent-weixin/openclaw-weixin-cli@latest install\n\n3.使用最新版微信扫码完成配对。\n\n微信的限制： https://t.co/dsHs307Llj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 362,
+          "like_count": 25413,
+          "listed_count": 6,
+          "media_count": 1601,
+          "tweet_count": 11378
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33811,
+          "following_count": 714,
+          "like_count": 4381,
+          "listed_count": 272,
+          "media_count": 5077,
+          "tweet_count": 14507
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

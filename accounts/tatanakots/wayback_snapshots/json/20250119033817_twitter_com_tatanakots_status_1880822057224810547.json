@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880821200215289856",
+        "3_1880821398668759040"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "1880822057224810547",
+    "created_at": "2025-01-19T03:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T04:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880822057224810547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2FNXsMTjZQ",
+          "end": 159,
+          "expanded_url": "https://x.com/tatanakots/status/1880822057224810547/photo/1",
+          "media_key": "3_1880821200215289856",
+          "start": 136,
+          "url": "https://t.co/2FNXsMTjZQ"
+        },
+        {
+          "display_url": "pic.x.com/2FNXsMTjZQ",
+          "end": 159,
+          "expanded_url": "https://x.com/tatanakots/status/1880822057224810547/photo/1",
+          "media_key": "3_1880821398668759040",
+          "start": 136,
+          "url": "https://t.co/2FNXsMTjZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880822057224810547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于我的maimai专用键盘\n由于ESP32的方案貌似很失败，于是试图换成STM32的方案试试\n还有就是脚踏开关方案因为噪声和按键反馈不行而被放弃了，决定使用和键盘相似的方案\n\n在此感谢peng-zhihui/HelloWord-Keyboard\n头好晕，快炸了喵😵‍💫"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我的maimai专用键盘\n由于ESP32的方案貌似很失败，于是试图换成STM32的方案试试\n还有就是脚踏开关方案因为噪声和按键反馈不行而被放弃了，决定使用和键盘相似的方案\n\n在此感谢peng-zhihui/HelloWord-Keyboard\n头好晕，快炸了喵😵‍💫 https://t.co/2FNXsMTjZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_1880821200215289856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhoE6qTbMAAhhfr.png",
+        "width": 1122
+      },
+      {
+        "height": 655,
+        "media_key": "3_1880821398668759040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhoFGNma0AAzFqv.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880821200215289856",
+            "3_1880821398668759040"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "1880822057224810547",
+        "created_at": "2025-01-19T03:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T04:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880822057224810547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FNXsMTjZQ",
+              "end": 159,
+              "expanded_url": "https://x.com/tatanakots/status/1880822057224810547/photo/1",
+              "media_key": "3_1880821200215289856",
+              "start": 136,
+              "url": "https://t.co/2FNXsMTjZQ"
+            },
+            {
+              "display_url": "pic.x.com/2FNXsMTjZQ",
+              "end": 159,
+              "expanded_url": "https://x.com/tatanakots/status/1880822057224810547/photo/1",
+              "media_key": "3_1880821398668759040",
+              "start": 136,
+              "url": "https://t.co/2FNXsMTjZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880822057224810547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我的maimai专用键盘\n由于ESP32的方案貌似很失败，于是试图换成STM32的方案试试\n还有就是脚踏开关方案因为噪声和按键反馈不行而被放弃了，决定使用和键盘相似的方案\n\n在此感谢peng-zhihui/HelloWord-Keyboard\n头好晕，快炸了喵😵‍💫"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的maimai专用键盘\n由于ESP32的方案貌似很失败，于是试图换成STM32的方案试试\n还有就是脚踏开关方案因为噪声和按键反馈不行而被放弃了，决定使用和键盘相似的方案\n\n在此感谢peng-zhihui/HelloWord-Keyboard\n头好晕，快炸了喵😵‍💫 https://t.co/2FNXsMTjZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 176,
+          "like_count": 20199,
+          "listed_count": 2,
+          "media_count": 965,
+          "tweet_count": 6114
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2005661564372914365",
+    "created_at": "2025-12-29T15:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T16:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005663654889521581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949435571274924032",
+          "start": 0,
+          "username": "BaoCha56318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005663654889521581",
+    "in_reply_to_user_id": "1949435571274924032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005661564372914365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoCha56318 好似喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2005661564372914365",
+        "created_at": "2025-12-29T15:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005663654889521581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949435571274924032",
+              "start": 0,
+              "username": "BaoCha56318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005663654889521581",
+        "in_reply_to_user_id": "1949435571274924032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005661564372914365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoCha56318 好似喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949435571274924032",
+        "conversation_id": "2005661564372914365",
+        "created_at": "2025-12-29T15:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005661564372914365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tatanakots/status/2005610421789790677",
+              "start": 3,
+              "url": "https://t.co/zZz6dKRALv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005661564372914365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005610421789790677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好死 https://t.co/zZz6dKRALv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3463,
+          "following_count": 244,
+          "like_count": 23962,
+          "listed_count": 6,
+          "media_count": 1458,
+          "tweet_count": 9642
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-27T11:44:03.000Z",
+        "description": "",
+        "id": "1949435571274924032",
+        "name": "茶叶包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985208188304867328/9LZuqSSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 71,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "username": "BaoCha56318",
+        "verified": false
+      }
+    ]
+  }
+}

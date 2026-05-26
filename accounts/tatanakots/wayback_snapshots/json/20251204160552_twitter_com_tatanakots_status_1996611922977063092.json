@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1996408072680747487",
+    "created_at": "2025-12-04T16:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T17:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996611922977063092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "24124203",
+          "start": 0,
+          "username": "waylybaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996611922977063092",
+    "in_reply_to_user_id": "24124203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996450248571691190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waylybaye 加个开关：关闭不可见字符自动剔除"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1996408072680747487",
+        "created_at": "2025-12-04T16:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T17:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996611922977063092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "24124203",
+              "start": 0,
+              "username": "waylybaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996611922977063092",
+        "in_reply_to_user_id": "24124203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996450248571691190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waylybaye 加个开关：关闭不可见字符自动剔除"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24124203",
+        "conversation_id": "1996408072680747487",
+        "created_at": "2025-12-04T05:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996450248571691190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996450248571691190",
+        "in_reply_to_user_id": "24124203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12681,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996408072680747487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "背景信息：虚拟机密码几乎都是平台随机生成的长字符串，大部分用户都是复制粘贴，然后末尾多了空格、换行或者不可见字符导致连不上很受挫，大量客服邮件都是密码正确但连不上。加了自动剔除后就没人遇到这个问题了，直到这个邮件…… 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 244,
+          "like_count": 23862,
+          "listed_count": 5,
+          "media_count": 1419,
+          "tweet_count": 9209
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-13T04:05:00.000Z",
+        "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+        "id": "24124203",
+        "location": "中华人民共和国",
+        "name": "Baye",
+        "pinned_tweet_id": "1817766319745597450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154851,
+          "following_count": 516,
+          "like_count": 21582,
+          "listed_count": 1213,
+          "media_count": 761,
+          "tweet_count": 14573
+        },
+        "username": "waylybaye",
+        "verified": true
+      }
+    ]
+  }
+}

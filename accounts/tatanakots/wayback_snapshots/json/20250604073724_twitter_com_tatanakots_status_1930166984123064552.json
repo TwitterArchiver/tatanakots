@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930166799259316226"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "1930166984123064552",
+    "created_at": "2025-06-04T07:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930166984123064552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEyHZYsruX",
+          "end": 46,
+          "expanded_url": "https://x.com/tatanakots/status/1930166984123064552/video/1",
+          "media_key": "13_1930166799259316226",
+          "start": 23,
+          "url": "https://t.co/tEyHZYsruX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930166984123064552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "35年前的一年前的今天北京发生了什么事情呢？ https://t.co/tEyHZYsruX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930166984123064552].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930166984123064552",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930166984123064552"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55336,
+        "height": 1920,
+        "media_key": "13_1930166799259316226",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930166799259316226/img/tWF5SiRvS3O0QPMX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930166799259316226/vid/avc1/320x692/3l4GyQAcTFfsClF5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930166799259316226/vid/avc1/480x1040/LYbwnWzSDSd0tRWM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930166799259316226/vid/avc1/720x1560/8CzqpQmTrfnIsByQ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930166799259316226/pl/LO9kWXysqzTpsHBx.m3u8?tag=16"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 203,
+          "like_count": 21859,
+          "listed_count": 2,
+          "media_count": 1198,
+          "tweet_count": 7552
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

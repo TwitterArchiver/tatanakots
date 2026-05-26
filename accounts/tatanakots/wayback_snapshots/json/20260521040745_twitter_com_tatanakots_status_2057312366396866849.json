@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2057311544766345484",
+    "created_at": "2026-05-21T04:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057312366396866849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1627685052556656640",
+          "start": 0,
+          "username": "raith_1102miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057312366396866849",
+    "in_reply_to_user_id": "1627685052556656640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057311544766345484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@raith_1102miao 我都已经出柜了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2057311544766345484",
+        "created_at": "2026-05-21T04:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057312366396866849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1627685052556656640",
+              "start": 0,
+              "username": "raith_1102miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057312366396866849",
+        "in_reply_to_user_id": "1627685052556656640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057311544766345484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@raith_1102miao 我都已经出柜了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627685052556656640",
+        "conversation_id": "2057311544766345484",
+        "created_at": "2026-05-21T04:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057311544766345484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/tatanakots/status/2057125812919517694",
+              "start": 43,
+              "url": "https://t.co/qUaWf2L8ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057311544766345484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057125812919517694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我妈知道我买了裙子，但不允许我穿出去😭（ps尚未出柜，但她是不是真不知道我就不知道了 https://t.co/qUaWf2L8ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3800,
+          "following_count": 421,
+          "like_count": 29593,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 13018
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T15:02:43.000Z",
+        "description": "越是不被理解  越是要呐喊\n嗯，泥豪？｜INTP/INFP｜EN/CN👌｜ap在读｜沒事养养OC｜谁来教教我弹贝斯",
+        "id": "1627685052556656640",
+        "name": "瑞絲の擬象(*≧ω≦)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980120864256311296/SC533NJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 513,
+          "like_count": 12059,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 211
+        },
+        "username": "raith_1102miao",
+        "verified": false
+      }
+    ]
+  }
+}

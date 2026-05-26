@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2041819815225258387",
+    "created_at": "2026-04-09T05:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042110540475253115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981924659437383680",
+          "start": 0,
+          "username": "publicwy_ext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042110540475253115",
+    "in_reply_to_user_id": "1981924659437383680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042016484688642380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@publicwy_ext powershell中不是自动设置的别名嘛\n就像ls一样，ls也是被设置成了powershell的获取目录文件的别名啊\n（powershell自带的命令名好长实在记不住）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2041819815225258387",
+        "created_at": "2026-04-09T05:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042110540475253115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981924659437383680",
+              "start": 0,
+              "username": "publicwy_ext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042110540475253115",
+        "in_reply_to_user_id": "1981924659437383680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042016484688642380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@publicwy_ext powershell中不是自动设置的别名嘛\n就像ls一样，ls也是被设置成了powershell的获取目录文件的别名啊\n（powershell自带的命令名好长实在记不住）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981924659437383680",
+        "conversation_id": "2041819815225258387",
+        "created_at": "2026-04-08T23:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042016484688642380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 19,
+              "id": "1900168705847500800",
+              "start": 12,
+              "username": "wxb_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042016484688642380",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041915682716316063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @wxb_NB 把curl换成curl.exe也可以在Power Shell里使用curl.exe💦\n但何必这么麻烦呢，非要替换成别名干啥💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 380,
+          "like_count": 26236,
+          "listed_count": 6,
+          "media_count": 1642,
+          "tweet_count": 11789
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:24:18.000Z",
+        "description": "不知道写啥💦",
+        "id": "1981924659437383680",
+        "location": "提瓦特大陆",
+        "name": "publicwy ext🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981924755336015872/lxOBN7YO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 124,
+          "like_count": 2182,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 746
+        },
+        "username": "publicwy_ext",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2035002247067967727",
+    "created_at": "2026-03-20T14:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035004657790255514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830634729013456896",
+          "start": 0,
+          "username": "duckxucom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035004657790255514",
+    "in_reply_to_user_id": "1830634729013456896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035004018179940683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duckxucom 倒不是自带的元件库，因为是极为特殊的某厂商定制元件，所以是按照cad图纸自己画的封装，但是第一次尺寸搞错了，其实在第一个应用的板子的第一次打样中就发现并修改了，但是没想到修改版本直接改在了那个板子的元件上，而非改在元件库里，导致另一个项目用到这个元件的时候用了错误的封装打样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2035002247067967727",
+        "created_at": "2026-03-20T14:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035004657790255514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830634729013456896",
+              "start": 0,
+              "username": "duckxucom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035004657790255514",
+        "in_reply_to_user_id": "1830634729013456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035004018179940683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duckxucom 倒不是自带的元件库，因为是极为特殊的某厂商定制元件，所以是按照cad图纸自己画的封装，但是第一次尺寸搞错了，其实在第一个应用的板子的第一次打样中就发现并修改了，但是没想到修改版本直接改在了那个板子的元件上，而非改在元件库里，导致另一个项目用到这个元件的时候用了错误的封装打样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830634729013456896",
+        "conversation_id": "2035002247067967727",
+        "created_at": "2026-03-20T14:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035004018179940683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035004018179940683",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035002247067967727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 立创自带的元器件库里有些用户上传的是错的。有点坑（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 362,
+          "like_count": 25403,
+          "listed_count": 6,
+          "media_count": 1600,
+          "tweet_count": 11361
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T15:52:06.000Z",
+        "description": "Noob dev,Star Citizen player and otaku.\n言论不具有任何指向和明确意义/@scnazuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "scnazuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "duckxu.com",
+                "end": 23,
+                "expanded_url": "https://duckxu.com",
+                "start": 0,
+                "url": "https://t.co/HdPvTZwei0"
+              }
+            ]
+          }
+        },
+        "id": "1830634729013456896",
+        "location": "Orison,Crusader",
+        "name": "duckxu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997169518125502465/p-1tgjKL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 88,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/HdPvTZwei0",
+        "username": "duckxucom",
+        "verified": false
+      }
+    ]
+  }
+}

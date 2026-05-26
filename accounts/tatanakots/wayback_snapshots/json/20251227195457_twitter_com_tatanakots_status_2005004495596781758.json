@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2004837155835969624",
+    "created_at": "2025-12-27T19:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T20:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005004495596781758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1371241850074406915",
+          "start": 0,
+          "username": "music3club"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005004495596781758",
+    "in_reply_to_user_id": "1371241850074406915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004837155835969624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@music3club 因为普通用户的电脑网络环境不能直接从hf拉模型文件吧，找代装直接从自有的国内cdn下载文件过来就行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2004837153340346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KcxNVbUAAN42Z.png",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2004837155835969624",
+        "created_at": "2025-12-27T19:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005004495596781758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1371241850074406915",
+              "start": 0,
+              "username": "music3club"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005004495596781758",
+        "in_reply_to_user_id": "1371241850074406915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004837155835969624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@music3club 因为普通用户的电脑网络环境不能直接从hf拉模型文件吧，找代装直接从自有的国内cdn下载文件过来就行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004837153340346368"
+          ]
+        },
+        "author_id": "1371241850074406915",
+        "conversation_id": "2004837155835969624",
+        "created_at": "2025-12-27T08:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004837155835969624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5YLHlaGCh",
+              "end": 173,
+              "expanded_url": "https://x.com/music3club/status/2004837155835969624/photo/1",
+              "media_key": "3_2004837153340346368",
+              "start": 150,
+              "url": "https://t.co/s5YLHlaGCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004837155835969624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 36339,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟在中国的老同事聊天，了解到这一年在中国通过给一些人在本地计算机上安装大模型，比如DeepSeek，Qwen……这些赚了不少钱，我就纳闷了，这玩意不就是装个LM studio的事么，搜到下了就行了，比找个windows激活还简单呢，咋就能挣钱啊…\n美国的免费软件到中国成收费一对一服务了，真厉害 https://t.co/s5YLHlaGCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3422,
+          "following_count": 244,
+          "like_count": 23959,
+          "listed_count": 6,
+          "media_count": 1459,
+          "tweet_count": 9611
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-14T23:28:45.000Z",
+        "description": "Living in Seattle 我是一个从中国来的美国人",
+        "id": "1371241850074406915",
+        "location": "Seattle, WA",
+        "name": "Lei.USA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907666610904817664/FQ5K536x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98643,
+          "following_count": 839,
+          "like_count": 32917,
+          "listed_count": 368,
+          "media_count": 1926,
+          "tweet_count": 35780
+        },
+        "username": "music3club",
+        "verified": false
+      }
+    ]
+  }
+}

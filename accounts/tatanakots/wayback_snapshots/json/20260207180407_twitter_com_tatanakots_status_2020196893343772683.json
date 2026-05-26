@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2020103869099823347",
+    "created_at": "2026-02-07T18:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020196893343772683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "924539122257154048",
+          "start": 0,
+          "username": "laishereu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020196893343772683",
+    "in_reply_to_user_id": "924539122257154048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020180840320524773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laishereu 很多常用的行为管控都能识别出你有没有挂代理的，dpi分析到经过混淆的流量就知道你没有在正常使用网络了，而公共网络基本都会部署上网行为管控"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2020103869099823347",
+        "created_at": "2026-02-07T18:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020196893343772683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "924539122257154048",
+              "start": 0,
+              "username": "laishereu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020196893343772683",
+        "in_reply_to_user_id": "924539122257154048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020180840320524773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laishereu 很多常用的行为管控都能识别出你有没有挂代理的，dpi分析到经过混淆的流量就知道你没有在正常使用网络了，而公共网络基本都会部署上网行为管控"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "924539122257154048",
+        "conversation_id": "2020103869099823347",
+        "created_at": "2026-02-07T17:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020180840320524773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1725169104963657728",
+              "start": 0,
+              "username": "AztecaAlpaca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020180840320524773",
+        "in_reply_to_user_id": "1725169104963657728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020103869099823347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AztecaAlpaca 我认为这不是断网警告，就是如图所说，使用说明书。图书馆没有那样的能力检查你的梯子，如果 gfw 都没有封你，那么它更不可能。梯子流量又不是固定简单的特征"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 348,
+          "like_count": 24614,
+          "listed_count": 6,
+          "media_count": 1532,
+          "tweet_count": 10500
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-29T07:31:18.000Z",
+        "description": "",
+        "id": "924539122257154048",
+        "name": "laishere",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812486085596913664/XkLTJqXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 102
+        },
+        "username": "laishereu",
+        "verified": false
+      }
+    ]
+  }
+}

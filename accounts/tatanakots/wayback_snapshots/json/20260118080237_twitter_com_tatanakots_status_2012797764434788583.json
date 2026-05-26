@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2012538520103961081",
+    "created_at": "2026-01-18T08:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012797764434788583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "912623216899715072",
+          "start": 0,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012797764434788583",
+    "in_reply_to_user_id": "912623216899715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012538520103961081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianzhong_1953 Google AI大会的场地Wi-Fi不是默认翻在新加坡的嘛？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2012538515943227392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-35HguWgAAjI-z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2012538520103961081",
+        "created_at": "2026-01-18T08:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012797764434788583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012797764434788583",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012538520103961081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianzhong_1953 Google AI大会的场地Wi-Fi不是默认翻在新加坡的嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012538515943227392"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2012538520103961081",
+        "created_at": "2026-01-17T14:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012538520103961081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSm7OsrPP3",
+              "end": 77,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2012538520103961081/photo/1",
+              "media_key": "3_2012538515943227392",
+              "start": 54,
+              "url": "https://t.co/bSm7OsrPP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012538520103961081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 154337,
+          "like_count": 663,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "有点震惊，一个做AI的，居然不知道/不会看到墙外，这是全过程岁月静好啊，就连粉蛆也知道连上谷歌是要翻墙的。 https://t.co/bSm7OsrPP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 258,
+          "like_count": 24082,
+          "listed_count": 6,
+          "media_count": 1485,
+          "tweet_count": 9986
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107539,
+          "following_count": 815,
+          "like_count": 248798,
+          "listed_count": 350,
+          "media_count": 23265,
+          "tweet_count": 45273
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

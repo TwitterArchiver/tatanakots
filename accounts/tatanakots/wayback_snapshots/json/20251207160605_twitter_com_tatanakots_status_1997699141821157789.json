@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1997510050303373636",
+    "created_at": "2025-12-07T16:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T17:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997699141821157789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662871897309347842",
+          "start": 0,
+          "username": "ForsakenDreamm"
+        },
+        {
+          "end": 24,
+          "id": "2584904000",
+          "start": 16,
+          "username": "HuaPenW"
+        },
+        {
+          "end": 33,
+          "id": "1125309529145524224",
+          "start": 25,
+          "username": "wquguru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997699141821157789",
+    "in_reply_to_user_id": "1662871897309347842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997686196999459076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForsakenDreamm @HuaPenW @wquguru 既然如此，那么用来定位的app为了不暴露自己要定位申请了其他包含SSID的权限来访问SSID怎么办、操作系统这样设计其实也挺合理，把某个权限放在被利用后最危险的分类里面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1997510050303373636",
+        "created_at": "2025-12-07T16:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997699141821157789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662871897309347842",
+              "start": 0,
+              "username": "ForsakenDreamm"
+            },
+            {
+              "end": 24,
+              "id": "2584904000",
+              "start": 16,
+              "username": "HuaPenW"
+            },
+            {
+              "end": 33,
+              "id": "1125309529145524224",
+              "start": 25,
+              "username": "wquguru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997699141821157789",
+        "in_reply_to_user_id": "1662871897309347842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997686196999459076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForsakenDreamm @HuaPenW @wquguru 既然如此，那么用来定位的app为了不暴露自己要定位申请了其他包含SSID的权限来访问SSID怎么办、操作系统这样设计其实也挺合理，把某个权限放在被利用后最危险的分类里面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662871897309347842",
+        "conversation_id": "1997510050303373636",
+        "created_at": "2025-12-07T15:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997686196999459076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 20,
+              "id": "2584904000",
+              "start": 12,
+              "username": "HuaPenW"
+            },
+            {
+              "end": 29,
+              "id": "1125309529145524224",
+              "start": 21,
+              "username": "wquguru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997686196999459076",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997684903316803655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @HuaPenW @wquguru SSID是定位常用的手段之一，但是操作系统没考虑到定位之外的用途，所以就只能申请位置权限了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2949,
+          "following_count": 243,
+          "like_count": 23886,
+          "listed_count": 5,
+          "media_count": 1421,
+          "tweet_count": 9288
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T17:22:33.000Z",
+        "description": "小米和华为的唯一区别就是名字叫小米",
+        "id": "1662871897309347842",
+        "location": "127.1&::1",
+        "name": "然然然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952549718510493696/5TpjMYpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 763,
+          "like_count": 51632,
+          "listed_count": 1,
+          "media_count": 592,
+          "tweet_count": 5882
+        },
+        "username": "ForsakenDreamm",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-24T01:50:49.000Z",
+        "description": "一个互联网冲浪者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "adobe.com",
+                "end": 23,
+                "expanded_url": "http://www.adobe.com",
+                "start": 0,
+                "url": "https://t.co/6CTCFnUGgC"
+              }
+            ]
+          }
+        },
+        "id": "2584904000",
+        "location": "Gallaxy",
+        "name": "𝑌𝑎𝑡𝑜𝑟𝑜𝐺𝑜𝑑",
+        "pinned_tweet_id": "1408819749740453891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895886203515252736/5ZlaDPMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 730,
+          "like_count": 49207,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 7176
+        },
+        "url": "https://t.co/6CTCFnUGgC",
+        "username": "HuaPenW",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T08:01:13.000Z",
+        "description": "AI + Quant + 工程 | 氛围编程12原则 https://t.co/ckrIuyeaAH | 1011情报包 https://t.co/1jnqA1yzEa | 12经典量化策略 https://t.co/hzM43biaEU | 开源的nof1 https://t.co/WjHgPeaTkD | 欢迎DM👋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "12factor.me/zh",
+                "end": 50,
+                "expanded_url": "http://12factor.me/zh",
+                "start": 27,
+                "url": "https://t.co/ckrIuyeaAH"
+              },
+              {
+                "display_url": "crash.wqu.guru",
+                "end": 84,
+                "expanded_url": "https://crash.wqu.guru",
+                "start": 61,
+                "url": "https://t.co/1jnqA1yzEa"
+              },
+              {
+                "display_url": "12quant.wqu.guru",
+                "end": 119,
+                "expanded_url": "https://12quant.wqu.guru",
+                "start": 96,
+                "url": "https://t.co/hzM43biaEU"
+              },
+              {
+                "display_url": "nof0.wqu.guru",
+                "end": 153,
+                "expanded_url": "https://nof0.wqu.guru",
+                "start": 130,
+                "url": "https://t.co/WjHgPeaTkD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wqu.guru/blog/quantopia…",
+                "end": 23,
+                "expanded_url": "https://wqu.guru/blog/quantopia-quantitative-analysis-56-lectures",
+                "start": 0,
+                "url": "https://t.co/pvsHX8lzXY"
+              }
+            ]
+          }
+        },
+        "id": "1125309529145524224",
+        "location": "imagine",
+        "name": "WquGuru🦀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892575619298525184/q8syuBou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8532,
+          "following_count": 806,
+          "like_count": 6492,
+          "listed_count": 132,
+          "media_count": 366,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/pvsHX8lzXY",
+        "username": "wquguru",
+        "verified": true
+      }
+    ]
+  }
+}

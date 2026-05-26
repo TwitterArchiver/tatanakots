@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1934174634137784660",
+    "created_at": "2025-06-16T11:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T12:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934576963869687942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "896494802295898112",
+          "start": 0,
+          "username": "genjiwang"
+        },
+        {
+          "end": 20,
+          "id": "24085812",
+          "start": 11,
+          "username": "yinuo885"
+        },
+        {
+          "end": 29,
+          "id": "1433678976564662273",
+          "start": 21,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934576963869687942",
+    "in_reply_to_user_id": "896494802295898112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934225862897082748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genjiwang @yinuo885 @hsn8086 根据美国苹果公司的官方说法，这是霹雳接口，支持雷电协议的通用串行总线丙型接口叫做雷雳接口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1934174634137784660",
+        "created_at": "2025-06-16T11:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934576963869687942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "896494802295898112",
+              "start": 0,
+              "username": "genjiwang"
+            },
+            {
+              "end": 20,
+              "id": "24085812",
+              "start": 11,
+              "username": "yinuo885"
+            },
+            {
+              "end": 29,
+              "id": "1433678976564662273",
+              "start": 21,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934576963869687942",
+        "in_reply_to_user_id": "896494802295898112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934225862897082748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genjiwang @yinuo885 @hsn8086 根据美国苹果公司的官方说法，这是霹雳接口，支持雷电协议的通用串行总线丙型接口叫做雷雳接口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "896494802295898112",
+        "conversation_id": "1934174634137784660",
+        "created_at": "2025-06-15T12:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934225862897082748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "24085812",
+              "start": 0,
+              "username": "yinuo885"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934225862897082748",
+        "in_reply_to_user_id": "24085812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3142,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934179793777664312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinuo885 @hsn8086 如何评价用户称Lightning口叫苹果口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 202,
+          "like_count": 21937,
+          "listed_count": 2,
+          "media_count": 1208,
+          "tweet_count": 7634
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-12T22:13:11.000Z",
+        "description": "",
+        "id": "896494802295898112",
+        "name": "Kobe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830258490247671808/e4DOYclp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 195,
+          "like_count": 4570,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 365
+        },
+        "username": "genjiwang",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-13T00:39:58.000Z",
+        "description": "",
+        "id": "24085812",
+        "location": "thai",
+        "name": "zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700532023386103808/Y0KdoKJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 3119,
+          "like_count": 10328,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 5886
+        },
+        "username": "yinuo885",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78300,
+          "following_count": 974,
+          "like_count": 40626,
+          "listed_count": 170,
+          "media_count": 12334,
+          "tweet_count": 18765
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

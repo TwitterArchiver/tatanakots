@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2056275456195006777",
+    "created_at": "2026-05-18T15:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056399809574277567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1398530874400935937",
+          "start": 0,
+          "username": "akazwz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056399809574277567",
+    "in_reply_to_user_id": "1398530874400935937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056275456195006777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akazwz_ caddy好文明！我也喜欢用caddy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2056274977712955392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlbMpca4AA9y2m.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2056275456195006777",
+        "created_at": "2026-05-18T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056399809574277567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1398530874400935937",
+              "start": 0,
+              "username": "akazwz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056399809574277567",
+        "in_reply_to_user_id": "1398530874400935937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056275456195006777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akazwz_ caddy好文明！我也喜欢用caddy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056274977712955392"
+          ]
+        },
+        "author_id": "1398530874400935937",
+        "conversation_id": "2056275456195006777",
+        "created_at": "2026-05-18T07:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056275456195006777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlJhuGyI8g",
+              "end": 205,
+              "expanded_url": "https://x.com/akazwz_/status/2056275456195006777/photo/1",
+              "media_key": "3_2056274977712955392",
+              "start": 182,
+              "url": "https://t.co/mlJhuGyI8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056275456195006777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 4353,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自建 S3 我最终选了 seaweedfs， 已经单机部署好了，域名和泛域名都搞好了，s3 支持 virtual host 的 形式，里面也能通过写 policy 让 bucket public read， 对 s3 的兼容很好，暂时满足我的需求。然后泛域名这个我用了 caddy 来反代，这个支持 dns acme，cloudflare dns 用起来很方便。 https://t.co/mlJhuGyI8g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3795,
+          "following_count": 418,
+          "like_count": 29297,
+          "listed_count": 8,
+          "media_count": 1736,
+          "tweet_count": 12949
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T06:45:30.000Z",
+        "description": "Go/TS 全栈开发者 | Open to Work 💼 欢迎私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akazwz.com",
+                "end": 23,
+                "expanded_url": "https://akazwz.com",
+                "start": 0,
+                "url": "https://t.co/KIBl8mLrOd"
+              }
+            ]
+          }
+        },
+        "id": "1398530874400935937",
+        "location": "chengdu",
+        "name": "akazwz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048289331509624832/eXseLqig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 799,
+          "like_count": 81819,
+          "listed_count": 60,
+          "media_count": 1116,
+          "tweet_count": 10099
+        },
+        "url": "https://t.co/KIBl8mLrOd",
+        "username": "akazwz_",
+        "verified": true
+      }
+    ]
+  }
+}

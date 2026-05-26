@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2004739274126860432",
+    "created_at": "2025-12-27T20:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T21:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005016319725633763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764677339580092416",
+          "start": 0,
+          "username": "ddazmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005016319725633763",
+    "in_reply_to_user_id": "1764677339580092416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004739274126860432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddazmon 腾讯云的ip还是太脏了，部分风控会封腾讯云的ip，当然对ip类型要求不高只要ip滥用度低就行的服务确实可以随便买一台vps"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93855,
+        "height": 1080,
+        "media_key": "13_2004738738795249664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004738738795249664/img/c6lXKsz__YZ6MVuk.jpg",
+        "public_metrics": {
+          "view_count": 5406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004738738795249664/pl/7OT0dduElhOdNHuq.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/640x360/7BCnlLoDW1w0Yh08.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/1920x1080/0tvX8I_HyefkHqsu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/480x270/9c6NhdRSDVmZpdX2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004738738795249664/vid/avc1/1280x720/_7mC5C5Pd4tIrrn1.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2004739274126860432",
+        "created_at": "2025-12-27T20:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005016319725633763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764677339580092416",
+              "start": 0,
+              "username": "ddazmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005016319725633763",
+        "in_reply_to_user_id": "1764677339580092416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004739274126860432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddazmon 腾讯云的ip还是太脏了，部分风控会封腾讯云的ip，当然对ip类型要求不高只要ip滥用度低就行的服务确实可以随便买一台vps"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004738738795249664"
+          ]
+        },
+        "author_id": "1764677339580092416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2004739274126860432",
+        "created_at": "2025-12-27T02:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004739274126860432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtSTswO11X",
+              "end": 127,
+              "expanded_url": "https://x.com/ddazmon/status/2004739274126860432/video/1",
+              "media_key": "13_2004738738795249664",
+              "start": 104,
+              "url": "https://t.co/NtSTswO11X"
+            },
+            {
+              "display_url": "x.com/ddazmon/status…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/ddazmon/status/2004189307049758815",
+              "start": 128,
+              "url": "https://t.co/TAam3eN6kX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004739274126860432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2分钟搭建Linux独立代理SOCKS5 IP\n\n现在行情不好的情况下，不妨好好提升自己，大多撸毛的兄弟应该都是买的代理IP，和买的VPN，有时候还会在群里看到很多兄弟问哪里的飞机场好用便宜，自己搭建就好了\n\ngithub上有一堆一键搭建的脚本，学会自己搭建一方面能节省代理成本，另一方面可以多一台24小时不关机的远程电脑跑跑脚本，最终要的一点是，自己搭建的独立IP干净可靠，有效降低女巫风险\n\n❚ 一键搭建SOCKS5\n\n安装之前先准备一台linux，一定是linux，windows不行，然后输入以下开源的脚本到linux系统，回车，等待安装，完成后会随机生成账号密码端口，把这些信息记录下来（代码都是免费开源的，放心食用，命令放在第二篇帖子）\n\n❚ 云服务器开启防火墙\n\n搭建成功后会发现还是连接不上代理，那是因为云服务器代理商一般都会自己做一定的限制，所以你需要登陆上云服务器的控制台，找到对应的防火墙，然后把上面的随机端口添加上\n\n完成以上两个步骤，代理IP就算是搭建成功了，最后随便找个指纹浏览器测试下"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 17457,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004189307049758815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2分钟搭建Linux独立代理SOCKS5 IP\n\n现在行情不好的情况下，不妨好好提升自己，大多撸毛的兄弟应该都是买的代理IP，和买的VPN，有时候还会在群里看到很多兄弟问哪里的飞机场好用便宜，自己搭建就好了 https://t.co/NtSTswO11X https://t.co/TAam3eN6kX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3421,
+          "following_count": 244,
+          "like_count": 23959,
+          "listed_count": 6,
+          "media_count": 1459,
+          "tweet_count": 9614
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-04T15:41:20.000Z",
+        "description": "@WBTventures Builder/ @kaitoAi holder\n@grvt_io 全网最高返佣37% = 自动返佣20%（限制20%最多）+ 17%手动返佣 ，就赚个交易量",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "WBTventures"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "username": "kaitoAi"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "grvt_io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grvt.io/?ref=Dazmon",
+                "end": 23,
+                "expanded_url": "https://grvt.io/?ref=Dazmon",
+                "start": 0,
+                "url": "https://t.co/kUXBIrPMvQ"
+              }
+            ]
+          }
+        },
+        "id": "1764677339580092416",
+        "location": "Hong Kong",
+        "name": "Dazmon💢",
+        "pinned_tweet_id": "2004189307049758815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941923600778526720/j0bKfX8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4284,
+          "following_count": 1751,
+          "like_count": 16433,
+          "listed_count": 117,
+          "media_count": 1130,
+          "tweet_count": 13223
+        },
+        "url": "https://t.co/kUXBIrPMvQ",
+        "username": "ddazmon",
+        "verified": true
+      }
+    ]
+  }
+}

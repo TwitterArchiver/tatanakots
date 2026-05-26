@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2002322746018312594",
+    "created_at": "2025-12-20T10:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T11:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002330239654113368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880220509855707139",
+          "start": 0,
+          "username": "HAYAKAWATORI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002330239654113368",
+    "in_reply_to_user_id": "1880220509855707139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002328826391756812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HAYAKAWATORI 好的，支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2002322746018312594",
+        "created_at": "2025-12-20T10:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002330239654113368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880220509855707139",
+              "start": 0,
+              "username": "HAYAKAWATORI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002330239654113368",
+        "in_reply_to_user_id": "1880220509855707139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002328826391756812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HAYAKAWATORI 好的，支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880220509855707139",
+        "conversation_id": "2002322746018312594",
+        "created_at": "2025-12-20T10:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002328826391756812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002328826391756812",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002322746018312594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 我当初就该把你冯的逼里也发张戳让你过15分钟才能出生憋死你个寿命还没现在的In Chaos长的龟玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 243,
+          "like_count": 23927,
+          "listed_count": 6,
+          "media_count": 1446,
+          "tweet_count": 9476
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T11:48:09.000Z",
+        "description": "Back to the Classin\nGet on and Get on！",
+        "id": "1880220509855707139",
+        "name": "疾川等势",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880220563819610112/xUwhGiNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 103,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "username": "HAYAKAWATORI",
+        "verified": false
+      }
+    ]
+  }
+}

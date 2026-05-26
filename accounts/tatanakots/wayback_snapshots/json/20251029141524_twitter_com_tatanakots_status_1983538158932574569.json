@@ -1,0 +1,736 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Zelda: Breath of the Wild",
+          "id": "10048750440",
+          "name": "Zelda: Breath of the Wild"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855303327088640000",
+          "name": "The Legend of Zelda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855303327088640000",
+          "name": "The Legend of Zelda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855303327088640000",
+          "name": "The Legend of Zelda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855303327088640000",
+          "name": "The Legend of Zelda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1983538158932574569",
+    "created_at": "2025-10-29T14:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983538158932574569"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "The Legend of",
+          "probability": 0.6894,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Zelda",
+          "probability": 0.6509,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 70,
+          "normalized_text": "BreathoftheWild",
+          "probability": 0.7224,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "Zelda"
+        },
+        {
+          "end": 71,
+          "start": 55,
+          "tag": "BreathoftheWild"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "493980491",
+          "start": 3,
+          "username": "NintendoEurope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983538158932574569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983519296182423840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NintendoEurope: The music of The Legend of #Zelda: #BreathoftheWild is coming to vinyl!\n\nA 2LP set with 34 tracks and an 8LP box set wi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1983519291803570176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bgSWkWEAARMmh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Zelda: Breath of the Wild",
+              "id": "10048750440",
+              "name": "Zelda: Breath of the Wild"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1983538158932574569",
+        "created_at": "2025-10-29T14:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983538158932574569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "The Legend of",
+              "probability": 0.6894,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Zelda",
+              "probability": 0.6509,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "BreathoftheWild",
+              "probability": 0.7224,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "Zelda"
+            },
+            {
+              "end": 71,
+              "start": 55,
+              "tag": "BreathoftheWild"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "493980491",
+              "start": 3,
+              "username": "NintendoEurope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983538158932574569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983519296182423840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NintendoEurope: The music of The Legend of #Zelda: #BreathoftheWild is coming to vinyl!\n\nA 2LP set with 34 tracks and an 8LP box set wi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983519291803570176"
+          ]
+        },
+        "author_id": "493980491",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Zelda: Breath of the Wild",
+              "id": "10048750440",
+              "name": "Zelda: Breath of the Wild"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1983519296182423840",
+        "created_at": "2025-10-29T13:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983519296182423840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "The Legend",
+              "probability": 0.6483,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Zelda",
+              "probability": 0.8563,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "BreathoftheWild",
+              "probability": 0.6709,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "Zelda"
+            },
+            {
+              "end": 51,
+              "start": 35,
+              "tag": "BreathoftheWild"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClwMIrCFQ6",
+              "end": 238,
+              "expanded_url": "https://x.com/NintendoEurope/status/1983519296182423840/photo/1",
+              "media_key": "3_1983519291803570176",
+              "start": 215,
+              "url": "https://t.co/ClwMIrCFQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983519296182423840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 17860,
+          "like_count": 498,
+          "quote_count": 39,
+          "reply_count": 13,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "The music of The Legend of #Zelda: #BreathoftheWild is coming to vinyl!\n\nA 2LP set with 34 tracks and an 8LP box set with 130 tracks will be available next year in both black vinyl and Limited Edition colour vinyl. https://t.co/ClwMIrCFQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 233,
+          "like_count": 23477,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 8883
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-16T11:50:53.000Z",
+        "description": "Nintendo's official European account. Our apologies for not being able to respond to questions – we'll be listening!\n\nPrivacy policy: https://t.co/3YF10BgAWn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ntdo.com/6012fU5iY",
+                "end": 157,
+                "expanded_url": "https://ntdo.com/6012fU5iY",
+                "start": 134,
+                "url": "https://t.co/3YF10BgAWn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com/eu/",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com/eu/",
+                "start": 0,
+                "url": "https://t.co/VmIVOyvOCu"
+              }
+            ]
+          }
+        },
+        "id": "493980491",
+        "name": "Nintendo of Europe",
+        "pinned_tweet_id": "1981363172117184581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716356898918670336/Y7XQejTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708407,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 2596,
+          "media_count": 12015,
+          "tweet_count": 18231
+        },
+        "url": "https://t.co/VmIVOyvOCu",
+        "username": "NintendoEurope",
+        "verified": true
+      }
+    ]
+  }
+}

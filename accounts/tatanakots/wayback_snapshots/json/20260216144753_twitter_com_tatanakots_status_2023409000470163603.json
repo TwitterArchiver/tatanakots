@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2023284985747345595",
+    "created_at": "2026-02-16T14:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023409000470163603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104600307",
+          "start": 0,
+          "username": "AlrayTired"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023409000470163603",
+    "in_reply_to_user_id": "104600307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023373045151469961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlrayTired switch不是router，这个基本不会因软件问题卡住，掉线大概率就是硬件损坏或断电，没必要为此单独配置Wi-Fi CPE，需要维护的网络过多反而不利于管理吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2023284985747345595",
+        "created_at": "2026-02-16T14:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023409000470163603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104600307",
+              "start": 0,
+              "username": "AlrayTired"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023409000470163603",
+        "in_reply_to_user_id": "104600307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023373045151469961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlrayTired switch不是router，这个基本不会因软件问题卡住，掉线大概率就是硬件损坏或断电，没必要为此单独配置Wi-Fi CPE，需要维护的网络过多反而不利于管理吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "104600307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2023284985747345595",
+        "created_at": "2026-02-16T12:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023373045151469961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 21,
+              "id": "1683218035602255872",
+              "start": 12,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023373045151469961",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023318504028692607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @jlxc2001 接个WIFI开关就能重启了，如果重启解决不了，那么肯定得有人在现场才行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 350,
+          "like_count": 24769,
+          "listed_count": 6,
+          "media_count": 1544,
+          "tweet_count": 10678
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-13T20:45:12.000Z",
+        "description": "总会有一天，有人看你的眼睛，像看到浩渺星空，能看到光。#手动屏蔽黄推 #选择性回Fo #不是那么有趣 #性别男 #本推人设含创作成分 #G+",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "手动屏蔽黄推"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "选择性回Fo"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "不是那么有趣"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "性别男"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "tag": "本推人设含创作成分"
+              },
+              {
+                "end": 69,
+                "start": 67,
+                "tag": "G"
+              }
+            ]
+          }
+        },
+        "id": "104600307",
+        "location": "冷却",
+        "name": "repl song",
+        "pinned_tweet_id": "1476946862942789632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748198800215425024/nHpqmTV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 474,
+          "like_count": 2237,
+          "listed_count": 11,
+          "media_count": 1491,
+          "tweet_count": 16953
+        },
+        "username": "AlrayTired",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2052960309535760703",
+    "created_at": "2026-05-18T13:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056363291329597847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056363291329597847",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053318263124459853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 谁说usb写一年的更新记录了？usb只更新主程序本体，未来的更新记录都是通过网络更新提前一周左右下发的，不然科技哥早就直接提前一年解锁整个大版本更新的所有歌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2052960309535760703",
+        "created_at": "2026-05-18T13:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056363291329597847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056363291329597847",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053318263124459853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 谁说usb写一年的更新记录了？usb只更新主程序本体，未来的更新记录都是通过网络更新提前一周左右下发的，不然科技哥早就直接提前一年解锁整个大版本更新的所有歌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144143792",
+        "conversation_id": "2052960309535760703",
+        "created_at": "2026-05-10T03:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053318263124459853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1115203330899202048",
+              "start": 0,
+              "username": "otoge_checker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053318263124459853",
+        "in_reply_to_user_id": "1115203330899202048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于舞萌中国版更新进度落后的问题，我浅谈一下自己的看法。\n\n我认为，中国版进度落后其实是多种因素共同作用的结果，而其中最大的核心障碍，还是中国内地的政策与审批环境。\n\n中国内地对于游戏内容存在严格审核机制。从这几年的情况来看，中国版舞萌每次大版本更新，基本都是通过更新 USB 向机台提前写入未来一年的游戏内容，再按照时间节点逐步解锁。我个人认为，这种模式与前面提到的审批机制存在较强关联。对于华立来说，提前一次性下发内容，能够降低后续频繁提交审核、频繁推送更新所带来的风险与流程成本。\n\n另一方面，中国内地目前已经是全球 maimai 铺货量最多的地区，没有之一。这样的更新模式，相较于日服那种实时download，也能够节约大量网络与服务器带宽资源。\n\n当然，除了政策以外，我想顺便也从别的角度聊聊可能的原因。\n\n首先是华立与SEGA之间的合作方式与授权范围。这类内容本身就属于商业合作层面的事情，我们普通玩家很难得知真实情况。\n\n网上流传一种说法：华立每年向SEGA支付的更新费用，与中国内地当前铺货的机台数量挂钩，同时也与所购买的更新内容范围有关。\n\n老玩家应该都知道，国服稼动初期很长一段时间，处于一种“无印式”的更新状态。除了歌曲与谱面的常规推进外，玩家就几乎感知不到别的变化了。\n\n我个人更倾向于把那个阶段理解为把maimai引入中国内地的“试水期”：华立当时对于资金投入相对谨慎，因此整体更新内容也偏保守。\n\n而后来中国版开始逐渐“走出来”，包括UI更新、背景板、看板娘、角色日语配音等内容，我个人推测并不是因为SEGA“良心发现”，而是华立选择了氪金，额外购买了更多的更新内容，以满足玩家对于同步度与完整度的期待。\n\n所以任何的更新本质上都意味着成本。\n\n站在公司的角度，一边是玩家不断提高的内容期待，另一边则是营收能否覆盖更新、审核、服务器、维护等一系列支出。这中间本身就存在一系列的平衡问题。\n\n此外，由于国服与日服长期存在较大的进度落差，再加上SEGA对游戏程序加密较差，导致盗版机台、家用手台在内地横行。\n\n一些玩家为了玩到最新最热，他们自然会倾向于选择这些渠道。但这样一来，也势必会进一步影响正版机台的营收，形成恶性循环。\n\n另外由于SEGA方面的摆烂放任，国服除此之外还有发包发票、解歌理科等等破事，这里不展开赘述。\n\n种种因素叠加在一起，最终才形成了现在国服舞萌的整体处境。\n\n其实我觉得朱云杰本身未必有大家想象中那么大的话语权。他更多负责的是市场铺货，而不是国服后续运营。对他来说，核心目标还是把市场做大、把机台铺出去，至于版本更新、同步速度这些事情，本质上还是更高层面的运营与商业决策，不是靠某一个人就能推动的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1014,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052960309535760703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otoge_checker 关于舞萌中国版更新进度落后的问题，我浅谈一下自己的看法。\n\n我认为，中国版进度落后其实是多种因素共同作用的结果，而其中最大的核心障碍，还是中国内地的政策与审批环境。\n\n中国内地对于游戏内容存在严格审核机制。从这几年的情况来看，中国版舞萌每次大版本更新，基本都是通过更新 USB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 417,
+          "like_count": 29266,
+          "listed_count": 8,
+          "media_count": 1735,
+          "tweet_count": 12933
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / 社畜 / Vibe Coding / sbwmc / 全网第一台maimaiでらっくす四轮痛车车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 1611,
+          "like_count": 18817,
+          "listed_count": 31,
+          "media_count": 10651,
+          "tweet_count": 49521
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

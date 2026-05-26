@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1992741981953339729",
+    "created_at": "2025-11-26T14:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993682507989148087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "73305645",
+          "start": 0,
+          "username": "MrXiaoXin"
+        },
+        {
+          "end": 21,
+          "id": "1069599820912910337",
+          "start": 11,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993682507989148087",
+    "in_reply_to_user_id": "73305645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992998489442468339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrXiaoXin @mubeitech linux桌面发行版运行appimage不也就是扔桌面上双击一下的事情嘛，哪有那么复杂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1992741981953339729",
+        "created_at": "2025-11-26T14:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993682507989148087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "73305645",
+              "start": 0,
+              "username": "MrXiaoXin"
+            },
+            {
+              "end": 21,
+              "id": "1069599820912910337",
+              "start": 11,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993682507989148087",
+        "in_reply_to_user_id": "73305645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992998489442468339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrXiaoXin @mubeitech linux桌面发行版运行appimage不也就是扔桌面上双击一下的事情嘛，哪有那么复杂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "73305645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1992741981953339729",
+        "created_at": "2025-11-24T16:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992998489442468339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1069599820912910337",
+              "start": 0,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992998489442468339",
+        "in_reply_to_user_id": "1069599820912910337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992741981953339729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mubeitech 没有微软为了赚钱的操作系统,\n国内不知道还有几个人能用电脑...\n不是每个人都能会用linux的,\n不是每个人都能买得起mac."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 242,
+          "like_count": 23768,
+          "listed_count": 5,
+          "media_count": 1396,
+          "tweet_count": 9102
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-11T04:06:51.000Z",
+        "description": "40岁转行的996码农",
+        "id": "73305645",
+        "location": "济南市商河县",
+        "name": "洛克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2366469555/si0coa0n5s16pm8in39r_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 62,
+          "like_count": 29,
+          "listed_count": 17,
+          "media_count": 23,
+          "tweet_count": 1001
+        },
+        "username": "MrXiaoXin",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28420,
+          "following_count": 2827,
+          "like_count": 9907,
+          "listed_count": 178,
+          "media_count": 4722,
+          "tweet_count": 68366
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

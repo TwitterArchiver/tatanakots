@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2008371989673562250",
+    "created_at": "2026-01-06T11:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008499832269443545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1013015120178319361",
+          "start": 0,
+          "username": "isukkaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008499832269443545",
+    "in_reply_to_user_id": "1013015120178319361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008487428005523849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isukkaw 响应头没php也照样有机器人来扫php洞的\n我一个纯静态页面都有人扫upload.php这种路由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2008371989673562250",
+        "created_at": "2026-01-06T11:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008499832269443545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1013015120178319361",
+              "start": 0,
+              "username": "isukkaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008499832269443545",
+        "in_reply_to_user_id": "1013015120178319361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008487428005523849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isukkaw 响应头没php也照样有机器人来扫php洞的\n我一个纯静态页面都有人扫upload.php这种路由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013015120178319361",
+        "conversation_id": "2008371989673562250",
+        "created_at": "2026-01-06T10:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008487428005523849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "11973932",
+              "start": 0,
+              "username": "huijiewei"
+            },
+            {
+              "end": 18,
+              "id": "1573206509625876481",
+              "start": 11,
+              "username": "syhily"
+            },
+            {
+              "end": 28,
+              "id": "1363515523963658242",
+              "start": 19,
+              "username": "thecuvii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008487428005523849",
+        "in_reply_to_user_id": "11973932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008460598666031466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huijiewei @syhily @thecuvii wappylyzer 反而没啥搞网安的人看，我是没在响应头里塞个 X-Powered-By: PHP 5.2 的，这样才有人来扫（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @GenshinImpact Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "GenshinImpact"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 248,
+          "like_count": 23987,
+          "listed_count": 6,
+          "media_count": 1465,
+          "tweet_count": 9774
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-30T11:03:20.000Z",
+        "description": "zh/en / https://t.co/LqyNrySOVg https://t.co/W3nmtJXzQJ / Vibe Code Cleanup Specialist / Senior FE Dev / OSS Contributor / All opinions are my own, literally all of them",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "git.io/SukkaW",
+                "end": 31,
+                "expanded_url": "https://git.io/SukkaW",
+                "start": 8,
+                "url": "https://t.co/LqyNrySOVg"
+              },
+              {
+                "display_url": "skk.moe",
+                "end": 55,
+                "expanded_url": "https://skk.moe",
+                "start": 32,
+                "url": "https://t.co/W3nmtJXzQJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skk.moe",
+                "end": 23,
+                "expanded_url": "https://skk.moe",
+                "start": 0,
+                "url": "https://t.co/W3nmtJXzQJ"
+              }
+            ]
+          }
+        },
+        "id": "1013015120178319361",
+        "location": "The City of Science",
+        "name": "Sukka / 毛绒绒的大尾巴🦊",
+        "pinned_tweet_id": "1769931421748220215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1026805985363423232/3u0peLGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6737,
+          "following_count": 428,
+          "like_count": 5656,
+          "listed_count": 59,
+          "media_count": 231,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/W3nmtJXzQJ",
+        "username": "isukkaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2040276519436562456",
+    "created_at": "2026-04-04T20:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T21:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040524068454306231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1398530874400935937",
+          "start": 0,
+          "username": "akazwz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040524068454306231",
+    "in_reply_to_user_id": "1398530874400935937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040276519436562456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akazwz_ 现在用ai vibe出来的新项目估计不会，因为ai存密码很规范"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2040276519436562456",
+        "created_at": "2026-04-04T20:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T21:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040524068454306231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1398530874400935937",
+              "start": 0,
+              "username": "akazwz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040524068454306231",
+        "in_reply_to_user_id": "1398530874400935937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040276519436562456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akazwz_ 现在用ai vibe出来的新项目估计不会，因为ai存密码很规范"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398530874400935937",
+        "conversation_id": "2040276519436562456",
+        "created_at": "2026-04-04T03:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040276519436562456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040276519436562456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9856,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑现在的很多网站可能是直接明文存密码的，甚至连 bcrypt 都不用？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 379,
+          "like_count": 26096,
+          "listed_count": 6,
+          "media_count": 1630,
+          "tweet_count": 11684
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T06:45:30.000Z",
+        "description": "个人观点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/akazwz",
+                "end": 23,
+                "expanded_url": "https://github.com/akazwz",
+                "start": 0,
+                "url": "https://t.co/TV6tKuNYBA"
+              }
+            ]
+          }
+        },
+        "id": "1398530874400935937",
+        "name": "akazwz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832819329831976960/gl1jg8Qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 622,
+          "like_count": 70665,
+          "listed_count": 53,
+          "media_count": 917,
+          "tweet_count": 8380
+        },
+        "url": "https://t.co/TV6tKuNYBA",
+        "username": "akazwz_",
+        "verified": true
+      }
+    ]
+  }
+}

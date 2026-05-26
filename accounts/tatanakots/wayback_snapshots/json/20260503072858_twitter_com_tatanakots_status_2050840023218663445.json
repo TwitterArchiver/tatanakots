@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050840014930788353"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2050579319068750145",
+    "created_at": "2026-05-03T07:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050840023218663445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800905994186432512",
+          "start": 0,
+          "username": "Hoshino_Iroha10"
+        },
+        {
+          "end": 27,
+          "id": "2036071254873276416",
+          "start": 17,
+          "username": "renyue105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6u9DXPe26y",
+          "end": 73,
+          "expanded_url": "https://x.com/tatanakots/status/2050840023218663445/photo/1",
+          "media_key": "3_2050840014930788353",
+          "start": 50,
+          "url": "https://t.co/6u9DXPe26y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050840023218663445",
+    "in_reply_to_user_id": "1800905994186432512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050835479655014852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Iroha10 @renyue105 不过国内的mastercard也没那么好用 https://t.co/6u9DXPe26y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2050840014930788353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYMILUbQAEBRxP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050840014930788353"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2050579319068750145",
+        "created_at": "2026-05-03T07:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050840023218663445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800905994186432512",
+              "start": 0,
+              "username": "Hoshino_Iroha10"
+            },
+            {
+              "end": 27,
+              "id": "2036071254873276416",
+              "start": 17,
+              "username": "renyue105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6u9DXPe26y",
+              "end": 73,
+              "expanded_url": "https://x.com/tatanakots/status/2050840023218663445/photo/1",
+              "media_key": "3_2050840014930788353",
+              "start": 50,
+              "url": "https://t.co/6u9DXPe26y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050840023218663445",
+        "in_reply_to_user_id": "1800905994186432512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050835479655014852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Iroha10 @renyue105 不过国内的mastercard也没那么好用 https://t.co/6u9DXPe26y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800905994186432512",
+        "conversation_id": "2050579319068750145",
+        "created_at": "2026-05-03T07:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050835479655014852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            },
+            {
+              "end": 22,
+              "id": "1753293214826848256",
+              "start": 11,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050835479655014852",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050731024439730515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 @tatanakots 话说你拿个银联卡能干啥，人家收款都不认银联卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 410,
+          "like_count": 27993,
+          "listed_count": 7,
+          "media_count": 1703,
+          "tweet_count": 12501
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "跨性别友好🏳️‍⚧️ | 896489648964 | SBTI FUCK | 正體中文🇹🇼 简体中文🇨🇳 | 不会打音游 | 求互Fo",
+        "id": "1800905994186432512",
+        "location": "秦城监狱",
+        "name": "星野いろは🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041373858608070656/Vb9_n0Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 981,
+          "like_count": 46125,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1620
+        },
+        "username": "Hoshino_Iroha10",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "被困在男性身体里的可怜小女孩...无糖😣喜欢锻炼身体，享受生活，三观正🥳不block人😋",
+        "id": "2036071254873276416",
+        "location": "中国 江西 ",
+        "name": "任成轩",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049987475846623232/XxdcmiQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 65,
+          "like_count": 2199,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1884
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "2026932700670800380",
+    "created_at": "2026-02-26T15:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T16:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027044292225896682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2014366725198970880",
+          "start": 0,
+          "username": "Bingub8q"
+        },
+        {
+          "end": 26,
+          "id": "1752640236138684416",
+          "start": 10,
+          "username": "xiohunggu251015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027044292225896682",
+    "in_reply_to_user_id": "2014366725198970880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027034876629991686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bingub8q @xiohunggu251015 快速开发桌面应用不得学node.js、html、react、vue、electron😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2026932700670800380",
+        "created_at": "2026-02-26T15:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027044292225896682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2014366725198970880",
+              "start": 0,
+              "username": "Bingub8q"
+            },
+            {
+              "end": 26,
+              "id": "1752640236138684416",
+              "start": 10,
+              "username": "xiohunggu251015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027044292225896682",
+        "in_reply_to_user_id": "2014366725198970880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027034876629991686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bingub8q @xiohunggu251015 快速开发桌面应用不得学node.js、html、react、vue、electron😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014366725198970880",
+        "conversation_id": "2026932700670800380",
+        "created_at": "2026-02-26T14:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027034876629991686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752640236138684416",
+              "start": 0,
+              "username": "xiohunggu251015"
+            },
+            {
+              "end": 28,
+              "id": "1753293214826848256",
+              "start": 17,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027034876629991686",
+        "in_reply_to_user_id": "1752640236138684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026948444049613022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiohunggu251015 @tatanakots 学c#吧，快速开发桌面应用程序。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 349,
+          "like_count": 24942,
+          "listed_count": 6,
+          "media_count": 1560,
+          "tweet_count": 10891
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T15:57:31.000Z",
+        "description": "",
+        "id": "2014366725198970880",
+        "name": "Bing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014366904899825665/bJAXpKNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "Bingub8q",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  搬史  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "2026518405264834867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 850,
+          "like_count": 7585,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1410
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2058178636663103694",
+    "created_at": "2026-05-24T02:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058369901526761854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1347641517566013445",
+          "start": 0,
+          "username": "dogga_byte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058369901526761854",
+    "in_reply_to_user_id": "1347641517566013445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058337885254832268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogga_byte 你是不是配置了国内镜像源，我的pip是清华源的，所以也不走代理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2058178636663103694",
+        "created_at": "2026-05-24T02:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058369901526761854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1347641517566013445",
+              "start": 0,
+              "username": "dogga_byte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058369901526761854",
+        "in_reply_to_user_id": "1347641517566013445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058337885254832268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogga_byte 你是不是配置了国内镜像源，我的pip是清华源的，所以也不走代理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347641517566013445",
+        "conversation_id": "2058178636663103694",
+        "created_at": "2026-05-24T00:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058337885254832268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 20,
+              "id": "1962302660541079552",
+              "start": 12,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058337885254832268",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058241305923539057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @yuerQwQ 我的pip上了代理反而用不了，只能直连"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3815,
+          "following_count": 424,
+          "like_count": 29954,
+          "listed_count": 8,
+          "media_count": 1746,
+          "tweet_count": 13143
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T20:29:40.000Z",
+        "description": "希望大家有空可以来和咱聊聊天喵w/ 大家好啊我是说的道理 / 有时会发点大家想看的东西 / 互fo / 168cm / 是木桶饭🏳️‍⚧️～ /持证含糖很多年/ 是大家的舔∛  / 最爱吃的老八秘制小汉堡🍔@mmm19095719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "mmm19095719"
+              }
+            ]
+          }
+        },
+        "id": "1347641517566013445",
+        "location": "米诺⭐",
+        "name": "🏳️‍⚧️大家的大道理🍥✨",
+        "pinned_tweet_id": "1813521689747280214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813423541850972160/mCE5yGZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 1738,
+          "like_count": 26360,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1246
+        },
+        "username": "dogga_byte",
+        "verified": false
+      }
+    ]
+  }
+}

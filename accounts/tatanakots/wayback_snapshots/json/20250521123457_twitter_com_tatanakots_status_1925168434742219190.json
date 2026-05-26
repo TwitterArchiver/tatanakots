@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1924805233441702083",
+    "created_at": "2025-05-21T12:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925168434742219190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1606701895719956482",
+          "start": 0,
+          "username": "LepuzArcticus"
+        },
+        {
+          "end": 22,
+          "id": "1453575590729162758",
+          "start": 15,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925168434742219190",
+    "in_reply_to_user_id": "1606701895719956482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924846485331706094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LepuzArcticus @obe_ZX 那很坏了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1924846485331706094].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924846485331706094",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924846485331706094"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1924805233441702083",
+        "created_at": "2025-05-21T12:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925168434742219190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1606701895719956482",
+              "start": 0,
+              "username": "LepuzArcticus"
+            },
+            {
+              "end": 22,
+              "id": "1453575590729162758",
+              "start": 15,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925168434742219190",
+        "in_reply_to_user_id": "1606701895719956482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924846485331706094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LepuzArcticus @obe_ZX 那很坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 198,
+          "like_count": 21632,
+          "listed_count": 2,
+          "media_count": 1182,
+          "tweet_count": 7406
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-24T17:22:52.000Z",
+        "description": "持证MtF🏳️‍⚧️；INTP-A 5w6；轻度强迫/敏感/疑病/癔症/抑郁 （来自SCL-90与MMPI测试结果）\nHRT：2025/2/24\n持证：2025/5/3\nRLE：对不起，在工作时只能工装。\n她正在追逐地平线的光，她绝不会停步。且看她在死去之前，能踏足多远的征途。",
+        "id": "1606701895719956482",
+        "location": "Sichuan, China mainland.",
+        "name": "Lepuz Arcticus🍥",
+        "pinned_tweet_id": "1922999173772693602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921786320588066816/7F5Xica3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 76,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "username": "LepuzArcticus",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季MtF? | DIY HRTing | 175/52kg | 半家长党（妈妈）+半家长不管党（生父） | 有个Daddy！ | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "Daddy心里~",
+        "name": "木槿团子🍡🏳️‍⚧️",
+        "pinned_tweet_id": "1745015031736188939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916434099037966336/Hj14mfO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 489,
+          "like_count": 8783,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 1005
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

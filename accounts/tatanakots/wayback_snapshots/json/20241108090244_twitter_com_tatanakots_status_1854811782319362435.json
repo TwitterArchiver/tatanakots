@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "1854570300886991006",
+    "created_at": "2024-11-08T09:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T10:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854811782319362435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "wang051215"
+        },
+        {
+          "end": 26,
+          "id": "1429829081684537345",
+          "start": 12,
+          "username": "Rabbubble550W"
+        },
+        {
+          "end": 36,
+          "id": "107238136",
+          "start": 27,
+          "username": "duolingo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854811782319362435",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854784409133621443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang051215 @Rabbubble550W @duolingo ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1854570300886991006",
+        "created_at": "2024-11-08T09:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T10:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854811782319362435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "wang051215"
+            },
+            {
+              "end": 26,
+              "id": "1429829081684537345",
+              "start": 12,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 36,
+              "id": "107238136",
+              "start": 27,
+              "username": "duolingo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854811782319362435",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854784409133621443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang051215 @Rabbubble550W @duolingo ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809497565630722052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1854570300886991006",
+        "created_at": "2024-11-08T07:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T08:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854784409133621443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 26,
+              "id": "1429829081684537345",
+              "start": 12,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 36,
+              "id": "107238136",
+              "start": 27,
+              "username": "duolingo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854784409133621443",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854734651325333920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Rabbubble550W @duolingo 骇呀 蓝白粉旗帜 吓死我力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 △ @Victoria__Nagi @altaz_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 121,
+                "username": "Victoria__Nagi"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 155,
+          "like_count": 18778,
+          "listed_count": 1,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "",
+        "id": "1809497565630722052",
+        "name": "洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843657969055215616/e8h661xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 58,
+          "like_count": 10282,
+          "listed_count": 0,
+          "tweet_count": 450
+        },
+        "username": "wang051215",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻香港，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "上水",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845026694765346817/mJG2NgwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14649,
+          "following_count": 10699,
+          "like_count": 87574,
+          "listed_count": 44,
+          "tweet_count": 83329
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "Free education for the world. Available on Android, iOS, and the web.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duolingo.com",
+                "end": 23,
+                "expanded_url": "https://www.duolingo.com/",
+                "start": 0,
+                "url": "https://t.co/ecOr0JyqFO"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "name": "Duolingo",
+        "pinned_tweet_id": "1846260492907737588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834238701473333248/9QkZ4liu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908413,
+          "following_count": 545,
+          "like_count": 26038,
+          "listed_count": 2689,
+          "tweet_count": 50650
+        },
+        "url": "https://t.co/ecOr0JyqFO",
+        "username": "duolingo",
+        "verified": true
+      }
+    ]
+  }
+}

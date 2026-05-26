@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1980288782843945449",
+    "created_at": "2025-10-21T09:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980569849878442081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "16400791",
+          "start": 0,
+          "username": "xds2000"
+        },
+        {
+          "end": 16,
+          "id": "147786784",
+          "start": 9,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980569849878442081",
+    "in_reply_to_user_id": "16400791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980298482377445411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xds2000 @yetone 国内的云服务厂太贵了，不如去把自己服务器放运营商机房省钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1980288782843945449",
+        "created_at": "2025-10-21T09:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980569849878442081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "16400791",
+              "start": 0,
+              "username": "xds2000"
+            },
+            {
+              "end": 16,
+              "id": "147786784",
+              "start": 9,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980569849878442081",
+        "in_reply_to_user_id": "16400791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980298482377445411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xds2000 @yetone 国内的云服务厂太贵了，不如去把自己服务器放运营商机房省钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16400791",
+        "conversation_id": "1980288782843945449",
+        "created_at": "2025-10-20T15:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980298482377445411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980298482377445411",
+        "in_reply_to_user_id": "147786784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 879,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980288782843945449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone 做操作系统的厂商去做云，可能也就中国厂商敢想敢干"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 230,
+          "like_count": 23170,
+          "listed_count": 4,
+          "media_count": 1355,
+          "tweet_count": 8790
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-22T06:55:55.000Z",
+        "description": "OSS dev | Exploring Gen AI 👨‍💻｜vibe  coding🧲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xiaods",
+                "end": 23,
+                "expanded_url": "http://github.com/xiaods",
+                "start": 0,
+                "url": "https://t.co/RgLE7xhdS1"
+              }
+            ]
+          }
+        },
+        "id": "16400791",
+        "location": "beijing",
+        "name": "Tommy Xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451907654398484480/crQqKvjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 813,
+          "like_count": 781,
+          "listed_count": 59,
+          "media_count": 255,
+          "tweet_count": 30226
+        },
+        "url": "https://t.co/RgLE7xhdS1",
+        "username": "xds2000",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "I built a Cursor-like experience plugin for Neovim: avante.nvim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1962108306614612091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60738,
+          "following_count": 4436,
+          "like_count": 17191,
+          "listed_count": 600,
+          "media_count": 1900,
+          "tweet_count": 16597
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

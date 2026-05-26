@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1922684522136506616",
+    "created_at": "2025-05-16T09:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T10:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923316311922241936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854903867680677888",
+          "start": 0,
+          "username": "yi_lumiere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923316311922241936",
+    "in_reply_to_user_id": "1854903867680677888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922684522136506616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_lumiere 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923316311922241936].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923316311922241936",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923316311922241936"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854903867680677888",
+        "conversation_id": "1922684522136506616",
+        "created_at": "2025-05-14T16:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922684522136506616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922684522136506616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说我现在似乎成家长党了…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 193,
+          "like_count": 21515,
+          "listed_count": 2,
+          "media_count": 1169,
+          "tweet_count": 7319
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-08T15:09:15.000Z",
+        "description": "07 高三牲 ｜事社恐人｜一般通过mtf🍥 诸君早上中午晚上好^^。以及这是我的恋人@omcr_0705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "omcr_0705"
+              }
+            ]
+          }
+        },
+        "id": "1854903867680677888",
+        "location": "不知道",
+        "name": "iko",
+        "pinned_tweet_id": "1887119269240201563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915766252142002176/HPZv2qXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 56,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 206
+        },
+        "username": "yi_lumiere",
+        "verified": false
+      }
+    ]
+  }
+}

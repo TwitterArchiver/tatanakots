@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1873044228147990640",
+    "created_at": "2024-12-29T11:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T12:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873331743362843065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1497241020303495168",
+          "start": 0,
+          "username": "mosscghere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873331743362843065",
+    "in_reply_to_user_id": "1497241020303495168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873044228147990640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosscghere 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1873044228147990640",
+        "created_at": "2024-12-29T11:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T12:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873331743362843065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1497241020303495168",
+              "start": 0,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873331743362843065",
+        "in_reply_to_user_id": "1497241020303495168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873044228147990640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosscghere 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497241020303495168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357506193879486469",
+              "name": "Python"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1873044228147990640",
+        "created_at": "2024-12-28T16:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873044228147990640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anemoneheart91…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/anemoneheart912/status/1872559630221807907",
+              "start": 54,
+              "url": "https://t.co/EL8yZWW6Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873044228147990640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872559630221807907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跳过教程直接做题确实是好方法\n我的编程（java/python）以及一切能被称之为特长的能力都是这么学来的 https://t.co/EL8yZWW6Bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 172,
+          "like_count": 19546,
+          "listed_count": 3,
+          "media_count": 925,
+          "tweet_count": 5849
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜早退OIer｜远古MC服主｜MossFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐🏳️‍⚧️🍥 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5563,
+          "following_count": 841,
+          "like_count": 18713,
+          "listed_count": 9,
+          "media_count": 1304,
+          "tweet_count": 5145
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

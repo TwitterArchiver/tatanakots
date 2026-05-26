@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2031615868413915165",
+    "created_at": "2026-03-11T12:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031715394017509564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031715394017509564",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031617162830557525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 这说明你的处方单在院内系统中电子化了，可以在面诊的时候问医生要一份纸质版，或者在面诊结束后咨询门诊办公室要一份纸质版"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2031617152399368192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHBCUBa4AAPRMM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2031615868413915165",
+        "created_at": "2026-03-11T12:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031715394017509564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031715394017509564",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031617162830557525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 这说明你的处方单在院内系统中电子化了，可以在面诊的时候问医生要一份纸质版，或者在面诊结束后咨询门诊办公室要一份纸质版"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031617152399368192"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "conversation_id": "2031615868413915165",
+        "created_at": "2026-03-11T06:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031617162830557525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fiLYMA8DT",
+              "end": 38,
+              "expanded_url": "https://x.com/maoxian1527/status/2031617162830557525/photo/1",
+              "media_key": "3_2031617152399368192",
+              "start": 15,
+              "url": "https://t.co/3fiLYMA8DT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031617162830557525",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031615868413915165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真的，我拿药就是扫二维码 https://t.co/3fiLYMA8DT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 355,
+          "like_count": 25268,
+          "listed_count": 6,
+          "media_count": 1582,
+          "tweet_count": 11152
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍🍥2010.11.17🍥🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 简体 | 嘴毒 极讨厌私信 | 看成分互fo | 负能 | 防走丢小号@maoxiansql | 绘画@mao_xian1527 | 顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mao_xian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國🇹🇼",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2030137019608035573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031293022923788288/ZcSiy8L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 261,
+          "like_count": 3008,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2015687726939676762",
+    "created_at": "2026-01-27T03:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015986207638057328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "917031360308510720",
+          "start": 0,
+          "username": "user670839245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015986207638057328",
+    "in_reply_to_user_id": "917031360308510720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015984649449963608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user670839245 其实是取消编译参数SRY，不用整个替换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2015687726939676762",
+        "created_at": "2026-01-27T03:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015986207638057328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "917031360308510720",
+              "start": 0,
+              "username": "user670839245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015986207638057328",
+        "in_reply_to_user_id": "917031360308510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015984649449963608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user670839245 其实是取消编译参数SRY，不用整个替换"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "917031360308510720",
+        "conversation_id": "2015687726939676762",
+        "created_at": "2026-01-27T03:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015984649449963608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 23,
+              "id": "1628256242832666624",
+              "start": 12,
+              "username": "pikaray168"
+            },
+            {
+              "end": 32,
+              "id": "1618557658163970049",
+              "start": 24,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015984649449963608",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015725800419696646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @pikaray168 @qqqqqf5 并不是“一个”编译参数喵（需要换一整个依赖库（x/y染色体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3636,
+          "following_count": 330,
+          "like_count": 24259,
+          "listed_count": 6,
+          "media_count": 1504,
+          "tweet_count": 10215
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-08T14:18:08.000Z",
+        "description": "&gt;_&lt; | 喵喵喵喵喵？？",
+        "id": "917031360308510720",
+        "name": "User670",
+        "pinned_tweet_id": "1650211659913510913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561406835999244288/TsO3KvPy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 3778,
+          "like_count": 6030,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 7654
+        },
+        "username": "user670839245",
+        "verified": false
+      }
+    ]
+  }
+}

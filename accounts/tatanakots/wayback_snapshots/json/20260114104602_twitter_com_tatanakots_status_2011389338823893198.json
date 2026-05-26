@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2011047628096905543",
+    "created_at": "2026-01-14T10:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T11:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011389338823893198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1311897052880674817",
+          "start": 0,
+          "username": "Momoko_Ayase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011389338823893198",
+    "in_reply_to_user_id": "1311897052880674817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011388956307501275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Momoko_Ayase 那确实，漫游绝对纯净ip\n我用自己的vps倒是没遇到过风控跳交互式人机验证的，可能我用量还是太少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2011047628096905543",
+        "created_at": "2026-01-14T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011389338823893198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1311897052880674817",
+              "start": 0,
+              "username": "Momoko_Ayase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011389338823893198",
+        "in_reply_to_user_id": "1311897052880674817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011388956307501275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Momoko_Ayase 那确实，漫游绝对纯净ip\n我用自己的vps倒是没遇到过风控跳交互式人机验证的，可能我用量还是太少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311897052880674817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2011047628096905543",
+        "created_at": "2026-01-14T10:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011388956307501275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 22,
+              "id": "1982449259774656512",
+              "start": 12,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011388956307501275",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011361874978460036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @smiroyama 我这两年用的vps都是reddit/youtube要求登录 无痕模式下google小概率跳验证码的\n被判断为家宽的idc ip也有 但是不同检测服务检测出来的不一样 有个甚至认为是vpn服务 直接欺诈度拉满\n反正实在有要求超高ip纯净度的情况就港卡开流量呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 256,
+          "like_count": 24032,
+          "listed_count": 6,
+          "media_count": 1479,
+          "tweet_count": 9921
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T05:13:39.000Z",
+        "description": "我是小走，我断气了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "momokko.moe",
+                "end": 23,
+                "expanded_url": "https://momokko.moe",
+                "start": 0,
+                "url": "https://t.co/Tav0kRuKlV"
+              }
+            ]
+          }
+        },
+        "id": "1311897052880674817",
+        "name": "綾瀬桃桃",
+        "pinned_tweet_id": "1998786562277163043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856346058714226688/fySRF0fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 261,
+          "like_count": 3209,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/Tav0kRuKlV",
+        "username": "Momoko_Ayase",
+        "verified": false
+      }
+    ]
+  }
+}

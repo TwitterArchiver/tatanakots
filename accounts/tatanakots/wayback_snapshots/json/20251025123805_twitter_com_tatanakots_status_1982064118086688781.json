@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982058395013148672",
+        "3_1982062883568484352"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "1982064118086688781",
+    "created_at": "2025-10-25T12:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T13:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982064118086688781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6RQ1T6UDM",
+          "end": 181,
+          "expanded_url": "https://x.com/tatanakots/status/1982064118086688781/photo/1",
+          "media_key": "3_1982058395013148672",
+          "start": 158,
+          "url": "https://t.co/F6RQ1T6UDM"
+        },
+        {
+          "display_url": "pic.x.com/F6RQ1T6UDM",
+          "end": 181,
+          "expanded_url": "https://x.com/tatanakots/status/1982064118086688781/photo/1",
+          "media_key": "3_1982062883568484352",
+          "start": 158,
+          "url": "https://t.co/F6RQ1T6UDM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982064118086688781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懒得给编译的worker配置科学和代理环境\nnpm install卡到现在还没好\n遂使用aws\n结果aws的worker开始打包了，本地的还在npm install\n\n（IP为什么不打码，因为发帖的时候已经编译好释放实例了，你去打吧，已经不是我的机器了）\n（截止至发帖境内实例依然在npm install上转圈圈） https://t.co/F6RQ1T6UDM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_1982058395013148672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Gvm97W8AAsX80.png",
+        "width": 1016
+      },
+      {
+        "height": 778,
+        "media_key": "3_1982062883568484352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GzsPGWAAAp4-m.png",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982058395013148672",
+            "3_1982062883568484352"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1982064118086688781",
+        "created_at": "2025-10-25T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982064118086688781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6RQ1T6UDM",
+              "end": 181,
+              "expanded_url": "https://x.com/tatanakots/status/1982064118086688781/photo/1",
+              "media_key": "3_1982058395013148672",
+              "start": 158,
+              "url": "https://t.co/F6RQ1T6UDM"
+            },
+            {
+              "display_url": "pic.x.com/F6RQ1T6UDM",
+              "end": 181,
+              "expanded_url": "https://x.com/tatanakots/status/1982064118086688781/photo/1",
+              "media_key": "3_1982062883568484352",
+              "start": 158,
+              "url": "https://t.co/F6RQ1T6UDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982064118086688781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懒得给编译的worker配置科学和代理环境\nnpm install卡到现在还没好\n遂使用aws\n结果aws的worker开始打包了，本地的还在npm install\n\n（IP为什么不打码，因为发帖的时候已经编译好释放实例了，你去打吧，已经不是我的机器了）\n（截止至发帖境内实例依然在npm install上转圈圈） https://t.co/F6RQ1T6UDM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 233,
+          "like_count": 23422,
+          "listed_count": 5,
+          "media_count": 1367,
+          "tweet_count": 8845
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

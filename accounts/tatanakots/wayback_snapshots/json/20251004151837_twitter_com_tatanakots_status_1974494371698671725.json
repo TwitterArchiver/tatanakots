@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      }
+    ],
+    "conversation_id": "1974105120314180025",
+    "created_at": "2025-10-04T15:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974494371698671725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1582988499778961408",
+          "start": 0,
+          "username": "dudao2024"
+        },
+        {
+          "end": 26,
+          "id": "1668748632261099521",
+          "start": 11,
+          "username": "Z_Lib_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974494371698671725",
+    "in_reply_to_user_id": "1582988499778961408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974105120314180025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudao2024 @Z_Lib_official 并不，此类自由网站就是典型的不理会DMCA的灰色产物，我之前也做过类似的平台，不过收到DMCA后根本不会去处理，并且用GDPR防止服务器被投诉到停机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1879,
+        "media_key": "3_1974105111661260800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VuI8naMAAMMVx.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1974105111652970496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VuI8lbsAAUC0I.jpg",
+        "width": 1080
+      },
+      {
+        "height": 555,
+        "media_key": "3_1974105111644549123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VuI8jbMAMgy52.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "1974105120314180025",
+        "created_at": "2025-10-04T15:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974494371698671725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1582988499778961408",
+              "start": 0,
+              "username": "dudao2024"
+            },
+            {
+              "end": 26,
+              "id": "1668748632261099521",
+              "start": 11,
+              "username": "Z_Lib_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974494371698671725",
+        "in_reply_to_user_id": "1582988499778961408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974105120314180025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudao2024 @Z_Lib_official 并不，此类自由网站就是典型的不理会DMCA的灰色产物，我之前也做过类似的平台，不过收到DMCA后根本不会去处理，并且用GDPR防止服务器被投诉到停机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974105111661260800",
+            "3_1974105111652970496",
+            "3_1974105111644549123"
+          ]
+        },
+        "author_id": "1582988499778961408",
+        "conversation_id": "1974105120314180025",
+        "created_at": "2025-10-03T13:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974105120314180025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 154,
+              "id": "1668748632261099521",
+              "start": 139,
+              "username": "Z_Lib_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HRqjiXZwf",
+              "end": 178,
+              "expanded_url": "https://x.com/dudao2024/status/1974105120314180025/photo/1",
+              "media_key": "3_1974105111661260800",
+              "start": 155,
+              "url": "https://t.co/2HRqjiXZwf"
+            },
+            {
+              "display_url": "pic.x.com/2HRqjiXZwf",
+              "end": 178,
+              "expanded_url": "https://x.com/dudao2024/status/1974105120314180025/photo/1",
+              "media_key": "3_1974105111652970496",
+              "start": 155,
+              "url": "https://t.co/2HRqjiXZwf"
+            },
+            {
+              "display_url": "pic.x.com/2HRqjiXZwf",
+              "end": 178,
+              "expanded_url": "https://x.com/dudao2024/status/1974105120314180025/photo/1",
+              "media_key": "3_1974105111644549123",
+              "start": 155,
+              "url": "https://t.co/2HRqjiXZwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974105120314180025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 26497,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "经常有朋友截图告诉我，Z-library 上有我们的电子书。我们郑重声明：本社从来没有发行过电子书，这些书都是盗版，属于侵权行为。\n\n这家号称“自由阅读”的平台，宣称“只为让马尼拉的学生、阿布贾的研究者和美国乡村的家长们都能够获得所需的知识”，但前提是不是应该遵守知识产权法啊？@Z_Lib_official https://t.co/2HRqjiXZwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 📃大证 25/09/22 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 226,
+          "like_count": 22604,
+          "listed_count": 4,
+          "media_count": 1325,
+          "tweet_count": 8541
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-20T06:54:25.000Z",
+        "description": "@东京。为简体中文留存一些有价值的文本。",
+        "id": "1582988499778961408",
+        "location": "Tokyo-to, Japan",
+        "name": "読道社",
+        "pinned_tweet_id": "1805021665740644399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803044323472420864/Ei_59kvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5047,
+          "following_count": 211,
+          "like_count": 312,
+          "listed_count": 25,
+          "media_count": 176,
+          "tweet_count": 666
+        },
+        "username": "dudao2024",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T22:34:39.000Z",
+        "description": "We're one of the largest e-libraries in the world. We aim to make knowledge accessible to everyone🕊📚\n\n📧 support@z-lib.fm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "z-library.ec",
+                "end": 23,
+                "expanded_url": "https://z-library.ec/",
+                "start": 0,
+                "url": "https://t.co/MQLobpKMJm"
+              }
+            ]
+          }
+        },
+        "id": "1668748632261099521",
+        "name": "Z-Library Official",
+        "pinned_tweet_id": "1865606770066112782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668753767758430209/3H_pQBdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181384,
+          "following_count": 5,
+          "like_count": 355,
+          "listed_count": 316,
+          "media_count": 30,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/MQLobpKMJm",
+        "username": "Z_Lib_official",
+        "verified": true
+      }
+    ]
+  }
+}

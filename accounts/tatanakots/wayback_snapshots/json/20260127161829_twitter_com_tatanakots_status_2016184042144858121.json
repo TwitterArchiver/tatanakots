@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2015810979314184606",
+    "created_at": "2026-01-27T16:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T17:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016184042144858121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735325187405672448",
+          "start": 0,
+          "username": "jiji132859"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016184042144858121",
+    "in_reply_to_user_id": "1735325187405672448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015810979314184606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiji132859 我也不用翻墙了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2015810979314184606",
+        "created_at": "2026-01-27T16:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016184042144858121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735325187405672448",
+              "start": 0,
+              "username": "jiji132859"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016184042144858121",
+        "in_reply_to_user_id": "1735325187405672448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015810979314184606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiji132859 我也不用翻墙了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735325187405672448",
+        "conversation_id": "2015810979314184606",
+        "created_at": "2026-01-26T15:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015810979314184606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015810979314184606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 1719932,
+          "like_count": 552,
+          "quote_count": 1,
+          "reply_count": 182,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不用翻墙了宝宝们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3639,
+          "following_count": 331,
+          "like_count": 24269,
+          "listed_count": 6,
+          "media_count": 1507,
+          "tweet_count": 10241
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T15:45:50.000Z",
+        "description": "188🚪",
+        "id": "1735325187405672448",
+        "name": "喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998052794582827008/OgBBwilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15297,
+          "following_count": 108,
+          "like_count": 4362,
+          "listed_count": 32,
+          "media_count": 63,
+          "tweet_count": 835
+        },
+        "username": "jiji132859",
+        "verified": false
+      }
+    ]
+  }
+}

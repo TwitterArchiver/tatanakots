@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050649261675864064"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050649609673035955",
+    "created_at": "2026-05-02T18:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050649614269993064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v0KR1PUDI1",
+          "end": 103,
+          "expanded_url": "https://x.com/tatanakots/status/2050649614269993064/photo/1",
+          "media_key": "3_2050649261675864064",
+          "start": 80,
+          "url": "https://t.co/v0KR1PUDI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050649614269993064",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050649609673035955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个时候我个人建议将空闲时间限制调整为3600秒，1小时的时间足够设备发送心跳包保活连接，推送通知也就能恢复了\n（该方案为我自用解决方案，目前还在测试稳定性） https://t.co/v0KR1PUDI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "3_2050649261675864064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVeo4EbYAAItqp.png",
+        "width": 555
+      },
+      {
+        "height": 798,
+        "media_key": "3_2050648043347972096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVdh9cbEAA_t4d.png",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050649261675864064"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050649609673035955",
+        "created_at": "2026-05-02T18:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050649614269993064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0KR1PUDI1",
+              "end": 103,
+              "expanded_url": "https://x.com/tatanakots/status/2050649614269993064/photo/1",
+              "media_key": "3_2050649261675864064",
+              "start": 80,
+              "url": "https://t.co/v0KR1PUDI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050649614269993064",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050649609673035955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个时候我个人建议将空闲时间限制调整为3600秒，1小时的时间足够设备发送心跳包保活连接，推送通知也就能恢复了\n（该方案为我自用解决方案，目前还在测试稳定性） https://t.co/v0KR1PUDI1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050648043347972096"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2050649609673035955",
+        "created_at": "2026-05-02T18:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050649609673035955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LteYPPvDXr",
+              "end": 167,
+              "expanded_url": "https://x.com/tatanakots/status/2050649609673035955/photo/1",
+              "media_key": "3_2050648043347972096",
+              "start": 144,
+              "url": "https://t.co/LteYPPvDXr"
+            },
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/tatanakots/status/2050579170879734075",
+              "start": 168,
+              "url": "https://t.co/IuhpgmkU2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050649609673035955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050579170879734075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "使用自建VPS并使用了Xray内核并手搓配置json来配置服务端的各位，在APNs的代理配置上有个坑\nXray内核的默认空闲连接时间限制为300秒，但是一般APNs的心跳包的时间间隔会大于5分钟，也就是说，如果并不是一直被通知轰炸的人，那么就很容易出现静默断连并且有概率吃掉你之前的通知 https://t.co/LteYPPvDXr https://t.co/IuhpgmkU2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 409,
+          "like_count": 27958,
+          "listed_count": 7,
+          "media_count": 1702,
+          "tweet_count": 12482
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

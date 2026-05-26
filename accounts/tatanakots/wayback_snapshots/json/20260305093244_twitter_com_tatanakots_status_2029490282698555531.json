@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2029386114994454981",
+    "created_at": "2026-03-05T09:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029490282698555531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "414E4E4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029490282698555531",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029386114994454981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@414E4E4F 将卡号录入刷卡系统的数据库的服务费是20元"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029386111903252482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCnT6qgawAIWUKi.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2029386114994454981",
+        "created_at": "2026-03-05T09:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029490282698555531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "414E4E4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029490282698555531",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029386114994454981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@414E4E4F 将卡号录入刷卡系统的数据库的服务费是20元"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029386111903252482"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "2029386114994454981",
+        "created_at": "2026-03-05T02:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029386114994454981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1bMp4GF7X",
+              "end": 113,
+              "expanded_url": "https://x.com/414E4E4F/status/2029386114994454981/photo/1",
+              "media_key": "3_2029386111903252482",
+              "start": 90,
+              "url": "https://t.co/u1bMp4GF7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029386114994454981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12440,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校的校园卡什么草台班子，KeyA/B都是默认密钥，还只有第一个扇区第一行写了数据\n亏我还用MCT试密钥，结果完全没有 \n这样一张卡，重新申请一张要整整20块钱，而成本几乎为0🫠 https://t.co/u1bMp4GF7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 355,
+          "like_count": 25138,
+          "listed_count": 6,
+          "media_count": 1572,
+          "tweet_count": 11054
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒FB",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴￴ ￴￴ ￴￴ ￴￴︎アノ￴",
+        "pinned_tweet_id": "2023323252895219917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 883,
+          "like_count": 178071,
+          "listed_count": 0,
+          "media_count": 4576,
+          "tweet_count": 19309
+        },
+        "username": "414E4E4F",
+        "verified": true
+      }
+    ]
+  }
+}

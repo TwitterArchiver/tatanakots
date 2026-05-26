@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1994631748957946158",
+    "created_at": "2025-11-29T07:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994669151399612431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994669151399612431",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994631748957946158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 因为他给自己的验证时间置0了，unix时间戳为0代表1970年1月1日"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_1994631743949950976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65bAMva0AAzxd0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1994631748957946158",
+        "created_at": "2025-11-29T07:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994669151399612431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994669151399612431",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994631748957946158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 因为他给自己的验证时间置0了，unix时间戳为0代表1970年1月1日"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994631743949950976"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "1994631748957946158",
+        "created_at": "2025-11-29T04:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994631748957946158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gghSvf23HY",
+              "end": 43,
+              "expanded_url": "https://x.com/saonanaa/status/1994631748957946158/photo/1",
+              "media_key": "3_1994631743949950976",
+              "start": 20,
+              "url": "https://t.co/gghSvf23HY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994631748957946158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4383,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她是怎么做到验证时间比加入时间还早的🤔 https://t.co/gghSvf23HY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2881,
+          "following_count": 243,
+          "like_count": 23804,
+          "listed_count": 5,
+          "media_count": 1401,
+          "tweet_count": 9136
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜高贵顺直男｜.NET开发者 & 构建 OneLauncher & 欢迎光顾GitHub｜大坏猫 @lovelyshuimao & 浙江穷入 & 欢迎来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1993980106398896618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943840160256000/CDlRt_Jg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6603,
+          "following_count": 427,
+          "like_count": 32891,
+          "listed_count": 15,
+          "media_count": 2104,
+          "tweet_count": 18551
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1972820946009616782",
+    "created_at": "2025-09-30T08:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T09:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972944348070494306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554005819649568768",
+          "start": 0,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972944348070494306",
+    "in_reply_to_user_id": "1554005819649568768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972820946009616782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingattackqwq 这下完了，只会esp32的我没法报名了\n（怎么伪声这个条件反倒变宽松了，可是我本音就能pass来着）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1972820946009616782",
+        "created_at": "2025-09-30T08:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972944348070494306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972944348070494306",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972820946009616782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 这下完了，只会esp32的我没法报名了\n（怎么伪声这个条件反倒变宽松了，可是我本音就能pass来着）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554005819649568768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1972820946009616782",
+        "created_at": "2025-09-30T00:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972820946009616782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972820946009616782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1564,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "包养小伪娘 小药娘\n包国庆中秋长假期8天1000\n有调教 圈养 基本要求如下：\n1.带好女装\n2.听话\n3.会stm32h系列，bsp开发，linux内核定制，rust，ros1/2，机器人动力学仿真\n4.头部985及qs前100本科优先\n衣食住行、安排酒店、防护措施都会做好\n地点： 上海某酒店公寓\n注意：不支持中途走（执意走无钱）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 📃大证 25/09/22 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 131,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 225,
+          "like_count": 22685,
+          "listed_count": 4,
+          "media_count": 1313,
+          "tweet_count": 8467
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "04/未术，对象位空缺🥺取向是：非直男均可🥺做机器人全栈的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/cureflora",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/cureflora",
+                "start": 0,
+                "url": "https://t.co/QVGwL1EQKt"
+              }
+            ]
+          }
+        },
+        "id": "1554005819649568768",
+        "location": "枕阳",
+        "name": "小兔姬没有小肚叽🎀（唯一推特账号）",
+        "pinned_tweet_id": "1962061925455650857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566996868976640/69DYcj6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10466,
+          "following_count": 3676,
+          "like_count": 3335,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 2897
+        },
+        "url": "https://t.co/QVGwL1EQKt",
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2058137602507829735",
+    "created_at": "2026-05-24T04:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058407958309146652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807078941087391745",
+          "start": 0,
+          "username": "random__string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058407958309146652",
+    "in_reply_to_user_id": "1807078941087391745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058405840433107158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@random__string 这是收件服务提供方的问题，我不会对这方面的行为进行任何特殊配置，这不是我的问题，如果想收件，那就换服务商\n我一般只保证gmail会收信"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Wow! Perfect, you can send\nScore :\n10/10\n\nSpamAssassin likes you\nYou're properly authenticated\nYour message could be improved\nYou're not blocklisted\nNo broken links",
+        "height": 2059,
+        "media_key": "3_2058405836435980288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDtM8xbgAAqwiX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2058137602507829735",
+        "created_at": "2026-05-24T04:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058407958309146652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807078941087391745",
+              "start": 0,
+              "username": "random__string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058407958309146652",
+        "in_reply_to_user_id": "1807078941087391745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058405840433107158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@random__string 这是收件服务提供方的问题，我不会对这方面的行为进行任何特殊配置，这不是我的问题，如果想收件，那就换服务商\n我一般只保证gmail会收信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058405836435980288"
+          ]
+        },
+        "author_id": "1807078941087391745",
+        "conversation_id": "2058137602507829735",
+        "created_at": "2026-05-24T04:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058405840433107158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooCVQNMn37",
+              "end": 98,
+              "expanded_url": "https://x.com/random__string/status/2058405840433107158/photo/1",
+              "media_key": "3_2058405836435980288",
+              "start": 75,
+              "url": "https://t.co/ooCVQNMn37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058405840433107158",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058137602507829735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 有的时候，outlook会无故拦截你的邮局IP，只能通过brevo或者resend进行中继，即使mail tester是满分 https://t.co/ooCVQNMn37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3814,
+          "following_count": 424,
+          "like_count": 30007,
+          "listed_count": 8,
+          "media_count": 1748,
+          "tweet_count": 13156
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T15:49:37.000Z",
+        "description": "Create things with love./致力于研究自托管技术，尝试为开源社区添砖加瓦。/目前正在开发 https://t.co/BO8PqJBW54，MD3+亚克力风格的Hugo博客主题。/点击博客链接查看更多",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tralume.org",
+                "end": 79,
+                "expanded_url": "http://tralume.org",
+                "start": 56,
+                "url": "https://t.co/BO8PqJBW54"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.alexma.top/zh-hans/pages/…",
+                "end": 23,
+                "expanded_url": "https://blog.alexma.top/zh-hans/pages/about-me/",
+                "start": 0,
+                "url": "https://t.co/XWsRGqGcnn"
+              }
+            ]
+          }
+        },
+        "id": "1807078941087391745",
+        "name": "alexma233",
+        "pinned_tweet_id": "2048393746790973583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012105841281765376/34TNo8df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 224,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/XWsRGqGcnn",
+        "username": "random__string",
+        "verified": false
+      }
+    ]
+  }
+}

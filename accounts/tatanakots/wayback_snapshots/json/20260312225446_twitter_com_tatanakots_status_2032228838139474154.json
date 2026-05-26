@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2032115039985881556",
+    "created_at": "2026-03-12T22:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T23:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032228838139474154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879644163769335808",
+          "start": 0,
+          "username": "WhiteHouse"
+        },
+        {
+          "end": 21,
+          "id": "307902310",
+          "start": 12,
+          "username": "Nintendo"
+        },
+        {
+          "end": 38,
+          "id": "5162861",
+          "start": 22,
+          "username": "NintendoAmerica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032228838139474154",
+    "in_reply_to_user_id": "1879644163769335808",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032115039985881556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhiteHouse @Nintendo @NintendoAmerica"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52308,
+        "height": 1080,
+        "media_key": "13_2032114841943416832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032114841943416832/img/8TH7AQaFNTxPFYYQ.jpg",
+        "public_metrics": {
+          "view_count": 8782689
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032114841943416832/vid/avc1/1280x720/Ps8NSBYoiO1e0EX9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032114841943416832/vid/avc1/640x360/vFmGihDQU4Wo_xie.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032114841943416832/pl/D6-Cb8UKklhMNVR-.m3u8?v=7fb"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032114841943416832/vid/avc1/1920x1080/lXsBOYPlvF8p-_Mj.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032114841943416832/vid/avc1/480x270/vnTYcYncj4YYPV-k.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2032115039985881556",
+        "created_at": "2026-03-12T22:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032228838139474154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879644163769335808",
+              "start": 0,
+              "username": "WhiteHouse"
+            },
+            {
+              "end": 21,
+              "id": "307902310",
+              "start": 12,
+              "username": "Nintendo"
+            },
+            {
+              "end": 38,
+              "id": "5162861",
+              "start": 22,
+              "username": "NintendoAmerica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032228838139474154",
+        "in_reply_to_user_id": "1879644163769335808",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032115039985881556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteHouse @Nintendo @NintendoAmerica"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032114841943416832"
+          ]
+        },
+        "author_id": "1879644163769335808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032115039985881556",
+        "created_at": "2026-03-12T15:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032115039985881556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jt69bcag5y",
+              "end": 35,
+              "expanded_url": "https://x.com/WhiteHouse/status/2032115039985881556/video/1",
+              "media_key": "13_2032114841943416832",
+              "start": 12,
+              "url": "https://t.co/Jt69bcag5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032115039985881556",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22876,
+          "impression_count": 35883108,
+          "like_count": 108383,
+          "quote_count": 12167,
+          "reply_count": 13411,
+          "retweet_count": 12319
+        },
+        "reply_settings": "everyone",
+        "text": "UNDEFEATED. https://t.co/Jt69bcag5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 353,
+          "like_count": 25284,
+          "listed_count": 6,
+          "media_count": 1585,
+          "tweet_count": 11179
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072071,
+          "following_count": 6,
+          "like_count": 261,
+          "listed_count": 7816,
+          "media_count": 4695,
+          "tweet_count": 13404
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-30T14:00:05.000Z",
+        "description": "任天堂からのお知らせや、ホームページの更新情報をお伝えします。\r\nご質問・お問い合わせにはお答えしておりませんのでご容赦ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com/jp/",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com/jp/",
+                "start": 0,
+                "url": "https://t.co/ZgaployYmd"
+              }
+            ]
+          }
+        },
+        "id": "307902310",
+        "location": "京都市",
+        "name": "任天堂株式会社",
+        "pinned_tweet_id": "2031178204711633172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/823439425593954305/j0L7_KyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5587081,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 17367,
+          "media_count": 3251,
+          "tweet_count": 14059
+        },
+        "url": "https://t.co/ZgaployYmd",
+        "username": "Nintendo",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-18T22:43:15.000Z",
+        "description": "Welcome to the official Nintendo of America X account, where you'll find the latest Nintendo news! For ESRB ratings go to https://t.co/m7hrBqtrpz.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "esrb.org",
+                "end": 145,
+                "expanded_url": "http://esrb.org",
+                "start": 122,
+                "url": "https://t.co/m7hrBqtrpz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com",
+                "start": 0,
+                "url": "https://t.co/vLQB75RSnM"
+              }
+            ]
+          }
+        },
+        "id": "5162861",
+        "name": "Nintendo of America",
+        "pinned_tweet_id": "2031115807233581128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539293929031421958/cy-uzR2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14059803,
+          "following_count": 232,
+          "like_count": 337,
+          "listed_count": 16808,
+          "media_count": 16602,
+          "tweet_count": 28881
+        },
+        "url": "https://t.co/vLQB75RSnM",
+        "username": "NintendoAmerica",
+        "verified": true
+      }
+    ]
+  }
+}

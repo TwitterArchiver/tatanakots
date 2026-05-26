@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1996772003718877502",
+    "created_at": "2025-12-05T09:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T10:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996870105121349849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996870105121349849",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996772003718877502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 我顺丰企业账号寄东西，说是不含电池的电子产品，客户让加急改成特快运输，运费我们补，顺丰客服和我说不管含不含电池，电子产品都不让空运，我：😓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1996772000556371971",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X1jh6b0AMyyYM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1996772003718877502",
+        "created_at": "2025-12-05T09:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996870105121349849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996870105121349849",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996772003718877502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 我顺丰企业账号寄东西，说是不含电池的电子产品，客户让加急改成特快运输，运费我们补，顺丰客服和我说不管含不含电池，电子产品都不让空运，我：😓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996772000556371971"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Kickstarter",
+              "id": "872091627321401346",
+              "name": "Kickstarter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kickstarter",
+              "id": "872091627321401346",
+              "name": "Kickstarter"
+            }
+          }
+        ],
+        "conversation_id": "1996772003718877502",
+        "created_at": "2025-12-05T02:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996772003718877502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8c0TsllWj",
+              "end": 165,
+              "expanded_url": "https://x.com/manateelazycat/status/1996772003718877502/photo/1",
+              "media_key": "3_1996772000556371971",
+              "start": 142,
+              "url": "https://t.co/L8c0TsllWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996772003718877502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一早起来上班，什么都不好了。我感觉我就是个封号圣体\n\n去年在推特上被老马封了，中间跟大家抽奖送礼品，被腾讯封了\n\n但是万万没有想到被UPS封了，而且封号的理由，我也好无奈呀\n\n前几个月我们不是在Kickstarter上做众筹吗？然后跟海外的这些用户抽奖，他们想要这个小米的电动工具箱\n\n然后我们昨天耿直的就把这个奖品给海外的用户邮寄过去\n\n然后UPS就把我们的账号封了，说理由是小米的这个工具箱里面有一把螺丝刀，有开关，会亮灯，还会震动\n\n说螺丝刀上面亮灯违反了航空规定，要我们公司写详细的反馈情况并盖章才能解封\n\n我一直觉得东大的各种快递规则很离谱，没想到美利国的要求也那么奇怪呀\n\n电动螺丝刀有开关带灯，能震动，不是很正常吗？我又不是邮寄的情趣用品 \n\n海外的朋友们，这几天邮寄，我先借朋友公司的UPS账号给你们快递啊，实在是没想到啊没想到\n\n评论区的大佬不要嘲讽啊，要不是我们就友尽了 😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5951,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一早起来上班，什么都不好了。我感觉我就是个封号圣体\n\n去年在推特上被老马封了，中间跟大家抽奖送礼品，被腾讯封了\n\n但是万万没有想到被UPS封了，而且封号的理由，我也好无奈呀\n\n前几个月我们不是在Kickstarter上做众筹吗？然后跟海外的这些用户抽奖，他们想要这个小米的电动工具箱 https://t.co/L8c0TsllWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 243,
+          "like_count": 23876,
+          "listed_count": 5,
+          "media_count": 1419,
+          "tweet_count": 9235
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1992457927609958559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45400,
+          "following_count": 265,
+          "like_count": 17954,
+          "listed_count": 310,
+          "media_count": 4213,
+          "tweet_count": 33376
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

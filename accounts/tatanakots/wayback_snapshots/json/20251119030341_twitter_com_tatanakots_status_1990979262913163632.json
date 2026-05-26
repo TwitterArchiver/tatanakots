@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1990793792233046266",
+    "created_at": "2025-11-19T03:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990979262913163632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "505352441",
+          "start": 0,
+          "username": "joltwile"
+        },
+        {
+          "end": 17,
+          "id": "168139512",
+          "start": 10,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990979262913163632",
+    "in_reply_to_user_id": "505352441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990800874957123716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joltwile @geekbb cloudflare的dns没炸，炸了cdn，只要没开cf小云朵的服务都能用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1990793792233046266",
+        "created_at": "2025-11-19T03:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990979262913163632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "505352441",
+              "start": 0,
+              "username": "joltwile"
+            },
+            {
+              "end": 17,
+              "id": "168139512",
+              "start": 10,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990979262913163632",
+        "in_reply_to_user_id": "505352441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990800874957123716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joltwile @geekbb cloudflare的dns没炸，炸了cdn，只要没开cf小云朵的服务都能用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "505352441",
+        "conversation_id": "1990793792233046266",
+        "created_at": "2025-11-18T15:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990800874957123716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990800874957123716",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2293,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990793792233046266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 同一个顶级域名，有的二级能打开，有的不行，奇怪，\n还好我的小网站静态缓存，嘎嘎好用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 243,
+          "like_count": 23730,
+          "listed_count": 5,
+          "media_count": 1393,
+          "tweet_count": 9045
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-27T03:18:35.000Z",
+        "description": "每个人都是正确的。",
+        "id": "505352441",
+        "location": "IP属地:火星",
+        "name": "搅伪",
+        "pinned_tweet_id": "1423900027848589317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936980359326961664/qZCh0xRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 110,
+          "like_count": 3327,
+          "listed_count": 7,
+          "media_count": 57,
+          "tweet_count": 5148
+        },
+        "username": "joltwile",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99840,
+          "following_count": 394,
+          "like_count": 16527,
+          "listed_count": 1023,
+          "media_count": 6158,
+          "tweet_count": 23797
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2053379100958675423",
+    "created_at": "2026-05-11T03:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053672765010673889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1196460589",
+          "start": 0,
+          "username": "ygkkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053672765010673889",
+    "in_reply_to_user_id": "1196460589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053379100958675423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygkkkg 也不一定是自己删的号，GitHub最近一直在莫名其妙冻结别人的GitHub账号，封掉的账号就显示为404\n我因此损失了一个从小学的时候用到现在的GitHub账号"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2053376609059741696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8PJY0aIAAPtDT.png",
+        "width": 383
+      },
+      {
+        "height": 488,
+        "media_key": "3_2053376613405073408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8PJpAaoAAeHEg.png",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2053379100958675423",
+        "created_at": "2026-05-11T03:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053672765010673889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1196460589",
+              "start": 0,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053672765010673889",
+        "in_reply_to_user_id": "1196460589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053379100958675423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygkkkg 也不一定是自己删的号，GitHub最近一直在莫名其妙冻结别人的GitHub账号，封掉的账号就显示为404\n我因此损失了一个从小学的时候用到现在的GitHub账号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053376609059741696",
+            "3_2053376613405073408"
+          ]
+        },
+        "author_id": "1196460589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2053379100958675423",
+        "created_at": "2026-05-10T07:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053379100958675423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/alireza0",
+              "end": 126,
+              "expanded_url": "https://github.com/alireza0",
+              "start": 103,
+              "status": 404,
+              "unwound_url": "https://github.com/alireza0",
+              "url": "https://t.co/OMU28HvWQg"
+            },
+            {
+              "display_url": "pic.x.com/8yz65WzaQr",
+              "end": 150,
+              "expanded_url": "https://x.com/ygkkkg/status/2053379100958675423/photo/1",
+              "media_key": "3_2053376609059741696",
+              "start": 127,
+              "url": "https://t.co/8yz65WzaQr"
+            },
+            {
+              "display_url": "pic.x.com/8yz65WzaQr",
+              "end": 150,
+              "expanded_url": "https://x.com/ygkkkg/status/2053379100958675423/photo/1",
+              "media_key": "3_2053376613405073408",
+              "start": 127,
+              "url": "https://t.co/8yz65WzaQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053379100958675423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15165,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Sing-box 内核代理面板脚本 S-UI 项目作者：alireza0，疑似删除了个人的GitHub账号。\n\n作者alireza0应该是一位现居德国的伊朗人？目前删除GitHub账号的具体原因暂时不明。\nhttps://t.co/OMU28HvWQg https://t.co/8yz65WzaQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3771,
+          "following_count": 411,
+          "like_count": 28704,
+          "listed_count": 7,
+          "media_count": 1713,
+          "tweet_count": 12703
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥被网友称为“翻墙教程露脸第一人”。\n💥聊聊网络IT心得、热点评论。\n🔴月底《侃侃墙》YouTube/X同步视频直播。\nGithub地址：https://t.co/fvh2bcfF9v\n博客地址：https://t.co/VtOzLvv3oT\n电报群组：https://t.co/ztwvyks4xg\n电报频道：https://t.co/Cf47V3IQeI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yonggekkk",
+                "end": 92,
+                "expanded_url": "http://github.com/yonggekkk",
+                "start": 69,
+                "url": "https://t.co/fvh2bcfF9v"
+              },
+              {
+                "display_url": "ygkkk.blogspot.com",
+                "end": 121,
+                "expanded_url": "http://ygkkk.blogspot.com",
+                "start": 98,
+                "url": "https://t.co/VtOzLvv3oT"
+              },
+              {
+                "display_url": "t.me/ygkkktg",
+                "end": 150,
+                "expanded_url": "http://t.me/ygkkktg",
+                "start": 127,
+                "url": "https://t.co/ztwvyks4xg"
+              },
+              {
+                "display_url": "t.me/ygkkktgpd",
+                "end": 179,
+                "expanded_url": "http://t.me/ygkkktgpd",
+                "start": 156,
+                "url": "https://t.co/Cf47V3IQeI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKSV8"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "location": "YouTube频道👉",
+        "name": "甬哥侃侃侃ygkkk",
+        "pinned_tweet_id": "2046484925491327299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610259832803831816/avGSnA5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9556,
+          "following_count": 249,
+          "like_count": 1942,
+          "listed_count": 41,
+          "media_count": 407,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/SjVMlzKSV8",
+        "username": "ygkkkg",
+        "verified": true
+      }
+    ]
+  }
+}

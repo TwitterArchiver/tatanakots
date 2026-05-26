@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2057763666951614813",
+    "created_at": "2026-05-23T02:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058007641440629096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760164538677395456",
+          "start": 0,
+          "username": "stellar22333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058007641440629096",
+    "in_reply_to_user_id": "1760164538677395456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057856993210380341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellar22333 哦原来是这样🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "trans-archive/transky/release/",
+        "height": 2048,
+        "media_key": "3_2057856986398724096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI76BrDaEAALzea.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2057763666951614813",
+        "created_at": "2026-05-23T02:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058007641440629096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760164538677395456",
+              "start": 0,
+              "username": "stellar22333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058007641440629096",
+        "in_reply_to_user_id": "1760164538677395456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057856993210380341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellar22333 哦原来是这样🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057856986398724096"
+          ]
+        },
+        "author_id": "1760164538677395456",
+        "conversation_id": "2057763666951614813",
+        "created_at": "2026-05-22T16:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057856993210380341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRgXlI6uCn",
+              "end": 134,
+              "expanded_url": "https://x.com/stellar22333/status/2057856993210380341/photo/1",
+              "media_key": "3_2057856986398724096",
+              "start": 111,
+              "url": "https://t.co/CRgXlI6uCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057856993210380341",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057763666951614813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots +1，不过我比较懒（\n对了 下载的时候记得打开release列表找日期最新的 很多pre-release都是错别字fix 别像我一样直接傻傻的打开release然后下载到old version（） https://t.co/CRgXlI6uCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 423,
+          "like_count": 29820,
+          "listed_count": 8,
+          "media_count": 1740,
+          "tweet_count": 13097
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T04:48:49.000Z",
+        "description": "INFJ-A | MtF 🏳️‍⚧️ | les 🏳️‍🌈 | HRT since 25.10.20 🍥 | 家长中立党 | AuDHD | GNU/Linux | vibe coding | Minecraft | Sky: Children of the Light | 看成分互fo喵 | 好多管道符喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stella223.top",
+                "end": 23,
+                "expanded_url": "https://blog.stella223.top",
+                "start": 0,
+                "url": "https://t.co/xY2kZnQ6eV"
+              }
+            ]
+          }
+        },
+        "id": "1760164538677395456",
+        "name": "Stella223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037898429301690368/jizY7Pui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1601,
+          "like_count": 71102,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/xY2kZnQ6eV",
+        "username": "stellar22333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "1976974107620393073",
+    "created_at": "2025-10-12T13:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T14:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977361234618892451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "774237926754439168",
+          "start": 0,
+          "username": "JointSong"
+        },
+        {
+          "end": 24,
+          "id": "4827701473",
+          "start": 11,
+          "username": "Arlia_etoile"
+        },
+        {
+          "end": 34,
+          "id": "1600261024338399241",
+          "start": 25,
+          "username": "riinne39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977361234618892451",
+    "in_reply_to_user_id": "774237926754439168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977339582925689087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JointSong @Arlia_etoile @riinne39 因为Apple的审核中心位于上海啊，不能让审核中心的人审核出来，所以有的时候会基于IP进行屏蔽\n另外AppStore审核是不看源代码的\n做过灰产app的应该都知道怎么绕审核"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1976974107620393073",
+        "created_at": "2025-10-12T13:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977361234618892451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "774237926754439168",
+              "start": 0,
+              "username": "JointSong"
+            },
+            {
+              "end": 24,
+              "id": "4827701473",
+              "start": 11,
+              "username": "Arlia_etoile"
+            },
+            {
+              "end": 34,
+              "id": "1600261024338399241",
+              "start": 25,
+              "username": "riinne39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977361234618892451",
+        "in_reply_to_user_id": "774237926754439168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977339582925689087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JointSong @Arlia_etoile @riinne39 因为Apple的审核中心位于上海啊，不能让审核中心的人审核出来，所以有的时候会基于IP进行屏蔽\n另外AppStore审核是不看源代码的\n做过灰产app的应该都知道怎么绕审核"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "774237926754439168",
+        "conversation_id": "1976974107620393073",
+        "created_at": "2025-10-12T11:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977339582925689087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 25,
+              "id": "4827701473",
+              "start": 12,
+              "username": "Arlia_etoile"
+            },
+            {
+              "end": 35,
+              "id": "1600261024338399241",
+              "start": 26,
+              "username": "riinne39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977339582925689087",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977329024813908167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Arlia_etoile @riinne39 ip这个区别我还是第一次听说，人才也是😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 📃大证 25/09/22 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 228,
+          "like_count": 22887,
+          "listed_count": 4,
+          "media_count": 1343,
+          "tweet_count": 8669
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-09T13:28:01.000Z",
+        "description": "",
+        "id": "774237926754439168",
+        "location": "Beijing, People's Republic of ",
+        "name": "joint-song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/962128262812938241/xBrhn1Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 185,
+          "like_count": 5907,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 3161
+        },
+        "username": "JointSong",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-28T23:24:41.000Z",
+        "description": "MTF🏳️‍⚧️（含糖）｜叫我Arlia就可以啦～｜自己想发的东西不是很多，通常活跃在各大评论区｜风向总是会变的，总有一天会吹向更加光明的地方｜超级超级可爱的姐姐：澪姐姐@Natsusorami_pro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "Natsusorami_pro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.one/@arlia",
+                "end": 23,
+                "expanded_url": "https://nya.one/@arlia",
+                "start": 0,
+                "url": "https://t.co/mSeKN5IkPr"
+              }
+            ]
+          }
+        },
+        "id": "4827701473",
+        "location": "迦勒底 南极洲",
+        "name": "Arlia Étoile",
+        "pinned_tweet_id": "1535480570771148800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896046353966620672/uMLD_xF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 854,
+          "like_count": 75704,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 15572
+        },
+        "url": "https://t.co/mSeKN5IkPr",
+        "username": "Arlia_etoile",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T22:49:22.000Z",
+        "description": "“Life’s insane.” University of Bristol UG CS | UTC +1 time zone | English & Chinese available",
+        "id": "1600261024338399241",
+        "location": "Hong Kong",
+        "name": "Rinne",
+        "pinned_tweet_id": "1748763230988804362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873953222273990656/xCYt1bp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 852,
+          "like_count": 21913,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 2828
+        },
+        "username": "riinne39",
+        "verified": false
+      }
+    ]
+  }
+}

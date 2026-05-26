@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2054733769182175671",
+    "created_at": "2026-05-14T18:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054987659270054175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922650331454058496",
+          "start": 0,
+          "username": "xiaoshu_yy33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054987659270054175",
+    "in_reply_to_user_id": "1922650331454058496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054733769182175671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshu_yy33 查六项不是找个医院去开单子就能查的吗\n不要找团购，不想用医保的话去医院开自费卡挂号\n但是用医保能报销"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2054733769182175671",
+        "created_at": "2026-05-14T18:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054987659270054175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922650331454058496",
+              "start": 0,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054987659270054175",
+        "in_reply_to_user_id": "1922650331454058496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054733769182175671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshu_yy33 查六项不是找个医院去开单子就能查的吗\n不要找团购，不想用医保的话去医院开自费卡挂号\n但是用医保能报销"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2054733769182175671",
+        "created_at": "2026-05-14T01:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054733769182175671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshu_yy33/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2054732773383102891",
+              "start": 26,
+              "url": "https://t.co/8aEtiP82Zb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054733769182175671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1339,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054732773383102891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是后面去三院花逆天价格查吧…被羞辱得想哭 很委屈 https://t.co/8aEtiP82Zb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3785,
+          "following_count": 413,
+          "like_count": 28986,
+          "listed_count": 7,
+          "media_count": 1727,
+          "tweet_count": 12830
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "祝前妻早日升天。\ngood luck,babe！\n🏳️‍⚧️",
+        "id": "1922650331454058496",
+        "name": "树",
+        "pinned_tweet_id": "2039754568272363850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054350026072281088/2JlXUwG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3568,
+          "following_count": 21,
+          "like_count": 616,
+          "listed_count": 15,
+          "media_count": 84,
+          "tweet_count": 823
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

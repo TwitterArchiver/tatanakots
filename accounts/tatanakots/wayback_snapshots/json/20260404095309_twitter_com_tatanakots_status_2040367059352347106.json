@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2040015472926871552",
+    "created_at": "2026-04-04T09:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040367059352347106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038990793952878593",
+          "start": 0,
+          "username": "AliceLinjxga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040367059352347106",
+    "in_reply_to_user_id": "2038990793952878593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040104568344953180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceLinjxga 春日祭典，然后在nso applet里面有限时的头像兑换活动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2040015472926871552",
+        "created_at": "2026-04-04T09:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040367059352347106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038990793952878593",
+              "start": 0,
+              "username": "AliceLinjxga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040367059352347106",
+        "in_reply_to_user_id": "2038990793952878593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040104568344953180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceLinjxga 春日祭典，然后在nso applet里面有限时的头像兑换活动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038990793952878593",
+        "conversation_id": "2040015472926871552",
+        "created_at": "2026-04-03T16:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040104568344953180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "67924157",
+              "start": 0,
+              "username": "yunxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040104568344953180",
+        "in_reply_to_user_id": "67924157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040015472926871552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxd 请问这个是斯普拉遁里的什么活动呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 380,
+          "like_count": 26081,
+          "listed_count": 6,
+          "media_count": 1630,
+          "tweet_count": 11666
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T14:44:51.000Z",
+        "description": "",
+        "id": "2038990793952878593",
+        "name": "Alice Lin",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 41,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "AliceLinjxga",
+        "verified": false
+      }
+    ]
+  }
+}

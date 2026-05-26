@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1982055923482055029",
+    "created_at": "2025-10-25T15:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T16:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982112676542283827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760164538677395456",
+          "start": 0,
+          "username": "arrebol263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982112676542283827",
+    "in_reply_to_user_id": "1760164538677395456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982098204419321889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arrebol263 直接销毁换一台，不过我是用来临时编译一个东西的，本来就是懒得配置代理才用云服务器的，不想再配代理了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1982055923482055029",
+        "created_at": "2025-10-25T15:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982112676542283827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760164538677395456",
+              "start": 0,
+              "username": "arrebol263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982112676542283827",
+        "in_reply_to_user_id": "1760164538677395456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982098204419321889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrebol263 直接销毁换一台，不过我是用来临时编译一个东西的，本来就是懒得配置代理才用云服务器的，不想再配代理了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760164538677395456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1982055923482055029",
+        "created_at": "2025-10-25T14:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982098204419321889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982098204419321889",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982055923482055029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 只能一直挂梯子用了……\n但要是用AWS当梯子。。。那就真没招了qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 233,
+          "like_count": 23423,
+          "listed_count": 5,
+          "media_count": 1367,
+          "tweet_count": 8846
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T04:48:49.000Z",
+        "description": "INFJ-A | MtF 🏳️‍⚧️ | les 🏳️‍🌈 | HRT 25.10.20 🍥 | 敏感 | 容易gd | 天残党 😭 | 不 pass | 洁身自好 | GNU/Linux | 折腾 | 极度缺乏安全感 | Minecraft | 看成分同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stella22.top",
+                "end": 23,
+                "expanded_url": "https://blog.stella22.top",
+                "start": 0,
+                "url": "https://t.co/0mFBaBnsci"
+              }
+            ]
+          }
+        },
+        "id": "1760164538677395456",
+        "name": "Stella22🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958916902480404480/osRWn3ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 595,
+          "like_count": 15124,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/0mFBaBnsci",
+        "username": "arrebol263",
+        "verified": false
+      }
+    ]
+  }
+}

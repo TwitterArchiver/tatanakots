@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405172481590140933",
+          "name": "Music streaming service"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10046538538",
+          "name": "iTunes"
+        }
+      }
+    ],
+    "conversation_id": "2036014782340571176",
+    "created_at": "2026-03-23T09:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036014782340571176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pepoyoppy/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/pepoyoppy/status/2033831750707904611",
+          "start": 19,
+          "url": "https://t.co/ysn4Wv0QQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036014782340571176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033831750707904611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没想到ppy的曲子居然连油管都会下架 https://t.co/ysn4Wv0QQs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046538538",
+              "name": "iTunes"
+            }
+          }
+        ],
+        "conversation_id": "2036014782340571176",
+        "created_at": "2026-03-23T09:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036014782340571176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pepoyoppy/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/pepoyoppy/status/2033831750707904611",
+              "start": 19,
+              "url": "https://t.co/ysn4Wv0QQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036014782340571176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033831750707904611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到ppy的曲子居然连油管都会下架 https://t.co/ysn4Wv0QQs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "996864025634877440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046538538",
+              "name": "iTunes"
+            }
+          }
+        ],
+        "conversation_id": "2033831750707904611",
+        "created_at": "2026-03-17T09:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033831750707904611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "Spotify",
+              "probability": 0.7571,
+              "start": 88,
+              "type": "Product"
+            },
+            {
+              "end": 101,
+              "normalized_text": "iTunes",
+              "probability": 0.6377,
+              "start": 96,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033831750707904611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 428373,
+          "like_count": 10127,
+          "quote_count": 130,
+          "reply_count": 18,
+          "retweet_count": 538
+        },
+        "reply_settings": "everyone",
+        "text": "らくらく安楽死、YouTubemusicの方は残っていたのですが\nこちらも消されてしまったようです😱\nサブスクまで消されてしまうとは思わなかったのですがちょっと対策考えます（SpotifyやiTunes等では聴けます❗️）\nご迷惑おかけしてしまいすみません🙇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 364,
+          "like_count": 25411,
+          "listed_count": 6,
+          "media_count": 1606,
+          "tweet_count": 11404
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-16T21:24:39.000Z",
+        "description": "絵/曲/歌/動画など色々　⚠️過激な表現を含むのでフォロー自己責任 作品の使用についてはガイドライン参照 創作 #ぽよぺっぷ #おす氏っす #じさつようせい　曲→ #PEPOYOmusic FA→#PPYfanart 色々タグ #ペポン通信 skeb https://t.co/zIRzvEDHtS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "ぽよぺっぷ"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "おす氏っす"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "じさつようせい"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "tag": "PEPOYOmusic"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "tag": "PPYfanart"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "ペポン通信"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pepoyoPPY",
+                "end": 149,
+                "expanded_url": "https://skeb.jp/@pepoyoPPY",
+                "start": 126,
+                "url": "https://t.co/zIRzvEDHtS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pepoyo",
+                "end": 23,
+                "expanded_url": "https://lit.link/pepoyo",
+                "start": 0,
+                "url": "https://t.co/ceFDwkD014"
+              }
+            ]
+          }
+        },
+        "id": "996864025634877440",
+        "location": "リンクまとめ↓✉️→pepoyoppy⭐︎gmail.com",
+        "name": "ぺぽよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779930158398660608/1cxmHX_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58329,
+          "following_count": 251,
+          "like_count": 6425,
+          "listed_count": 115,
+          "media_count": 2788,
+          "tweet_count": 21732
+        },
+        "url": "https://t.co/ceFDwkD014",
+        "username": "pepoyoPPY",
+        "verified": true
+      }
+    ]
+  }
+}

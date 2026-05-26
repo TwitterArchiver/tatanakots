@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2056032612628783300",
+    "created_at": "2026-05-18T12:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056353679524139083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "CatherinaMeow"
+        },
+        {
+          "end": 25,
+          "id": "2041781336596525056",
+          "start": 15,
+          "username": "kitty5188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056353679524139083",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056315261024895442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatherinaMeow @kitty5188 可能是没人举报（？\n或者其实👀的神秘力量也会看上下文（？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056315261024895442].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056315261024895442",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056315261024895442"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2056032612628783300",
+        "created_at": "2026-05-18T12:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056353679524139083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 25,
+              "id": "2041781336596525056",
+              "start": 15,
+              "username": "kitty5188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056353679524139083",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056315261024895442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @kitty5188 可能是没人举报（？\n或者其实👀的神秘力量也会看上下文（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 417,
+          "like_count": 29255,
+          "listed_count": 8,
+          "media_count": 1735,
+          "tweet_count": 12924
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/BsKDJo02pF"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7394,
+          "following_count": 1096,
+          "like_count": 88848,
+          "listed_count": 24,
+          "media_count": 2216,
+          "tweet_count": 26557
+        },
+        "url": "https://t.co/BsKDJo02pF",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T07:35:32.000Z",
+        "description": "关注kitty心情好💖\n祝:喜欢我的宝宝天天开心 平平安安🥰",
+        "id": "2041781336596525056",
+        "name": "kitty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041782247553105920/mIR0TWqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 11,
+          "like_count": 4,
+          "listed_count": 5,
+          "media_count": 26,
+          "tweet_count": 50
+        },
+        "username": "kitty5188",
+        "verified": true
+      }
+    ]
+  }
+}

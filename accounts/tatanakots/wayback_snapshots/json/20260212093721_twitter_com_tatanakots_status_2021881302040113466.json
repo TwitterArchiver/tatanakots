@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2021781281277980981",
+    "created_at": "2026-02-12T09:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021881302040113466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885086674828578816",
+          "start": 0,
+          "username": "PandaTalk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021881302040113466",
+    "in_reply_to_user_id": "885086674828578816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021781281277980981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PandaTalk8 request：？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2021780970341642242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7PFKbbsAIj7Tb.jpg",
+        "width": 2134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2021781281277980981",
+        "created_at": "2026-02-12T09:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021881302040113466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885086674828578816",
+              "start": 0,
+              "username": "PandaTalk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021881302040113466",
+        "in_reply_to_user_id": "885086674828578816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021781281277980981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PandaTalk8 request：？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021780970341642242"
+          ]
+        },
+        "author_id": "885086674828578816",
+        "conversation_id": "2021781281277980981",
+        "created_at": "2026-02-12T02:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021781281277980981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IstGu0s69t",
+              "end": 133,
+              "expanded_url": "https://x.com/PandaTalk8/status/2021781281277980981/photo/1",
+              "media_key": "3_2021780970341642242",
+              "start": 110,
+              "url": "https://t.co/IstGu0s69t"
+            },
+            {
+              "display_url": "x.com/karpathy/statu…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/karpathy/status/2021694437152157847",
+              "start": 134,
+              "url": "https://t.co/Q3lc5I02Jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021781281277980981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 110174,
+          "like_count": 526,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021694437152157847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的大佬就是这么普实无华， 只用了243行代码， 只用了python 的三个标准库(os/math/random) ， 就搞定了 GPT 的训练和推理。  \n\n天赋异禀的选手， 我等真的是学不来，只能蹭大佬的热度了。 https://t.co/IstGu0s69t https://t.co/Q3lc5I02Jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 347,
+          "like_count": 24714,
+          "listed_count": 6,
+          "media_count": 1539,
+          "tweet_count": 10614
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-12T10:41:22.000Z",
+        "description": "公众号：PandaTalk8",
+        "id": "885086674828578816",
+        "name": "Mr Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65243,
+          "following_count": 7215,
+          "like_count": 65182,
+          "listed_count": 437,
+          "media_count": 1372,
+          "tweet_count": 22910
+        },
+        "username": "PandaTalk8",
+        "verified": true
+      }
+    ]
+  }
+}

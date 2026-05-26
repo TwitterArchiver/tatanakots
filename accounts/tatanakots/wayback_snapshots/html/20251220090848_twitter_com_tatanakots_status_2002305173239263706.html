@@ -1,0 +1,200 @@
+<!-- Source: https://web.archive.org/web/20251220090848if_/twitter_com_tatanakots_status_2002305173239263706 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="たたなこ🏳️‍⚧️🍥" src="../avatar/avatar_1783413612331352064.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  たたなこ🏳️‍⚧️🍥
+  </div>
+  <div class="tweet-author-username">
+  @tatanakots
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  传疯了的0010毁号是如何实现的呢？
+  <br/>
+  众所周知只要科技哥获得了你的userId，那么只要请求登录接口成功就能获取到上传数据所需要的loginId，从而写入数据。
+  <br/>
+  但是，登录所需要的前置条件是什么呢？你需要一个30分钟内获取的二维码，否则你的账号会被服务器安全锁定，天王老子来了也无法登录，而只有登录了才能获取写入数据需要的loginId（一次性）。
+  <br/>
+  不过，不怀好意之人克服了重重困难，在你获取到二维码登录机台前率先登上了你的账号，那么，毁号就要开始了。
+  <br/>
+  一般情况下，在上传数据时，机台会向服务器报告自己的版本号，为了防止出现新版本的数据在旧版本的机台上登录引发奇怪的bug，所以官方机台会严格禁止高于自己版本号的账号登录，那么，坏人只需要在上传数据的时候，把数据版本号改高或者改成奇怪的东西，你就不可能登录成功（除非用非官方机台强制登录或者科技重新覆盖版本数据），这个很好修，随便找个bot应该都能帮你修回来。
+  <br/>
+  但是还有一种方法，会造成0010错误（游戏程序崩溃），这是因为SEGA没有考虑到国内玩家神人很多会往服务器里面拉屎，觉得只要版本号没问题，那游戏数据就不会有问题，于是，没做边界校验。当游戏程序（不管是正版机台还是HDD）遇到当前版本没有的资源的获取请求的时候，就会直接崩溃，HDD表现为闪退，机台有alls的守护进程兜底，会表现为0010并重启。怎么让游戏程序获取不存在的游戏数据呢？坏人就往游戏数据中发送了不存在的歌曲数据、不存在的收藏品数据和不存在的旅行伙伴数据，当游戏程序试图显示这些不存在的东西的贴图的时候，发现找不到，就会罢工崩溃。
+  <br/>
+  那这样的话删掉垃圾数据不就行了？很可惜，收藏品和歌曲数据只能发送不能删除，机台接口没有预留删除数据的接口，服务器那边也没有校验数据是否合法的程序，也没有定期删除会引发bug的数据的定时脚本。因为公开接口没有删除能力，所以有删除能力的只有舞萌DX国服运营组和开发组。
+  <br/>
+  <br/>
+  当然，依然是这样，只要你没有获取二维码，就没人能写入你的账号，除非华立服务器密码漏了。
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1753293214826848256; author ID:","1753293214826848256");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+    <img alt="たたなこ🏳️‍⚧️🍥" src="../avatar/avatar_1783413612331352064.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    たたなこ🏳️‍⚧️🍥
+    </div>
+    <div class="tweet-author-username">
+    @tatanakots
+    </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  让我们来解释一下科技是如何运作的，以及它是怎么被用来毁你的账号或者保护你的账号的。
+  <br/>
+  首先我们先来看一个正常的舞萌机台是怎么运作的：
+  </div>
+  <p class="date">
+  <a href="https://web.archive.org/web/20251220090848/https://twitter.com/tatanakots/status/2002301614586277972" id="qt2002301614586277972">
+  </a>
+  </p>
+  <script>
+  var dateString = "2025-12-20T08:54:40.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2002301614586277972").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2025-12-20T09:08:48.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

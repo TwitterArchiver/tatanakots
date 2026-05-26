@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017727979682676736"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "2017728000369086814",
+    "created_at": "2026-01-31T22:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T23:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017728000369086814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKTPcdmtCL",
+          "end": 46,
+          "expanded_url": "https://x.com/tatanakots/status/2017728000369086814/photo/1",
+          "media_key": "3_2017727979682676736",
+          "start": 23,
+          "url": "https://t.co/CKTPcdmtCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017728000369086814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "泰国神经小挂件\n含裸体和性暗示内容请谨慎打开"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泰国神经小挂件\n含裸体和性暗示内容请谨慎打开 https://t.co/CKTPcdmtCL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017728000369086814].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017728000369086814",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017728000369086814"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2017727979682676736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABo6DpaQAAFHz9.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 343,
+          "like_count": 24422,
+          "listed_count": 6,
+          "media_count": 1519,
+          "tweet_count": 10378
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

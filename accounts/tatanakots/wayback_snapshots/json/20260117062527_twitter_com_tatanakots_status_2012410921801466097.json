@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2012345988686471556",
+    "created_at": "2026-01-17T06:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012410921801466097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3645622759",
+          "start": 0,
+          "username": "yeahwu404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012410921801466097",
+    "in_reply_to_user_id": "3645622759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012345988686471556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeahwu404 其实除了某些风控特别敏感的平台，正常人刷刷推买买东西什么的独享的idc ip出口就够干净了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2012345988686471556",
+        "created_at": "2026-01-17T06:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012410921801466097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3645622759",
+              "start": 0,
+              "username": "yeahwu404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012410921801466097",
+        "in_reply_to_user_id": "3645622759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012345988686471556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeahwu404 其实除了某些风控特别敏感的平台，正常人刷刷推买买东西什么的独享的idc ip出口就够干净了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3645622759",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Data centers",
+              "id": "848921562422026240",
+              "name": "Data centers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Data centers",
+              "id": "848921562422026240",
+              "name": "Data centers"
+            }
+          }
+        ],
+        "conversation_id": "2012345988686471556",
+        "created_at": "2026-01-17T02:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012345988686471556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Power global business decisions with IP2Location. Identify network metadata and proxy traffic to optimize localization, analytics, and fraud detection.",
+              "display_url": "ip2location.com",
+              "end": 139,
+              "expanded_url": "https://www.ip2location.com",
+              "images": [
+                {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/news_img/2012345991005925377/2aAvyxna?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012345991005925377/2aAvyxna?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "IP Address to IP Location and Proxy Information | IP2Location",
+              "unwound_url": "https://www.ip2location.com",
+              "url": "https://t.co/7dE3GLh3s5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012345988686471556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 4560,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "家宽IP检测，可以看看下面网站（相对准确）\n\n真家宽：\nUsage Type：(ISP) Fixed Line ISP\n\n假家宽：\nUsage Type：(DCH) Data Center/Web Hosting/Transit\n\nhttps://t.co/7dE3GLh3s5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 257,
+          "like_count": 24063,
+          "listed_count": 6,
+          "media_count": 1485,
+          "tweet_count": 9975
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-22T05:50:09.000Z",
+        "description": "TG频道：https://t.co/XecRtYVXfl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hello_1024",
+                "end": 28,
+                "expanded_url": "http://t.me/Hello_1024",
+                "start": 5,
+                "url": "https://t.co/XecRtYVXfl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1024.day",
+                "end": 23,
+                "expanded_url": "https://1024.day",
+                "start": 0,
+                "url": "https://t.co/CWwF31aaRR"
+              }
+            ]
+          }
+        },
+        "id": "3645622759",
+        "name": "七舅姥爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/758615102564163584/BRWfouwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14175,
+          "following_count": 349,
+          "like_count": 1753,
+          "listed_count": 149,
+          "media_count": 276,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/CWwF31aaRR",
+        "username": "yeahwu404",
+        "verified": true
+      }
+    ]
+  }
+}

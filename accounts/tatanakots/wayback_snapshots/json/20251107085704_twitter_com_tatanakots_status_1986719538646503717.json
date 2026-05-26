@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1986413423362818116",
+    "created_at": "2025-11-07T08:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986719538646503717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350462273458868227",
+          "start": 0,
+          "username": "ZaindORp"
+        },
+        {
+          "end": 26,
+          "id": "1704895254120509440",
+          "start": 10,
+          "username": "ZSXJ8Qlzbw34454"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986719538646503717",
+    "in_reply_to_user_id": "1350462273458868227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986697245031637301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaindORp @ZSXJ8Qlzbw34454 mig是多层板，esp32做的，我有一半原理图\n但是mig启用了安全启动，无法从esp32中提取出固件，所以没有逆向版本\n因为mig项目最关键的就是固件里面那套ns卡带的加密和通讯协议，没了这个纯硬件跟本没有价值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1986413423362818116",
+        "created_at": "2025-11-07T08:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986719538646503717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350462273458868227",
+              "start": 0,
+              "username": "ZaindORp"
+            },
+            {
+              "end": 26,
+              "id": "1704895254120509440",
+              "start": 10,
+              "username": "ZSXJ8Qlzbw34454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986719538646503717",
+        "in_reply_to_user_id": "1350462273458868227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986697245031637301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaindORp @ZSXJ8Qlzbw34454 mig是多层板，esp32做的，我有一半原理图\n但是mig启用了安全启动，无法从esp32中提取出固件，所以没有逆向版本\n因为mig项目最关键的就是固件里面那套ns卡带的加密和通讯协议，没了这个纯硬件跟本没有价值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350462273458868227",
+        "conversation_id": "1986413423362818116",
+        "created_at": "2025-11-07T07:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986697245031637301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1704895254120509440",
+              "start": 0,
+              "username": "ZSXJ8Qlzbw34454"
+            },
+            {
+              "end": 28,
+              "id": "1753293214826848256",
+              "start": 17,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986697245031637301",
+        "in_reply_to_user_id": "1704895254120509440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986689039647580581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZSXJ8Qlzbw34454 @tatanakots 这东西目前应该没法自制吧。好像还没有逆向版本。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 241,
+          "like_count": 23603,
+          "listed_count": 5,
+          "media_count": 1385,
+          "tweet_count": 8966
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-16T15:18:06.000Z",
+        "description": "清水生活推，或許有些偏負能…我會努力壓制的。\n是含糖MTF🏳‍⚧。\n願意與任何人成為朋友。\n是大貓貓@AnyNeko_ 的家養貓娘。\n想要成為溫柔的，可以幫助大家的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "AnyNeko_"
+              }
+            ]
+          }
+        },
+        "id": "1350462273458868227",
+        "location": "2.50km",
+        "name": "*۫۫۫۫۫۫۫۫۫۫雨۫۫۫۫۫۫۫۫۫樱۫۫۫۫۫۫۫۫۫۫落𝗭𝗮𝗶𝗻𝗱𝗢𝗥𝗽",
+        "pinned_tweet_id": "1650829946560864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886324430680535040/kEH7ya8r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 148,
+          "like_count": 252441,
+          "listed_count": 30,
+          "media_count": 1079,
+          "tweet_count": 32993
+        },
+        "username": "ZaindORp",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T16:28:09.000Z",
+        "description": "喵喵",
+        "id": "1704895254120509440",
+        "location": "九龙",
+        "name": "小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704898993665589248/dz9arQyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 87,
+          "like_count": 483,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 337
+        },
+        "username": "ZSXJ8Qlzbw34454",
+        "verified": false
+      }
+    ]
+  }
+}

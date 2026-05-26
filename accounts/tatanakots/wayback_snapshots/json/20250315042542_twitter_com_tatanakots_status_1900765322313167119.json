@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900765215136075777",
+        "3_1900765215131922434",
+        "3_1900765215148630016"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1900765322313167119",
+    "created_at": "2025-03-15T04:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T05:24:03.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900764907601301891",
+      "1900765322313167119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A controller redeveloped based on MaiPico and suitable for a certain brand of washing machines. - tatanakots/DX_Controller",
+          "display_url": "github.com/tatanakots/DX_…",
+          "end": 152,
+          "expanded_url": "https://github.com/tatanakots/DX_Controller",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1900764915000111111/T1NbB-ay?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1900764915000111111/T1NbB-ay?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 129,
+          "status": 200,
+          "title": "GitHub - tatanakots/DX_Controller: A controller redeveloped based on MaiPico and suitable for a certain brand of washing machines.",
+          "unwound_url": "https://github.com/tatanakots/DX_Controller",
+          "url": "https://t.co/7nPoJLbBnS"
+        },
+        {
+          "display_url": "pic.x.com/Vxak1G61GX",
+          "end": 176,
+          "expanded_url": "https://x.com/tatanakots/status/1900765322313167119/photo/1",
+          "media_key": "3_1900765215136075777",
+          "start": 153,
+          "url": "https://t.co/Vxak1G61GX"
+        },
+        {
+          "display_url": "pic.x.com/Vxak1G61GX",
+          "end": 176,
+          "expanded_url": "https://x.com/tatanakots/status/1900765322313167119/photo/1",
+          "media_key": "3_1900765215131922434",
+          "start": 153,
+          "url": "https://t.co/Vxak1G61GX"
+        },
+        {
+          "display_url": "pic.x.com/Vxak1G61GX",
+          "end": 176,
+          "expanded_url": "https://x.com/tatanakots/status/1900765322313167119/photo/1",
+          "media_key": "3_1900765215148630016",
+          "start": 153,
+          "url": "https://t.co/Vxak1G61GX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900765322313167119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/tatanakots/DX_…",
+            "end": 152,
+            "expanded_url": "https://github.com/tatanakots/DX_Controller",
+            "start": 129,
+            "url": "https://t.co/8UXq3CnO0e"
+          }
+        ]
+      },
+      "text": "设计了新的触摸子板准备打板，这次准备试试如果MPR121方案不使用i2c中继会怎么样，如果可以用就不加i2c中继了\n为了确保电源波纹稳定以及长距离供电稳定，这次子板上使用了5V降压至3.3V供给MPR121\n（后续会尝试使用PSOC方案）\n\n魔改部分已开源：https://t.co/8UXq3CnO0e"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "设计了新的触摸子板准备打板，这次准备试试如果MPR121方案不使用i2c中继会怎么样，如果可以用就不加i2c中继了\n为了确保电源波纹稳定以及长距离供电稳定，这次子板上使用了5V降压至3.3V供给MPR121\n（后续会尝试使用PSOC方案）\n\n魔改部分已开源：https://t.co/7nPoJLbBnS https://t.co/Vxak1G61GX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3032,
+        "media_key": "3_1900765215136075777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDf5Hma0AEm9Kv.jpg",
+        "width": 2160
+      },
+      {
+        "height": 3032,
+        "media_key": "3_1900765215131922434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDf5HlbcAI2R3P.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2188,
+        "media_key": "3_1900765215148630016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDf5HpaYAAyZwT.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900763674559885312",
+            "3_1900763674547286018",
+            "3_1900763674555674625"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900764907601301891",
+        "created_at": "2025-03-15T04:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T05:24:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900764907601301891",
+          "1900765322313167119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A controller redeveloped based on MaiPico and suitable for a certain brand of washing machines. - tatanakots/DX_Controller",
+              "display_url": "github.com/tatanakots/DX_…",
+              "end": 152,
+              "expanded_url": "https://github.com/tatanakots/DX_Controller",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1900764915000111111/T1NbB-ay?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1900764915000111111/T1NbB-ay?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "GitHub - tatanakots/DX_Controller: A controller redeveloped based on MaiPico and suitable for a certain brand of washing machines.",
+              "unwound_url": "https://github.com/tatanakots/DX_Controller",
+              "url": "https://t.co/7nPoJLbBnS"
+            },
+            {
+              "display_url": "pic.x.com/9qxxjj90TF",
+              "end": 176,
+              "expanded_url": "https://x.com/tatanakots/status/1900764907601301891/photo/1",
+              "media_key": "3_1900763674559885312",
+              "start": 153,
+              "url": "https://t.co/9qxxjj90TF"
+            },
+            {
+              "display_url": "pic.x.com/9qxxjj90TF",
+              "end": 176,
+              "expanded_url": "https://x.com/tatanakots/status/1900764907601301891/photo/1",
+              "media_key": "3_1900763674547286018",
+              "start": 153,
+              "url": "https://t.co/9qxxjj90TF"
+            },
+            {
+              "display_url": "pic.x.com/9qxxjj90TF",
+              "end": 176,
+              "expanded_url": "https://x.com/tatanakots/status/1900764907601301891/photo/1",
+              "media_key": "3_1900763674555674625",
+              "start": 153,
+              "url": "https://t.co/9qxxjj90TF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900764907601301891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/tatanakots/DX_…",
+                "end": 152,
+                "expanded_url": "https://github.com/tatanakots/DX_Controller",
+                "start": 129,
+                "url": "https://t.co/8UXq3CnO0e"
+              }
+            ]
+          },
+          "text": "设计了新的触摸子板准备打板，这次准备试试如果MPR121方案不使用i2c中继会怎么样，如果可以用就不加i2c中继了\n为了确保电源波纹稳定以及长距离供电稳定，这次子板上使用了5V降压至3.3V供给MPR121\n（后续会尝试使用PSOC方案）\n\n魔改部分已开源：https://t.co/8UXq3CnO0e"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设计了新的触摸子板准备打板，这次准备试试如果MPR121方案不使用i2c中继会怎么样，如果可以用就不加i2c中继了\n为了确保电源波纹稳定以及长距离供电稳定，这次子板上使用了5V降压至3.3V供给MPR121\n（后续会尝试使用PSOC方案）\n\n魔改部分已开源：https://t.co/7nPoJLbBnS https://t.co/9qxxjj90TF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900765215136075777",
+            "3_1900765215131922434",
+            "3_1900765215148630016"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900765322313167119",
+        "created_at": "2025-03-15T04:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T05:24:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900764907601301891",
+          "1900765322313167119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A controller redeveloped based on MaiPico and suitable for a certain brand of washing machines. - tatanakots/DX_Controller",
+              "display_url": "github.com/tatanakots/DX_…",
+              "end": 152,
+              "expanded_url": "https://github.com/tatanakots/DX_Controller",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1900764915000111111/T1NbB-ay?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1900764915000111111/T1NbB-ay?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "GitHub - tatanakots/DX_Controller: A controller redeveloped based on MaiPico and suitable for a certain brand of washing machines.",
+              "unwound_url": "https://github.com/tatanakots/DX_Controller",
+              "url": "https://t.co/7nPoJLbBnS"
+            },
+            {
+              "display_url": "pic.x.com/Vxak1G61GX",
+              "end": 176,
+              "expanded_url": "https://x.com/tatanakots/status/1900765322313167119/photo/1",
+              "media_key": "3_1900765215136075777",
+              "start": 153,
+              "url": "https://t.co/Vxak1G61GX"
+            },
+            {
+              "display_url": "pic.x.com/Vxak1G61GX",
+              "end": 176,
+              "expanded_url": "https://x.com/tatanakots/status/1900765322313167119/photo/1",
+              "media_key": "3_1900765215131922434",
+              "start": 153,
+              "url": "https://t.co/Vxak1G61GX"
+            },
+            {
+              "display_url": "pic.x.com/Vxak1G61GX",
+              "end": 176,
+              "expanded_url": "https://x.com/tatanakots/status/1900765322313167119/photo/1",
+              "media_key": "3_1900765215148630016",
+              "start": 153,
+              "url": "https://t.co/Vxak1G61GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900765322313167119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/tatanakots/DX_…",
+                "end": 152,
+                "expanded_url": "https://github.com/tatanakots/DX_Controller",
+                "start": 129,
+                "url": "https://t.co/8UXq3CnO0e"
+              }
+            ]
+          },
+          "text": "设计了新的触摸子板准备打板，这次准备试试如果MPR121方案不使用i2c中继会怎么样，如果可以用就不加i2c中继了\n为了确保电源波纹稳定以及长距离供电稳定，这次子板上使用了5V降压至3.3V供给MPR121\n（后续会尝试使用PSOC方案）\n\n魔改部分已开源：https://t.co/8UXq3CnO0e"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设计了新的触摸子板准备打板，这次准备试试如果MPR121方案不使用i2c中继会怎么样，如果可以用就不加i2c中继了\n为了确保电源波纹稳定以及长距离供电稳定，这次子板上使用了5V降压至3.3V供给MPR121\n（后续会尝试使用PSOC方案）\n\n魔改部分已开源：https://t.co/7nPoJLbBnS https://t.co/Vxak1G61GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 184,
+          "like_count": 20765,
+          "listed_count": 3,
+          "media_count": 1055,
+          "tweet_count": 6618
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

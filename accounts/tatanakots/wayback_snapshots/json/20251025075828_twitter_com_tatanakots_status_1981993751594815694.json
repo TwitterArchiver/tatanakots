@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981993733361975296"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "1981308056937083253",
+    "created_at": "2025-10-25T07:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T08:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981993751594815694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845691037383069702",
+          "start": 0,
+          "username": "xc1oud67589"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LwVW8tHNVl",
+          "end": 36,
+          "expanded_url": "https://x.com/tatanakots/status/1981993751594815694/photo/1",
+          "media_key": "3_1981993733361975296",
+          "start": 13,
+          "url": "https://t.co/LwVW8tHNVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981993751594815694",
+    "in_reply_to_user_id": "1845691037383069702",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981981934172721182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xc1oud67589 https://t.co/LwVW8tHNVl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981993751594815694].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981993751594815694",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981993751594815694"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_1981993733361975296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4F0zKgXQAAZbyz.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845691037383069702",
+        "conversation_id": "1981308056937083253",
+        "created_at": "2025-10-25T07:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981981934172721182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981981934172721182",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981308056937083253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 看看鸡儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 233,
+          "like_count": 23417,
+          "listed_count": 5,
+          "media_count": 1364,
+          "tweet_count": 8840
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T05:00:29.000Z",
+        "description": "Telegram @tmyy520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "tmyy520"
+              }
+            ]
+          }
+        },
+        "id": "1845691037383069702",
+        "location": "看看你身后呢",
+        "name": "XC1oud",
+        "pinned_tweet_id": "1845692549886885917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953829076986474497/ntelnDwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "xc1oud67589",
+        "verified": false
+      }
+    ]
+  }
+}

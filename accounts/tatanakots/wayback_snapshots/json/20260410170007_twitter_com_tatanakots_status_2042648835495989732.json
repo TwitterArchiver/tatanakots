@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2042647619567259674",
+    "created_at": "2026-04-10T17:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042648835495989732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879979432489938945",
+          "start": 0,
+          "username": "linmontfur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042648835495989732",
+    "in_reply_to_user_id": "1879979432489938945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042648182224752915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmontfur 不对我脑子已经乱掉了\n能不能都写成Dec. 11 2077这样的格式啊（（\n不然全部给我用yyyy mm dd🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2042647619567259674",
+        "created_at": "2026-04-10T17:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042648835495989732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879979432489938945",
+              "start": 0,
+              "username": "linmontfur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042648835495989732",
+        "in_reply_to_user_id": "1879979432489938945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042648182224752915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmontfur 不对我脑子已经乱掉了\n能不能都写成Dec. 11 2077这样的格式啊（（\n不然全部给我用yyyy mm dd🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879979432489938945",
+        "conversation_id": "2042647619567259674",
+        "created_at": "2026-04-10T16:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042648182224752915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042648182224752915",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042647619567259674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 不要啊😭mm dd yy很好用的好不好😭，每次看dd mm yy我都质疑哪来的13月给我看混了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 384,
+          "like_count": 26389,
+          "listed_count": 6,
+          "media_count": 1650,
+          "tweet_count": 11901
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T19:50:13.000Z",
+        "description": "黄色可疑爬行鼬子/典型的INTP-T思维/全能发展/Telegram频道：https://t.co/Tdg5Za1ktW /拒绝政治/晚上的脑子怎么那么难用啊😠/小凛莫喜欢您来",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lmfur",
+                "end": 60,
+                "expanded_url": "http://t.me/lmfur",
+                "start": 37,
+                "url": "https://t.co/Tdg5Za1ktW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.furry.blue",
+                "end": 23,
+                "expanded_url": "https://about.furry.blue",
+                "start": 0,
+                "url": "https://t.co/3yH9K5r8uj"
+              }
+            ]
+          }
+        },
+        "id": "1879979432489938945",
+        "location": "在一个人烟稀少的地方",
+        "name": "小凛莫🔜学校",
+        "pinned_tweet_id": "2037562499151863898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999012141281280/7b76iI5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 342,
+          "like_count": 47,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/3yH9K5r8uj",
+        "username": "linmontfur",
+        "verified": false
+      }
+    ]
+  }
+}

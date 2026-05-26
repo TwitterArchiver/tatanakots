@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2047569433229758822",
+    "created_at": "2026-04-24T12:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047647670228164904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047647670228164904",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047575056470138933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ 闸机计票错误导致进站票未被正确检测核销而堆积，然后没扫到码的因为有历史票堆在队列里导致可以进，然后就进去了，但是因为没成功扫到进站自然出不来需要找人工窗口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2047569433229758822",
+        "created_at": "2026-04-24T12:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047647670228164904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047647670228164904",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047575056470138933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 闸机计票错误导致进站票未被正确检测核销而堆积，然后没扫到码的因为有历史票堆在队列里导致可以进，然后就进去了，但是因为没成功扫到进站自然出不来需要找人工窗口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2047569433229758822",
+        "created_at": "2026-04-24T07:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047575056470138933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820060641652322304",
+              "start": 0,
+              "username": "KyotoGrenadian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047575056470138933",
+        "in_reply_to_user_id": "1820060641652322304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047574807274004597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyotoGrenadian 不刷卡闸机自动关闭呗，反正日本是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3702,
+          "following_count": 399,
+          "like_count": 27476,
+          "listed_count": 6,
+          "media_count": 1674,
+          "tweet_count": 12265
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互关！女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2047621311581868380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047506324876062720/9QO1GqEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 189,
+          "like_count": 3689,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 1446
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

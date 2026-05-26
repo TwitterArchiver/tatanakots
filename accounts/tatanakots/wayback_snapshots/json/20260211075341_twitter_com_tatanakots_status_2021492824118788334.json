@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2021246128436474252",
+    "created_at": "2026-02-11T07:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021492824118788334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1353962791913156608",
+          "start": 0,
+          "username": "Voidrre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021492824118788334",
+    "in_reply_to_user_id": "1353962791913156608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021486642574614943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Voidrre 掉了再续会按照最后一次上蓝标的审核时间刷新认证时间的，如果premium一直在掉蓝标之前续费则不会刷新（至少我这边是这样的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2021246128436474252",
+        "created_at": "2026-02-11T07:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021492824118788334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1353962791913156608",
+              "start": 0,
+              "username": "Voidrre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021492824118788334",
+        "in_reply_to_user_id": "1353962791913156608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021486642574614943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Voidrre 掉了再续会按照最后一次上蓝标的审核时间刷新认证时间的，如果premium一直在掉蓝标之前续费则不会刷新（至少我这边是这样的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353962791913156608",
+        "conversation_id": "2021246128436474252",
+        "created_at": "2026-02-11T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021486642574614943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021486642574614943",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021246128436474252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 我的标续费那个认证时间就刷新了，神秘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 348,
+          "like_count": 24697,
+          "listed_count": 6,
+          "media_count": 1537,
+          "tweet_count": 10593
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T07:07:55.000Z",
+        "description": "GenZ / Reborn / 15yr / Gay / Non-Binary / Trans-Friendly /  INFP / EN, CN, KR OK / DXra14k / maimaiDX Intl.",
+        "id": "1353962791913156608",
+        "name": "Void.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001182403549913095/Ezx8goEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 664,
+          "like_count": 60752,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 357
+        },
+        "username": "Voidrre",
+        "verified": true
+      }
+    ]
+  }
+}

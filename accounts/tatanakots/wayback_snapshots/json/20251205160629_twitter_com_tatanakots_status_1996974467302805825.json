@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1996974467302805825",
+    "created_at": "2025-12-05T16:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T17:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996974467302805825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A tiny cross-platform command-line utility to immediately reboot the local machine. - tatanakots/reboot.cpp",
+          "display_url": "github.com/tatanakots/reb…",
+          "end": 71,
+          "expanded_url": "https://github.com/tatanakots/reboot.cpp",
+          "start": 48,
+          "status": 200,
+          "title": "GitHub - tatanakots/reboot.cpp: A tiny cross-platform command-line utility to immediately reboot the local machine.",
+          "unwound_url": "https://github.com/tatanakots/reboot.cpp",
+          "url": "https://t.co/k7ivpLiC3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996974467302805825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我到底为什么要做这么没用的东西\n啊，原来是PowerShell没法用reboot来重启电脑啊\n\nhttps://t.co/k7ivpLiC3Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1996974467302805825",
+        "created_at": "2025-12-05T16:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996974467302805825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A tiny cross-platform command-line utility to immediately reboot the local machine. - tatanakots/reboot.cpp",
+              "display_url": "github.com/tatanakots/reb…",
+              "end": 71,
+              "expanded_url": "https://github.com/tatanakots/reboot.cpp",
+              "start": 48,
+              "status": 200,
+              "title": "GitHub - tatanakots/reboot.cpp: A tiny cross-platform command-line utility to immediately reboot the local machine.",
+              "unwound_url": "https://github.com/tatanakots/reboot.cpp",
+              "url": "https://t.co/k7ivpLiC3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996974467302805825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底为什么要做这么没用的东西\n啊，原来是PowerShell没法用reboot来重启电脑啊\n\nhttps://t.co/k7ivpLiC3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 243,
+          "like_count": 23878,
+          "listed_count": 5,
+          "media_count": 1420,
+          "tweet_count": 9245
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

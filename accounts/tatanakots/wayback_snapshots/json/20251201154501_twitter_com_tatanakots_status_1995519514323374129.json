@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1995507259523342704",
+    "created_at": "2025-12-01T15:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995519514323374129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995519514323374129",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995507259523342704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 我照镜子：哇！我好丑！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1995507259523342704",
+        "created_at": "2025-12-01T15:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995519514323374129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995519514323374129",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995507259523342704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 我照镜子：哇！我好丑！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618909954156679168",
+        "conversation_id": "1995507259523342704",
+        "created_at": "2025-12-01T14:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995507259523342704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995507259523342704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我照镜子的顺眼程度和我体内雌二醇浓度在近几天内的积分成正相关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 244,
+          "like_count": 23849,
+          "listed_count": 5,
+          "media_count": 1417,
+          "tweet_count": 9188
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "日记\n研究对象@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃鱼板",
+        "pinned_tweet_id": "1956672365686923539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927690192225439744/dn0SEBPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 940,
+          "like_count": 11856,
+          "listed_count": 14,
+          "media_count": 1423,
+          "tweet_count": 7333
+        },
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

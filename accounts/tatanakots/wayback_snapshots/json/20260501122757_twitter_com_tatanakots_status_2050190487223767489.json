@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050190458329174016"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2050104316153987547",
+    "created_at": "2026-05-01T12:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050190487223767489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479550299815645185",
+          "start": 0,
+          "username": "Stanleysobest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J2h3Du6WqG",
+          "end": 59,
+          "expanded_url": "https://x.com/tatanakots/status/2050190487223767489/photo/1",
+          "media_key": "3_2050190458329174016",
+          "start": 36,
+          "url": "https://t.co/J2h3Du6WqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050190487223767489",
+    "in_reply_to_user_id": "1479550299815645185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050104316153987547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanleysobest 我还是喜欢用正经电子书看，这样还能看漫画 https://t.co/J2h3Du6WqG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2050190458329174016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO9XAabEAAKYPy.jpg",
+        "width": 3024
+      },
+      {
+        "height": 2023,
+        "media_key": "3_2050104305970245632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNvAR3a8AAIdSL.jpg",
+        "width": 1949
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050104305978580992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNvAR5aIAAo8Yq.jpg",
+        "width": 1913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050190458329174016"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2050104316153987547",
+        "created_at": "2026-05-01T12:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050190487223767489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2h3Du6WqG",
+              "end": 59,
+              "expanded_url": "https://x.com/tatanakots/status/2050190487223767489/photo/1",
+              "media_key": "3_2050190458329174016",
+              "start": 36,
+              "url": "https://t.co/J2h3Du6WqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050190487223767489",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050104316153987547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest 我还是喜欢用正经电子书看，这样还能看漫画 https://t.co/J2h3Du6WqG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050104305970245632",
+            "3_2050104305978580992"
+          ]
+        },
+        "author_id": "1479550299815645185",
+        "conversation_id": "2050104316153987547",
+        "created_at": "2026-05-01T06:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050104316153987547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQAtdeAICr",
+              "end": 45,
+              "expanded_url": "https://x.com/Stanleysobest/status/2050104316153987547/photo/1",
+              "media_key": "3_2050104305970245632",
+              "start": 22,
+              "url": "https://t.co/KQAtdeAICr"
+            },
+            {
+              "display_url": "pic.x.com/KQAtdeAICr",
+              "end": 45,
+              "expanded_url": "https://x.com/Stanleysobest/status/2050104316153987547/photo/1",
+              "media_key": "3_2050104305978580992",
+              "start": 22,
+              "url": "https://t.co/KQAtdeAICr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050104316153987547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 134869,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "听说现在流行用这玩意看小说？\n\n几个意思？ https://t.co/KQAtdeAICr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 408,
+          "like_count": 27864,
+          "listed_count": 7,
+          "media_count": 1696,
+          "tweet_count": 12417
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41700,
+          "following_count": 1688,
+          "like_count": 25427,
+          "listed_count": 172,
+          "media_count": 5136,
+          "tweet_count": 33913
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

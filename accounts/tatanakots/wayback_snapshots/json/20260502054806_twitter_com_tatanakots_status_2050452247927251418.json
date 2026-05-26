@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2050444106112160138",
+    "created_at": "2026-05-02T05:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050452247927251418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1530220606485983234",
+          "start": 0,
+          "username": "aliciathesika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050452247927251418",
+    "in_reply_to_user_id": "1530220606485983234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050449441283535191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliciathesika 维修专员都说这个价格修起来不划算，不如买新的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2050444106112160138",
+        "created_at": "2026-05-02T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050452247927251418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1530220606485983234",
+              "start": 0,
+              "username": "aliciathesika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050452247927251418",
+        "in_reply_to_user_id": "1530220606485983234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050449441283535191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliciathesika 维修专员都说这个价格修起来不划算，不如买新的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530220606485983234",
+        "conversation_id": "2050444106112160138",
+        "created_at": "2026-05-02T05:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050449441283535191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050449441283535191",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050444106112160138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 😨这维修费还不如买新的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 409,
+          "like_count": 27906,
+          "listed_count": 7,
+          "media_count": 1698,
+          "tweet_count": 12445
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T16:13:31.000Z",
+        "description": "VI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aliciacervidae.github.io/my-homepage/",
+                "end": 23,
+                "expanded_url": "https://aliciacervidae.github.io/my-homepage/",
+                "start": 0,
+                "url": "https://t.co/X132vybhtr"
+              }
+            ]
+          }
+        },
+        "id": "1530220606485983234",
+        "location": "Narshe",
+        "name": "鹿💎Alicia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012171724721434624/BEW-nON4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 794,
+          "like_count": 22289,
+          "listed_count": 14,
+          "media_count": 403,
+          "tweet_count": 7247
+        },
+        "url": "https://t.co/X132vybhtr",
+        "username": "aliciathesika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2029585497614672318",
+    "created_at": "2026-03-06T16:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029958187894575609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850533852764377088",
+          "start": 0,
+          "username": "AndrowSmith2619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029958187894575609",
+    "in_reply_to_user_id": "1850533852764377088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029939408024261061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndrowSmith2619 我真要自己搭的话我直接就能用自己的境内服务器+境内备案域名，海外服务器负责递归解析后缓存在境内服务器上，对自己进行白名单不保留日志，我只是不想这么做，就目前来说我还不需要隐私到这种程度，另外我的AGH也是保留查询日志的，路由器甚至没开小猫，因为没必要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2029585497614672318",
+        "created_at": "2026-03-06T16:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029958187894575609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850533852764377088",
+              "start": 0,
+              "username": "AndrowSmith2619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029958187894575609",
+        "in_reply_to_user_id": "1850533852764377088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029939408024261061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrowSmith2619 我真要自己搭的话我直接就能用自己的境内服务器+境内备案域名，海外服务器负责递归解析后缓存在境内服务器上，对自己进行白名单不保留日志，我只是不想这么做，就目前来说我还不需要隐私到这种程度，另外我的AGH也是保留查询日志的，路由器甚至没开小猫，因为没必要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850533852764377088",
+        "conversation_id": "2029585497614672318",
+        "created_at": "2026-03-06T15:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029939408024261061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029939408024261061",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029585497614672318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 这个界面应该是Adguard Home，根据所谓“网安法”，滞纳DNS需要备案并保存用户日志不少于6个月以供审查。\n可以考虑用Cloudflare Worker来反代，或注册zero trust获取私人DNS，或更换为DNScrypt协议，并在Adguard Home中开启ECS拓展，以实现国外DNS、过墙、并解析到离滞纳最近的ip。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 357,
+          "like_count": 25176,
+          "listed_count": 6,
+          "media_count": 1574,
+          "tweet_count": 11080
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T13:44:14.000Z",
+        "description": "English🇬🇧/日本語🇯🇵/中文🇹🇼  LGBTQ🏳️‍🌈🏳️‍⚧️  BL/GL👿/TypeScript/Node JS/Rust/可爱xnh🥵/  ❌🔞/友好😘/反审查前沿🛡️&反侦察科普🚨/言论自由🏛️/欢迎关注🥺/19yo🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jamerick1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jamerick1",
+                "start": 0,
+                "url": "https://t.co/Dd1TPz7RH2"
+              }
+            ]
+          }
+        },
+        "id": "1850533852764377088",
+        "location": "距离你0.01km",
+        "name": "Kenny_小楓 ❄️",
+        "pinned_tweet_id": "1966190137303585051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924492537580204033/RHs71WIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 139,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/Dd1TPz7RH2",
+        "username": "AndrowSmith2619",
+        "verified": false
+      }
+    ]
+  }
+}

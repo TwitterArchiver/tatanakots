@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2040368663916937558",
+    "created_at": "2026-04-04T09:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040368663916937558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miren_41319/st…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/miren_41319/status/2040237705385390243",
+          "start": 121,
+          "url": "https://t.co/YyrFjZAzM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040368663916937558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040237705385390243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "部分俄罗斯人不尊重版权不代表全部都这样\n我依稀记得cloudflare给我转发的第一份dmca下架申请就是某俄罗斯流媒体公司投诉我侵犯他们代理的某日本动漫版权，当时我在运营的网站是一个bt站点\n当然我要求他们提供完整的授权文件后就没有下文了 https://t.co/YyrFjZAzM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83173,
+        "height": 1280,
+        "media_key": "7_2040237624942874624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040237624942874624/pu/img/c8uhCu1Ud8XCS83X.jpg",
+        "public_metrics": {
+          "view_count": 75717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040237624942874624/pu/vid/avc1/320x568/E0na6Zls3wdUzVeI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040237624942874624/pu/vid/avc1/480x852/CuhkUOFUdph4wQvg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040237624942874624/pu/vid/avc1/720x1280/RjcMEeiW51lbpedG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040237624942874624/pu/pl/8QM6L24nvW_d7l70.m3u8?tag=12&v=16a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2040368663916937558",
+        "created_at": "2026-04-04T09:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040368663916937558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miren_41319/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/miren_41319/status/2040237705385390243",
+              "start": 121,
+              "url": "https://t.co/YyrFjZAzM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040368663916937558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040237705385390243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "部分俄罗斯人不尊重版权不代表全部都这样\n我依稀记得cloudflare给我转发的第一份dmca下架申请就是某俄罗斯流媒体公司投诉我侵犯他们代理的某日本动漫版权，当时我在运营的网站是一个bt站点\n当然我要求他们提供完整的授权文件后就没有下文了 https://t.co/YyrFjZAzM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040237624942874624"
+          ]
+        },
+        "author_id": "1167765353415487488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2040237705385390243",
+        "created_at": "2026-04-04T01:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040237705385390243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MD1jDf7G64",
+              "end": 88,
+              "expanded_url": "https://x.com/miren_41319/status/2040237705385390243/video/1",
+              "media_key": "7_2040237624942874624",
+              "start": 65,
+              "url": "https://t.co/MD1jDf7G64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040237705385390243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 168576,
+          "like_count": 826,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "俄罗斯现在真的无敌，建立了个rutube网站，直接把YouTube里的视频搬过来了，最主要是全部免费，没有花钱订阅这个选项🤣🤣🤣 https://t.co/MD1jDf7G64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 380,
+          "like_count": 26082,
+          "listed_count": 6,
+          "media_count": 1630,
+          "tweet_count": 11667
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T11:45:52.000Z",
+        "description": "119",
+        "id": "1167765353415487488",
+        "location": "北京市",
+        "name": "迷人的小红",
+        "pinned_tweet_id": "2040237705385390243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396714942443655170/UO8JduEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222765,
+          "following_count": 6285,
+          "like_count": 202951,
+          "listed_count": 419,
+          "media_count": 14757,
+          "tweet_count": 150091
+        },
+        "username": "miren_41319",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2018699422167629884",
+    "created_at": "2026-02-03T16:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018718418996719845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620500189630042112",
+          "start": 0,
+          "username": "Moelin_Moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018718418996719845",
+    "in_reply_to_user_id": "1620500189630042112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018702025765028025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moelin_Moe 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2018699422167629884",
+        "created_at": "2026-02-03T16:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018718418996719845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620500189630042112",
+              "start": 0,
+              "username": "Moelin_Moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018718418996719845",
+        "in_reply_to_user_id": "1620500189630042112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018702025765028025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moelin_Moe 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620500189630042112",
+        "conversation_id": "2018699422167629884",
+        "created_at": "2026-02-03T15:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018702025765028025"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "SD Express",
+              "probability": 0.9385,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018702025765028025",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018699422167629884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots nvme转SD Express？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 347,
+          "like_count": 24513,
+          "listed_count": 6,
+          "media_count": 1528,
+          "tweet_count": 10428
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:12:18.000Z",
+        "description": "She/Her · 07 · 快要过期的JK Product Manager 📝 · 💻Vibe Coding ·🏳️‍⚧️ HRTing · ADHD · ✨ @ElimSpace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "ElimSpace"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.moelin.co",
+                "end": 23,
+                "expanded_url": "http://blog.moelin.co",
+                "start": 0,
+                "url": "https://t.co/iaPAZTmCEt"
+              }
+            ]
+          }
+        },
+        "id": "1620500189630042112",
+        "location": "IP属地：朝鲜人民民主主义共和国",
+        "name": "Moelin雲墨 凌",
+        "pinned_tweet_id": "1992574644956913783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754830288549769216/ce5vqxUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 888,
+          "like_count": 1992,
+          "listed_count": 6,
+          "media_count": 346,
+          "tweet_count": 5406
+        },
+        "url": "https://t.co/iaPAZTmCEt",
+        "username": "Moelin_Moe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2006030050152350182",
+    "created_at": "2025-12-30T23:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T00:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006148467073146970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006148467073146970",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006030050152350182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 羡慕顺女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2006030050152350182",
+        "created_at": "2025-12-30T23:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T00:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006148467073146970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006148467073146970",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006030050152350182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 羡慕顺女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618909954156679168",
+        "conversation_id": "2006030050152350182",
+        "created_at": "2025-12-30T15:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006030050152350182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006030050152350182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要享受作为跨女的稀缺性的前提是能被看出来是跨女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 245,
+          "like_count": 23953,
+          "listed_count": 6,
+          "media_count": 1459,
+          "tweet_count": 9670
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "日记\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "pinned_tweet_id": "1956672365686923539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 940,
+          "like_count": 12048,
+          "listed_count": 14,
+          "media_count": 1449,
+          "tweet_count": 7528
+        },
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

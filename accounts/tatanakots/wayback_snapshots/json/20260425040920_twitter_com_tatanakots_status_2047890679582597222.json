@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2047745919026905308",
+    "created_at": "2026-04-25T04:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047890679582597222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463116235478999042",
+          "start": 0,
+          "username": "Nihili10"
+        },
+        {
+          "end": 23,
+          "id": "2033160782687731712",
+          "start": 10,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047890679582597222",
+    "in_reply_to_user_id": "1463116235478999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047887877305192651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nihili10 @Shioochicqwq 搞清楚pr的流程确实有点门槛，但是这用不着修改网页啊，wiki的正文是用markdown编写的，忽略格式记号之后就是普通的文本，添加普通正文也用不上格式标记\n但是投稿的话也需要有人去处理这些操作，project trans本来也是志愿者驱动的组织吧，所以人手不足很正常，不如在ai的帮助下学会这些自己做会更快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2047745919026905308",
+        "created_at": "2026-04-25T04:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047890679582597222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463116235478999042",
+              "start": 0,
+              "username": "Nihili10"
+            },
+            {
+              "end": 23,
+              "id": "2033160782687731712",
+              "start": 10,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047890679582597222",
+        "in_reply_to_user_id": "1463116235478999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047887877305192651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihili10 @Shioochicqwq 搞清楚pr的流程确实有点门槛，但是这用不着修改网页啊，wiki的正文是用markdown编写的，忽略格式记号之后就是普通的文本，添加普通正文也用不上格式标记\n但是投稿的话也需要有人去处理这些操作，project trans本来也是志愿者驱动的组织吧，所以人手不足很正常，不如在ai的帮助下学会这些自己做会更快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463116235478999042",
+        "conversation_id": "2047745919026905308",
+        "created_at": "2026-04-25T03:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047887877305192651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 25,
+              "id": "2033160782687731712",
+              "start": 12,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047887877305192651",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047877103518183503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Shioochicqwq 不是所有人都是搞it会修改网页，会用git会pr，所以只能投稿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3707,
+          "following_count": 400,
+          "like_count": 27497,
+          "listed_count": 6,
+          "media_count": 1674,
+          "tweet_count": 12273
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "location": "Perth",
+        "name": "Nihili（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 490,
+          "like_count": 45392,
+          "listed_count": 0,
+          "media_count": 743,
+          "tweet_count": 11661
+        },
+        "username": "Nihili10",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 1089,
+          "like_count": 2836,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

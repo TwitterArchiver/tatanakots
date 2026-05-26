@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2051195385436393619",
+    "created_at": "2026-05-04T07:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051197891377762505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051197891377762505",
+    "in_reply_to_user_id": "193648759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051195385436393619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 そうですよ〜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2051195350887858176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdPTc6agAAsN1e.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2051195350892138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdPTc7b0AAC1iK.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2051195385436393619",
+        "created_at": "2026-05-04T07:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051197891377762505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051197891377762505",
+        "in_reply_to_user_id": "193648759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051195385436393619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 そうですよ〜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051195350887858176",
+            "3_2051195350892138496"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2051195385436393619",
+        "created_at": "2026-05-04T07:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051195385436393619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmLqx4rD8p",
+              "end": 34,
+              "expanded_url": "https://x.com/ripo0079/status/2051195385436393619/photo/1",
+              "media_key": "3_2051195350887858176",
+              "start": 11,
+              "url": "https://t.co/AmLqx4rD8p"
+            },
+            {
+              "display_url": "pic.x.com/AmLqx4rD8p",
+              "end": 34,
+              "expanded_url": "https://x.com/ripo0079/status/2051195385436393619/photo/1",
+              "media_key": "3_2051195350892138496",
+              "start": 11,
+              "url": "https://t.co/AmLqx4rD8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051195385436393619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "これがオタク城ですか https://t.co/AmLqx4rD8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3774,
+          "following_count": 412,
+          "like_count": 28159,
+          "listed_count": 7,
+          "media_count": 1707,
+          "tweet_count": 12564
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9725,
+          "following_count": 1401,
+          "like_count": 71875,
+          "listed_count": 125,
+          "media_count": 4330,
+          "tweet_count": 54142
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

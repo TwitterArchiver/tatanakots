@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2053739963951575114",
+    "created_at": "2026-05-12T03:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054035311366492276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "940403420766150656",
+          "start": 0,
+          "username": "Necokeine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054035311366492276",
+    "in_reply_to_user_id": "940403420766150656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054011819669483717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Necokeine 如果有人想兼容swift的话，自然是可以的\n使用swift的语法标准和标准库，重新搓跨平台编译器自然不是什么绝对实现不了的事情\n但是我不会去做，因为对我来说做了也没意义，我不需要额外的编译器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2053739963951575114",
+        "created_at": "2026-05-12T03:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054035311366492276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "940403420766150656",
+              "start": 0,
+              "username": "Necokeine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054035311366492276",
+        "in_reply_to_user_id": "940403420766150656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054011819669483717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Necokeine 如果有人想兼容swift的话，自然是可以的\n使用swift的语法标准和标准库，重新搓跨平台编译器自然不是什么绝对实现不了的事情\n但是我不会去做，因为对我来说做了也没意义，我不需要额外的编译器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "940403420766150656",
+        "conversation_id": "2053739963951575114",
+        "created_at": "2026-05-12T01:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054011819669483717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 24,
+              "id": "1397126849717620742",
+              "start": 12,
+              "username": "sanlivenews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054011819669483717",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053795654225551653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @sanlivenews 你倒是去兼容个swift看看？看人家不让你兼容你咋兼容进去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 411,
+          "like_count": 28775,
+          "listed_count": 7,
+          "media_count": 1717,
+          "tweet_count": 12723
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-12T02:10:22.000Z",
+        "description": "Go, Dream, Deliver\n我会中文  Can speak English  少しの日本语も話しできます\n到处出现，到处消失。\n旅が大好き、色々な場に行きたいです。\n三观比较硬，立场偏左\nPowtain 开发者 https://t.co/sDGm3BqvGH\nTelegram: https://t.co/xaFd1fJPBg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "powtain.com",
+                "end": 134,
+                "expanded_url": "http://powtain.com",
+                "start": 111,
+                "url": "https://t.co/sDGm3BqvGH"
+              },
+              {
+                "display_url": "t.me/necokeine",
+                "end": 168,
+                "expanded_url": "https://t.me/necokeine",
+                "start": 145,
+                "url": "https://t.co/xaFd1fJPBg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.powtain.com/home",
+                "end": 23,
+                "expanded_url": "http://web.powtain.com/home",
+                "start": 0,
+                "url": "https://t.co/yf7pbmoHU8"
+              }
+            ]
+          }
+        },
+        "id": "940403420766150656",
+        "location": "上海",
+        "name": "知识和历史的半兽",
+        "pinned_tweet_id": "1943363060758122572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501095595838439427/ANgAmBua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 618,
+          "like_count": 15790,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 8396
+        },
+        "url": "https://t.co/yf7pbmoHU8",
+        "username": "Necokeine",
+        "verified": true
+      }
+    ]
+  }
+}

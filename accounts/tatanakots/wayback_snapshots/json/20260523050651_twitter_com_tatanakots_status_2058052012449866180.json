@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2058052012449866180",
+    "created_at": "2026-05-23T05:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058052012449866180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moran_neko/sta…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/moran_neko/status/2058024690283860020",
+          "start": 104,
+          "url": "https://t.co/k3AMUTUcqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058052012449866180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058024690283860020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想给vrchat的人物换皮套下了官方的创作者中心结果需要unity编辑器，想着unity编辑器太大了我关掉梯子下省点流量结果给我下了个带c的中国特供版\n\nUnity China, FUCK YOU!🖕🖕🖕 https://t.co/k3AMUTUcqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2058024688086114304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-SjMhbYAAwuVj.jpg",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2058052012449866180",
+        "created_at": "2026-05-23T05:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058052012449866180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moran_neko/sta…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/moran_neko/status/2058024690283860020",
+              "start": 104,
+              "url": "https://t.co/k3AMUTUcqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058052012449866180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058024690283860020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想给vrchat的人物换皮套下了官方的创作者中心结果需要unity编辑器，想着unity编辑器太大了我关掉梯子下省点流量结果给我下了个带c的中国特供版\n\nUnity China, FUCK YOU!🖕🖕🖕 https://t.co/k3AMUTUcqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058024688086114304"
+          ]
+        },
+        "author_id": "1509391402484080646",
+        "conversation_id": "2058024690283860020",
+        "created_at": "2026-05-23T03:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058024690283860020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAUabR2bgi",
+              "end": 78,
+              "expanded_url": "https://x.com/moran_neko/status/2058024690283860020/photo/1",
+              "media_key": "3_2058024688086114304",
+              "start": 55,
+              "url": "https://t.co/jAUabR2bgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058024690283860020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "unity中国，团结引擎，什么狗屎wtf下载个SDK还不让下，锁国区，这垃圾代理公司，要不是在国内，早似了吧 https://t.co/jAUabR2bgi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3815,
+          "following_count": 423,
+          "like_count": 29847,
+          "listed_count": 8,
+          "media_count": 1741,
+          "tweet_count": 13104
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "ⓘ活过来了┋\n嘘——快躲好，不要被命运抓住了┋\n成分请看置顶帖┋\n挂一个走失的孩子@mioyuki_21（里推）┋\n互fo请私信🐱 ┋\n宝宝❤️@Evievmmm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "mioyuki_21"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "Evievmmm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "西三环七号汇流井J-A6-01",
+        "name": "默然*✰‧₊˚｡ ✩ ⋆˚ ｡ ⊹ ²¹",
+        "pinned_tweet_id": "2050599873410642152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055919689034055680/b9OmjPlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 1927,
+          "like_count": 42789,
+          "listed_count": 7,
+          "media_count": 2083,
+          "tweet_count": 9305
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

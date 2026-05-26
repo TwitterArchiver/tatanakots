@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1986413423362818116",
+    "created_at": "2025-11-07T10:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T11:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986747232738214294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1368536050277085186",
+          "start": 0,
+          "username": "jellyterra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986747232738214294",
+    "in_reply_to_user_id": "1368536050277085186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986743103659573270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jellyterra 没事用之前用万用表测一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1986413423362818116",
+        "created_at": "2025-11-07T10:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986747232738214294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1368536050277085186",
+              "start": 0,
+              "username": "jellyterra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986747232738214294",
+        "in_reply_to_user_id": "1368536050277085186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986743103659573270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jellyterra 没事用之前用万用表测一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368536050277085186",
+        "conversation_id": "1986413423362818116",
+        "created_at": "2025-11-07T10:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986743103659573270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986743103659573270",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986413423362818116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 这倒不是问题，问题是会遇到有几片短路的。😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 241,
+          "like_count": 23613,
+          "listed_count": 5,
+          "media_count": 1386,
+          "tweet_count": 8974
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-07T12:16:49.000Z",
+        "description": "EECS/Arch/RISCV CAD PL Anime Otaku | Gen Z | ZH EN DE JP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jellyterra.com",
+                "end": 23,
+                "expanded_url": "https://www.jellyterra.com",
+                "start": 0,
+                "url": "https://t.co/FMSqMRfWUI"
+              }
+            ]
+          }
+        },
+        "id": "1368536050277085186",
+        "location": "Sein und Zeit",
+        "name": "Jelly Terra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895333010645348352/R5HX7f_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 306,
+          "like_count": 6976,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/FMSqMRfWUI",
+        "username": "jellyterra",
+        "verified": false
+      }
+    ]
+  }
+}

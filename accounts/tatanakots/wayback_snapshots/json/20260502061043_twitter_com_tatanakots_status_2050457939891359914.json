@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2050444106112160138",
+    "created_at": "2026-05-02T06:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050457939891359914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491630608832876547",
+          "start": 0,
+          "username": "hakanopesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050457939891359914",
+    "in_reply_to_user_id": "1491630608832876547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050457446016323872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakanopesu 苹果售后一向如此，以前Apple Care+的甚至可能屏幕摔碎等小问题直接换新机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2050444106112160138",
+        "created_at": "2026-05-02T06:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050457939891359914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491630608832876547",
+              "start": 0,
+              "username": "hakanopesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050457939891359914",
+        "in_reply_to_user_id": "1491630608832876547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050457446016323872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakanopesu 苹果售后一向如此，以前Apple Care+的甚至可能屏幕摔碎等小问题直接换新机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630608832876547",
+        "conversation_id": "2050444106112160138",
+        "created_at": "2026-05-02T06:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050457446016323872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050457446016323872",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050457154281431417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 放到台式机上约等于电脑出问题直接把主机换了……能解决问题但是成本太高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 409,
+          "like_count": 27908,
+          "listed_count": 7,
+          "media_count": 1698,
+          "tweet_count": 12447
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer | 实则 Engineer | HRT since 24.02.23 | 含糖顺男 | 如果你想 block 我的话请记住道不同不相为谋 | 星乃一歌&宵崎奏 推し！",
+        "id": "1491630608832876547",
+        "name": "Haskina🍥",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770327321951793152/et0NXeqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 343,
+          "like_count": 2472,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1202
+        },
+        "username": "hakanopesu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2027743201860456698",
+    "created_at": "2026-02-28T14:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027753954537586878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027753954537586878",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027753322300809640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yorei_puewwoc no，新建新玩家是aimedb向机台和title返回了userid=0，然后机台进入创建新账号的模式，填写基本信息上传到aimedb之后就删不掉了\nmaimai从来没有删除信息的公开接口，你只能为你的账户新建和修改信息，但是始终无法自行删除\n中间人攻击后连接到私服除外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2027743201860456698",
+        "created_at": "2026-02-28T14:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027753954537586878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027753954537586878",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027753322300809640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yorei_puewwoc no，新建新玩家是aimedb向机台和title返回了userid=0，然后机台进入创建新账号的模式，填写基本信息上传到aimedb之后就删不掉了\nmaimai从来没有删除信息的公开接口，你只能为你的账户新建和修改信息，但是始终无法自行删除\n中间人攻击后连接到私服除外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "2027743201860456698",
+        "created_at": "2026-02-28T14:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027753322300809640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027753322300809640",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027752097341673925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 毕竟因为新建玩家这个操作只是公众号后端和maimai服务器通讯，没有办法抓包分析，而且就算有接口文档也有可能是内网操作对吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 351,
+          "like_count": 24988,
+          "listed_count": 6,
+          "media_count": 1564,
+          "tweet_count": 10940
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://blog.yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/t6Y3dpb1nq"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019422693507072000/uoDDll_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 693,
+          "like_count": 72542,
+          "listed_count": 3,
+          "media_count": 807,
+          "tweet_count": 13621
+        },
+        "url": "https://t.co/t6Y3dpb1nq",
+        "username": "yorei_puewwoc",
+        "verified": false
+      }
+    ]
+  }
+}

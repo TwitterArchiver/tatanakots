@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1806530945836786132",
+    "created_at": "2024-06-28T23:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T00:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806832052983197854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SHIGURE_QAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tatanakots/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/tatanakots/status/1806643263774073233",
+          "start": 17,
+          "url": "https://t.co/1d0SLWd4SH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806832052983197854",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806643263774073233",
+        "type": "quoted"
+      },
+      {
+        "id": "1806530945836786132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHIGURE_QAQ 好巧（ https://t.co/1d0SLWd4SH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1806643263774073233].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1806643263774073233",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806643263774073233"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1806530945836786132",
+        "created_at": "2024-06-28T23:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T00:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806832052983197854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SHIGURE_QAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tatanakots/status/1806643263774073233",
+              "start": 17,
+              "url": "https://t.co/1d0SLWd4SH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806832052983197854",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806643263774073233",
+            "type": "quoted"
+          },
+          {
+            "id": "1806530945836786132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIGURE_QAQ 好巧（ https://t.co/1d0SLWd4SH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806529742352551936"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "1806530945836786132",
+        "created_at": "2024-06-28T03:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T04:27:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806529753974964232",
+          "1806530945836786132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fEwQ8ObKo9",
+              "end": 62,
+              "expanded_url": "https://twitter.com/SHIGURE_QAQ/status/1806530945836786132/photo/1",
+              "media_key": "3_1806529742352551936",
+              "start": 39,
+              "url": "https://t.co/fEwQ8ObKo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806530945836786132",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 60987,
+          "like_count": 413,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "泡澡有感\n上面皮包骨\n但有踏马小肚子\n册那我服了\n\n我是俳句仙人（bushi https://t.co/fEwQ8ObKo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / QQ群：833142742 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 105,
+          "like_count": 6687,
+          "listed_count": 3,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🏹丨🐈丨🚴丨🎮丨🔫丨 ⚠️警告：图片有隐写，随意转载可能导致封禁⚠️",
+        "id": "1130781616274468864",
+        "location": "开普勒-452b,KOI-7016.01",
+        "name": "时雨",
+        "pinned_tweet_id": "1804943760591335744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805243730766770176/pQjgnd2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53238,
+          "following_count": 2114,
+          "like_count": 47354,
+          "listed_count": 82,
+          "tweet_count": 4943
+        },
+        "username": "SHIGURE_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

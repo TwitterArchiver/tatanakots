@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2013067631147065679",
+    "created_at": "2026-01-19T07:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013145780828385294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671111271612293120",
+          "start": 0,
+          "username": "st7evechou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013145780828385294",
+    "in_reply_to_user_id": "1671111271612293120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013067631147065679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@st7evechou 送中的ip看油管无广告还是挺爽的，毕竟最近油管还一直在检测广告屏蔽器"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013067130904715265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_Z486XIAEBv-T.jpg",
+        "width": 2718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2013067631147065679",
+        "created_at": "2026-01-19T07:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013145780828385294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671111271612293120",
+              "start": 0,
+              "username": "st7evechou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013145780828385294",
+        "in_reply_to_user_id": "1671111271612293120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013067631147065679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@st7evechou 送中的ip看油管无广告还是挺爽的，毕竟最近油管还一直在检测广告屏蔽器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013067130904715265"
+          ]
+        },
+        "author_id": "1671111271612293120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2013067631147065679",
+        "created_at": "2026-01-19T01:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T02:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013067631147065679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSCZH0BHgQ",
+              "end": 187,
+              "expanded_url": "https://x.com/st7evechou/status/2013067631147065679/photo/1",
+              "media_key": "3_2013067130904715265",
+              "start": 164,
+              "url": "https://t.co/jSCZH0BHgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013067631147065679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "买的 VPS小鸡 IP 被送中后。\n被\"送中\"后的现象\nYouTube 表现异常\n无地区显示\nYouTube 页面右上角不再显示国家/地区标识\n无法看到特定地区的推荐内容\n搜索结果可能受到影响\n无广告\n视频播放前不再显示广告\n视频中间没有插播广告\n视频结尾没有广告\n为什么会这样？这是因为 Google 的广告系统认为该 IP 来自中国大陆，而 Google 在中国大陆没有投放广告的业务，因此系统自动屏蔽了所有广告展示。YouTube 的地区检测机制也受到影响，无法正确识别用户所在地区。\n2. 其他影响\nGoogle Search 搜索结果受限\n部分国际服务访问异常\nPayPal 等支付服务可能拒接该 IP\nNetflix、Disney+ 等流媒体可能被锁定或无法访问"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3630,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买的 VPS小鸡 IP 被送中后。\n被\"送中\"后的现象\nYouTube 表现异常\n无地区显示\nYouTube 页面右上角不再显示国家/地区标识\n无法看到特定地区的推荐内容\n搜索结果可能受到影响\n无广告\n视频播放前不再显示广告\n视频中间没有插播广告\n视频结尾没有广告\n为什么会这样？这是因为 Google 的广告系统认为该 IP https://t.co/jSCZH0BHgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3594,
+          "following_count": 277,
+          "like_count": 24117,
+          "listed_count": 6,
+          "media_count": 1486,
+          "tweet_count": 10013
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T11:02:37.000Z",
+        "description": "我是 Steve 。SteveWatch / SteveFans / StevePinyin 开发者 / YouTuber / 数码爱好者 / Tesla 车主 / Apple Fans / APP 安利推广者/🈲政治。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssurge.me",
+                "end": 23,
+                "expanded_url": "https://ssurge.me",
+                "start": 0,
+                "url": "https://t.co/Jy4s3ySrhy"
+              }
+            ]
+          }
+        },
+        "id": "1671111271612293120",
+        "name": "𝗦𝘁𝗲𝘃𝗲 𝕏",
+        "pinned_tweet_id": "1817727456461386036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941409364998524928/OBsW1axO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15134,
+          "following_count": 515,
+          "like_count": 5878,
+          "listed_count": 101,
+          "media_count": 2847,
+          "tweet_count": 9607
+        },
+        "url": "https://t.co/Jy4s3ySrhy",
+        "username": "st7evechou",
+        "verified": true
+      }
+    ]
+  }
+}

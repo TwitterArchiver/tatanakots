@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2042648010094768617",
+    "created_at": "2026-04-12T05:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043202611298590919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690565622227423232",
+          "start": 0,
+          "username": "dmorest0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043202611298590919",
+    "in_reply_to_user_id": "1690565622227423232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043166004138950997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dmorest0609 这台机器没有TPM，应该无法通过普通的方式安装win11"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2042648010094768617",
+        "created_at": "2026-04-12T05:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043202611298590919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690565622227423232",
+              "start": 0,
+              "username": "dmorest0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043202611298590919",
+        "in_reply_to_user_id": "1690565622227423232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043166004138950997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmorest0609 这台机器没有TPM，应该无法通过普通的方式安装win11"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690565622227423232",
+        "conversation_id": "2042648010094768617",
+        "created_at": "2026-04-12T03:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043166004138950997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043166004138950997",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042648010094768617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 得亏是跑ubuntu，4GB跑win11起手先给你一堆神秘Service Host占用80%走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3666,
+          "following_count": 384,
+          "like_count": 26497,
+          "listed_count": 7,
+          "media_count": 1652,
+          "tweet_count": 11957
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:27:15.000Z",
+        "description": "🇨🇳🇬🇧🇯🇵 ←利用可能な言語\n中国からの音ゲーマーです。みんなと仲良くして欲しい！\n跨友好 ｜Trans friendly｜互fo希望\nNow Playing: Phigros(15.87), Arcaea(11.71), maimaiでらっくす(14099)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/T9eEd1Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/T9eEd1Z",
+                "start": 0,
+                "url": "https://t.co/VctkVxXo7U"
+              }
+            ]
+          }
+        },
+        "id": "1690565622227423232",
+        "location": "Tokyo Japan",
+        "name": "DersuelsMorest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690566853834481664/ert988GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 213,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/VctkVxXo7U",
+        "username": "dmorest0609",
+        "verified": false
+      }
+    ]
+  }
+}

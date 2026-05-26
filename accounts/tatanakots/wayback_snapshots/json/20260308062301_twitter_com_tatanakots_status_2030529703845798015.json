@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2030485742921867513",
+    "created_at": "2026-03-08T06:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030529703845798015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030529703845798015",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030485742921867513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 不用在留卡的话，有电话和短信功能吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_2030484916539207680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC27RgwbsAAfS8s.jpg",
+        "width": 969
+      },
+      {
+        "height": 2110,
+        "media_key": "3_2030485025704366082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC27X3bb0AIveDI.jpg",
+        "width": 2559
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2030485025700167680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC27X3abwAAgYNt.jpg",
+        "width": 1965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2030485742921867513",
+        "created_at": "2026-03-08T06:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030529703845798015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030529703845798015",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030485742921867513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 不用在留卡的话，有电话和短信功能吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030484916539207680",
+            "3_2030485025704366082",
+            "3_2030485025700167680"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SoftBank (ソフトバンク)",
+              "id": "1035240007865262080",
+              "name": "SoftBank (ソフトバンク)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "docomo (ドコモ)",
+              "id": "1035268264916484096",
+              "name": "docomo (ドコモ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168892502176194560",
+              "name": "NTT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2030485742921867513",
+        "created_at": "2026-03-08T03:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030485742921867513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDcUNq5qPg",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2030485742921867513/photo/1",
+              "media_key": "3_2030484916539207680",
+              "start": 116,
+              "url": "https://t.co/LDcUNq5qPg"
+            },
+            {
+              "display_url": "pic.x.com/LDcUNq5qPg",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2030485742921867513/photo/1",
+              "media_key": "3_2030485025704366082",
+              "start": 116,
+              "url": "https://t.co/LDcUNq5qPg"
+            },
+            {
+              "display_url": "pic.x.com/LDcUNq5qPg",
+              "end": 139,
+              "expanded_url": "https://x.com/realNyarime/status/2030485742921867513/photo/1",
+              "media_key": "3_2030485025700167680",
+              "start": 116,
+              "url": "https://t.co/LDcUNq5qPg"
+            },
+            {
+              "display_url": "x.com/MyseatAI/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/MyseatAI/status/2030129496469442859",
+              "start": 140,
+              "url": "https://t.co/omPwjYoJSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030485742921867513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "NTT DOCOMO的Ahamo有62国20G通用，但是在日本外使用超过15天就会被限速。\n\n不过借助eSIM，可以申请新的二维码，让在日朋友连一次日本基站重置这个限速，再申请二维码扫回来。毕竟价格不到3k日元，还是蛮有性价比的！\n\n追求漫游无限量那还得是Rakuten（乐天）CALENDAR，一年5980日元，比ifmobile还便宜。原生日本号码，本地流量3G， 漫游流量1G，漫游流量可在中国大陆使用，超出后限速 200Kbps。\n更重要的是，它不需要在留卡，应该是以kyb的形式。另外7GB的版本，漫游高速流量从1GB提高到了1.5G，本地流量去日本旅游也够用！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 13150,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030129496469442859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "NTT DOCOMO的Ahamo有62国20G通用，但是在日本外使用超过15天就会被限速。\n\n不过借助eSIM，可以申请新的二维码，让在日朋友连一次日本基站重置这个限速，再申请二维码扫回来。毕竟价格不到3k日元，还是蛮有性价比的！ https://t.co/LDcUNq5qPg https://t.co/omPwjYoJSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 357,
+          "like_count": 25208,
+          "listed_count": 6,
+          "media_count": 1576,
+          "tweet_count": 11097
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20970,
+          "following_count": 520,
+          "like_count": 10731,
+          "listed_count": 81,
+          "media_count": 1073,
+          "tweet_count": 8105
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

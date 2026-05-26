@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2000341791015641404",
+    "created_at": "2025-12-16T09:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000854035793109026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1745018616188121088",
+          "start": 0,
+          "username": "HE912281"
+        },
+        {
+          "end": 18,
+          "id": "307353701",
+          "start": 10,
+          "username": "askaiwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000854035793109026",
+    "in_reply_to_user_id": "1745018616188121088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000498241360757108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HE912281 @askaiwy 电梯里面可以装室分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2000341791015641404",
+        "created_at": "2025-12-16T09:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000854035793109026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1745018616188121088",
+              "start": 0,
+              "username": "HE912281"
+            },
+            {
+              "end": 18,
+              "id": "307353701",
+              "start": 10,
+              "username": "askaiwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000854035793109026",
+        "in_reply_to_user_id": "1745018616188121088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000498241360757108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HE912281 @askaiwy 电梯里面可以装室分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745018616188121088",
+        "conversation_id": "2000341791015641404",
+        "created_at": "2025-12-15T09:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000498241360757108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "307353701",
+              "start": 0,
+              "username": "askaiwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000498241360757108",
+        "in_reply_to_user_id": "307353701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47237,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000341791015641404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askaiwy 电梯里有信号？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 244,
+          "like_count": 23917,
+          "listed_count": 6,
+          "media_count": 1441,
+          "tweet_count": 9434
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T09:44:08.000Z",
+        "description": "一塌糊涂",
+        "id": "1745018616188121088",
+        "location": "地狱",
+        "name": "阿西八",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761305251167301632/HiKMKPFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 112,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 753
+        },
+        "username": "HE912281",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-29T13:51:12.000Z",
+        "description": "瓜田里上蹿下跳东奔西走的猹；牙尖嘴利古灵精怪的前白大褂 ；原教旨中医；🦋同号预防万一 @amamirkd小号专门抽空写中医药知识科普",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "amamirkd"
+              }
+            ]
+          }
+        },
+        "id": "307353701",
+        "location": "日本 神奈川",
+        "name": "飛鳥",
+        "pinned_tweet_id": "1788840262141374875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757782766920568832/Bs8jvrDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31133,
+          "following_count": 275,
+          "like_count": 85801,
+          "listed_count": 96,
+          "media_count": 7006,
+          "tweet_count": 21684
+        },
+        "username": "askaiwy",
+        "verified": true
+      }
+    ]
+  }
+}

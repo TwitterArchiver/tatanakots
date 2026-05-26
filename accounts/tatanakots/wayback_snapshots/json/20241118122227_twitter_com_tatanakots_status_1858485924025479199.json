@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1858485924025479199",
+    "created_at": "2024-11-18T12:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T13:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858485924025479199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        },
+        {
+          "end": 31,
+          "id": "1352281301613568000",
+          "start": 16,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858485924025479199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858485885957980374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: @Starlight4You_ 今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1858485924025479199",
+        "created_at": "2024-11-18T12:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T13:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858485924025479199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            },
+            {
+              "end": 31,
+              "id": "1352281301613568000",
+              "start": 16,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858485924025479199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858485885957980374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: @Starlight4You_ 今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1858331827116921245",
+        "created_at": "2024-11-18T12:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T13:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858485885957980374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858485885957980374",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）\nLinux在引入BSOD之前不也是崩溃后直接重启的嘛，所以我估计BSD和Darwin应该内核也是类似的写法，但是紫屏有可能是没有针对用户优化过的类似Win11的BSOD一样的错误收集过程？或者可能只是某些必要的系统组件关闭后显示驱动出现了问题导致的，这具体应该要看代码的实现了吧，既然是设备共有的，那我估计可能是Darwin内核或者其他全系统都共有的组件的问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858331827116921245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 今天刚遇到我的M芯片Mac紫屏闪一下重启，我本来以为会五国，结果没有（白期待了）…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 154,
+          "like_count": 19124,
+          "listed_count": 1,
+          "tweet_count": 5403
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "年年岁岁花相似，岁岁年年人不同。",
+        "id": "1352281301613568000",
+        "location": "星星",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 255,
+          "like_count": 33196,
+          "listed_count": 16,
+          "tweet_count": 14659
+        },
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

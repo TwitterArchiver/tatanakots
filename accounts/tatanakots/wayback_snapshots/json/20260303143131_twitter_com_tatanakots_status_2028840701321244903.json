@@ -1,0 +1,659 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Abema TV",
+          "id": "989515172690542593",
+          "name": "Abema TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Abema TV",
+          "id": "989515172690542593",
+          "name": "Abema TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2028840701321244903",
+    "created_at": "2026-03-03T14:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028840701321244903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "68677850",
+          "start": 3,
+          "username": "nekotou"
+        },
+        {
+          "end": 45,
+          "id": "3255473401",
+          "start": 39,
+          "username": "ABEMA"
+        }
+      ],
+      "urls": [
+        {
+          "description": "お兄ちゃんはおしまい！等、ABEMAではアニメ番組がたくさん！他にもニュースやオリジナルのドラマ、恋愛番組、アニメ、スポーツなど、多彩な番組を好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。",
+          "display_url": "abema.go.link/5iZAj",
+          "end": 76,
+          "expanded_url": "https://abema.go.link/5iZAj",
+          "images": [
+            {
+              "height": 504,
+              "url": "https://pbs.twimg.com/news_img/2028782674828226560/hz2DooK6?format=jpg&name=orig",
+              "width": 896
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028782674828226560/hz2DooK6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "お兄ちゃんはおしまい！ (アニメ) | 無料動画・見逃し配信を見るなら | ABEMA",
+          "unwound_url": "https://abema.go.link/5iZAj",
+          "url": "https://t.co/UurUWpArHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028840701321244903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028782627910730089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekotou: Abemaおにまい来てる～\nお兄ちゃんはおしまい！ @ABEMA で無料配信中 https://t.co/UurUWpArHJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2028840701321244903",
+        "created_at": "2026-03-03T14:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028840701321244903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "68677850",
+              "start": 3,
+              "username": "nekotou"
+            },
+            {
+              "end": 45,
+              "id": "3255473401",
+              "start": 39,
+              "username": "ABEMA"
+            }
+          ],
+          "urls": [
+            {
+              "description": "お兄ちゃんはおしまい！等、ABEMAではアニメ番組がたくさん！他にもニュースやオリジナルのドラマ、恋愛番組、アニメ、スポーツなど、多彩な番組を好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。",
+              "display_url": "abema.go.link/5iZAj",
+              "end": 76,
+              "expanded_url": "https://abema.go.link/5iZAj",
+              "images": [
+                {
+                  "height": 504,
+                  "url": "https://pbs.twimg.com/news_img/2028782674828226560/hz2DooK6?format=jpg&name=orig",
+                  "width": 896
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028782674828226560/hz2DooK6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "お兄ちゃんはおしまい！ (アニメ) | 無料動画・見逃し配信を見るなら | ABEMA",
+              "unwound_url": "https://abema.go.link/5iZAj",
+              "url": "https://t.co/UurUWpArHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028840701321244903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028782627910730089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekotou: Abemaおにまい来てる～\nお兄ちゃんはおしまい！ @ABEMA で無料配信中 https://t.co/UurUWpArHJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68677850",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2028782627910730089",
+        "created_at": "2026-03-03T10:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028782627910730089"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Abema",
+              "probability": 0.3663,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "3255473401",
+              "start": 26,
+              "username": "ABEMA"
+            }
+          ],
+          "urls": [
+            {
+              "description": "お兄ちゃんはおしまい！等、ABEMAではアニメ番組がたくさん！他にもニュースやオリジナルのドラマ、恋愛番組、アニメ、スポーツなど、多彩な番組を好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。",
+              "display_url": "abema.go.link/5iZAj",
+              "end": 63,
+              "expanded_url": "https://abema.go.link/5iZAj",
+              "images": [
+                {
+                  "height": 504,
+                  "url": "https://pbs.twimg.com/news_img/2028782674828226560/hz2DooK6?format=jpg&name=orig",
+                  "width": 896
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028782674828226560/hz2DooK6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "お兄ちゃんはおしまい！ (アニメ) | 無料動画・見逃し配信を見るなら | ABEMA",
+              "unwound_url": "https://abema.go.link/5iZAj",
+              "url": "https://t.co/UurUWpArHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028782627910730089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 19939,
+          "like_count": 731,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "Abemaおにまい来てる～\nお兄ちゃんはおしまい！ @ABEMA で無料配信中 https://t.co/UurUWpArHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 356,
+          "like_count": 25102,
+          "listed_count": 6,
+          "media_count": 1569,
+          "tweet_count": 11010
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-25T12:18:11.000Z",
+        "description": "GRINPの中の人 「お兄ちゃんはおしまい！」商業版第10巻＆アンソロ6巻発売中！家庭菜園日記漫画も。 一部投稿にAmazonアフィリンクを含みます。Pixiv：https://t.co/G6BGgCiQji BOOTH：https://t.co/qtxJERtSy4 FANBOX：https://t.co/uAJp9Qvx5W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.sc/WaU4KBZ",
+                "end": 104,
+                "expanded_url": "http://onl.sc/WaU4KBZ",
+                "start": 81,
+                "url": "https://t.co/G6BGgCiQji"
+              },
+              {
+                "display_url": "grinp.booth.pm",
+                "end": 134,
+                "expanded_url": "http://grinp.booth.pm",
+                "start": 111,
+                "url": "https://t.co/qtxJERtSy4"
+              },
+              {
+                "display_url": "grinp.fanbox.cc",
+                "end": 165,
+                "expanded_url": "http://grinp.fanbox.cc",
+                "start": 142,
+                "url": "https://t.co/uAJp9Qvx5W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grin.oops.jp",
+                "end": 23,
+                "expanded_url": "http://grin.oops.jp/",
+                "start": 0,
+                "url": "https://t.co/4cmunr6T70"
+              }
+            ]
+          }
+        },
+        "id": "68677850",
+        "location": "都内某所",
+        "name": "ねことうふ@おにまいアニメご視聴感謝！",
+        "pinned_tweet_id": "1944687639845912998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3780734142/b049cc1a277b2a12648d4eaa7ccfef02_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149511,
+          "following_count": 247,
+          "like_count": 54204,
+          "listed_count": 1373,
+          "media_count": 2004,
+          "tweet_count": 32109
+        },
+        "url": "https://t.co/4cmunr6T70",
+        "username": "nekotou",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-25T08:33:53.000Z",
+        "description": "新しい未来のテレビ #ABEMA(アベマ) 公式アカウント。24時間編成のニュース専門チャンネル、オリジナルのドラマや恋愛番組、アニメ、スポーツなど、多彩なジャンルの約25chを24時間365日放送中。\n国内最大級の30,000エピソード以上を、いつでもどこでも好きな時に楽しめます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "ABEMA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abema.tv",
+                "end": 23,
+                "expanded_url": "https://abema.tv",
+                "start": 0,
+                "url": "https://t.co/Zk7Wte9GJg"
+              }
+            ]
+          }
+        },
+        "id": "3255473401",
+        "location": "日本 東京",
+        "name": "ABEMA(アベマ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813106767582404609/SefI9ep0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248582,
+          "following_count": 3172,
+          "like_count": 6339,
+          "listed_count": 4286,
+          "media_count": 570824,
+          "tweet_count": 2463411
+        },
+        "url": "https://t.co/Zk7Wte9GJg",
+        "username": "ABEMA",
+        "verified": true
+      }
+    ]
+  }
+}

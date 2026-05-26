@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1995644108304777817",
+    "created_at": "2025-12-02T12:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995836398847623222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660598418409127937",
+          "start": 0,
+          "username": "GitHub_Daily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995836398847623222",
+    "in_reply_to_user_id": "1660598418409127937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995644108304777817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GitHub_Daily 还是大爱cloudflare r2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1995644093108752384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HzurPakAArERY.jpg",
+        "width": 1850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1995644108304777817",
+        "created_at": "2025-12-02T12:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995836398847623222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660598418409127937",
+              "start": 0,
+              "username": "GitHub_Daily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995836398847623222",
+        "in_reply_to_user_id": "1660598418409127937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995644108304777817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GitHub_Daily 还是大爱cloudflare r2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995644093108752384"
+          ]
+        },
+        "author_id": "1660598418409127937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "1995644108304777817",
+        "created_at": "2025-12-02T00:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995644108304777817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOYnX9goDT",
+              "end": 161,
+              "expanded_url": "https://x.com/GitHub_Daily/status/1995644108304777817/photo/1",
+              "media_key": "3_1995644093108752384",
+              "start": 138,
+              "url": "https://t.co/cOYnX9goDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995644108304777817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/linagora/twake…",
+                "end": 243,
+                "expanded_url": "http://github.com/linagora/twake-drive",
+                "start": 220,
+                "url": "https://t.co/RSCXObBC0k"
+              }
+            ]
+          },
+          "text": "用 Google Drive 或 OneDrive 存储文件，数据在第三方服务器上，除了担心隐私问题，订阅费用还越来越贵。\n\n在 GitHub 上找到了 Twake Drive 这个开源云存储方案，项目定位是 Google Drive 的开源替代品，可以部署在自己服务器上。\n\n支持文件和文件夹上传、共享驱动器协作、权限管理、在线文档编辑，甚至集成了 OnlyOffice 可以直接创建演示文稿、文档和表格，数据加密存储。\n\nGitHub：https://t.co/RSCXObBC0k\n\n可以通过 Docker 一键部署，也支持私有服务器安装，自己完全掌控数据，更加隐私安全。\n\n如果你需要一个安全、可控、开源的团队文件协作平台，不想被第三方云服务绑架，这个开源方案值得考虑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 45552,
+          "like_count": 200,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "用 Google Drive 或 OneDrive 存储文件，数据在第三方服务器上，除了担心隐私问题，订阅费用还越来越贵。\n\n在 GitHub 上找到了 Twake Drive 这个开源云存储方案，项目定位是 Google Drive 的开源替代品，可以部署在自己服务器上。 https://t.co/cOYnX9goDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 244,
+          "like_count": 23852,
+          "listed_count": 5,
+          "media_count": 1418,
+          "tweet_count": 9196
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T10:48:49.000Z",
+        "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitHubDaily/Gi…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+                "start": 0,
+                "url": "https://t.co/Ij83s4tlm9"
+              }
+            ]
+          }
+        },
+        "id": "1660598418409127937",
+        "name": "GitHubDaily",
+        "pinned_tweet_id": "1874830144826995036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56131,
+          "following_count": 139,
+          "like_count": 35,
+          "listed_count": 544,
+          "media_count": 1588,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/Ij83s4tlm9",
+        "username": "GitHub_Daily",
+        "verified": true
+      }
+    ]
+  }
+}

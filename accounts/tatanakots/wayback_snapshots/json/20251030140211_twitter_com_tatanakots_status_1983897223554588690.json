@@ -1,0 +1,789 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Animal Crossing Switch",
+          "id": "1004749002078748672",
+          "name": "Animal Crossing New Horizons"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "1983897223554588690",
+    "created_at": "2025-10-30T14:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983897223554588690"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "任天堂",
+          "probability": 0.6149,
+          "start": 15,
+          "type": "Organization"
+        },
+        {
+          "end": 59,
+          "normalized_text": "Nintendo Switch 2 Edition",
+          "probability": 0.6274,
+          "start": 35,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 89,
+          "tag": "どうぶつの森"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "307902310",
+          "start": 3,
+          "username": "Nintendo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ」のページです。",
+          "display_url": "nintendo.com/jp/switch/acba…",
+          "end": 120,
+          "expanded_url": "https://www.nintendo.com/jp/switch/acbaa/20251030/index.html?utm_source=twitter&utm_medium=social&utm_content=20251030&utm_campaign=acbaa",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1983881752138674182/MZain6e7?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1983881752138674182/MZain6e7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ | 任天堂",
+          "unwound_url": "https://www.nintendo.com/jp/switch/acbaa/20251030/index.html?utm_source=twitter&utm_medium=social&utm_content=20251030&utm_campaign=acbaa",
+          "url": "https://t.co/BaEc6W43ZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983897223554588690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31723
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983881750410620960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nintendo: [任天堂HP]「あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ」映像を公開しました。\n#どうぶつの森\nhttps://t.co/BaEc6W43ZF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Animal Crossing Switch",
+              "id": "1004749002078748672",
+              "name": "Animal Crossing New Horizons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1983897223554588690",
+        "created_at": "2025-10-30T14:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983897223554588690"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "任天堂",
+              "probability": 0.6149,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Nintendo Switch 2 Edition",
+              "probability": 0.6274,
+              "start": 35,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 89,
+              "tag": "どうぶつの森"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "307902310",
+              "start": 3,
+              "username": "Nintendo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ」のページです。",
+              "display_url": "nintendo.com/jp/switch/acba…",
+              "end": 120,
+              "expanded_url": "https://www.nintendo.com/jp/switch/acbaa/20251030/index.html?utm_source=twitter&utm_medium=social&utm_content=20251030&utm_campaign=acbaa",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1983881752138674182/MZain6e7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983881752138674182/MZain6e7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ | 任天堂",
+              "unwound_url": "https://www.nintendo.com/jp/switch/acbaa/20251030/index.html?utm_source=twitter&utm_medium=social&utm_content=20251030&utm_campaign=acbaa",
+              "url": "https://t.co/BaEc6W43ZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983897223554588690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31801
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983881750410620960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nintendo: [任天堂HP]「あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ」映像を公開しました。\n#どうぶつの森\nhttps://t.co/BaEc6W43ZF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "307902310",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Animal Crossing Switch",
+              "id": "1004749002078748672",
+              "name": "Animal Crossing New Horizons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1983881750410620960",
+        "created_at": "2025-10-30T13:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983881750410620960"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "任天堂",
+              "probability": 0.6212,
+              "start": 1,
+              "type": "Organization"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Nintendo Switch 2 Edition",
+              "probability": 0.6056,
+              "start": 21,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "どうぶつの森"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ」のページです。",
+              "display_url": "nintendo.com/jp/switch/acba…",
+              "end": 106,
+              "expanded_url": "https://www.nintendo.com/jp/switch/acbaa/20251030/index.html?utm_source=twitter&utm_medium=social&utm_content=20251030&utm_campaign=acbaa",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1983881752138674182/MZain6e7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983881752138674182/MZain6e7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ | 任天堂",
+              "unwound_url": "https://www.nintendo.com/jp/switch/acbaa/20251030/index.html?utm_source=twitter&utm_medium=social&utm_content=20251030&utm_campaign=acbaa",
+              "url": "https://t.co/BaEc6W43ZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983881750410620960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4752,
+          "impression_count": 2874604,
+          "like_count": 46940,
+          "quote_count": 8448,
+          "reply_count": 238,
+          "retweet_count": 31801
+        },
+        "reply_settings": "everyone",
+        "text": "[任天堂HP]「あつまれ どうぶつの森：「Nintendo Switch 2 Edition」と「無料アップデート」のお知らせ」映像を公開しました。\n#どうぶつの森\nhttps://t.co/BaEc6W43ZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 233,
+          "like_count": 23500,
+          "listed_count": 5,
+          "media_count": 1375,
+          "tweet_count": 8897
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-30T14:00:05.000Z",
+        "description": "任天堂からのお知らせや、ホームページの更新情報をお伝えします。\r\nご質問・お問い合わせにはお答えしておりませんのでご容赦ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com/jp/",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com/jp/",
+                "start": 0,
+                "url": "https://t.co/ZgaployYmd"
+              }
+            ]
+          }
+        },
+        "id": "307902310",
+        "location": "京都市",
+        "name": "任天堂株式会社",
+        "pinned_tweet_id": "1983881750410620960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/823439425593954305/j0L7_KyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5604950,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 17313,
+          "media_count": 3230,
+          "tweet_count": 13753
+        },
+        "url": "https://t.co/ZgaployYmd",
+        "username": "Nintendo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2041081617859690754",
+    "created_at": "2026-04-06T22:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T23:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041279894911668684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1444953520860323843",
+          "start": 0,
+          "username": "gemwalkonwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041279894911668684",
+    "in_reply_to_user_id": "1444953520860323843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041277016650260868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gemwalkonwater 并不是，这相当于你只是在购买别人提供的服务，别人想用哪个主体为你提供服务并不重要\n苹果为了数据合规（中国法律要求数据不准离境，需要中国本土企业管理数据等），和贵州大数据集团签约，将中国大陆的iCloud给贵州大数据集团运营，贵州大数据集团很重视而单独成立了云上艾珀作为运营主体而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2041081617859690754",
+        "created_at": "2026-04-06T22:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041279894911668684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1444953520860323843",
+              "start": 0,
+              "username": "gemwalkonwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041279894911668684",
+        "in_reply_to_user_id": "1444953520860323843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041277016650260868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gemwalkonwater 并不是，这相当于你只是在购买别人提供的服务，别人想用哪个主体为你提供服务并不重要\n苹果为了数据合规（中国法律要求数据不准离境，需要中国本土企业管理数据等），和贵州大数据集团签约，将中国大陆的iCloud给贵州大数据集团运营，贵州大数据集团很重视而单独成立了云上艾珀作为运营主体而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444953520860323843",
+        "conversation_id": "2041081617859690754",
+        "created_at": "2026-04-06T22:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041277016650260868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041277016650260868",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041276748961382900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 🤔️是哦，不过为在中国大陆提供服务需要特别成立新公司也是独此一家了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 379,
+          "like_count": 26188,
+          "listed_count": 6,
+          "media_count": 1636,
+          "tweet_count": 11737
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T09:12:32.000Z",
+        "description": "",
+        "id": "1444953520860323843",
+        "name": "Jim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444953574757191683/yZkYL2U7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 2195,
+          "like_count": 3104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 231
+        },
+        "username": "gemwalkonwater",
+        "verified": false
+      }
+    ]
+  }
+}

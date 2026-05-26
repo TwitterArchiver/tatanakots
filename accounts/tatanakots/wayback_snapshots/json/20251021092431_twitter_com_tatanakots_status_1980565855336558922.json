@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1980324486349238695",
+    "created_at": "2025-10-21T09:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980565855336558922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        },
+        {
+          "end": 17,
+          "id": "1512976991976402949",
+          "start": 9,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980565855336558922",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980564634890539474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya @bghtnya 能检测出无法识别的发向境外未知服务器的加密流量，就能知道你在翻了\n甚至有部分校园网还会让你安装root ca，好让他们直接中间人看你https的数据包明文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1980324486349238695",
+        "created_at": "2025-10-21T09:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980565855336558922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            },
+            {
+              "end": 17,
+              "id": "1512976991976402949",
+              "start": 9,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980565855336558922",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980564634890539474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya @bghtnya 能检测出无法识别的发向境外未知服务器的加密流量，就能知道你在翻了\n甚至有部分校园网还会让你安装root ca，好让他们直接中间人看你https的数据包明文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "1980324486349238695",
+        "created_at": "2025-10-21T09:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980564634890539474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980564634890539474",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980324486349238695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya vmess 协议呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 230,
+          "like_count": 23164,
+          "listed_count": 4,
+          "media_count": 1355,
+          "tweet_count": 8785
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "擅长Java屎山🔍 / 锦衣卫 / 三体📕 / 最喜欢六花了🌸 /摄影📷 / 资深程序 cv 开发工程师🥇/ 祈杰のblog ✒️ / acg 爱好者✨ /无线电BG4VW 🛰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn",
+                "start": 0,
+                "url": "https://t.co/RJ607Ae9MX"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "NanJing China",
+        "name": "祈杰鸭",
+        "pinned_tweet_id": "1950065130781266385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939994859793694720/_R3RvVhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 110,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/RJ607Ae9MX",
+        "username": "qijieya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7957,
+          "following_count": 2092,
+          "like_count": 164183,
+          "listed_count": 20,
+          "media_count": 3298,
+          "tweet_count": 41373
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

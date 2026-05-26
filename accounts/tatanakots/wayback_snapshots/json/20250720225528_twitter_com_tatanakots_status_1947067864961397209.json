@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946441730342912001"
+      ],
+      "media_source_tweet_id": [
+        "1946441733069500432"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      }
+    ],
+    "conversation_id": "1947067864961397209",
+    "created_at": "2025-07-20T22:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T23:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947067864961397209"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "タコピーの原罪"
+        },
+        {
+          "end": 63,
+          "start": 53,
+          "tag": "タコピーと自由研究"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1437397871360241676",
+          "start": 3,
+          "username": "KamataniRanger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdN2TCCCtj",
+          "end": 87,
+          "expanded_url": "https://x.com/KamataniRanger/status/1946441733069500432/photo/1",
+          "media_key": "3_1946441730342912001",
+          "start": 64,
+          "url": "https://t.co/CdN2TCCCtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947067864961397209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 537
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946441733069500432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KamataniRanger: タコピーを伸ばしまくったらどれだけ伸びるの？\n\n#タコピーの原罪\n#タコピーと自由研究 https://t.co/CdN2TCCCtj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1946441730342912001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMmcOkWAAENFDI.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946441730342912001"
+          ],
+          "media_source_tweet_id": [
+            "1946441733069500432"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1947067864961397209",
+        "created_at": "2025-07-20T22:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T23:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947067864961397209"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "タコピーの原罪"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "タコピーと自由研究"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1437397871360241676",
+              "start": 3,
+              "username": "KamataniRanger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdN2TCCCtj",
+              "end": 87,
+              "expanded_url": "https://x.com/KamataniRanger/status/1946441733069500432/photo/1",
+              "media_key": "3_1946441730342912001",
+              "start": 64,
+              "url": "https://t.co/CdN2TCCCtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947067864961397209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 537
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946441733069500432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KamataniRanger: タコピーを伸ばしまくったらどれだけ伸びるの？\n\n#タコピーの原罪\n#タコピーと自由研究 https://t.co/CdN2TCCCtj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946441730342912001"
+          ]
+        },
+        "author_id": "1437397871360241676",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1946441733069500432",
+        "created_at": "2025-07-19T05:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T06:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946441733069500432"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "タコピーの原罪"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "タコピーと自由研究"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdN2TCCCtj",
+              "end": 67,
+              "expanded_url": "https://x.com/KamataniRanger/status/1946441733069500432/photo/1",
+              "media_key": "3_1946441730342912001",
+              "start": 44,
+              "url": "https://t.co/CdN2TCCCtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946441733069500432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 127087,
+          "like_count": 9312,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 537
+        },
+        "reply_settings": "everyone",
+        "text": "タコピーを伸ばしまくったらどれだけ伸びるの？\n\n#タコピーの原罪\n#タコピーと自由研究 https://t.co/CdN2TCCCtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 201,
+          "like_count": 22125,
+          "listed_count": 3,
+          "media_count": 1226,
+          "tweet_count": 7839
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-13T12:49:41.000Z",
+        "description": "万年鬱してる絵師です  絵描きます。\n\nサブ垢 @KamataniRanger3\nFA  #カマタニスケッチ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "カマタニスケッチ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "KamataniRanger3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KamataniRanger",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@KamataniRanger",
+                "start": 0,
+                "url": "https://t.co/1mwtyHjwWB"
+              }
+            ]
+          }
+        },
+        "id": "1437397871360241676",
+        "location": "ミートピアのアクセスキーッッ！！ 『 251LKWK 』",
+        "name": "カマタニレンジャー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941764796610736128/dhtQJx9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 2845,
+          "like_count": 23274,
+          "listed_count": 30,
+          "media_count": 6777,
+          "tweet_count": 10249
+        },
+        "url": "https://t.co/1mwtyHjwWB",
+        "username": "KamataniRanger",
+        "verified": false
+      }
+    ]
+  }
+}

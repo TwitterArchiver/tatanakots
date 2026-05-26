@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2026009489812643923",
+    "created_at": "2026-02-23T20:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T21:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026032039506608210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554005819649568768",
+          "start": 0,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026032039506608210",
+    "in_reply_to_user_id": "1554005819649568768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026009489812643923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingattackqwq 强烈建议开源sch、pcb、bom\n以及所有元器件的datasheet并开放元器件个人零售渠道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2026009489812643923",
+        "created_at": "2026-02-23T20:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T21:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026032039506608210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026032039506608210",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026009489812643923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 强烈建议开源sch、pcb、bom\n以及所有元器件的datasheet并开放元器件个人零售渠道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554005819649568768",
+        "conversation_id": "2026009489812643923",
+        "created_at": "2026-02-23T19:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026009489812643923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cherylnatsu/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/cherylnatsu/status/2025927789933944911",
+              "start": 61,
+              "url": "https://t.co/icAH1qDIPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026009489812643923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025927789933944911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pcb 能不能也开源，\n还有高通/联发科芯片资料，\n还有 tpl/spl/atf/tee/uboot/rom 代码的开源 https://t.co/icAH1qDIPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 347,
+          "like_count": 24888,
+          "listed_count": 6,
+          "media_count": 1558,
+          "tweet_count": 10826
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "没招了，找不到对象。",
+        "id": "1554005819649568768",
+        "location": "上海",
+        "name": "小兔姬没有小肚叽🎀（唯一推特账号）",
+        "pinned_tweet_id": "1979906760279236916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566996868976640/69DYcj6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10649,
+          "following_count": 3649,
+          "like_count": 3717,
+          "listed_count": 11,
+          "media_count": 90,
+          "tweet_count": 3082
+        },
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

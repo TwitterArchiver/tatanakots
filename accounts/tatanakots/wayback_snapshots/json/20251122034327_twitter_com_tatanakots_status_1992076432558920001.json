@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1990794148623143252",
+    "created_at": "2025-11-22T03:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992076432558920001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1263771764015808514",
+          "start": 0,
+          "username": "WNENG1"
+        },
+        {
+          "end": 10,
+          "id": "783214",
+          "start": 8,
+          "username": "X"
+        },
+        {
+          "end": 22,
+          "id": "32499999",
+          "start": 11,
+          "username": "Cloudflare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992076432558920001",
+    "in_reply_to_user_id": "1263771764015808514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991157755390931197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WNENG1 @X @Cloudflare 半夜接到oncall不回滚更新还能干什么，重写业务逻辑吗，先让业务上线再推新功能啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1990794148623143252",
+        "created_at": "2025-11-22T03:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992076432558920001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1263771764015808514",
+              "start": 0,
+              "username": "WNENG1"
+            },
+            {
+              "end": 10,
+              "id": "783214",
+              "start": 8,
+              "username": "X"
+            },
+            {
+              "end": 22,
+              "id": "32499999",
+              "start": 11,
+              "username": "Cloudflare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992076432558920001",
+        "in_reply_to_user_id": "1263771764015808514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991157755390931197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WNENG1 @X @Cloudflare 半夜接到oncall不回滚更新还能干什么，重写业务逻辑吗，先让业务上线再推新功能啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263771764015808514",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1990794148623143252",
+        "created_at": "2025-11-19T14:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991157755390931197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 14,
+              "id": "783214",
+              "start": 12,
+              "username": "X"
+            },
+            {
+              "end": 26,
+              "id": "32499999",
+              "start": 15,
+              "username": "Cloudflare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991157755390931197",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990794148623143252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @X @Cloudflare 神TM修复，回退了而已🤡 解决不了，赶紧回退🤣🤣发个公告 我们解决了，然后半夜十二天偷偷割接🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 241,
+          "like_count": 23728,
+          "listed_count": 5,
+          "media_count": 1393,
+          "tweet_count": 9059
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-22T10:00:58.000Z",
+        "description": "陆大统领万岁！！！",
+        "id": "1263771764015808514",
+        "location": "美国陆以恒区",
+        "name": "台湾天皇-赖以恒",
+        "pinned_tweet_id": "1981553765426848199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990699440559304710/16al4XVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 1397,
+          "like_count": 7498,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 880
+        },
+        "username": "WNENG1",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "location": "everywhere",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64374697,
+          "following_count": 1,
+          "like_count": 5983,
+          "listed_count": 86328,
+          "media_count": 2472,
+          "tweet_count": 15655
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-17T17:58:28.000Z",
+        "description": "Cloudflare is the world’s leading #ConnectivityCloud, and we have our eyes set on an ambitious goal — to help build a #BetterInternet.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 34,
+                "tag": "ConnectivityCloud"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "tag": "BetterInternet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com/",
+                "start": 0,
+                "url": "https://t.co/6WEmQXqEvH"
+              }
+            ]
+          }
+        },
+        "id": "32499999",
+        "location": "300+ cities in 100+ countries",
+        "name": "Cloudflare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600539069217480704/RzK50Sks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252603,
+          "following_count": 5406,
+          "like_count": 5894,
+          "listed_count": 2629,
+          "media_count": 5878,
+          "tweet_count": 47371
+        },
+        "url": "https://t.co/6WEmQXqEvH",
+        "username": "Cloudflare",
+        "verified": true
+      }
+    ]
+  }
+}

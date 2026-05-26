@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1897684511930085862",
+    "created_at": "2025-03-06T16:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T17:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897684511930085862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A GUI config tool for Arcade Card Reader. Contribute to tatanakots/ArcadeCardReaderConfigToolGUI development by creating an account on GitHub.",
+          "display_url": "github.com/tatanakots/Arc…",
+          "end": 41,
+          "expanded_url": "https://github.com/tatanakots/ArcadeCardReaderConfigToolGUI",
+          "start": 18,
+          "status": 200,
+          "title": "GitHub - tatanakots/ArcadeCardReaderConfigToolGUI: A GUI config tool for Arcade Card Reader",
+          "unwound_url": "https://github.com/tatanakots/ArcadeCardReaderConfigToolGUI",
+          "url": "https://t.co/gE3G4btLFP"
+        },
+        {
+          "display_url": "x.com/tatanakots/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/tatanakots/status/1897522972123972088",
+          "start": 42,
+          "url": "https://t.co/Pqit5X8uPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897684511930085862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897522972123972088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写完了所有的设置功能，正式开源！\n\nhttps://t.co/gE3G4btLFP https://t.co/Pqit5X8uPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_1897522965207527424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlVbFVZXMAAWurg.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1897684511930085862",
+        "created_at": "2025-03-06T16:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897684511930085862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A GUI config tool for Arcade Card Reader. Contribute to tatanakots/ArcadeCardReaderConfigToolGUI development by creating an account on GitHub.",
+              "display_url": "github.com/tatanakots/Arc…",
+              "end": 41,
+              "expanded_url": "https://github.com/tatanakots/ArcadeCardReaderConfigToolGUI",
+              "start": 18,
+              "status": 200,
+              "title": "GitHub - tatanakots/ArcadeCardReaderConfigToolGUI: A GUI config tool for Arcade Card Reader",
+              "unwound_url": "https://github.com/tatanakots/ArcadeCardReaderConfigToolGUI",
+              "url": "https://t.co/gE3G4btLFP"
+            },
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/tatanakots/status/1897522972123972088",
+              "start": 42,
+              "url": "https://t.co/Pqit5X8uPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897684511930085862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897522972123972088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写完了所有的设置功能，正式开源！\n\nhttps://t.co/gE3G4btLFP https://t.co/Pqit5X8uPQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897522965207527424"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1897522972123972088",
+        "created_at": "2025-03-06T05:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T06:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897522972123972088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hSbcRpGP8R",
+              "end": 61,
+              "expanded_url": "https://x.com/tatanakots/status/1897522972123972088/photo/1",
+              "media_key": "3_1897522965207527424",
+              "start": 38,
+              "url": "https://t.co/hSbcRpGP8R"
+            },
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/tatanakots/status/1897314890609741890",
+              "start": 62,
+              "url": "https://t.co/OwCZCoz7Xr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897522972123972088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897314890609741890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "版本更新！\n新增了模式切换设置，但是SEGA模式设置和固件升级的逻辑还没写 https://t.co/hSbcRpGP8R https://t.co/OwCZCoz7Xr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 179,
+          "like_count": 20589,
+          "listed_count": 2,
+          "media_count": 1037,
+          "tweet_count": 6513
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

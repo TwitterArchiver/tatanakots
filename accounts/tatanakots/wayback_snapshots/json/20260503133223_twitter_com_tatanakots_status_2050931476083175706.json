@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2050916836242595920",
+    "created_at": "2026-05-03T13:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050931476083175706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SGR_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050931476083175706",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050916836242595920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SGR_nya 我的mc服务器一直都是家里云自托管的，不敢买代开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_2050916724506308608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZR5QwbMAAsQ2d.jpg",
+        "width": 883
+      },
+      {
+        "height": 1823,
+        "media_key": "3_2050916724552462337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZR5Q7bcAE3qw2.jpg",
+        "width": 865
+      },
+      {
+        "height": 1788,
+        "media_key": "3_2050916724535660545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZR5Q3bEAE2P6c.jpg",
+        "width": 888
+      },
+      {
+        "height": 1862,
+        "media_key": "3_2050916724590153729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZR5REakAEArNs.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2050916836242595920",
+        "created_at": "2026-05-03T13:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050931476083175706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050931476083175706",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050916836242595920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 我的mc服务器一直都是家里云自托管的，不敢买代开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050916724506308608",
+            "3_2050916724552462337",
+            "3_2050916724535660545",
+            "3_2050916724590153729"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2050916836242595920",
+        "created_at": "2026-05-03T12:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:33:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050916743129043279",
+          "2050916836242595920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7PAKqIJXD",
+              "end": 114,
+              "expanded_url": "https://x.com/SGR_nya/status/2050916836242595920/photo/1",
+              "media_key": "3_2050916724506308608",
+              "start": 91,
+              "url": "https://t.co/S7PAKqIJXD"
+            },
+            {
+              "display_url": "pic.x.com/S7PAKqIJXD",
+              "end": 114,
+              "expanded_url": "https://x.com/SGR_nya/status/2050916836242595920/photo/1",
+              "media_key": "3_2050916724552462337",
+              "start": 91,
+              "url": "https://t.co/S7PAKqIJXD"
+            },
+            {
+              "display_url": "pic.x.com/S7PAKqIJXD",
+              "end": 114,
+              "expanded_url": "https://x.com/SGR_nya/status/2050916836242595920/photo/1",
+              "media_key": "3_2050916724535660545",
+              "start": 91,
+              "url": "https://t.co/S7PAKqIJXD"
+            },
+            {
+              "display_url": "pic.x.com/S7PAKqIJXD",
+              "end": 114,
+              "expanded_url": "https://x.com/SGR_nya/status/2050916836242595920/photo/1",
+              "media_key": "3_2050916724590153729",
+              "start": 91,
+              "url": "https://t.co/S7PAKqIJXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050916836242595920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家假如有开Minecraft服务器的打算，一定要谨慎考虑代开！！！\n前段时间想着和亲友一起玩玩，但是我自己没时间管理，图省事儿，遂找了一个代开，一开始收钱的时候一切正常，随叫随到\n之后有一次，我反馈说丢包，结果对方就发过来两个字，“截图”，最后问题也没有得到解决，沟通过程让我们觉得对方态度比较傲慢，于是打算换代开\n这两天我去问他要存档，对方第一句先问“还续吗”。我表明还没决定之后，要存档的事情对方一直已读不回（注：对方的你好是自动回复）。截止至目前，存档依旧没有拿到手\n我用一个存档的教训提醒下大家：找代开须谨慎！！有条件能自己弄尽量自己弄！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 634,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "大家假如有开Minecraft服务器的打算，一定要谨慎考虑代开！！！\n前段时间想着和亲友一起玩玩，但是我自己没时间管理，图省事儿，遂找了一个代开，一开始收钱的时候一切正常，随叫随到 https://t.co/S7PAKqIJXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 410,
+          "like_count": 28065,
+          "listed_count": 7,
+          "media_count": 1703,
+          "tweet_count": 12527
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62614,
+          "following_count": 2083,
+          "like_count": 51801,
+          "listed_count": 6,
+          "media_count": 422,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

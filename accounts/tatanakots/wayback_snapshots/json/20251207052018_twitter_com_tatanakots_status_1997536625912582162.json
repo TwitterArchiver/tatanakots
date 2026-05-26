@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1997480326088560956",
+    "created_at": "2025-12-07T05:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T06:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997536625912582162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884878089215430656",
+          "start": 0,
+          "username": "MisakaMkoito"
+        },
+        {
+          "end": 29,
+          "id": "1342227007518744578",
+          "start": 14,
+          "username": "Qiangguofanzei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997536625912582162",
+    "in_reply_to_user_id": "1884878089215430656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997529430487675061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaMkoito @Qiangguofanzei 应该是更改了负载均衡的流量传输架构，但是忘记从透传的请求头中获取真实ip地址了，拿到的是上级反代服务器的ip地址，于是显示局域网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1997480326088560956",
+        "created_at": "2025-12-07T05:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997536625912582162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884878089215430656",
+              "start": 0,
+              "username": "MisakaMkoito"
+            },
+            {
+              "end": 29,
+              "id": "1342227007518744578",
+              "start": 14,
+              "username": "Qiangguofanzei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997536625912582162",
+        "in_reply_to_user_id": "1884878089215430656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997529430487675061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaMkoito @Qiangguofanzei 应该是更改了负载均衡的流量传输架构，但是忘记从透传的请求头中获取真实ip地址了，拿到的是上级反代服务器的ip地址，于是显示局域网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884878089215430656",
+        "conversation_id": "1997480326088560956",
+        "created_at": "2025-12-07T04:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997529430487675061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342227007518744578",
+              "start": 0,
+              "username": "Qiangguofanzei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997529430487675061",
+        "in_reply_to_user_id": "1342227007518744578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1048,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997480326088560956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiangguofanzei 估计就是昨天知乎的bug，我昨天发评论ip也是显示局域网🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 244,
+          "like_count": 23880,
+          "listed_count": 5,
+          "media_count": 1420,
+          "tweet_count": 9266
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-30T08:15:39.000Z",
+        "description": "这个人很懒，什么也没写",
+        "id": "1884878089215430656",
+        "location": "Listenbourg",
+        "name": "misaka mikoto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884884430386581505/mZDpMu19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 305,
+          "like_count": 21073,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3451
+        },
+        "username": "MisakaMkoito",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T21:54:01.000Z",
+        "description": "Youtube同名频道主，反抗共产极权专制，追求民主自由 频道链接：https://t.co/SAzkIL7ta9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCyxEt…",
+                "end": 57,
+                "expanded_url": "https://www.youtube.com/channel/UCyxEtwRTGj9yBBcZgrz6t1A/videos",
+                "start": 34,
+                "url": "https://t.co/SAzkIL7ta9"
+              }
+            ]
+          }
+        },
+        "id": "1342227007518744578",
+        "location": "Napa, CA",
+        "name": "墙国反贼",
+        "pinned_tweet_id": "1898061806301802590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342227159360954368/s44QJ2Y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45765,
+          "following_count": 395,
+          "like_count": 15114,
+          "listed_count": 186,
+          "media_count": 1584,
+          "tweet_count": 12398
+        },
+        "username": "Qiangguofanzei",
+        "verified": true
+      }
+    ]
+  }
+}

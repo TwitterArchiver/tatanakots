@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1923721044340404422",
+    "created_at": "2025-05-17T17:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T18:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923788135315750939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1642056887603695619",
+          "start": 0,
+          "username": "Luminme_SL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923788135315750939",
+    "in_reply_to_user_id": "1642056887603695619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923721044340404422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminme_SL 是的，推特会封禁长期不活跃账号，然后逐渐删除"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1923721044340404422].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1923721044340404422",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1923721044340404422"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1923721044340404422",
+        "created_at": "2025-05-17T17:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T18:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923788135315750939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1642056887603695619",
+              "start": 0,
+              "username": "Luminme_SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923788135315750939",
+        "in_reply_to_user_id": "1642056887603695619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923721044340404422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminme_SL 是的，推特会封禁长期不活跃账号，然后逐渐删除"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 194,
+          "like_count": 21560,
+          "listed_count": 2,
+          "media_count": 1171,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T06:51:06.000Z",
+        "description": "多意識體，無性別，afab，代詞為THEY/THEM | 主要內容為記錄日常和表達內心，偶爾od💊 | 勵志關注全中推的afab跨性別",
+        "id": "1642056887603695619",
+        "name": "️‍⚧️Luminme♥️ SL system",
+        "pinned_tweet_id": "1886482580192845930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873736063484919809/CsLWv1cI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 111,
+          "like_count": 4728,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 2683
+        },
+        "username": "Luminme_SL",
+        "verified": false
+      }
+    ]
+  }
+}

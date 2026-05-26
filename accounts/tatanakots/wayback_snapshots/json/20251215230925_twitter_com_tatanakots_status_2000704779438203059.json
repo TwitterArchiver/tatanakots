@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2000704779438203059",
+    "created_at": "2025-12-15T23:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T00:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000704779438203059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "中国大陆针对“叛逆”青少年的“特训学校”亲历者向BBC讲述，这些军事化学校以帮助为名，却通过欺骗收取并虐待学生。",
+          "display_url": "bbc.com/zhongwen/artic…",
+          "end": 94,
+          "expanded_url": "https://www.bbc.com/zhongwen/articles/cz94v3j9p7eo/simp",
+          "images": [
+            {
+              "height": 576,
+              "url": "https://pbs.twimg.com/news_img/2000095378742652928/VkXsFlmx?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2000095378742652928/VkXsFlmx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "受骗、绑架与虐待：中国改造“叛逆”青少年的“素质教育”学校内幕 - BBC News 中文",
+          "unwound_url": "https://www.bbc.com/zhongwen/articles/cz94v3j9p7eo/simp",
+          "url": "https://t.co/LcSe9pMSZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000704779438203059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000095332089450859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 中国针对“叛逆”青少年的“特训学校”亲历者向BBC讲述，这些军事化学校以帮助为名，却通过欺骗收取并虐待学生。 https://t.co/LcSe9pMSZY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2000704779438203059",
+        "created_at": "2025-12-15T23:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T00:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000704779438203059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中国大陆针对“叛逆”青少年的“特训学校”亲历者向BBC讲述，这些军事化学校以帮助为名，却通过欺骗收取并虐待学生。",
+              "display_url": "bbc.com/zhongwen/artic…",
+              "end": 94,
+              "expanded_url": "https://www.bbc.com/zhongwen/articles/cz94v3j9p7eo/simp",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2000095378742652928/VkXsFlmx?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000095378742652928/VkXsFlmx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "受骗、绑架与虐待：中国改造“叛逆”青少年的“素质教育”学校内幕 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/cz94v3j9p7eo/simp",
+              "url": "https://t.co/LcSe9pMSZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000704779438203059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000095332089450859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 中国针对“叛逆”青少年的“特训学校”亲历者向BBC讲述，这些军事化学校以帮助为名，却通过欺骗收取并虐待学生。 https://t.co/LcSe9pMSZY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2000095332089450859",
+        "created_at": "2025-12-14T06:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000095332089450859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国大陆针对“叛逆”青少年的“特训学校”亲历者向BBC讲述，这些军事化学校以帮助为名，却通过欺骗收取并虐待学生。",
+              "display_url": "bbc.com/zhongwen/artic…",
+              "end": 78,
+              "expanded_url": "https://www.bbc.com/zhongwen/articles/cz94v3j9p7eo/simp",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2000095378742652928/VkXsFlmx?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000095378742652928/VkXsFlmx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "受骗、绑架与虐待：中国改造“叛逆”青少年的“素质教育”学校内幕 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/cz94v3j9p7eo/simp",
+              "url": "https://t.co/LcSe9pMSZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000095332089450859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 135616,
+          "like_count": 745,
+          "quote_count": 21,
+          "reply_count": 88,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "中国针对“叛逆”青少年的“特训学校”亲历者向BBC讲述，这些军事化学校以帮助为名，却通过欺骗收取并虐待学生。 https://t.co/LcSe9pMSZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 244,
+          "like_count": 23917,
+          "listed_count": 6,
+          "media_count": 1439,
+          "tweet_count": 9425
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146767,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11877,
+          "media_count": 24217,
+          "tweet_count": 154543
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

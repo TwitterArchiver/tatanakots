@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2057770015148105827",
+    "created_at": "2026-05-22T13:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057820579202580645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1411967927855640578",
+          "start": 0,
+          "username": "maletofox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057820579202580645",
+    "in_reply_to_user_id": "1411967927855640578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057819732540325950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maletofox 舞萌吃炎上过我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2057770015148105827",
+        "created_at": "2026-05-22T13:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057820579202580645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1411967927855640578",
+              "start": 0,
+              "username": "maletofox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057820579202580645",
+        "in_reply_to_user_id": "1411967927855640578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057819732540325950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maletofox 舞萌吃炎上过我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1411967927855640578",
+        "conversation_id": "2057770015148105827",
+        "created_at": "2026-05-22T13:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057819732540325950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057819732540325950",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057770015148105827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 舞萌怎么你了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3810,
+          "following_count": 422,
+          "like_count": 29792,
+          "listed_count": 8,
+          "media_count": 1739,
+          "tweet_count": 13090
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T08:39:44.000Z",
+        "description": "amab | UTC+8 | 中文&English | 傻逼舞萌痴",
+        "id": "1411967927855640578",
+        "name": "うみ",
+        "pinned_tweet_id": "1439608558551658496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057311384195727362/T6enCIBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 346,
+          "like_count": 562,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "maletofox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2055519400204415349",
+    "created_at": "2026-05-23T12:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058168109790560509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956724571475947520",
+          "start": 0,
+          "username": "Dqy2jl79EO72974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058168109790560509",
+    "in_reply_to_user_id": "1956724571475947520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058150914196992293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dqy2jl79EO72974 让公司给买的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2055519400204415349",
+        "created_at": "2026-05-23T12:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058168109790560509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956724571475947520",
+              "start": 0,
+              "username": "Dqy2jl79EO72974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058168109790560509",
+        "in_reply_to_user_id": "1956724571475947520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058150914196992293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dqy2jl79EO72974 让公司给买的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956724571475947520",
+        "conversation_id": "2055519400204415349",
+        "created_at": "2026-05-23T11:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058150914196992293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058150914196992293",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055519400204415349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 我去。这是怎么买的。我也想买回来供着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 424,
+          "like_count": 29885,
+          "listed_count": 8,
+          "media_count": 1743,
+          "tweet_count": 13120
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:28:37.000Z",
+        "description": "我們吞咽了太多意義忘記了生命只需要呼吸",
+        "id": "1956724571475947520",
+        "name": "不言",
+        "pinned_tweet_id": "2009890905281704033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041946258483638274/qIGMJJbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 433,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 362
+        },
+        "username": "Dqy2jl79EO72974",
+        "verified": false
+      }
+    ]
+  }
+}

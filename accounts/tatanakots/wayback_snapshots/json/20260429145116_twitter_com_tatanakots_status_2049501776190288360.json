@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2047963190999548257",
+    "created_at": "2026-04-29T14:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049501776190288360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036348301537353728",
+          "start": 0,
+          "username": "Madmad_X22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049501776190288360",
+    "in_reply_to_user_id": "2036348301537353728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049500997844922614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madmad_X22 你至少需要下载对方客户端才能逆向，就算是反编译后静态分析你也得至少先下载文件\n我这边的方案是运行时进行内核劫持，也就是你甚至需要安装并运行\n如果不想下载的话，自己骚扰机场主看看愿不愿意给你接口，不愿意的话干脆换一家呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2047963190999548257",
+        "created_at": "2026-04-29T14:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049501776190288360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036348301537353728",
+              "start": 0,
+              "username": "Madmad_X22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049501776190288360",
+        "in_reply_to_user_id": "2036348301537353728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049500997844922614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madmad_X22 你至少需要下载对方客户端才能逆向，就算是反编译后静态分析你也得至少先下载文件\n我这边的方案是运行时进行内核劫持，也就是你甚至需要安装并运行\n如果不想下载的话，自己骚扰机场主看看愿不愿意给你接口，不愿意的话干脆换一家呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036348301537353728",
+        "conversation_id": "2047963190999548257",
+        "created_at": "2026-04-29T14:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049500997844922614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049500997844922614",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963190999548257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 请问这种逆向的前提还是需要先下载对方的客户端么？\n有没有什么办法在完全不下载对方客户端的情况下，同时对方又关闭了普通订阅链接的情况，抓取到配置文件的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3752,
+          "following_count": 407,
+          "like_count": 27666,
+          "listed_count": 7,
+          "media_count": 1689,
+          "tweet_count": 12373
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:44:15.000Z",
+        "description": "Mad mad 😡 about X!",
+        "id": "2036348301537353728",
+        "name": "madmax_22",
+        "pinned_tweet_id": "2036355308159934861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036348952455323648/90MYnxnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 122,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 145
+        },
+        "username": "Madmad_X22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "854949050151452672",
+          "name": "Splatoon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "854949050151452672",
+          "name": "Splatoon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2010958664157507607",
+    "created_at": "2026-01-13T06:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010958664157507607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2888006497",
+          "start": 3,
+          "username": "SplatoonJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010958664157507607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8755
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010637877496127698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SplatoonJP: 更新データ「Ver.11.0.0」の配信を、2026年1月29日(木)に行う予定だ。\nこの更新データには、対戦のバランス変更と、対戦に関する一部システムの変更が含まれる。\n詳しい情報は、配信日が近づいてきたタイミングでお知らせするぞ。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2010958664157507607",
+        "created_at": "2026-01-13T06:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010958664157507607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2888006497",
+              "start": 3,
+              "username": "SplatoonJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010958664157507607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8755
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010637877496127698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SplatoonJP: 更新データ「Ver.11.0.0」の配信を、2026年1月29日(木)に行う予定だ。\nこの更新データには、対戦のバランス変更と、対戦に関する一部システムの変更が含まれる。\n詳しい情報は、配信日が近づいてきたタイミングでお知らせするぞ。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2888006497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2010637877496127698",
+        "created_at": "2026-01-12T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010637877496127698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010637877496127698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1208,
+          "impression_count": 5326782,
+          "like_count": 30023,
+          "quote_count": 5236,
+          "reply_count": 731,
+          "retweet_count": 8755
+        },
+        "reply_settings": "everyone",
+        "text": "更新データ「Ver.11.0.0」の配信を、2026年1月29日(木)に行う予定だ。\nこの更新データには、対戦のバランス変更と、対戦に関する一部システムの変更が含まれる。\n詳しい情報は、配信日が近づいてきたタイミングでお知らせするぞ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 256,
+          "like_count": 24033,
+          "listed_count": 6,
+          "media_count": 1476,
+          "tweet_count": 9899
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-03T01:36:06.000Z",
+        "description": "『スプラトゥーン』公式総合アカウント。イカ研究所の調査報告（ゲーム情報）やお知らせをお伝えします。ご質問・お問い合わせにはお答えしておりませんのでご容赦ください。最新作の『スプラトゥーン3』は2022年9月9日(金)発売。 ※イカ研究所は実在の人物、団体とは一切関係ございません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com/jp/switch/av5j…",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com/jp/switch/av5ja/index.html",
+                "start": 0,
+                "url": "https://t.co/elVpuh9EJp"
+              }
+            ]
+          }
+        },
+        "id": "2888006497",
+        "name": "Splatoon（スプラトゥーン）",
+        "pinned_tweet_id": "1932422581199700112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362173855100334082/sg2p-G27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589844,
+          "following_count": 1,
+          "like_count": 4,
+          "listed_count": 13206,
+          "media_count": 3674,
+          "tweet_count": 5466
+        },
+        "url": "https://t.co/elVpuh9EJp",
+        "username": "SplatoonJP",
+        "verified": true
+      }
+    ]
+  }
+}

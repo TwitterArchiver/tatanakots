@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1899970625768227284",
+    "created_at": "2025-03-13T07:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T08:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900081315405615615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900081315405615615",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899970625768227284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade 我：~\n因为连上ssh以后默认目录就是~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1899970625768227284",
+        "created_at": "2025-03-13T07:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900081315405615615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900081315405615615",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899970625768227284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 我：~\n因为连上ssh以后默认目录就是~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1899970625768227284",
+        "created_at": "2025-03-12T23:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T00:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899970625768227284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899970625768227284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1121,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问在用类UNIX系统的大家都把下载的源代码放到哪里呢……？\n/usr/local/src? Documents? Developer? Downloads? 还是什么地方呢……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 185,
+          "like_count": 20754,
+          "listed_count": 2,
+          "media_count": 1050,
+          "tweet_count": 6592
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。｜我的善良友好贴心温暖等等只留给我喜欢的人，我没有能力和义务去普渡众生，但我会尽力让所有我喜欢的人都觉得我很好很好。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1867680915759280197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 436,
+          "like_count": 121382,
+          "listed_count": 10,
+          "media_count": 954,
+          "tweet_count": 20195
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

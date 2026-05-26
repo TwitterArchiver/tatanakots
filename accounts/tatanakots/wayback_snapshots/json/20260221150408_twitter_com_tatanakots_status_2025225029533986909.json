@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2025221460730523862",
+    "created_at": "2026-02-21T15:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025225029533986909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025225029533986909",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025221460730523862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 羡慕外星人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_2025221457144377344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsIL2iW8AAF13Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2025221460730523862",
+        "created_at": "2026-02-21T15:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025225029533986909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025225029533986909",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025221460730523862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 羡慕外星人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025221457144377344"
+          ]
+        },
+        "author_id": "1419403960696385546",
+        "conversation_id": "2025221460730523862",
+        "created_at": "2026-02-21T14:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025221460730523862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIHcbaPhdp",
+              "end": 23,
+              "expanded_url": "https://x.com/WaiFu8964/status/2025221460730523862/photo/1",
+              "media_key": "3_2025221457144377344",
+              "start": 0,
+              "url": "https://t.co/YIHcbaPhdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025221460730523862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YIHcbaPhdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 347,
+          "like_count": 24864,
+          "listed_count": 6,
+          "media_count": 1553,
+          "tweet_count": 10785
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休时间已定，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #USDT hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "USDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chakaifang.org",
+                "end": 23,
+                "expanded_url": "https://chakaifang.org",
+                "start": 0,
+                "url": "https://t.co/0KU4n3OswH"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地: 阿联酋",
+        "name": "Waifu终于要退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7723,
+          "following_count": 2344,
+          "like_count": 5203,
+          "listed_count": 17,
+          "media_count": 843,
+          "tweet_count": 7260
+        },
+        "url": "https://t.co/0KU4n3OswH",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

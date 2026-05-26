@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2014894912152719528",
+    "created_at": "2026-01-24T02:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014894912152719528"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+          "probability": 0.103,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "205592115",
+          "start": 3,
+          "username": "madoka_magica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014894912152719528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014548866650276150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madoka_magica: 『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』公開延期のお知らせ\n\n2026年2月より公開を予定しておりましたが、製作上の都合により公開時期を変更とさせていただきます。\n新たな公開日に関しては2026年2月中に改めてお知らせいたし…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2014894912152719528",
+        "created_at": "2026-01-24T02:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014894912152719528"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+              "probability": 0.103,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "205592115",
+              "start": 3,
+              "username": "madoka_magica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014894912152719528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014548866650276150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madoka_magica: 『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』公開延期のお知らせ\n\n2026年2月より公開を予定しておりましたが、製作上の都合により公開時期を変更とさせていただきます。\n新たな公開日に関しては2026年2月中に改めてお知らせいたし…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "205592115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2014548866650276150",
+        "created_at": "2026-01-23T04:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014548866650276150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "劇場版 魔法少女まどか☆マギカ",
+              "probability": 0.3766,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "ワルプルギスの廻天〉",
+              "probability": 0.221,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 150,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "新房昭之×虚淵玄（ニトロプラス）×蒼樹うめ×シャフトによる『叛逆の物語』の正統なる続編――そして、新たな始まり。",
+              "display_url": "madoka-magica.com/wr/news/?id=69…",
+              "end": 148,
+              "expanded_url": "https://madoka-magica.com/wr/news/?id=69611",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014548909184667648/T29B40u9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014548909184667648/T29B40u9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉　公式サイト",
+              "unwound_url": "https://www.madoka-magica.com/wr/news/?id=69611",
+              "url": "https://t.co/Q1HCs6gti8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014548866650276150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3812,
+          "impression_count": 6843471,
+          "like_count": 60155,
+          "quote_count": 13017,
+          "reply_count": 1229,
+          "retweet_count": 38629
+        },
+        "reply_settings": "everyone",
+        "text": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』公開延期のお知らせ\n\n2026年2月より公開を予定しておりましたが、製作上の都合により公開時期を変更とさせていただきます。\n新たな公開日に関しては2026年2月中に改めてお知らせいたします。\n\nhttps://t.co/Q1HCs6gti8\n\n#まどかマギカ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 326,
+          "like_count": 24185,
+          "listed_count": 6,
+          "media_count": 1497,
+          "tweet_count": 10127
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-21T06:07:04.000Z",
+        "description": "総監督：新房昭之×脚本：虚淵玄(ニトロプラス)×キャラクター原案：蒼樹うめ×アニメーション制作：シャフト による『叛逆の物語』の正統なる続編『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』2026年2月公開　#まどかマギカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 108,
+                "tag": "まどかマギカ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-magica.com",
+                "end": 23,
+                "expanded_url": "https://www.madoka-magica.com/",
+                "start": 0,
+                "url": "https://t.co/PSfUr9lVjd"
+              }
+            ]
+          }
+        },
+        "id": "205592115",
+        "name": "魔法少女まどか☆マギカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973764917862998016/SSAaMAtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458241,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 4645,
+          "media_count": 985,
+          "tweet_count": 3120
+        },
+        "url": "https://t.co/PSfUr9lVjd",
+        "username": "madoka_magica",
+        "verified": false
+      }
+    ]
+  }
+}

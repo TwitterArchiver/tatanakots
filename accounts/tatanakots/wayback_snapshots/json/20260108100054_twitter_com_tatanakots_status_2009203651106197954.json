@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2008822769518330089",
+    "created_at": "2026-01-08T10:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009203651106197954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1497241020303495168",
+          "start": 0,
+          "username": "mosscghere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009203651106197954",
+    "in_reply_to_user_id": "1497241020303495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008822769518330089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosscghere 还好我不写java"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2008822769518330089",
+        "created_at": "2026-01-08T10:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009203651106197954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1497241020303495168",
+              "start": 0,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009203651106197954",
+        "in_reply_to_user_id": "1497241020303495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008822769518330089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosscghere 还好我不写java"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497241020303495168",
+        "conversation_id": "2008822769518330089",
+        "created_at": "2026-01-07T08:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008822769518330089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008822769518330089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2380,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果花钱约那种会技术的xnn/xyn然后把她捆在椅子上帮我修一天的bug算玩SM吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 249,
+          "like_count": 24001,
+          "listed_count": 6,
+          "media_count": 1467,
+          "tweet_count": 9806
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜伪全栈｜早退OIer｜远古MC服主｜MossFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 832,
+          "like_count": 18776,
+          "listed_count": 5,
+          "media_count": 1432,
+          "tweet_count": 5484
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

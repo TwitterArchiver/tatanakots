@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2056206853038821823",
+    "created_at": "2026-05-19T04:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056592031859052968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 22,
+          "id": "1420377473901072390",
+          "start": 10,
+          "username": "Timfurry233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056592031859052968",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056418569769124351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt @Timfurry233 我之前有个帖子关于我获得了某种旧账号（因违反平台规则已删帖）,他们账号交易的时候都会给一个令牌，用令牌可以用浏览器插件登录，但是账号密码登录的新session在48小时内无法更改邮箱信息（我试过了）\n所以我更倾向于从cookie中偷走了令牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2056206853038821823",
+        "created_at": "2026-05-19T04:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056592031859052968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 22,
+              "id": "1420377473901072390",
+              "start": 10,
+              "username": "Timfurry233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056592031859052968",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056418569769124351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @Timfurry233 我之前有个帖子关于我获得了某种旧账号（因违反平台规则已删帖）,他们账号交易的时候都会给一个令牌，用令牌可以用浏览器插件登录，但是账号密码登录的新session在48小时内无法更改邮箱信息（我试过了）\n所以我更倾向于从cookie中偷走了令牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2056206853038821823",
+        "created_at": "2026-05-18T16:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056418569769124351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420377473901072390",
+              "start": 0,
+              "username": "Timfurry233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056418569769124351",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056417891462127885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timfurry233 不过在偷不到cookie没有session的情况下，X居然放任一个新的session在登陆24小时内改绑邮箱，这有极大的安全隐患"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3797,
+          "following_count": 421,
+          "like_count": 29369,
+          "listed_count": 8,
+          "media_count": 1736,
+          "tweet_count": 12969
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4079,
+          "following_count": 914,
+          "like_count": 63368,
+          "listed_count": 13,
+          "media_count": 1347,
+          "tweet_count": 15549
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFMyMd blog: https://t.co/sjwsjkHAB1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFMyMd"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜绒爪兽聚FURPAW",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 3750,
+          "like_count": 44744,
+          "listed_count": 21,
+          "media_count": 706,
+          "tweet_count": 4135
+        },
+        "url": "https://t.co/sjwsjkHAB1",
+        "username": "Timfurry233",
+        "verified": true
+      }
+    ]
+  }
+}

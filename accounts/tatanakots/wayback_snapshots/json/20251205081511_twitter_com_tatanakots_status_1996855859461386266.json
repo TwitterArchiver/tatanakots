@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1996796957101363702",
+    "created_at": "2025-12-05T08:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T09:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996855859461386266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "735087459231358976",
+          "start": 0,
+          "username": "CitronaTeo"
+        },
+        {
+          "end": 25,
+          "id": "1665710956264169473",
+          "start": 12,
+          "username": "SharkyShark0"
+        },
+        {
+          "end": 39,
+          "id": "987508360336424961",
+          "start": 26,
+          "username": "safaricheung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996855859461386266",
+    "in_reply_to_user_id": "735087459231358976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996841928764346614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CitronaTeo @SharkyShark0 @safaricheung cn这边的做法是sni嗅探+快速返回tcp reset包，因为https的sni不加密"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1996796957101363702",
+        "created_at": "2025-12-05T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996855859461386266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "735087459231358976",
+              "start": 0,
+              "username": "CitronaTeo"
+            },
+            {
+              "end": 25,
+              "id": "1665710956264169473",
+              "start": 12,
+              "username": "SharkyShark0"
+            },
+            {
+              "end": 39,
+              "id": "987508360336424961",
+              "start": 26,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996855859461386266",
+        "in_reply_to_user_id": "735087459231358976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996841928764346614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CitronaTeo @SharkyShark0 @safaricheung cn这边的做法是sni嗅探+快速返回tcp reset包，因为https的sni不加密"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "735087459231358976",
+        "conversation_id": "1996796957101363702",
+        "created_at": "2025-12-05T07:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996841928764346614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665710956264169473",
+              "start": 0,
+              "username": "SharkyShark0"
+            },
+            {
+              "end": 27,
+              "id": "987508360336424961",
+              "start": 14,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996841928764346614",
+        "in_reply_to_user_id": "1665710956264169473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996840249998356582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharkyShark0 @safaricheung 這樣會誤傷CDN上其他內容啊，這種大型SNS都是套CDN的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 243,
+          "like_count": 23872,
+          "listed_count": 5,
+          "media_count": 1419,
+          "tweet_count": 9221
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-24T12:38:02.000Z",
+        "description": "百合中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hee.ink",
+                "end": 23,
+                "expanded_url": "http://hee.ink",
+                "start": 0,
+                "url": "https://t.co/CUQWfxAmuN"
+              }
+            ]
+          }
+        },
+        "id": "735087459231358976",
+        "location": "澳門",
+        "name": "⁣凍檸茶走冰走檸走茶走甜唔該",
+        "pinned_tweet_id": "1919783155479019689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614292494874968069/wCKb14qf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10563,
+          "following_count": 799,
+          "like_count": 79094,
+          "listed_count": 49,
+          "media_count": 2935,
+          "tweet_count": 18783
+        },
+        "url": "https://t.co/CUQWfxAmuN",
+        "username": "CitronaTeo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-05T13:23:40.000Z",
+        "description": "理性客观，不该中立的时候绝不中立。\n有反对意见欢迎一起探讨，骂人我会block。",
+        "id": "1665710956264169473",
+        "location": "疯狂宇宙",
+        "name": "鲨鲨零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665755213477842948/-s5QqqmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 323,
+          "like_count": 57182,
+          "listed_count": 6,
+          "media_count": 154,
+          "tweet_count": 4598
+        },
+        "username": "SharkyShark0",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T01:48:34.000Z",
+        "description": "Editor @update4weekly ⚡. Brand Strategy Director / Designer @studiomockup 🎨.  Aviation photographer ✈️ .\n\nSometime I produce Chinese tweets.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "update4weekly"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "studiomockup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studiomockup.ink",
+                "end": 23,
+                "expanded_url": "http://studiomockup.ink",
+                "start": 0,
+                "url": "https://t.co/mgiqx6ATeF"
+              }
+            ]
+          }
+        },
+        "id": "987508360336424961",
+        "location": "精神病院",
+        "name": "safari",
+        "pinned_tweet_id": "1925340432067662239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9613,
+          "following_count": 346,
+          "like_count": 5527,
+          "listed_count": 56,
+          "media_count": 2822,
+          "tweet_count": 7287
+        },
+        "url": "https://t.co/mgiqx6ATeF",
+        "username": "safaricheung",
+        "verified": true
+      }
+    ]
+  }
+}

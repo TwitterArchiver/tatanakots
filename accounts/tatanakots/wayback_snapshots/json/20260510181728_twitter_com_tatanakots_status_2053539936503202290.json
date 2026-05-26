@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2053537019633242440",
+    "created_at": "2026-05-10T18:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053539936503202290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970152173037297664",
+          "start": 0,
+          "username": "Stella501266274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053539936503202290",
+    "in_reply_to_user_id": "1970152173037297664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053537019633242440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stella501266274 哇哇哇好帅！😳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4833,
+        "height": 1280,
+        "media_key": "13_2053536984438910976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053536984438910976/img/fZPRU7fvibX6Im7S.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053536984438910976/vid/avc1/320x568/BU_TTt0VXskydnjZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053536984438910976/vid/avc1/480x852/JZuyjVoqmte6n2mz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053536984438910976/vid/avc1/720x1280/ypDK4g2yBzEuygHG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053536984438910976/pl/Ff8VJsovTqaMV4Tx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2053537019633242440",
+        "created_at": "2026-05-10T18:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053539936503202290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970152173037297664",
+              "start": 0,
+              "username": "Stella501266274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053539936503202290",
+        "in_reply_to_user_id": "1970152173037297664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053537019633242440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stella501266274 哇哇哇好帅！😳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053536984438910976"
+          ]
+        },
+        "author_id": "1970152173037297664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Michael Jackson",
+              "id": "884824905459552256",
+              "name": "Michael Jackson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Michael Jackson",
+              "id": "884824905459552256",
+              "name": "Michael Jackson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Michael Jackson",
+              "id": "884824905459552256",
+              "name": "Michael Jackson"
+            }
+          }
+        ],
+        "conversation_id": "2053537019633242440",
+        "created_at": "2026-05-10T18:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053537019633242440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "michaeljackson"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "moonwalk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEOBYs4A48",
+              "end": 66,
+              "expanded_url": "https://x.com/Stella501266274/status/2053537019633242440/video/1",
+              "media_key": "13_2053536984438910976",
+              "start": 43,
+              "url": "https://t.co/hEOBYs4A48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053537019633242440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I tried my best 💀#michaeljackson #moonwalk https://t.co/hEOBYs4A48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 411,
+          "like_count": 28683,
+          "listed_count": 7,
+          "media_count": 1713,
+          "tweet_count": 12700
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T15:44:45.000Z",
+        "description": "Hello ~I’m Stella星屑🔭｜🏳️‍🌈+🩷💜💙｜She/they🩶🩷🤍\nArtist 🌈occasionally do cosplay and dubbing 🪄|英文EN&CN中文💖Thanks for your love and support !💖",
+        "id": "1970152173037297664",
+        "location": "MilkyWay ",
+        "name": "Stella星屑✨🔭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005337845448237056/xHPzmLBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 71,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 185
+        },
+        "username": "Stella501266274",
+        "verified": false
+      }
+    ]
+  }
+}

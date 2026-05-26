@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2043698050422693933",
+    "created_at": "2026-04-13T15:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043716338691235886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        },
+        {
+          "end": 26,
+          "id": "1683218035602255872",
+          "start": 17,
+          "username": "jlxc2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "b23.tv",
+          "end": 50,
+          "expanded_url": "http://b23.tv",
+          "start": 27,
+          "status": 404,
+          "unwound_url": "https://b23.tv/",
+          "url": "https://t.co/O1XaKPMgM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043716338691235886",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043702409277620590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan @jlxc2001 https://t.co/O1XaKPMgM4还能跳转b站站内营销链接，可以转跳美团等站外目标，而美团的域名有ugc内容直接被当成html页面主内容返回的漏洞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2043698050422693933",
+        "created_at": "2026-04-13T15:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043716338691235886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            },
+            {
+              "end": 26,
+              "id": "1683218035602255872",
+              "start": 17,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv",
+              "end": 50,
+              "expanded_url": "http://b23.tv",
+              "start": 27,
+              "status": 404,
+              "unwound_url": "https://b23.tv/",
+              "url": "https://t.co/O1XaKPMgM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043716338691235886",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043702409277620590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan @jlxc2001 https://t.co/O1XaKPMgM4还能跳转b站站内营销链接，可以转跳美团等站外目标，而美团的域名有ugc内容直接被当成html页面主内容返回的漏洞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855853231005696",
+        "conversation_id": "2043698050422693933",
+        "created_at": "2026-04-13T14:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043702409277620590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv",
+              "end": 37,
+              "expanded_url": "http://b23.tv",
+              "start": 14,
+              "status": 404,
+              "unwound_url": "https://b23.tv/",
+              "url": "https://t.co/l2Hv9r3RVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043702409277620590",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043698050422693933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 我以为 https://t.co/l2Hv9r3RVh 只能跳转到视频的 🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 386,
+          "like_count": 26682,
+          "listed_count": 6,
+          "media_count": 1661,
+          "tweet_count": 12023
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "当将死之人化石在灰烬中发芽／INFP-T／男的／欢迎私信／转推、关注、互关不等于完全赞同／可取关，但请勿双取。／申请关注请随意，看到是真人一般就会通过。会屏蔽人，若认为屏蔽有误请联系。／本人所有账号不主动涉及任何政治内容。／Becoming less active",
+        "id": "1705855853231005696",
+        "location": "424.2 m",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻 𝓐𝓷𝓽𝓪𝓻𝓮𝓼 ～(∠・ω＜)⌒",
+        "pinned_tweet_id": "1818914665768067403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041333761942708224/wX2SkKfi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 880,
+          "like_count": 24621,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 5607
+        },
+        "username": "real_clover_yan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14387,
+          "following_count": 197,
+          "like_count": 497,
+          "listed_count": 29,
+          "media_count": 886,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

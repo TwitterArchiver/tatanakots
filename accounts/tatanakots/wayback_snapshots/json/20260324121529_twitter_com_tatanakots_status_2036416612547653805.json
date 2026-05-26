@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2036407035932319759",
+    "created_at": "2026-03-24T12:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T13:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036416612547653805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370034456799539204",
+          "start": 0,
+          "username": "linyiLYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036416612547653805",
+    "in_reply_to_user_id": "1370034456799539204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036407035932319759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyiLYi 他们release之前都不用ci/cd跑一遍测试的嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2036407035932319759",
+        "created_at": "2026-03-24T12:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036416612547653805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370034456799539204",
+              "start": 0,
+              "username": "linyiLYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036416612547653805",
+        "in_reply_to_user_id": "1370034456799539204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036407035932319759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyiLYi 他们release之前都不用ci/cd跑一遍测试的嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370034456799539204",
+        "conversation_id": "2036407035932319759",
+        "created_at": "2026-03-24T11:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:49:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036395044186513488",
+          "2036407035932319759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiaojiedongfen…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/qiaojiedongfeng/status/2036326663374643651",
+              "start": 128,
+              "url": "https://t.co/sTcOFnzf6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036407035932319759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036326663374643651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议最近不要更新OpenClaw❌\n除了插件系统崩了，OpenClaw 2026.3.22版本还出了WebUI直接寄了的BUG，建议最近不要升级。目前2026.3.23-2目测还是没有修复插件系统的问题，需要拉源码手动修复安装。插件系统修复方法在这里⬇️ https://t.co/sTcOFnzf6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 364,
+          "like_count": 25438,
+          "listed_count": 6,
+          "media_count": 1608,
+          "tweet_count": 11425
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T15:30:55.000Z",
+        "description": "做一点微小的科技工作！\n全网同名：林亦LYi\n商务合作：business@lyi.ai\n个人邮箱：linyi@lyi.ai",
+        "id": "1370034456799539204",
+        "name": "林亦LYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459723156030062592/2y_Y-nDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13579,
+          "following_count": 99,
+          "like_count": 61,
+          "listed_count": 86,
+          "media_count": 125,
+          "tweet_count": 159
+        },
+        "username": "linyiLYi",
+        "verified": true
+      }
+    ]
+  }
+}

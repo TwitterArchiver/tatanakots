@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2037755965815345275",
+    "created_at": "2026-05-05T08:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051577674855034944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "732062385695940609",
+          "start": 0,
+          "username": "Takaranoao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051577674855034944",
+    "in_reply_to_user_id": "732062385695940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051577157932179965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takaranoao 不知道，这是我之前打舞萌的时候的价格，现在说不定涨了\n因为我常去的机厅现在倒闭了，那边价格就是差不多4CNY/PC，还有很多地方叠上美团券算下来也是4CNY/PC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2037755965815345275",
+        "created_at": "2026-05-05T08:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051577674855034944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "732062385695940609",
+              "start": 0,
+              "username": "Takaranoao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051577674855034944",
+        "in_reply_to_user_id": "732062385695940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051577157932179965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takaranoao 不知道，这是我之前打舞萌的时候的价格，现在说不定涨了\n因为我常去的机厅现在倒闭了，那边价格就是差不多4CNY/PC，还有很多地方叠上美团券算下来也是4CNY/PC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732062385695940609",
+        "conversation_id": "2037755965815345275",
+        "created_at": "2026-05-05T08:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051577157932179965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051577157932179965",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051576843028066772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 现在环球港变便宜了吗（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3774,
+          "following_count": 412,
+          "like_count": 28306,
+          "listed_count": 7,
+          "media_count": 1708,
+          "tweet_count": 12604
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-16T04:17:28.000Z",
+        "description": "国家级退堂鼓大湿🥁/老要凉🏳️‍⚧️/jvav中级糕手☕️/全沾工程师💩/ display:none🥬/计蒜鸽学爱好者🕊️/赛博臭要饭的🐱/日本語本当锤子🔨/乌蒙吃🐻",
+        "id": "732062385695940609",
+        "name": "宝蓝 🐺 @发电bot",
+        "pinned_tweet_id": "1014288784874065922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391300852204269574/w0mDSk-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 582,
+          "like_count": 11170,
+          "listed_count": 15,
+          "media_count": 92,
+          "tweet_count": 1310
+        },
+        "username": "Takaranoao",
+        "verified": true
+      }
+    ]
+  }
+}

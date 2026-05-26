@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2023675811719770191",
+    "created_at": "2026-02-18T00:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023915332369567756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023915332369567756",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023675811719770191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 下一步，在伪装chrome协议的实现中塞一个chromium"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2023675775724253188",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWKZWibcAQ5ykG.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2023675811719770191",
+        "created_at": "2026-02-18T00:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023915332369567756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023915332369567756",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023675811719770191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 下一步，在伪装chrome协议的实现中塞一个chromium"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023675775724253188"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "2023675811719770191",
+        "created_at": "2026-02-17T08:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023675811719770191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUImf7tY2F",
+              "end": 23,
+              "expanded_url": "https://x.com/geekbb/status/2023675811719770191/photo/1",
+              "media_key": "3_2023675775724253188",
+              "start": 0,
+              "url": "https://t.co/OUImf7tY2F"
+            },
+            {
+              "display_url": "x.com/geekbb/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/geekbb/status/2023406036842078647",
+              "start": 24,
+              "url": "https://t.co/4olZPvROGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023675811719770191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 54389,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023406036842078647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/OUImf7tY2F https://t.co/4olZPvROGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 351,
+          "like_count": 24784,
+          "listed_count": 6,
+          "media_count": 1546,
+          "tweet_count": 10696
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106776,
+          "following_count": 476,
+          "like_count": 19120,
+          "listed_count": 1142,
+          "media_count": 6620,
+          "tweet_count": 25626
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2020067645564022890",
+    "created_at": "2026-02-07T19:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020214666778275917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1311909361279619072",
+          "start": 0,
+          "username": "CoooolXyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020214666778275917",
+    "in_reply_to_user_id": "1311909361279619072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020067645564022890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoooolXyh 我也经常在服务中区分境内外api base，但是一般来说境内地址会提供一个备案域名，境外地址提供一个不备案的域名\n用不同的子域名来分开不同地域的操作属实有点迷惑，难道没配置dns按来源解析嘛……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_2020067506917105664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAi4sdwaYAAGfFp.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2020067645564022890",
+        "created_at": "2026-02-07T19:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020214666778275917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1311909361279619072",
+              "start": 0,
+              "username": "CoooolXyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020214666778275917",
+        "in_reply_to_user_id": "1311909361279619072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020067645564022890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoooolXyh 我也经常在服务中区分境内外api base，但是一般来说境内地址会提供一个备案域名，境外地址提供一个不备案的域名\n用不同的子域名来分开不同地域的操作属实有点迷惑，难道没配置dns按来源解析嘛……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020067506917105664"
+          ]
+        },
+        "author_id": "1311909361279619072",
+        "conversation_id": "2020067645564022890",
+        "created_at": "2026-02-07T09:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020067645564022890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZI889Ev0W",
+              "end": 53,
+              "expanded_url": "https://x.com/CoooolXyh/status/2020067645564022890/photo/1",
+              "media_key": "3_2020067506917105664",
+              "start": 30,
+              "url": "https://t.co/QZI889Ev0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020067645564022890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15710,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次见到这么区分国内外 API base URL 的。。 https://t.co/QZI889Ev0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3679,
+          "following_count": 348,
+          "like_count": 24618,
+          "listed_count": 6,
+          "media_count": 1533,
+          "tweet_count": 10507
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T06:02:29.000Z",
+        "description": "dev @nvidia | prev @leptonai @zeaburapp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "nvidia"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "leptonai"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "zeaburapp"
+              }
+            ]
+          }
+        },
+        "id": "1311909361279619072",
+        "location": "Liangzhu",
+        "name": "Yuhang",
+        "pinned_tweet_id": "2017953638145237143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008706805527179265/x0-MrRjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12831,
+          "following_count": 1489,
+          "like_count": 15982,
+          "listed_count": 143,
+          "media_count": 943,
+          "tweet_count": 5873
+        },
+        "username": "CoooolXyh",
+        "verified": true
+      }
+    ]
+  }
+}

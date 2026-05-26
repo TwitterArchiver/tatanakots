@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      }
+    ],
+    "conversation_id": "2009155897973735698",
+    "created_at": "2026-01-08T09:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009199319937933663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        },
+        {
+          "end": 16,
+          "id": "1286241253621817344",
+          "start": 9,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009199319937933663",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009190955942096921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot @CldGeo 看了一下，是更新还没下载完的机器断网，更新好了的应该就能联网了\n劫持一下allnet更新服务器，给txt配置中的更新速度改快点中间人发给机台就应该能加速下载了，当然也可以自己从allnet上先下载包，然后中间人到内网线路传，快速注入更新包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2009155897973735698",
+        "created_at": "2026-01-08T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009199319937933663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 16,
+              "id": "1286241253621817344",
+              "start": 9,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009199319937933663",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009190955942096921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @CldGeo 看了一下，是更新还没下载完的机器断网，更新好了的应该就能联网了\n劫持一下allnet更新服务器，给txt配置中的更新速度改快点中间人发给机台就应该能加速下载了，当然也可以自己从allnet上先下载包，然后中间人到内网线路传，快速注入更新包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2009155897973735698",
+        "created_at": "2026-01-08T09:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009190955942096921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 19,
+              "id": "1286241253621817344",
+              "start": 12,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009190955942096921",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009189262600864176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @CldGeo 说是版本更新先关服务器了好像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 249,
+          "like_count": 23999,
+          "listed_count": 6,
+          "media_count": 1468,
+          "tweet_count": 9800
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "ᗜ_ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你2.3KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 573,
+          "like_count": 64042,
+          "listed_count": 5,
+          "media_count": 2135,
+          "tweet_count": 9819
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人｜运营兼策划「初心者」\n云鸠の本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "pinned_tweet_id": "2008505882137731093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 294,
+          "like_count": 2289,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 1006
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

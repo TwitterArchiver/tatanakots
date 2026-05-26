@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2035287134375145516",
+    "created_at": "2026-03-21T10:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035306482993181178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035306482993181178",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035287134375145516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 然而我出门的时候会直接关闭系统级Wi-Fi开关，然后就无法定位了，这么做甚至导致我之前在药店买药的时候都无法定位我在药店而报错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2035283159156441088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7HP_bawAA0Aee.jpg",
+        "width": 1318
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2035284083115524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7IFxcbgAAthgR.jpg",
+        "width": 1702
+      },
+      {
+        "height": 1292,
+        "media_key": "3_2035284551698919424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7IhDDasAA6cMO.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2035287134375145516",
+        "created_at": "2026-03-21T10:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035306482993181178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035306482993181178",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035287134375145516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 然而我出门的时候会直接关闭系统级Wi-Fi开关，然后就无法定位了，这么做甚至导致我之前在药店买药的时候都无法定位我在药店而报错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035283159156441088",
+            "3_2035284083115524096",
+            "3_2035284551698919424"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2035287134375145516",
+        "created_at": "2026-03-21T09:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035287134375145516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cellocation.com",
+              "end": 66,
+              "expanded_url": "http://cellocation.com",
+              "start": 43,
+              "status": 200,
+              "title": "LBS数据仓库 | 基站|WIFI|LBS定位|经纬度|查询|API接口",
+              "unwound_url": "https://www.cellocation.com/",
+              "url": "https://t.co/EldgZahgWx"
+            },
+            {
+              "display_url": "pic.x.com/XXNuqTJ8wQ",
+              "end": 116,
+              "expanded_url": "https://x.com/realNyarime/status/2035287134375145516/photo/1",
+              "media_key": "3_2035283159156441088",
+              "start": 93,
+              "url": "https://t.co/XXNuqTJ8wQ"
+            },
+            {
+              "display_url": "pic.x.com/XXNuqTJ8wQ",
+              "end": 116,
+              "expanded_url": "https://x.com/realNyarime/status/2035287134375145516/photo/1",
+              "media_key": "3_2035284083115524096",
+              "start": 93,
+              "url": "https://t.co/XXNuqTJ8wQ"
+            },
+            {
+              "display_url": "pic.x.com/XXNuqTJ8wQ",
+              "end": 116,
+              "expanded_url": "https://x.com/realNyarime/status/2035287134375145516/photo/1",
+              "media_key": "3_2035284551698919424",
+              "start": 93,
+              "url": "https://t.co/XXNuqTJ8wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035287134375145516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "cellocation.com",
+                "end": 66,
+                "expanded_url": "http://cellocation.com",
+                "start": 43,
+                "url": "https://t.co/PgmXt6r7dS"
+              }
+            ]
+          },
+          "text": "原来台式机没有GPS模块也能靠WiFi定位？我访问了北京竞心科技有限公司的LBS仓库（https://t.co/PgmXt6r7dS），根据自己的相关信息查询了下，得到的结果相当精准！\n不仅有国内基站、WiFi正反查询，还有经纬度转换接口，可以把加密的GCJ02（火星坐标系）转到未加密的WGS84（世界大地测量系统），解决偏移问题。\n\n这些数据源匪夷所思，这种小公司若是开着一台测绘车接收数据那也不止，跑遍全国再算上人力成本纯纯不可能。唯独能想到的是有厂商无线网卡在扫描周围无线WiFi信号时进行上报，或是国内部分SDK（像是美团的接口）泄露得来。我才在想，公司搬到新场地后，员工连WiFi点餐的位置都还在原地区，令人细思极恐。\n\n如果假设成立，那么判断你是哪里人就非常容易了。像Cellular-Z这类测试软件，在取得电话权限后就可以知道本机的关键信息，足以配合上述的接口完成基站定位。连极度受限的浏览器，都可以通过WebRTC获取真实IP，以User-Agent判断时区和语言，最基础的用户画像就组好了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 9392,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "原来台式机没有GPS模块也能靠WiFi定位？我访问了北京竞心科技有限公司的LBS仓库（https://t.co/EldgZahgWx），根据自己的相关信息查询了下，得到的结果相当精准！ https://t.co/XXNuqTJ8wQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 362,
+          "like_count": 25410,
+          "listed_count": 6,
+          "media_count": 1600,
+          "tweet_count": 11369
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23282,
+          "following_count": 499,
+          "like_count": 11125,
+          "listed_count": 100,
+          "media_count": 1201,
+          "tweet_count": 8627
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

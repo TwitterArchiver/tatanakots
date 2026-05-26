@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2034106742049763812",
+    "created_at": "2026-03-18T17:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T18:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034317295934394807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801244354000146433",
+          "start": 0,
+          "username": "xuan1029623"
+        },
+        {
+          "end": 20,
+          "id": "1764818331822182400",
+          "start": 13,
+          "username": "xiaohu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034317295934394807",
+    "in_reply_to_user_id": "1801244354000146433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034300887506784559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuan1029623 @xiaohu 走内网隔离的闭路电视监控是没法被看到的，不用运营商的路由和dns服务器的话，运营商最多只能dpi到sni信息和流量特征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2034106742049763812",
+        "created_at": "2026-03-18T17:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034317295934394807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801244354000146433",
+              "start": 0,
+              "username": "xuan1029623"
+            },
+            {
+              "end": 20,
+              "id": "1764818331822182400",
+              "start": 13,
+              "username": "xiaohu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034317295934394807",
+        "in_reply_to_user_id": "1801244354000146433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034300887506784559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuan1029623 @xiaohu 走内网隔离的闭路电视监控是没法被看到的，不用运营商的路由和dns服务器的话，运营商最多只能dpi到sni信息和流量特征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801244354000146433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2034106742049763812",
+        "created_at": "2026-03-18T16:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034300887506784559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1764818331822182400",
+              "start": 0,
+              "username": "xiaohu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034300887506784559",
+        "in_reply_to_user_id": "1764818331822182400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034106742049763812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohu 并不是，是社区网管干的，家用wifi都是被监控并且可以操控的，甚至可以做到调用摄像头窃听偷窥，你用无线网虽然也被监测，但是因为走的是基站，这操作权限不在社区，在运营商，网管只是能监测数据。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her  サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 361,
+          "like_count": 25390,
+          "listed_count": 6,
+          "media_count": 1599,
+          "tweet_count": 11333
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T13:25:03.000Z",
+        "description": "",
+        "id": "1801244354000146433",
+        "name": "xuan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 2587,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "xuan1029623",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 57,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 34,
+                "url": "https://t.co/4PVaHEr5r3"
+              },
+              {
+                "display_url": "xiaohu.ai/c/xiaohu-ai/xi…",
+                "end": 96,
+                "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                "start": 73,
+                "url": "https://t.co/LIEXfWUHv1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 23,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 0,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102025,
+          "following_count": 1606,
+          "like_count": 2143,
+          "listed_count": 1499,
+          "media_count": 5862,
+          "tweet_count": 9324
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "xiaohu",
+        "verified": true
+      }
+    ]
+  }
+}

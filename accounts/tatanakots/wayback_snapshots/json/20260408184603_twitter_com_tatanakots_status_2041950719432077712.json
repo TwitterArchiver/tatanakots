@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2041769723487252636",
+    "created_at": "2026-04-08T18:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041950719432077712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472111867036594179",
+          "start": 0,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041950719432077712",
+    "in_reply_to_user_id": "1472111867036594179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041769723487252636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeimoDev 我现在要使用我的代币来购买一些词元额度，然后通过令牌在应用程序中进行身份验证以使用这些词元"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2041769723487252636",
+        "created_at": "2026-04-08T18:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041950719432077712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472111867036594179",
+              "start": 0,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041950719432077712",
+        "in_reply_to_user_id": "1472111867036594179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041769723487252636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeimoDev 我现在要使用我的代币来购买一些词元额度，然后通过令牌在应用程序中进行身份验证以使用这些词元"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472111867036594179",
+        "conversation_id": "2041769723487252636",
+        "created_at": "2026-04-08T06:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041769723487252636"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2041769723487252636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1153,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在要使用我的 Token 来购买一些 Token 额度，然后通过 Token 在应用程序中进行身份验证以使用这些 Token\n\n请问这段话中的 Token 分别是什么意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 380,
+          "like_count": 26278,
+          "listed_count": 6,
+          "media_count": 1642,
+          "tweet_count": 11786
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨Cooking @workworkorg丨SparkLab丨EnvX丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 128,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 105,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020150811016466433/xhLLotxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 690,
+          "like_count": 8505,
+          "listed_count": 4,
+          "media_count": 1237,
+          "tweet_count": 5223
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": true
+      }
+    ]
+  }
+}

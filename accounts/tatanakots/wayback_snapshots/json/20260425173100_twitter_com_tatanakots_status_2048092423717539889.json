@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2047995951621820763",
+    "created_at": "2026-04-25T17:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048092423717539889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385766205403713536",
+          "start": 0,
+          "username": "xiangxiang103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048092423717539889",
+    "in_reply_to_user_id": "1385766205403713536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047995951621820763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangxiang103 有没有一种可能，把geosite:cn全部设置为DIRECT就行了，腾讯的域名应该在geosite数据库里面都被标记了，这样不止微信发得快了，国内常用软件都能直出都能更快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 203,
+        "media_key": "3_2047995382223994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvw8wsaAAAtL2F.png",
+        "width": 603
+      },
+      {
+        "height": 634,
+        "media_key": "3_2047995456341544960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvxBEzaEAAdaax.png",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2047995951621820763",
+        "created_at": "2026-04-25T17:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048092423717539889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385766205403713536",
+              "start": 0,
+              "username": "xiangxiang103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048092423717539889",
+        "in_reply_to_user_id": "1385766205403713536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047995951621820763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangxiang103 有没有一种可能，把geosite:cn全部设置为DIRECT就行了，腾讯的域名应该在geosite数据库里面都被标记了，这样不止微信发得快了，国内常用软件都能直出都能更快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047995382223994880",
+            "3_2047995456341544960"
+          ]
+        },
+        "author_id": "1385766205403713536",
+        "conversation_id": "2047995951621820763",
+        "created_at": "2026-04-25T11:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047995951621820763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNGmkIMWRH",
+              "end": 110,
+              "expanded_url": "https://x.com/xiangxiang103/status/2047995951621820763/photo/1",
+              "media_key": "3_2047995382223994880",
+              "start": 87,
+              "url": "https://t.co/lNGmkIMWRH"
+            },
+            {
+              "display_url": "pic.x.com/lNGmkIMWRH",
+              "end": 110,
+              "expanded_url": "https://x.com/xiangxiang103/status/2047995951621820763/photo/1",
+              "media_key": "3_2047995456341544960",
+              "start": 87,
+              "url": "https://t.co/lNGmkIMWRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047995951621820763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 22982,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "如果你的魔法开启了tun模式，微信发图片很慢，可以在你的订阅里加几条这样的前置规则，如果不会自己添加就丢给你的ai让他处理。规则推特好像发不出来，大家用工具或者ai提取吧！ https://t.co/lNGmkIMWRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 405,
+          "like_count": 27522,
+          "listed_count": 6,
+          "media_count": 1676,
+          "tweet_count": 12286
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T01:23:30.000Z",
+        "description": "不懂AI也没关系，跟着我一起学 🙌\n专注AI工具测评 · 新手友好教程 · 每天追踪最新动态\n用大白话把复杂工具讲明白，少走弯路是我的目标\n顺带研究全天候投资策略，让钱也帮你打工 💰\n公众号：雨哥聊AI",
+        "id": "1385766205403713536",
+        "name": "雨哥向前冲",
+        "pinned_tweet_id": "2042950224227045763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759039579884281856/kN5HXThT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8431,
+          "following_count": 1377,
+          "like_count": 5236,
+          "listed_count": 57,
+          "media_count": 238,
+          "tweet_count": 4523
+        },
+        "username": "xiangxiang103",
+        "verified": true
+      }
+    ]
+  }
+}

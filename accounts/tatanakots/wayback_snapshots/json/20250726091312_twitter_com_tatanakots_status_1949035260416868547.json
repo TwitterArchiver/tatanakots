@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1949013355613880499",
+    "created_at": "2025-07-26T09:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949035260416868547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949035260416868547",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949013355613880499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 首先api和前端不需要用同一个域名，这样就能实现后端api往备案域名请求来将数据发往国内服务器\n其次我没完整扒过advx的api，我不知道它怎么实现的，虽然确实可以在无备案域名下部署国内服务器节点的，有很多方法可以实现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1949013355613880499",
+        "created_at": "2025-07-26T09:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949035260416868547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949035260416868547",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949013355613880499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 首先api和前端不需要用同一个域名，这样就能实现后端api往备案域名请求来将数据发往国内服务器\n其次我没完整扒过advx的api，我不知道它怎么实现的，虽然确实可以在无备案域名下部署国内服务器节点的，有很多方法可以实现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1949013355613880499",
+        "created_at": "2025-07-26T07:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T08:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949013355613880499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starnekovo/sta…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/starnekovo/status/1949011861577556242",
+              "start": 115,
+              "url": "https://t.co/cDHArmBClC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949013355613880499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 455,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949011861577556242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1. org 域名现在无法在国内备案\n2. 工信部要求无论域名在哪里，如果服务器在境内必须备案\n3. 备案后必须把备案号挂在网站底部\n4. 官网底部没挂备案号\n\n所以要么就是服务器在境内没备案违反工信部规定，要么就是服务器在境外 https://t.co/cDHArmBClC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 203,
+          "like_count": 22217,
+          "listed_count": 3,
+          "media_count": 1227,
+          "tweet_count": 7876
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "⭐️🌕 Queer(存疑)，安全(心理学方向)/算法/架构，可以在新加坡/杭州/吉隆坡偶遇 (WSSS🔁ZSHC) ，暑假 0721 术略略略，然后可能去🇵🇹🇳🇱🇫🇮，INFJ 阴暗双相重抑躁焦阿斯bpdADHD五毒俱全，吃🧱才能行动，而且是地雷呀 https://t.co/nVL53sBJjI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 148,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 125,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "Star Neko🪼",
+        "pinned_tweet_id": "1942150775481999754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940439657252036608/lXR_GMMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 1558,
+          "like_count": 21853,
+          "listed_count": 13,
+          "media_count": 944,
+          "tweet_count": 7829
+        },
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

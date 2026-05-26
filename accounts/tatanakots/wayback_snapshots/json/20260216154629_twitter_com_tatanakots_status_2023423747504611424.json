@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2023284985747345595",
+    "created_at": "2026-02-16T15:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T16:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023423747504611424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104600307",
+          "start": 0,
+          "username": "AlrayTired"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023423747504611424",
+    "in_reply_to_user_id": "104600307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023422594838655153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlrayTired 是的，但是中间交换机失效的话这个方案并没有办法解决任何问题，因为终端设备连网关都连不上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2023284985747345595",
+        "created_at": "2026-02-16T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023423747504611424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104600307",
+              "start": 0,
+              "username": "AlrayTired"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023423747504611424",
+        "in_reply_to_user_id": "104600307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023422594838655153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlrayTired 是的，但是中间交换机失效的话这个方案并没有办法解决任何问题，因为终端设备连网关都连不上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "104600307",
+        "conversation_id": "2023284985747345595",
+        "created_at": "2026-02-16T15:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023422594838655153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023422594838655153",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023409000470163603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 可以配置入户路由器走CPE故障分流。\n至少在网络故障的情况下还有个备份方案，当然停电无解。\n对于公司来说，备份方案的成本不算高，不过要流量全走CPE肯定也不划算。\n配置CPE也就是在有线网络故障的情况下多个应急方案而已，方便控制其它智能设备。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 350,
+          "like_count": 24771,
+          "listed_count": 6,
+          "media_count": 1544,
+          "tweet_count": 10679
+        },
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-13T20:45:12.000Z",
+        "description": "总会有一天，有人看你的眼睛，像看到浩渺星空，能看到光。#手动屏蔽黄推 #选择性回Fo #不是那么有趣 #性别男 #本推人设含创作成分 #G+",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "手动屏蔽黄推"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "选择性回Fo"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "不是那么有趣"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "性别男"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "tag": "本推人设含创作成分"
+              },
+              {
+                "end": 69,
+                "start": 67,
+                "tag": "G"
+              }
+            ]
+          }
+        },
+        "id": "104600307",
+        "location": "冷却",
+        "name": "repl song",
+        "pinned_tweet_id": "1476946862942789632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748198800215425024/nHpqmTV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 474,
+          "like_count": 2238,
+          "listed_count": 11,
+          "media_count": 1491,
+          "tweet_count": 16954
+        },
+        "username": "AlrayTired",
+        "verified": false
+      }
+    ]
+  }
+}

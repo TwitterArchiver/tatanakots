@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2002322746018312594",
+    "created_at": "2025-12-21T05:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T06:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002610707838480496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1569528064966803456",
+          "start": 0,
+          "username": "orJTatSoYyyuZYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002610707838480496",
+    "in_reply_to_user_id": "1569528064966803456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002354711425343670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orJTatSoYyyuZYR 我为什么要毁掉别人的成果，很不理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2002322746018312594",
+        "created_at": "2025-12-21T05:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T06:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002610707838480496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1569528064966803456",
+              "start": 0,
+              "username": "orJTatSoYyyuZYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002610707838480496",
+        "in_reply_to_user_id": "1569528064966803456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002354711425343670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orJTatSoYyyuZYR 我为什么要毁掉别人的成果，很不理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569528064966803456",
+        "conversation_id": "2002322746018312594",
+        "created_at": "2025-12-20T12:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002354711425343670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002354711425343670",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002322746018312594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 你這種人最可笑的地方在於：\n你以為自己毀掉了別人的成果，\n其實只是再次證明——\n你什麼都做不成，只會拖別人下水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 242,
+          "like_count": 23928,
+          "listed_count": 6,
+          "media_count": 1446,
+          "tweet_count": 9477
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-13T03:27:46.000Z",
+        "description": "",
+        "id": "1569528064966803456",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "柒柒零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821536043180478464/a120gaTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 70,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "orJTatSoYyyuZYR",
+        "verified": false
+      }
+    ]
+  }
+}

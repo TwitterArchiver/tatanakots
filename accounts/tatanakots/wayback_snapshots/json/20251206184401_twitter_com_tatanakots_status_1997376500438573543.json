@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "1997114328911433944",
+    "created_at": "2025-12-06T18:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997376500438573543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1186927524619534336",
+          "start": 0,
+          "username": "patpatng"
+        },
+        {
+          "end": 22,
+          "id": "151141158",
+          "start": 10,
+          "username": "ekkusushita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997376500438573543",
+    "in_reply_to_user_id": "1186927524619534336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997244043957538931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patpatng @ekkusushita anycast路由错误等都可以让处理数据的节点发生改变\n另外icloud这个用的是cloudflare的ip，cf有个warp甚至可以手动操作ip全球跑，朝鲜ip都能拿到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1997114328911433944",
+        "created_at": "2025-12-06T18:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997376500438573543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1186927524619534336",
+              "start": 0,
+              "username": "patpatng"
+            },
+            {
+              "end": 22,
+              "id": "151141158",
+              "start": 10,
+              "username": "ekkusushita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997376500438573543",
+        "in_reply_to_user_id": "1186927524619534336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997244043957538931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patpatng @ekkusushita anycast路由错误等都可以让处理数据的节点发生改变\n另外icloud这个用的是cloudflare的ip，cf有个warp甚至可以手动操作ip全球跑，朝鲜ip都能拿到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186927524619534336",
+        "conversation_id": "1997114328911433944",
+        "created_at": "2025-12-06T09:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997244043957538931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "151141158",
+              "start": 0,
+              "username": "ekkusushita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997244043957538931",
+        "in_reply_to_user_id": "151141158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997114328911433944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ekkusushita iCloud 都用當地的CDN, 所以不會日本變香港"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944,
+          "following_count": 244,
+          "like_count": 23878,
+          "listed_count": 5,
+          "media_count": 1420,
+          "tweet_count": 9253
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-23T08:49:36.000Z",
+        "description": "",
+        "id": "1186927524619534336",
+        "name": "patpatng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1186928109238407170/WNA9Npvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 491,
+          "like_count": 28406,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2949
+        },
+        "username": "patpatng",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-02T18:14:37.000Z",
+        "description": "走走逛逛，吃吃喝喝，雲山霧罩，嘻嘻哈哈，真真假假。不參與任何認真嚴肅話題討論，🈲️RT評論到政治話題，直接🪓。 🈲️搬牆內！❌斃：倨傲沒禮貌、地圖炮、戾氣重、陰陽怪氣者。🚷懂王勿擾，不是求助帖，不用出主意🤓 只fo有日常更新的生活推主，不fo纯转发。",
+        "id": "151141158",
+        "location": "Hong Kong",
+        "name": "ワイタト",
+        "pinned_tweet_id": "1919675917011669200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811910610600267776/xihrwZCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27293,
+          "following_count": 1112,
+          "like_count": 91066,
+          "listed_count": 25,
+          "media_count": 7172,
+          "tweet_count": 28223
+        },
+        "username": "ekkusushita",
+        "verified": false
+      }
+    ]
+  }
+}

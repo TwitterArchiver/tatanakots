@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2015694305604891005",
+    "created_at": "2026-01-26T10:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015729334267556333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "600302952",
+          "start": 0,
+          "username": "seeseethai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015729334267556333",
+    "in_reply_to_user_id": "600302952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015726731408376249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeseethai 😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2015694305604891005",
+        "created_at": "2026-01-26T10:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015729334267556333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "600302952",
+              "start": 0,
+              "username": "seeseethai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015729334267556333",
+        "in_reply_to_user_id": "600302952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015726731408376249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeseethai 😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "600302952",
+        "conversation_id": "2015694305604891005",
+        "created_at": "2026-01-26T10:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015726731408376249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015726731408376249",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015694305604891005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 刚想问，我迫切需要泰国家宽，ais 漫游太贵了，结果看评论区你在当地 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 329,
+          "like_count": 24223,
+          "listed_count": 6,
+          "media_count": 1501,
+          "tweet_count": 10183
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-05T16:15:02.000Z",
+        "description": "会写点前端代码 🧑‍💻 🐈 9岁了",
+        "id": "600302952",
+        "name": "ซีซีไทย ccthai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722812020142260224/pQt7Itqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 866,
+          "like_count": 15357,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 371
+        },
+        "username": "seeseethai",
+        "verified": false
+      }
+    ]
+  }
+}

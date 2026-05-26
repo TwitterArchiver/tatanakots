@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1992527418452840895",
+    "created_at": "2025-11-23T14:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992603361225683135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1478042617958912005",
+          "start": 0,
+          "username": "knowledgefxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992603361225683135",
+    "in_reply_to_user_id": "1478042617958912005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992527418452840895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knowledgefxg 专线其实不难买，很多机场会提供，但是用专线的出口直接连比较稀有，因为机场怕被查出来基本都是前面套一层入口跳板，外面再套一层出口的落地跳板的\n另外你可以用自己的ip送中处理（至少Google的服务是可以把自己ip送中的，就是不知道x的送中方法是什么）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "3_1992527409506287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bhH0DaAAAwett.jpg",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1992527418452840895",
+        "created_at": "2025-11-23T14:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992603361225683135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478042617958912005",
+              "start": 0,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992603361225683135",
+        "in_reply_to_user_id": "1478042617958912005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992527418452840895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knowledgefxg 专线其实不难买，很多机场会提供，但是用专线的出口直接连比较稀有，因为机场怕被查出来基本都是前面套一层入口跳板，外面再套一层出口的落地跳板的\n另外你可以用自己的ip送中处理（至少Google的服务是可以把自己ip送中的，就是不知道x的送中方法是什么）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992527409506287616"
+          ]
+        },
+        "author_id": "1478042617958912005",
+        "conversation_id": "1992527418452840895",
+        "created_at": "2025-11-23T09:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992527418452840895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cl5Y3HK2IV",
+              "end": 71,
+              "expanded_url": "https://x.com/knowledgefxg/status/1992527418452840895/photo/1",
+              "media_key": "3_1992527409506287616",
+              "start": 48,
+              "url": "https://t.co/cl5Y3HK2IV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992527418452840895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 144196,
+          "like_count": 819,
+          "quote_count": 5,
+          "reply_count": 77,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "能显示这个的，都是能享受特供专线的，特供专线可不便宜，要么备案花大价钱买，要么直接进去踩裁缝机 https://t.co/cl5Y3HK2IV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 242,
+          "like_count": 23743,
+          "listed_count": 5,
+          "media_count": 1394,
+          "tweet_count": 9070
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 合作请DM私信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.knowledgefxg.com",
+                "end": 23,
+                "expanded_url": "https://en.knowledgefxg.com/",
+                "start": 0,
+                "url": "https://t.co/UqzCEN6qAY"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1915774820052017566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193050,
+          "following_count": 1572,
+          "like_count": 38927,
+          "listed_count": 1209,
+          "media_count": 2648,
+          "tweet_count": 7862
+        },
+        "url": "https://t.co/UqzCEN6qAY",
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}
