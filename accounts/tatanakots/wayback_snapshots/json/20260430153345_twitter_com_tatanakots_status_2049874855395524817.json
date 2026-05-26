@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2049835761189728746",
+    "created_at": "2026-04-30T15:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049874855395524817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1779082238447206401",
+          "start": 0,
+          "username": "lawghol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049874855395524817",
+    "in_reply_to_user_id": "1779082238447206401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049870761545117843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lawghol 相当于两个接口，我记得xray还是什么代理内核支持将出站按照网络接口来定，设定两个direct出站并分别绑定两个网络接口（例如eth0宽带接入，usb0接入cpe），然后按照正常的分流规则去写就行了\n当然也可以硬核手搓iptables和路由表的，但是我不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2049835761189728746",
+        "created_at": "2026-04-30T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049874855395524817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1779082238447206401",
+              "start": 0,
+              "username": "lawghol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874855395524817",
+        "in_reply_to_user_id": "1779082238447206401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049870761545117843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lawghol 相当于两个接口，我记得xray还是什么代理内核支持将出站按照网络接口来定，设定两个direct出站并分别绑定两个网络接口（例如eth0宽带接入，usb0接入cpe），然后按照正常的分流规则去写就行了\n当然也可以硬核手搓iptables和路由表的，但是我不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779082238447206401",
+        "conversation_id": "2049835761189728746",
+        "created_at": "2026-04-30T15:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049870761545117843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760164538677395456",
+              "start": 0,
+              "username": "stellar22333"
+            },
+            {
+              "end": 25,
+              "id": "1753293214826848256",
+              "start": 14,
+              "username": "tatanakots"
+            },
+            {
+              "end": 38,
+              "id": "1870108535268487169",
+              "start": 26,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049870761545117843",
+        "in_reply_to_user_id": "1760164538677395456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049869214740332952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellar22333 @tatanakots @MomoseReina 我也在蹲网关分流方案\n代理工具可以把境内外流量智能路由到直连和代理\n如果同时接入两个网络（一个宽带，一个手机流量），又该如何分流？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 407,
+          "like_count": 27809,
+          "listed_count": 7,
+          "media_count": 1692,
+          "tweet_count": 12395
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T09:42:33.000Z",
+        "description": "The royal law is the law of the royal family.",
+        "id": "1779082238447206401",
+        "location": "Earth",
+        "name": "LawghOL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882822909431013376/hYZVsnsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1259,
+          "like_count": 43629,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2412
+        },
+        "username": "lawghol",
+        "verified": false
+      }
+    ]
+  }
+}
