@@ -5,5 +5,14 @@
   "location": "Shanghai, PRC",
   "link": "t.mtf.im",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 89,
+        "start": 81,
+        "username": "ins_wan"
+      }
+    ]
+  }
 }
