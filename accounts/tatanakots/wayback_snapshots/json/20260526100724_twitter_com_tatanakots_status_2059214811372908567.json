@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2059168004215378114",
+    "created_at": "2026-05-26T10:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059214811372908567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20359…",
+          "end": 53,
+          "expanded_url": "https://x.com/i/status/2035924435300168184",
+          "start": 30,
+          "url": "https://t.co/A3mDcZwz2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059214811372908567",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035924435300168184",
+        "type": "quoted"
+      },
+      {
+        "id": "2059168004215378114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 我可以被存档，并且有自托管的存档公开页面\nhttps://t.co/A3mDcZwz2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059168001212239872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOiYx0bUAACgrh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2059168004215378114",
+        "created_at": "2026-05-26T10:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059214811372908567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20359…",
+              "end": 53,
+              "expanded_url": "https://x.com/i/status/2035924435300168184",
+              "start": 30,
+              "url": "https://t.co/A3mDcZwz2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059214811372908567",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035924435300168184",
+            "type": "quoted"
+          },
+          {
+            "id": "2059168004215378114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 我可以被存档，并且有自托管的存档公开页面\nhttps://t.co/A3mDcZwz2m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2035924435300168184",
+        "created_at": "2026-03-23T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035924435300168184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You need to unzip your entire archive, not just individual folders, in order to view them here. If you keep experiencing errors, please fill out this form. You need to view this on a desktop browser in order to see your",
+              "display_url": "archive.mtf.im/x-tatanakots/i…",
+              "end": 63,
+              "expanded_url": "https://archive.mtf.im/x-tatanakots/index.html",
+              "start": 40,
+              "status": 200,
+              "title": "Your Twitter Data",
+              "unwound_url": "https://archive.mtf.im/x-tatanakots/index.html",
+              "url": "https://t.co/Ik7KMktR1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035924435300168184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8643,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ttnk将开源自己的推特数据（隐私数据已删除）\n想视奸ttnk不留痕的有福了\n\nhttps://t.co/Ik7KMktR1t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059168001212239872"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059168004215378114",
+        "created_at": "2026-05-26T07:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059168004215378114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "愿世间再无痛苦，唯爱永不独行 · 炽烈已极 谨以此工具纪念 @AnIncandescence 存档地址：github.com/sjshb57/AnIncanescence 项目地址：github.com/sjshb57/IncandescenceReader 本项目基于 GPL 3.0 协议开源，任何使用或分发均须遵守该协议。",
+              "display_url": "sjshb57.github.io/AnIncanescence/",
+              "end": 59,
+              "expanded_url": "http://sjshb57.github.io/AnIncanescence/",
+              "start": 36,
+              "status": 200,
+              "title": "白炽阅读器 · IncandescenceReader",
+              "unwound_url": "https://sjshb57.github.io/AnIncanescence/",
+              "url": "https://t.co/E6F0Tk2o8k"
+            },
+            {
+              "display_url": "github.com/TwitterArchive",
+              "end": 120,
+              "expanded_url": "http://github.com/TwitterArchive",
+              "start": 97,
+              "status": 404,
+              "unwound_url": "https://github.com/TwitterArchive",
+              "url": "https://t.co/qel9YpkQVh"
+            },
+            {
+              "description": "愿世间再无痛苦，唯爱永不独行 · 炽烈已极. Contribute to TwitterArchiver/AnIncanescence development by creating an account on GitHub.",
+              "display_url": "github.com/TwitterArchive…",
+              "end": 163,
+              "expanded_url": "http://github.com/TwitterArchiver/AnIncanescence/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2059163243369959424/ilI9YnRP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059163243369959424/ilI9YnRP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 140,
+              "status": 200,
+              "title": "GitHub - TwitterArchiver/AnIncanescence: 愿世间再无痛苦，唯爱永不独行 · 炽烈已极",
+              "unwound_url": "https://github.com/TwitterArchiver/AnIncanescence/",
+              "url": "https://t.co/XfpQ6Yz0SW"
+            },
+            {
+              "display_url": "twitterarchiver.github.io/Cheese_Ghostfo",
+              "end": 187,
+              "expanded_url": "http://twitterarchiver.github.io/Cheese_Ghostfo",
+              "start": 164,
+              "status": 404,
+              "unwound_url": "http://twitterarchiver.github.io/Cheese_Ghostfo",
+              "url": "https://t.co/B2bp3u7uK8"
+            },
+            {
+              "display_url": "pic.x.com/IUH5G30ULQ",
+              "end": 212,
+              "expanded_url": "https://x.com/sjshb57/status/2059168004215378114/photo/1",
+              "media_key": "3_2059168001212239872",
+              "start": 189,
+              "url": "https://t.co/IUH5G30ULQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059168004215378114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "sjshb57.github.io/AnIncanescence/",
+                "end": 59,
+                "expanded_url": "http://sjshb57.github.io/AnIncanescence/",
+                "start": 36,
+                "url": "https://t.co/a5IKrru4eO"
+              },
+              {
+                "display_url": "github.com/TwitterArchive",
+                "end": 120,
+                "expanded_url": "http://github.com/TwitterArchive",
+                "start": 97,
+                "url": "https://t.co/kaoGHB5yit"
+              },
+              {
+                "display_url": "github.com/TwitterArchive…",
+                "end": 163,
+                "expanded_url": "http://github.com/TwitterArchiver/AnIncanescence/",
+                "start": 140,
+                "url": "https://t.co/HEiPlQzFCI"
+              },
+              {
+                "display_url": "twitterarchiver.github.io/Cheese_Ghostfo",
+                "end": 187,
+                "expanded_url": "http://twitterarchiver.github.io/Cheese_Ghostfo",
+                "start": 164,
+                "url": "https://t.co/8mjc25dnbN"
+              },
+              {
+                "display_url": "twitterarchiver.github.io/damniwokeup/",
+                "end": 212,
+                "expanded_url": "http://twitterarchiver.github.io/damniwokeup/",
+                "start": 189,
+                "url": "https://t.co/i03Ov5Bhkp"
+              },
+              {
+                "display_url": "twitterarchiver.github.io/luolingchy/",
+                "end": 236,
+                "expanded_url": "http://twitterarchiver.github.io/luolingchy/",
+                "start": 213,
+                "url": "https://t.co/0CHYvgpnT7"
+              },
+              {
+                "display_url": "twitterarchiver.github.io/lijunyi8742920",
+                "end": 260,
+                "expanded_url": "http://twitterarchiver.github.io/lijunyi8742920",
+                "start": 237,
+                "url": "https://t.co/xq75dJgNr6"
+              }
+            ]
+          },
+          "text": "- -［全员赛博永生计划］进行中 - - \n\n此网址已被谷歌官方收录：\nhttps://t.co/a5IKrru4eO\n\n如果您有需要存档的需求，麻烦请直接私信我登记。\n\n当前已迁移至该站点：\nhttps://t.co/kaoGHB5yit…\n\n当前存档进度（A - Z排序）：\nhttps://t.co/HEiPlQzFCI\nhttps://t.co/8mjc25dnbN…\nhttps://t.co/i03Ov5Bhkp\nhttps://t.co/0CHYvgpnT7\nhttps://t.co/xq75dJgNr6…\n\n注：\n开源协议已从 GPL 3.0协议切换至 AGPL 3.0协议。\n\nTips：评论放了个赞助码，可以赞助我（（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "- -［全员赛博永生计划］进行中 - - \n\n此网址已被谷歌官方收录：\nhttps://t.co/E6F0Tk2o8k\n\n如果您有需要存档的需求，麻烦请直接私信我登记。\n\n当前已迁移至该站点：\nhttps://t.co/qel9YpkQVh…\n\n当前存档进度（A - Z排序）：\nhttps://t.co/XfpQ6Yz0SW\nhttps://t.co/B2bp3u7uK8… https://t.co/IUH5G30ULQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3846,
+          "following_count": 425,
+          "like_count": 30322,
+          "listed_count": 7,
+          "media_count": 1753,
+          "tweet_count": 13250
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 372,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}
