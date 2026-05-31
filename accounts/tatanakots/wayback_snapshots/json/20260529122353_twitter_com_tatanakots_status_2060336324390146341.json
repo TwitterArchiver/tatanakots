@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2060308708157247538",
+    "created_at": "2026-05-29T12:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060336324390146341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524744469245206531",
+          "start": 0,
+          "username": "saneyaro112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060336324390146341",
+    "in_reply_to_user_id": "1524744469245206531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060308708157247538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saneyaro112 このボタン欲しいですよ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2060308504427266048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJevqzYagAA6BvN.jpg",
+        "width": 2144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2060308708157247538",
+        "created_at": "2026-05-29T12:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060336324390146341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524744469245206531",
+              "start": 0,
+              "username": "saneyaro112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060336324390146341",
+        "in_reply_to_user_id": "1524744469245206531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060308708157247538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saneyaro112 このボタン欲しいですよ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060308504427266048"
+          ]
+        },
+        "author_id": "1524744469245206531",
+        "conversation_id": "2060308708157247538",
+        "created_at": "2026-05-29T10:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060308708157247538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pp0SaqiOiO",
+              "end": 45,
+              "expanded_url": "https://x.com/saneyaro112/status/2060308708157247538/photo/1",
+              "media_key": "3_2060308504427266048",
+              "start": 22,
+              "url": "https://t.co/Pp0SaqiOiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060308708157247538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 106293,
+          "like_count": 2367,
+          "quote_count": 97,
+          "reply_count": 159,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "100億円貰えるかわりに女の子になるボタン https://t.co/Pp0SaqiOiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 427,
+          "like_count": 30459,
+          "listed_count": 7,
+          "media_count": 1753,
+          "tweet_count": 13311
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T13:33:12.000Z",
+        "description": "青森県　八戸市出身\n\n漫画家です。「伝説の勇者は実はママでした！？」（アルファポリス）https://t.co/q4A0zXb9Kf\nお仕事はDMまで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alphapolis.co.jp/manga/official…",
+                "end": 66,
+                "expanded_url": "https://www.alphapolis.co.jp/manga/official/147000655",
+                "start": 43,
+                "url": "https://t.co/q4A0zXb9Kf"
+              }
+            ]
+          }
+        },
+        "id": "1524744469245206531",
+        "name": "さね野郎🍎",
+        "pinned_tweet_id": "2056204029219524794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524745081353535488/TzuA9-US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47404,
+          "following_count": 401,
+          "like_count": 9221,
+          "listed_count": 282,
+          "media_count": 525,
+          "tweet_count": 5796
+        },
+        "username": "saneyaro112",
+        "verified": true
+      }
+    ]
+  }
+}
