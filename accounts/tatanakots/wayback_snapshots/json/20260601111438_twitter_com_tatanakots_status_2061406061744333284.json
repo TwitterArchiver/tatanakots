@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061405271516409856"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061406061744333284",
+    "created_at": "2026-06-01T11:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061406061744333284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IH7M0KBbZG",
+          "end": 167,
+          "expanded_url": "https://x.com/tatanakots/status/2061406061744333284/photo/1",
+          "media_key": "3_2061405271516409856",
+          "start": 144,
+          "url": "https://t.co/IH7M0KBbZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061406061744333284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "截取内核和前端的传输数据后，我发现了机场专用客户端延迟比偷配置出来放通用客户端里面要低很多的秘密\n其实延迟根本没有降低，是前端在显示延迟的时候减去了60-80ms左右的随机值！\n我去！自欺欺人的来了！本来以为它们通过某种方式协商了一个境内中转，没想到是自欺欺人前端直接减掉延迟数据！！！ https://t.co/IH7M0KBbZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2061405271516409856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuVLDLacAA2UNu.jpg",
+        "width": 1747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061405271516409856"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061406061744333284",
+        "created_at": "2026-06-01T11:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061406061744333284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH7M0KBbZG",
+              "end": 167,
+              "expanded_url": "https://x.com/tatanakots/status/2061406061744333284/photo/1",
+              "media_key": "3_2061405271516409856",
+              "start": 144,
+              "url": "https://t.co/IH7M0KBbZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061406061744333284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "截取内核和前端的传输数据后，我发现了机场专用客户端延迟比偷配置出来放通用客户端里面要低很多的秘密\n其实延迟根本没有降低，是前端在显示延迟的时候减去了60-80ms左右的随机值！\n我去！自欺欺人的来了！本来以为它们通过某种方式协商了一个境内中转，没想到是自欺欺人前端直接减掉延迟数据！！！ https://t.co/IH7M0KBbZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 429,
+          "like_count": 30704,
+          "listed_count": 7,
+          "media_count": 1757,
+          "tweet_count": 13363
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

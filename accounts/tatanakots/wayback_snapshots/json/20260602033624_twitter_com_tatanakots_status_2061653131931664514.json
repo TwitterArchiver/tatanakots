@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "2061638059381096561",
+    "created_at": "2026-06-02T03:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061653131931664514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305129071563534337",
+          "start": 0,
+          "username": "Ikyozi_SiYou"
+        },
+        {
+          "end": 29,
+          "id": "1903099585129816064",
+          "start": 14,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061653131931664514",
+    "in_reply_to_user_id": "1305129071563534337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061641129817407625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikyozi_SiYou @tokerumaisurii 这家之前是做境内中转的机场，一开始上专用客户端是因为境内中转一直被拔线，那拿专用客户端来搞个私有逻辑下发中转ip保护一下我觉得无可厚非\n结果现在不仅延迟造假还撤了境内中转，用的香港和日本的aws做入口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2061638059381096561",
+        "created_at": "2026-06-02T03:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061653131931664514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305129071563534337",
+              "start": 0,
+              "username": "Ikyozi_SiYou"
+            },
+            {
+              "end": 29,
+              "id": "1903099585129816064",
+              "start": 14,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061653131931664514",
+        "in_reply_to_user_id": "1305129071563534337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061641129817407625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikyozi_SiYou @tokerumaisurii 这家之前是做境内中转的机场，一开始上专用客户端是因为境内中转一直被拔线，那拿专用客户端来搞个私有逻辑下发中转ip保护一下我觉得无可厚非\n结果现在不仅延迟造假还撤了境内中转，用的香港和日本的aws做入口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305129071563534337",
+        "conversation_id": "2061638059381096561",
+        "created_at": "2026-06-02T02:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061641129817407625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061641129817407625",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061638059381096561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 感觉专用客户端也不能用好多个性化的规则，应该就是小白在用（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 428,
+          "like_count": 30758,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13388
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T13:00:03.000Z",
+        "description": "明月入怀，载月明归。｜a.k.a 似盈｜思柚 | 可以和我互fo呢! ｜ 妹妹 @Cloudy_partly_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "Cloudy_partly_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikyozi_cn",
+                "end": 23,
+                "expanded_url": "https://t.me/ikyozi_cn",
+                "start": 0,
+                "url": "https://t.co/RpEkndCDmL"
+              }
+            ]
+          }
+        },
+        "id": "1305129071563534337",
+        "location": "Tientsin, CN",
+        "name": "IKYoZi",
+        "pinned_tweet_id": "2026996520369983940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049085813452075009/a78vy44r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 389,
+          "like_count": 14336,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/RpEkndCDmL",
+        "username": "Ikyozi_SiYou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14936 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 314,
+          "like_count": 112833,
+          "listed_count": 12,
+          "media_count": 1320,
+          "tweet_count": 20396
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}

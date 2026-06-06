@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2061416786625802544",
+    "created_at": "2026-06-02T07:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061713215126651016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509206302509084674",
+          "start": 0,
+          "username": "sailulu52610403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061713215126651016",
+    "in_reply_to_user_id": "1509206302509084674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061711213332226115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sailulu52610403 opencode，不过openai家的api很少用，上次还封了我一个api账号导致我损失了十几美金，大部分时候我接的xAI的Grok Code Fast，简单且不敏感的任务会交给minimax的coding plan\n主要是之前损失了一个openai账号导致我不敢用这些厂商自己的定制服务，哪天号封了用不了了就完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2061416786625802544",
+        "created_at": "2026-06-02T07:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061713215126651016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509206302509084674",
+              "start": 0,
+              "username": "sailulu52610403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061713215126651016",
+        "in_reply_to_user_id": "1509206302509084674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061711213332226115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sailulu52610403 opencode，不过openai家的api很少用，上次还封了我一个api账号导致我损失了十几美金，大部分时候我接的xAI的Grok Code Fast，简单且不敏感的任务会交给minimax的coding plan\n主要是之前损失了一个openai账号导致我不敢用这些厂商自己的定制服务，哪天号封了用不了了就完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509206302509084674",
+        "conversation_id": "2061416786625802544",
+        "created_at": "2026-06-02T07:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061711213332226115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061711213332226115",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061696070229586234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 太富有了 那你api是接到什么工具里面用 claudecode opencode？，我是觉得codex好用 再加开个plus coding plan还便宜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3893,
+          "following_count": 428,
+          "like_count": 30769,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13404
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T16:30:06.000Z",
+        "description": "想要成为Web3实力者",
+        "id": "1509206302509084674",
+        "location": "Tokyo",
+        "name": "波奇",
+        "pinned_tweet_id": "1981339591899828333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943746646812372994/MTws_N4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 423,
+          "like_count": 6910,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 532
+        },
+        "username": "sailulu52610403",
+        "verified": false
+      }
+    ]
+  }
+}

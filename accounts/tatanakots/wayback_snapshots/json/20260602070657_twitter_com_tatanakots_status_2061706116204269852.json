@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061646425482768806",
+    "created_at": "2026-06-02T07:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061706116204269852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1550267641914597376",
+          "start": 0,
+          "username": "object_nullll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061706116204269852",
+    "in_reply_to_user_id": "1550267641914597376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061704597375516957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@object_nullll 像我这种普通技术人的信息估计也没啥价值吧\n最多盗个号什么的，也掀不起什么波澜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061646425482768806",
+        "created_at": "2026-06-02T07:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061706116204269852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1550267641914597376",
+              "start": 0,
+              "username": "object_nullll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061706116204269852",
+        "in_reply_to_user_id": "1550267641914597376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061704597375516957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@object_nullll 像我这种普通技术人的信息估计也没啥价值吧\n最多盗个号什么的，也掀不起什么波澜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550267641914597376",
+        "conversation_id": "2061646425482768806",
+        "created_at": "2026-06-02T07:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061704597375516957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 25,
+              "id": "237972429",
+              "start": 12,
+              "username": "final_object"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061704597375516957",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061656652210979166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @final_object 不是只有技术人的信息有价值……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 428,
+          "like_count": 30765,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13402
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T23:53:16.000Z",
+        "description": "无法停止创造。creator of https://t.co/UIXCQJEKPv and https://t.co/xi1V6zi48t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aghub.akr.moe",
+                "end": 41,
+                "expanded_url": "http://aghub.akr.moe",
+                "start": 18,
+                "url": "https://t.co/UIXCQJEKPv"
+              },
+              {
+                "display_url": "2code.akr.moe",
+                "end": 69,
+                "expanded_url": "http://2code.akr.moe",
+                "start": 46,
+                "url": "https://t.co/xi1V6zi48t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akr.moe",
+                "end": 23,
+                "expanded_url": "https://akr.moe",
+                "start": 0,
+                "url": "https://t.co/q2OokfvflP"
+              }
+            ]
+          }
+        },
+        "id": "1550267641914597376",
+        "name": "吊顶高松灯",
+        "pinned_tweet_id": "2038676483523375185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033159031943213057/AvnfRsHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 842,
+          "like_count": 5864,
+          "listed_count": 23,
+          "media_count": 244,
+          "tweet_count": 4390
+        },
+        "url": "https://t.co/q2OokfvflP",
+        "username": "object_nullll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061444189012037635",
+    "created_at": "2026-06-01T16:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061491039547130157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653207153044520960",
+          "start": 0,
+          "username": "AsilenA123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061491039547130157",
+    "in_reply_to_user_id": "1653207153044520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061485402943578146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsilenA123 另外go不是直接替换核心文件，你需要把原来的核心重命名为real_原名，然后把go的编译产物命名为核心原名让主程序以为我的go程序是原来的核心，所以理论上复原就是删个文件改个文件名的事情，不至于重新安装\n需要保留原版核心的原因是我不想修改并编译一整个完整的mihomo，会很麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061444189012037635",
+        "created_at": "2026-06-01T16:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061491039547130157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653207153044520960",
+              "start": 0,
+              "username": "AsilenA123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061491039547130157",
+        "in_reply_to_user_id": "1653207153044520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061485402943578146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsilenA123 另外go不是直接替换核心文件，你需要把原来的核心重命名为real_原名，然后把go的编译产物命名为核心原名让主程序以为我的go程序是原来的核心，所以理论上复原就是删个文件改个文件名的事情，不至于重新安装\n需要保留原版核心的原因是我不想修改并编译一整个完整的mihomo，会很麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2061444189012037635",
+        "created_at": "2026-06-01T16:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061485402943578146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061485402943578146",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061444189012037635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 已经测试,lite版.go编译的方法似乎没用.重新安装了之后,用hook.js成功,在clash verge里面可以正常使用,确实延迟至少是300+,比客户端里的高很多,但是也可以用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 429,
+          "like_count": 30724,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13375
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "今年工作|嵌入式学习中|南京|温州|爱好coding|我希望停止身份政治意识形态扩散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132✝️ ☪️☭",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1042,
+          "like_count": 39792,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": false
+      }
+    ]
+  }
+}

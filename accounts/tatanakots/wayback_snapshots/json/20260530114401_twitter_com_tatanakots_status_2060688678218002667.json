@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2060668748043026746",
+    "created_at": "2026-05-30T11:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060688678218002667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572162348265402370",
+          "start": 0,
+          "username": "dryden_octavia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060688678218002667",
+    "in_reply_to_user_id": "1572162348265402370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060684389940617410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dryden_octavia 我的意思是，你的客户端是开源的，但是你不能确保你的节点提供商不会记录你的访问日志，节点提供商可以在服务器上使用自己开发的私有内核，获取你所有流量的信息，你家路由器能在你不用代理上网的时候看到多少信息，用代理的时候服务商就能看到你的多少信息（包括但不限于目标网站sni、你的国内ip等）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2060668748043026746",
+        "created_at": "2026-05-30T11:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060688678218002667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572162348265402370",
+              "start": 0,
+              "username": "dryden_octavia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060688678218002667",
+        "in_reply_to_user_id": "1572162348265402370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060684389940617410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dryden_octavia 我的意思是，你的客户端是开源的，但是你不能确保你的节点提供商不会记录你的访问日志，节点提供商可以在服务器上使用自己开发的私有内核，获取你所有流量的信息，你家路由器能在你不用代理上网的时候看到多少信息，用代理的时候服务商就能看到你的多少信息（包括但不限于目标网站sni、你的国内ip等）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572162348265402370",
+        "conversation_id": "2060668748043026746",
+        "created_at": "2026-05-30T11:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060684389940617410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060684389940617410",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060682500809379912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 感谢你的分享，我目前手机用小火箭APP，电脑用v2ray开源端；也许我会考虑你说的方案。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3853,
+          "following_count": 428,
+          "like_count": 30565,
+          "listed_count": 7,
+          "media_count": 1755,
+          "tweet_count": 13337
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T09:54:48.000Z",
+        "description": "连接世界｜信息差｜节点工具分享\niOS 小火箭｜安卓 v2rayNG/NekoBox｜电脑 Clash Verge/V2RayN\n备用节点入口见置顶",
+        "id": "1572162348265402370",
+        "location": "United States",
+        "name": "🔺🔻800877.eth",
+        "pinned_tweet_id": "2060610863455674760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728955263657672704/8Z-Aizoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 5004,
+          "like_count": 4265,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 5830
+        },
+        "username": "dryden_octavia",
+        "verified": true
+      }
+    ]
+  }
+}

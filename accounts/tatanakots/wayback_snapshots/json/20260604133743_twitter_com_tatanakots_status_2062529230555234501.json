@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2062449829838794919",
+    "created_at": "2026-06-04T13:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062529230555234501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1656785328680886277",
+          "start": 0,
+          "username": "scted544901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062529230555234501",
+    "in_reply_to_user_id": "1656785328680886277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062482028457869513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scted544901 延迟测试-1ms代表timeout，根本没收到回复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2062449829838794919",
+        "created_at": "2026-06-04T13:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062529230555234501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1656785328680886277",
+              "start": 0,
+              "username": "scted544901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062529230555234501",
+        "in_reply_to_user_id": "1656785328680886277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062482028457869513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scted544901 延迟测试-1ms代表timeout，根本没收到回复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656785328680886277",
+        "conversation_id": "2062449829838794919",
+        "created_at": "2026-06-04T10:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062482028457869513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062482028457869513",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062449829838794919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 -1ms。。物理学不存在了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 434,
+          "like_count": 30973,
+          "listed_count": 7,
+          "media_count": 1759,
+          "tweet_count": 13468
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T22:16:27.000Z",
+        "description": "一个普通人，只是没事想说说话罢了。\n自用高速专线IPLC/IEPL机场➡➡ https://t.co/bgsZcDDCyg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cmy5.network/register?aff=H…",
+                "end": 61,
+                "expanded_url": "https://cmy5.network/register?aff=HBVX",
+                "start": 38,
+                "url": "https://t.co/bgsZcDDCyg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmy5.network/register?aff=H…",
+                "end": 23,
+                "expanded_url": "https://cmy5.network/register?aff=HBVX",
+                "start": 0,
+                "url": "https://t.co/bgsZcDDCyg"
+              }
+            ]
+          }
+        },
+        "id": "1656785328680886277",
+        "location": "亚洲",
+        "name": "scted",
+        "pinned_tweet_id": "2059161914308198760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657295538335907840/l8J9whaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 22,
+          "like_count": 4926,
+          "listed_count": 2,
+          "media_count": 869,
+          "tweet_count": 4670
+        },
+        "url": "https://t.co/bgsZcDDCyg",
+        "username": "scted544901",
+        "verified": true
+      }
+    ]
+  }
+}

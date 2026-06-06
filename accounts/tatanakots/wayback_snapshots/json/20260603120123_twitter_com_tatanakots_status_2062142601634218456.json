@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2062027616811683872",
+    "created_at": "2026-06-03T12:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062142601634218456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3645622759",
+          "start": 0,
+          "username": "1024DevHub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062142601634218456",
+    "in_reply_to_user_id": "3645622759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062027616811683872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1024DevHub 我已准备好了长期解决方案——将内核从xray替换为singbox"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2062027616811683872",
+        "created_at": "2026-06-03T12:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062142601634218456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3645622759",
+              "start": 0,
+              "username": "1024DevHub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062142601634218456",
+        "in_reply_to_user_id": "3645622759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062027616811683872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1024DevHub 我已准备好了长期解决方案——将内核从xray替换为singbox"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3645622759",
+        "conversation_id": "2062027616811683872",
+        "created_at": "2026-06-03T04:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062027616811683872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062027616811683872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/2dust/v2rayN/d…",
+                "end": 379,
+                "expanded_url": "https://github.com/2dust/v2rayN/discussions/9460",
+                "start": 356,
+                "url": "https://t.co/Qs8trurP3E"
+              }
+            ]
+          },
+          "text": "v2rayN发布跳过证书验证参数被移除说明\n\n知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。\n开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。“跳过 TLS 证书验证” 这种做法存在一定的安全风险，因此Xray官方决定用更安全、更明确的证书固定机制来替代它。\n自2026年6月1日起，所有使用了新版Xray内核的用户，只要配置中存在 allowInsecure 字段，均会出现报错，导致内核无法启动。作为过渡期解决方案，v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持。\n但Xray将于8月1日彻底禁用相关参数，届时此方案将不再有效。用户和机场需要尽快完成配置更新。\n\nv2rayN:  https://t.co/Qs8trurP3E"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 10644,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "v2rayN发布跳过证书验证参数被移除说明\n\n知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。\n开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。“跳过 TLS 证书验证”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 430,
+          "like_count": 30870,
+          "listed_count": 7,
+          "media_count": 1759,
+          "tweet_count": 13436
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-22T05:50:09.000Z",
+        "description": "Telegram Channel：https://t.co/F7PJiO84UW\n\nDeveloper & Tech Creator // Sharing practical tech content & memes // Sharing various VPS plans",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hello_1024",
+                "end": 40,
+                "expanded_url": "https://t.me/Hello_1024",
+                "start": 17,
+                "url": "https://t.co/F7PJiO84UW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1024.day",
+                "end": 23,
+                "expanded_url": "https://1024.day",
+                "start": 0,
+                "url": "https://t.co/CWwF31aIHp"
+              }
+            ]
+          }
+        },
+        "id": "3645622759",
+        "name": "1024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/758615102564163584/BRWfouwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18413,
+          "following_count": 595,
+          "like_count": 2535,
+          "listed_count": 170,
+          "media_count": 843,
+          "tweet_count": 4640
+        },
+        "url": "https://t.co/CWwF31aIHp",
+        "username": "1024DevHub",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061279264851579178",
+    "created_at": "2026-06-01T17:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061507288335331530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885874569562644481",
+          "start": 0,
+          "username": "HappyQQ_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061507288335331530",
+    "in_reply_to_user_id": "885874569562644481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061279264851579178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyQQ_AI 其实按照规定确实是在哪家备案的就必须接入哪家的服务器，备案的时候有要求填写服务器的ip地址"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061279264851579178",
+        "created_at": "2026-06-01T17:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061507288335331530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885874569562644481",
+              "start": 0,
+              "username": "HappyQQ_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061507288335331530",
+        "in_reply_to_user_id": "885874569562644481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061279264851579178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyQQ_AI 其实按照规定确实是在哪家备案的就必须接入哪家的服务器，备案的时候有要求填写服务器的ip地址"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885874569562644481",
+        "conversation_id": "2061279264851579178",
+        "created_at": "2026-06-01T02:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061279264851579178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061279264851579178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4245,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大早上被腾讯云备案这个SB 给气到了，\n之前在腾讯云买了云服务器备了案（花了一个多月把备案整下来，不容易），说我如果没有将备案信息解析到腾讯云就会取消掉我的备案信息，去你大爷的，腾讯云服务器，还店大欺客来着，你以为用工信部备案就来威胁我要购买你们的垃圾云服务器，大不了我那域名不要了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3870,
+          "following_count": 428,
+          "like_count": 30735,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13380
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-14T14:52:10.000Z",
+        "description": "为 AI 飞速发展助力，打造 AI 相关的好用的软件平台。\n公众号：移动互联网     |    Thread账号：HappyQQ_AI。\n关注我X的小号：@HappyQQ_CN，\nAI开发交流Discord社区：https://t.co/yNQuB0qZRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "HappyQQ_CN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.com/invite/uj3bTwQ…",
+                "end": 130,
+                "expanded_url": "https://discord.com/invite/uj3bTwQxxq",
+                "start": 107,
+                "url": "https://t.co/yNQuB0qZRC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HappyQQ",
+                "end": 23,
+                "expanded_url": "https://github.com/HappyQQ",
+                "start": 0,
+                "url": "https://t.co/VisJrcKuYI"
+              }
+            ]
+          }
+        },
+        "id": "885874569562644481",
+        "name": "HappyQQ_AI",
+        "pinned_tweet_id": "2061075585367982332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038916956234067968/lSe0B5lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18969,
+          "following_count": 6575,
+          "like_count": 149868,
+          "listed_count": 121,
+          "media_count": 1771,
+          "tweet_count": 44234
+        },
+        "url": "https://t.co/VisJrcKuYI",
+        "username": "HappyQQ_AI",
+        "verified": true
+      }
+    ]
+  }
+}

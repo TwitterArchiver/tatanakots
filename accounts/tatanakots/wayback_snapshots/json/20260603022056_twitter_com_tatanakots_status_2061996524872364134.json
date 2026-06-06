@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061734442801012812",
+    "created_at": "2026-06-03T02:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061996524872364134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061996524872364134",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061734442801012812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 但是为了保证用户能在任何时候通过主密码访问数据库，派生函数应该是一个输入对应固定的一个输出的吧，那直接从派生函数的输入下手不行吗？\n说不定有主密码和登录密码设成一样的用户那直接把密码过一遍派生函数就能获得解密用的密钥了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061734442801012812",
+        "created_at": "2026-06-03T02:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061996524872364134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061996524872364134",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061734442801012812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 但是为了保证用户能在任何时候通过主密码访问数据库，派生函数应该是一个输入对应固定的一个输出的吧，那直接从派生函数的输入下手不行吗？\n说不定有主密码和登录密码设成一样的用户那直接把密码过一遍派生函数就能获得解密用的密钥了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045019078",
+              "name": "Dashlane"
+            }
+          }
+        ],
+        "conversation_id": "2061734442801012812",
+        "created_at": "2026-06-02T08:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061734442801012812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "现代技术架构"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/landiantech/status/2061704869975933415",
+              "start": 138,
+              "url": "https://t.co/WDwJuI4ndQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061734442801012812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "现代技术架构"
+              }
+            ]
+          },
+          "text": "#现代技术架构\n\n转自蓝点网Telegram订阅频道里的讨论：黑客都试出了登录密码那下载的20份存储库不就可以直接打开了吗？\n\n答案是否定的，在Dashlane中(其他现代密码管理器也会采取类似的机制)，登录的账号密码只负责登录(和下载加密存储库)，主密码负责加解密存储库。\n\n那黑客下载了20份存储库能暴力破解开吗？不能，原因是用户设置的主密码会使用派生函数生成256位AES加密密钥，再用这个加密密钥来对存储库进行加密，加密后的存储库被上传到云端同步。\n\n所以黑客要面临的是：对256位AES加密密钥进行破解，就目前技术来说是不可能破解开的，要么未来量子计算成熟后使用量子计算进行暴力破解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4424,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061704869975933415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#现代技术架构\n\n转自蓝点网Telegram订阅频道里的讨论：黑客都试出了登录密码那下载的20份存储库不就可以直接打开了吗？\n\n答案是否定的，在Dashlane中(其他现代密码管理器也会采取类似的机制)，登录的账号密码只负责登录(和下载加密存储库)，主密码负责加解密存储库。 https://t.co/WDwJuI4ndQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 429,
+          "like_count": 30838,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13425
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35638,
+          "following_count": 728,
+          "like_count": 4914,
+          "listed_count": 275,
+          "media_count": 5680,
+          "tweet_count": 15662
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

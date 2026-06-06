@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061300624478871717",
+    "created_at": "2026-06-01T04:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061304998706000234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055438029230309376",
+          "start": 0,
+          "username": "KoalaEngine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061304998706000234",
+    "in_reply_to_user_id": "2055438029230309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061300624478871717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoalaEngine 我的情况是这样的\n小学：我为什么不是女孩子\n初中：能不能不要成为男孩子\n高中：真的要去做女孩子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061300624478871717",
+        "created_at": "2026-06-01T04:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061304998706000234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055438029230309376",
+              "start": 0,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061304998706000234",
+        "in_reply_to_user_id": "2055438029230309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061300624478871717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoalaEngine 我的情况是这样的\n小学：我为什么不是女孩子\n初中：能不能不要成为男孩子\n高中：真的要去做女孩子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055438029230309376",
+        "conversation_id": "2061300624478871717",
+        "created_at": "2026-06-01T04:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061300624478871717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061300624478871717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说说\n\n你第一次发现\n\n自己就是个女孩纸\n\n是什么时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3856,
+          "following_count": 429,
+          "like_count": 30690,
+          "listed_count": 7,
+          "media_count": 1756,
+          "tweet_count": 13359
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan | bestie @senzhiwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057804399473574329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 41,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

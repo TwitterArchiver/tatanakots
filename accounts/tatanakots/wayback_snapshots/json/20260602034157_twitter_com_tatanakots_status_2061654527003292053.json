@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061407092586725723",
+    "created_at": "2026-06-02T03:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061654527003292053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901670738819682304",
+          "start": 0,
+          "username": "ShiroAzusa64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061654527003292053",
+    "in_reply_to_user_id": "1901670738819682304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061644404109267213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroAzusa64 对，确实是按比例压低的，实际更高延迟的线路在假结果上也相对较高，要不是内核非常诚实地返回了真结果给前端并且通信被我劫持分析了我根本不知道他们在这里造假，还以为有什么神秘特殊优化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061407092586725723",
+        "created_at": "2026-06-02T03:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061654527003292053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901670738819682304",
+              "start": 0,
+              "username": "ShiroAzusa64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061654527003292053",
+        "in_reply_to_user_id": "1901670738819682304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061644404109267213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroAzusa64 对，确实是按比例压低的，实际更高延迟的线路在假结果上也相对较高，要不是内核非常诚实地返回了真结果给前端并且通信被我劫持分析了我根本不知道他们在这里造假，还以为有什么神秘特殊优化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901670738819682304",
+        "conversation_id": "2061407092586725723",
+        "created_at": "2026-06-02T03:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061644404109267213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061644404109267213",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061407092586725723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 其实不用随机的，用曲线到某个值以下就行，链路长度一定延迟差不多是稳定的，高频噪声是真随机的，但低频是稳定的，而用伪随机数直接加和按曲线压低其实按曲线压低在数学上更不易检查出，虽然没人会无聊到统计这种造假😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 428,
+          "like_count": 30759,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13390
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T16:23:46.000Z",
+        "description": "Maybe I could do something",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ShiroAzusa64",
+                "end": 23,
+                "expanded_url": "https://github.com/ShiroAzusa64",
+                "start": 0,
+                "url": "https://t.co/N6wBVYBCPa"
+              }
+            ]
+          }
+        },
+        "id": "1901670738819682304",
+        "location": "Straying behind you",
+        "name": "Shiro Azusa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993045718274387968/CgfnYRa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/N6wBVYBCPa",
+        "username": "ShiroAzusa64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061638059381096561",
+    "created_at": "2026-06-02T03:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061653890425397745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061653890425397745",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061638059381096561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii 我一开始也是这么以为的，还以为专用客户端悄悄从云控获取了国内中转的ip（这家机场之前用中国移动骨干的境内线路中转的真实延迟表现就和现在客户端的假延迟差不多），然后我找了半天找不到ip替换逻辑，劫持了前后端的通信后才破案，原来他们自己的内核延迟测速也是高的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061638059381096561",
+        "created_at": "2026-06-02T03:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061653890425397745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061653890425397745",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061638059381096561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 我一开始也是这么以为的，还以为专用客户端悄悄从云控获取了国内中转的ip（这家机场之前用中国移动骨干的境内线路中转的真实延迟表现就和现在客户端的假延迟差不多），然后我找了半天找不到ip替换逻辑，劫持了前后端的通信后才破案，原来他们自己的内核延迟测速也是高的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2061638059381096561",
+        "created_at": "2026-06-02T02:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061638059381096561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/tatanakots/status/2061407092586725723",
+              "start": 66,
+              "url": "https://t.co/FCMIqBFEup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061638059381096561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 416,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061407092586725723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我还以为专有客户端是上了什么神秘的协议优化黑科技呢，怎么还有如此朴实无华又彪悍的操作……\n可是这么干的机场真的会让我不敢用啊。 https://t.co/FCMIqBFEup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 428,
+          "like_count": 30758,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13389
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14936 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n1ssZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n1ssZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 314,
+          "like_count": 112833,
+          "listed_count": 12,
+          "media_count": 1320,
+          "tweet_count": 20396
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}

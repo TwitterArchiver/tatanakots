@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2058202038102884808",
+    "created_at": "2026-06-01T13:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061445062190633149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "104371112",
+          "start": 0,
+          "username": "flourix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tatanakots/sta…",
+          "end": 53,
+          "expanded_url": "https://x.com/tatanakots/status/2061444189012037635",
+          "start": 30,
+          "url": "https://t.co/YQNgc0N8gS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061445062190633149",
+    "in_reply_to_user_id": "104371112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061444189012037635",
+        "type": "quoted"
+      },
+      {
+        "id": "2058750658426311074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flourix 已经整理好了，欢迎去GitHub上查看~\nhttps://t.co/YQNgc0N8gS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2058202038102884808",
+        "created_at": "2026-06-01T13:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061445062190633149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "104371112",
+              "start": 0,
+              "username": "flourix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 53,
+              "expanded_url": "https://x.com/tatanakots/status/2061444189012037635",
+              "start": 30,
+              "url": "https://t.co/YQNgc0N8gS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061445062190633149",
+        "in_reply_to_user_id": "104371112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061444189012037635",
+            "type": "quoted"
+          },
+          {
+            "id": "2058750658426311074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flourix 已经整理好了，欢迎去GitHub上查看~\nhttps://t.co/YQNgc0N8gS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061444189012037635",
+        "created_at": "2026-06-01T13:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061444189012037635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Obtain the configuration file from the private proxy client. - tatanakots/FuckPrivateClient",
+              "display_url": "github.com/tatanakots/Fuc…",
+              "end": 105,
+              "expanded_url": "https://github.com/tatanakots/FuckPrivateClient/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2061444232163065857/bQE4TbIB?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061444232163065857/bQE4TbIB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "GitHub - tatanakots/FuckPrivateClient: Obtain the configuration file from the private proxy client.",
+              "unwound_url": "https://github.com/tatanakots/FuckPrivateClient/",
+              "url": "https://t.co/MxEVwA0E1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061444189012037635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了分析机场专用客户端的行为，避免延迟造假，并且方便导入到OpenClash供路由器和嵌入式设备使用，我创建了这个开源项目，欢迎贡献机场专用客户端的配置截取方法~\nhttps://t.co/MxEVwA0E1L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "104371112",
+        "conversation_id": "2058202038102884808",
+        "created_at": "2026-05-25T03:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058750658426311074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058750658426311074",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058745288593121628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 对的，是这个，多谢大佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 429,
+          "like_count": 30710,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13367
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-13T03:50:40.000Z",
+        "description": "",
+        "id": "104371112",
+        "location": "Zhejiang, China",
+        "name": "春秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047215522304163840/2ZAkns23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 34,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 66
+        },
+        "username": "flourix",
+        "verified": false
+      }
+    ]
+  }
+}

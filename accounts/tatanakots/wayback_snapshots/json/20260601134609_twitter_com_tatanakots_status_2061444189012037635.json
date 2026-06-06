@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061444189012037635",
+    "created_at": "2026-06-01T13:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061444189012037635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Obtain the configuration file from the private proxy client. - tatanakots/FuckPrivateClient",
+          "display_url": "github.com/tatanakots/Fuc…",
+          "end": 105,
+          "expanded_url": "https://github.com/tatanakots/FuckPrivateClient/",
+          "start": 82,
+          "status": 200,
+          "title": "GitHub - tatanakots/FuckPrivateClient: Obtain the configuration file from the private proxy client.",
+          "unwound_url": "https://github.com/tatanakots/FuckPrivateClient/",
+          "url": "https://t.co/MxEVwA0E1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061444189012037635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了分析机场专用客户端的行为，避免延迟造假，并且方便导入到OpenClash供路由器和嵌入式设备使用，我创建了这个开源项目，欢迎贡献机场专用客户端的配置截取方法~\nhttps://t.co/MxEVwA0E1L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061444189012037635",
+        "created_at": "2026-06-01T13:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061444189012037635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Obtain the configuration file from the private proxy client. - tatanakots/FuckPrivateClient",
+              "display_url": "github.com/tatanakots/Fuc…",
+              "end": 105,
+              "expanded_url": "https://github.com/tatanakots/FuckPrivateClient/",
+              "start": 82,
+              "status": 200,
+              "title": "GitHub - tatanakots/FuckPrivateClient: Obtain the configuration file from the private proxy client.",
+              "unwound_url": "https://github.com/tatanakots/FuckPrivateClient/",
+              "url": "https://t.co/MxEVwA0E1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061444189012037635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了分析机场专用客户端的行为，避免延迟造假，并且方便导入到OpenClash供路由器和嵌入式设备使用，我创建了这个开源项目，欢迎贡献机场专用客户端的配置截取方法~\nhttps://t.co/MxEVwA0E1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 429,
+          "like_count": 30710,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13366
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

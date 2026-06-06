@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061704869975933415",
+    "created_at": "2026-06-02T07:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061709903836987882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061709903836987882",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061704869975933415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 被暴力破解后不应该暂时停用该用户的新session生成能力来临时缓解暴力破解，而不应该阻止旧的session访问机密啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2061679358885109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyOdCMaIAAkC-I.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061704869975933415",
+        "created_at": "2026-06-02T07:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061709903836987882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061709903836987882",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061704869975933415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 被暴力破解后不应该暂时停用该用户的新session生成能力来临时缓解暴力破解，而不应该阻止旧的session访问机密啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061679358885109760"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045019078",
+              "name": "Dashlane"
+            }
+          }
+        ],
+        "conversation_id": "2061704869975933415",
+        "created_at": "2026-06-02T07:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061704869975933415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "Dashlane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGwJFJz0oL",
+              "end": 176,
+              "expanded_url": "https://x.com/landiantech/status/2061704869975933415/photo/1",
+              "media_key": "3_2061679358885109760",
+              "start": 153,
+              "url": "https://t.co/yGwJFJz0oL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061704869975933415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 18,
+                "tag": "Dashlane"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/113213?x",
+                "end": 260,
+                "expanded_url": "https://ourl.co/113213?x",
+                "start": 237,
+                "url": "https://t.co/DO69ADsSdl"
+              }
+            ]
+          },
+          "text": "这是什么 SAO 操作？密码管理器 #Dashlane 部分账户遭到暴力破解尝试后，账号直接被封禁。\n\nDashlane 的意图是临时封号可以阻止更多暴力破解尝试保护用户数据安全，但关键问题是现在用户自己也被拦在门外，即便有正确密码和 2FA 验证码也无法登录，然后也没法获取保存的账号密码登录其他账户。\n\n目前被封禁的账户已经恢复，黑客的大部分尝试都是失败的，最终成功下载 20 份加密存储库，存储库被主密码通过加密算法保护，所以也不太可能会被暴力破解出来。\n\n查看详情：https://t.co/DO69ADsSdl"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么 SAO 操作？密码管理器 #Dashlane 部分账户遭到暴力破解尝试后，账号直接被封禁。\n\nDashlane 的意图是临时封号可以阻止更多暴力破解尝试保护用户数据安全，但关键问题是现在用户自己也被拦在门外，即便有正确密码和 2FA 验证码也无法登录，然后也没法获取保存的账号密码登录其他账户。 https://t.co/yGwJFJz0oL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 428,
+          "like_count": 30768,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13403
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35620,
+          "following_count": 727,
+          "like_count": 4905,
+          "listed_count": 276,
+          "media_count": 5673,
+          "tweet_count": 15648
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

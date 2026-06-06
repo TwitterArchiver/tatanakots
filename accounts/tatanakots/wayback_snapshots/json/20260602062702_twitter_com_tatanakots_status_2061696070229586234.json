@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2061416786625802544",
+    "created_at": "2026-06-02T06:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061696070229586234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509206302509084674",
+          "start": 0,
+          "username": "sailulu52610403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061696070229586234",
+    "in_reply_to_user_id": "1509206302509084674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061671647095267713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sailulu52610403 反正我也不用codex（我那个账号注册那会儿还没给codex下放到免费版），我vibe coding都是直接用api计费的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2061416786625802544",
+        "created_at": "2026-06-02T06:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061696070229586234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509206302509084674",
+              "start": 0,
+              "username": "sailulu52610403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061696070229586234",
+        "in_reply_to_user_id": "1509206302509084674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061671647095267713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sailulu52610403 反正我也不用codex（我那个账号注册那会儿还没给codex下放到免费版），我vibe coding都是直接用api计费的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509206302509084674",
+        "conversation_id": "2061416786625802544",
+        "created_at": "2026-06-02T04:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061671647095267713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 24,
+              "id": "1165044876297134080",
+              "start": 12,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061671647095267713",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061505359634936012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @realNyarime 你登录codex的时候需要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 428,
+          "like_count": 30765,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13401
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T16:30:06.000Z",
+        "description": "想要成为Web3实力者",
+        "id": "1509206302509084674",
+        "location": "Tokyo",
+        "name": "波奇",
+        "pinned_tweet_id": "1981339591899828333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943746646812372994/MTws_N4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 423,
+          "like_count": 6906,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 531
+        },
+        "username": "sailulu52610403",
+        "verified": false
+      }
+    ]
+  }
+}

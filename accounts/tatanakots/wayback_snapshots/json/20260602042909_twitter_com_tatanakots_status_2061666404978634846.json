@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2061435529468776748",
+    "created_at": "2026-06-02T04:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061666404978634846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "796179107172257792",
+          "start": 0,
+          "username": "jinchenma_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061666404978634846",
+    "in_reply_to_user_id": "796179107172257792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061435529468776748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinchenma_ai md和html的问题是，你到底要用文本编辑器打开还是用渲染器打开，而office文件没有这种需要考虑的地方，没有人会觉得默认用压缩文件管理器打开office文件是正常的，大家都会选择用渲染器打开它"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061435518307700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuwrpQakAAJJIM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2061435529468776748",
+        "created_at": "2026-06-02T04:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061666404978634846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "796179107172257792",
+              "start": 0,
+              "username": "jinchenma_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061666404978634846",
+        "in_reply_to_user_id": "796179107172257792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061435529468776748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinchenma_ai md和html的问题是，你到底要用文本编辑器打开还是用渲染器打开，而office文件没有这种需要考虑的地方，没有人会觉得默认用压缩文件管理器打开office文件是正常的，大家都会选择用渲染器打开它"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061435518307700736"
+          ]
+        },
+        "author_id": "796179107172257792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2061435529468776748",
+        "created_at": "2026-06-01T13:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061435529468776748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuvDXAYndM",
+              "end": 87,
+              "expanded_url": "https://x.com/jinchenma_ai/status/2061435529468776748/photo/1",
+              "media_key": "3_2061435518307700736",
+              "start": 64,
+              "url": "https://t.co/SuvDXAYndM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061435529468776748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 87675,
+          "like_count": 204,
+          "quote_count": 2,
+          "reply_count": 152,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Markdown 和 HTML 在国内普及得这么差\n\n微信得背80%的锅\n\n都2026年了，还是打不开这两个格式\n\n真尼玛离谱 https://t.co/SuvDXAYndM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3889,
+          "following_count": 428,
+          "like_count": 30762,
+          "listed_count": 7,
+          "media_count": 1758,
+          "tweet_count": 13398
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-09T02:34:26.000Z",
+        "description": "🧑‍💻前互联网大厂程序员，35岁危机前提前跑路\n✏️只讲人话，只写小白能看懂、用得上的AI教程\n💰30天X破万粉，变现过万｜分享用AI搞钱、转型实录\n💌马哥OPC交流群/咨询/合作入口👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/D9X4wFttS…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/D9X4wFttSiqkFpkNvBUcvPbTnJb?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/Lm2zCm2Req"
+              }
+            ]
+          }
+        },
+        "id": "796179107172257792",
+        "location": "北京",
+        "name": "金尘马",
+        "pinned_tweet_id": "2059842551218422004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007049139960385536/3cydt9DH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17800,
+          "following_count": 451,
+          "like_count": 3539,
+          "listed_count": 109,
+          "media_count": 618,
+          "tweet_count": 5640
+        },
+        "url": "https://t.co/Lm2zCm2Req",
+        "username": "jinchenma_ai",
+        "verified": true
+      }
+    ]
+  }
+}
