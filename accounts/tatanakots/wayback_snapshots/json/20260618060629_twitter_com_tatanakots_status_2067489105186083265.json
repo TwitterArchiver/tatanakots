@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2067462296344125777",
+    "created_at": "2026-06-18T06:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067489105186083265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1676119892230037509",
+          "start": 0,
+          "username": "Ayyyyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067489105186083265",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067462296344125777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayyyyano PayPal我当时开得早，13岁的时候开的PayPal，那时候上传本人kyc绑定本人银联卡还一点问题都没有，没强制验证18岁，不过我现在满18了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2067456453150232576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEUsLab0AAzyTq.jpg",
+        "width": 1216
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2067456544715972608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEUxghaIAAy097.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2067460094854623232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEYAJ0a8AAQtxo.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2067462296344125777",
+        "created_at": "2026-06-18T06:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067489105186083265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "Ayyyyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067489105186083265",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067462296344125777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayyyyano PayPal我当时开得早，13岁的时候开的PayPal，那时候上传本人kyc绑定本人银联卡还一点问题都没有，没强制验证18岁，不过我现在满18了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067456453150232576",
+            "3_2067456544715972608",
+            "3_2067460094854623232"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          }
+        ],
+        "conversation_id": "2067462296344125777",
+        "created_at": "2026-06-18T04:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067462296344125777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ns7HyDJcGQ",
+              "end": 199,
+              "expanded_url": "https://x.com/Ayyyyano/status/2067462296344125777/photo/1",
+              "media_key": "3_2067456453150232576",
+              "start": 176,
+              "url": "https://t.co/Ns7HyDJcGQ"
+            },
+            {
+              "display_url": "pic.x.com/Ns7HyDJcGQ",
+              "end": 199,
+              "expanded_url": "https://x.com/Ayyyyano/status/2067462296344125777/photo/1",
+              "media_key": "3_2067456544715972608",
+              "start": 176,
+              "url": "https://t.co/Ns7HyDJcGQ"
+            },
+            {
+              "display_url": "pic.x.com/Ns7HyDJcGQ",
+              "end": 199,
+              "expanded_url": "https://x.com/Ayyyyano/status/2067462296344125777/photo/1",
+              "media_key": "3_2067460094854623232",
+              "start": 176,
+              "url": "https://t.co/Ns7HyDJcGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067462296344125777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跑几趟最后是成功开卡了 (非要让我提 12378 才肯开)，但也只能开张一卡通做一类卡，至于银联还是等到我成年吧。\n实测了一下 Cloudflare 的 R2 存储桶和 Zero Trust 可以开通。但 Google Pay 似乎没法设置感应付款，另外支付会报错 or_fpcr_06，不知道是什么原因导致的。PayPal 需要满 18 岁才能用。 https://t.co/Ns7HyDJcGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3935,
+          "following_count": 443,
+          "like_count": 31591,
+          "listed_count": 7,
+          "media_count": 1777,
+          "tweet_count": 13711
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "Into the World / 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 233,
+          "like_count": 3442,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "Ayyyyano",
+        "verified": false
+      }
+    ]
+  }
+}

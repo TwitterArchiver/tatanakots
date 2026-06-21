@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2067148883323720075",
+    "created_at": "2026-06-17T07:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067148883323720075"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 128,
+          "tag": "モナリザアニメ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1930929926003388417",
+          "start": 3,
+          "username": "anime_mona_lisa"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『性別「モナリザ」の君へ。』TVアニメ化決定！誰もが無性別で生まれてくる世界だとしたら。誰を好きになりますか？",
+          "display_url": "monalisa-anime.com",
+          "end": 125,
+          "expanded_url": "https://monalisa-anime.com",
+          "images": [
+            {
+              "height": 670,
+              "url": "https://pbs.twimg.com/news_img/2067081690896625664/zRwX3aFg?format=png&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2067081690896625664/zRwX3aFg?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 102,
+          "status": 200,
+          "title": "性別「モナリザ」の君へ。 | TVアニメ化決定",
+          "unwound_url": "https://monalisa-anime.com",
+          "url": "https://t.co/jTD4sHK1VI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067148883323720075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 311
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067132704194523287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_mona_lisa: 『性別「モナリザ」の君へ。』\n       　　TVアニメ化決定\n✦・┈┈┈┈┈ 🦋 ┈┈┈┈┈・✦\n\nティザービジュアル、\n公式サイトを公開。\n\n▼公式サイト\nhttps://t.co/jTD4sHK1VI \n\n#モナリザアニメ ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2067132698733469696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_uPMOaYAAuYCt.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2067148883323720075",
+        "created_at": "2026-06-17T07:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067148883323720075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 128,
+              "tag": "モナリザアニメ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1930929926003388417",
+              "start": 3,
+              "username": "anime_mona_lisa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『性別「モナリザ」の君へ。』TVアニメ化決定！誰もが無性別で生まれてくる世界だとしたら。誰を好きになりますか？",
+              "display_url": "monalisa-anime.com",
+              "end": 125,
+              "expanded_url": "https://monalisa-anime.com",
+              "images": [
+                {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/news_img/2067081690896625664/zRwX3aFg?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067081690896625664/zRwX3aFg?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "性別「モナリザ」の君へ。 | TVアニメ化決定",
+              "unwound_url": "https://monalisa-anime.com",
+              "url": "https://t.co/jTD4sHK1VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067148883323720075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 311
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067132704194523287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_mona_lisa: 『性別「モナリザ」の君へ。』\n       　　TVアニメ化決定\n✦・┈┈┈┈┈ 🦋 ┈┈┈┈┈・✦\n\nティザービジュアル、\n公式サイトを公開。\n\n▼公式サイト\nhttps://t.co/jTD4sHK1VI \n\n#モナリザアニメ ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067132698733469696"
+          ]
+        },
+        "author_id": "1930929926003388417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2067132704194523287",
+        "created_at": "2026-06-17T06:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067132704194523287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "モナリザアニメ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『性別「モナリザ」の君へ。』TVアニメ化決定！誰もが無性別で生まれてくる世界だとしたら。誰を好きになりますか？",
+              "display_url": "monalisa-anime.com",
+              "end": 104,
+              "expanded_url": "https://monalisa-anime.com",
+              "images": [
+                {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/news_img/2067081690896625664/zRwX3aFg?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067081690896625664/zRwX3aFg?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "性別「モナリザ」の君へ。 | TVアニメ化決定",
+              "unwound_url": "https://monalisa-anime.com",
+              "url": "https://t.co/jTD4sHK1VI"
+            },
+            {
+              "display_url": "pic.x.com/YBLYB4kaVG",
+              "end": 139,
+              "expanded_url": "https://x.com/anime_mona_lisa/status/2067132704194523287/photo/1",
+              "media_key": "3_2067132698733469696",
+              "start": 116,
+              "url": "https://t.co/YBLYB4kaVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067132704194523287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 26629,
+          "like_count": 502,
+          "quote_count": 50,
+          "reply_count": 5,
+          "retweet_count": 311
+        },
+        "reply_settings": "everyone",
+        "text": "『性別「モナリザ」の君へ。』\n       　　TVアニメ化決定\n✦・┈┈┈┈┈ 🦋 ┈┈┈┈┈・✦\n\nティザービジュアル、\n公式サイトを公開。\n\n▼公式サイト\nhttps://t.co/jTD4sHK1VI \n\n#モナリザアニメ https://t.co/YBLYB4kaVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3936,
+          "following_count": 440,
+          "like_count": 31555,
+          "listed_count": 7,
+          "media_count": 1776,
+          "tweet_count": 13698
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:11:14.000Z",
+        "description": "誰もが無性別で生まれてくる世界でー『性別「モナリザ」の君へ。』TVアニメ化決定！\n原作：𠮷村旋（ガンガンコミックスONLINE／スクウェア・エニックス刊）\nアニメーション制作：シャフト\n#モナリザアニメ #AnimeMonaLisa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 93,
+                "tag": "モナリザアニメ"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "tag": "AnimeMonaLisa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "monalisa-anime.com",
+                "end": 23,
+                "expanded_url": "https://monalisa-anime.com",
+                "start": 0,
+                "url": "https://t.co/5Cf3jGm0vj"
+              }
+            ]
+          }
+        },
+        "id": "1930929926003388417",
+        "name": "「Project M」公式アカウント",
+        "pinned_tweet_id": "2067132704194523287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067130403140579328/DYBgnroa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 15,
+          "media_count": 14,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/5Cf3jGm0vj",
+        "username": "anime_mona_lisa",
+        "verified": false
+      }
+    ]
+  }
+}
