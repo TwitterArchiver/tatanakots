@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2068170927830192186",
+    "created_at": "2026-06-20T11:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068299593348174152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977279283937599488",
+          "start": 0,
+          "username": "OliverElektro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068299593348174152",
+    "in_reply_to_user_id": "1977279283937599488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068298099080962082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliverElektro 传导到铝制外壳上不就行了，外部空气对流传走，内部就不用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2068170927830192186",
+        "created_at": "2026-06-20T11:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068299593348174152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977279283937599488",
+              "start": 0,
+              "username": "OliverElektro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068299593348174152",
+        "in_reply_to_user_id": "1977279283937599488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068298099080962082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliverElektro 传导到铝制外壳上不就行了，外部空气对流传走，内部就不用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977279283937599488",
+        "conversation_id": "2068170927830192186",
+        "created_at": "2026-06-20T11:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068298099080962082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 27,
+              "id": "1528286470049394688",
+              "start": 12,
+              "username": "Harvey35061565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068298099080962082",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068291954925089050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Harvey35061565 这是错误的，是需要对流的，如果没有热对流，散热速度会降低很多很多，几步散不出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 445,
+          "like_count": 31628,
+          "listed_count": 7,
+          "media_count": 1780,
+          "tweet_count": 13743
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T07:46:06.000Z",
+        "description": "",
+        "id": "1977279283937599488",
+        "name": "Oliver",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 77,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "OliverElektro",
+        "verified": false
+      }
+    ]
+  }
+}

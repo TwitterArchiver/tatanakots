@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      }
+    ],
+    "conversation_id": "2068377177318723996",
+    "created_at": "2026-06-21T10:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068636563656085634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867552024575062016",
+          "start": 0,
+          "username": "WukongNumber1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068636563656085634",
+    "in_reply_to_user_id": "1867552024575062016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068377177318723996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WukongNumber1 没进3DS就不需要短信验证，strip好像有些时候不会进3DS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2068376839706529792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRZxuhaUAAXtf-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          }
+        ],
+        "conversation_id": "2068377177318723996",
+        "created_at": "2026-06-21T10:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068636563656085634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867552024575062016",
+              "start": 0,
+              "username": "WukongNumber1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068636563656085634",
+        "in_reply_to_user_id": "1867552024575062016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068377177318723996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WukongNumber1 没进3DS就不需要短信验证，strip好像有些时候不会进3DS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068376839706529792"
+          ]
+        },
+        "author_id": "1867552024575062016",
+        "conversation_id": "2068377177318723996",
+        "created_at": "2026-06-20T16:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068377177318723996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "premium"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "手残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5KBGjS6H1",
+              "end": 74,
+              "expanded_url": "https://x.com/WukongNumber1/status/2068377177318723996/photo/1",
+              "media_key": "3_2068376839706529792",
+              "start": 51,
+              "url": "https://t.co/E5KBGjS6H1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068377177318723996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5445,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我不小心开通的Premium+，你们信吗？短信验证都没有的......#premium+ #手残 https://t.co/E5KBGjS6H1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 446,
+          "like_count": 31668,
+          "listed_count": 7,
+          "media_count": 1780,
+          "tweet_count": 13755
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T12:48:15.000Z",
+        "description": "体制内中登｜AI探索者:https://t.co/8eCYMQImUV\n3个月减15kg｜分享减脂经验\n热爱生活|及时行乐",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lanqing-tang-free.pages.dev",
+                "end": 35,
+                "expanded_url": "https://lanqing-tang-free.pages.dev/",
+                "start": 12,
+                "url": "https://t.co/8eCYMQImUV"
+              }
+            ]
+          }
+        },
+        "id": "1867552024575062016",
+        "name": "Wukong",
+        "pinned_tweet_id": "2066349591495331893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066563731300196356/ZdzTVXdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 2905,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "WukongNumber1",
+        "verified": true
+      }
+    ]
+  }
+}
