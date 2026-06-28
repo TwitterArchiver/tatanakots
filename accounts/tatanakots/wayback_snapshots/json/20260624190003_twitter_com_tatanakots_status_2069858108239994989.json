@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2069618263093575800",
+    "created_at": "2026-06-24T19:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069858108239994989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1475153559427563522",
+          "start": 0,
+          "username": "114514dxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069858108239994989",
+    "in_reply_to_user_id": "1475153559427563522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069711010391535740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514dxp 大部分店你要求不放葱或不放香菜但是后厨放了，你可以要求他们帮你捞走或者重做一碗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2069618263093575800",
+        "created_at": "2026-06-24T19:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069858108239994989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475153559427563522",
+              "start": 0,
+              "username": "114514dxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069858108239994989",
+        "in_reply_to_user_id": "1475153559427563522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069711010391535740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514dxp 大部分店你要求不放葱或不放香菜但是后厨放了，你可以要求他们帮你捞走或者重做一碗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475153559427563522",
+        "conversation_id": "2069618263093575800",
+        "created_at": "2026-06-24T09:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069711010391535740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069711010391535740",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7379,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069618263093575800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 进入社会后\n自己做饭：不买葱，不会强迫他买\n在饭店吃：给厨师、服务员、平台备注不放葱，人家就不会放了，就算你忘了或者人家忘了，你再挑出来也不会有人说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3944,
+          "following_count": 449,
+          "like_count": 31872,
+          "listed_count": 7,
+          "media_count": 1794,
+          "tweet_count": 13840
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T17:16:43.000Z",
+        "description": "",
+        "id": "1475153559427563522",
+        "name": "小平的十个如果",
+        "pinned_tweet_id": "2049314230571307216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051471861608062976/NyrsgJqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11656,
+          "following_count": 955,
+          "like_count": 35072,
+          "listed_count": 20,
+          "media_count": 1586,
+          "tweet_count": 26328
+        },
+        "url": "",
+        "username": "114514dxp",
+        "verified": false
+      }
+    ]
+  }
+}

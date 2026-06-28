@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026332285",
+          "name": "Intel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026332285",
+          "name": "Intel"
+        }
+      }
+    ],
+    "conversation_id": "2069657903569752339",
+    "created_at": "2026-06-24T07:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069684382378631368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "981057178214612992",
+          "start": 0,
+          "username": "noobnooc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069684382378631368",
+    "in_reply_to_user_id": "981057178214612992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069657903569752339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noobnooc 既然Intel x86-64被简写成Intel的话，那为什么不把Apple Silicon简写成Apple"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2069657798951223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjmzXkawAAaWst.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          }
+        ],
+        "conversation_id": "2069657903569752339",
+        "created_at": "2026-06-24T07:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069684382378631368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "981057178214612992",
+              "start": 0,
+              "username": "noobnooc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069684382378631368",
+        "in_reply_to_user_id": "981057178214612992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069657903569752339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noobnooc 既然Intel x86-64被简写成Intel的话，那为什么不把Apple Silicon简写成Apple"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069657798951223296"
+          ]
+        },
+        "author_id": "981057178214612992",
+        "conversation_id": "2069657903569752339",
+        "created_at": "2026-06-24T05:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069657903569752339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIamkatgje",
+              "end": 53,
+              "expanded_url": "https://x.com/noobnooc/status/2069657903569752339/photo/1",
+              "media_key": "3_2069657798951223296",
+              "start": 30,
+              "url": "https://t.co/CIamkatgje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069657903569752339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Silicon 简写成 Silicon，这对吗 https://t.co/CIamkatgje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 448,
+          "like_count": 31817,
+          "listed_count": 7,
+          "media_count": 1791,
+          "tweet_count": 13819
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-03T06:33:53.000Z",
+        "description": "人类；AI 记忆卡学习 https://t.co/M4uyG85O8M / Webhook、邮件电话提醒 https://t.co/DqZWORlijO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dippod.com",
+                "end": 35,
+                "expanded_url": "http://dippod.com",
+                "start": 12,
+                "url": "https://t.co/M4uyG85O8M"
+              },
+              {
+                "display_url": "echobell.one",
+                "end": 76,
+                "expanded_url": "http://echobell.one",
+                "start": 53,
+                "url": "https://t.co/DqZWORlijO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nooc.me",
+                "end": 23,
+                "expanded_url": "https://nooc.me",
+                "start": 0,
+                "url": "https://t.co/GPIkoZWqYS"
+              }
+            ]
+          }
+        },
+        "id": "981057178214612992",
+        "location": "无人深空",
+        "name": "Nooc",
+        "pinned_tweet_id": "2001125698883461438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021934578051809280/Ge5gLGwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6614,
+          "following_count": 511,
+          "like_count": 8239,
+          "listed_count": 74,
+          "media_count": 1650,
+          "tweet_count": 8576
+        },
+        "url": "https://t.co/GPIkoZWqYS",
+        "username": "noobnooc",
+        "verified": true
+      }
+    ]
+  }
+}
