@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2071127458150289488",
+    "created_at": "2026-06-28T11:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071188349210239029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943555238574837760",
+          "start": 0,
+          "username": "xynhaha_0602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071188349210239029",
+    "in_reply_to_user_id": "1943555238574837760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071187067523215375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynhaha_0602 嗯，所以我计划把外卡全部放到短信矩阵里面，短信通过webhook转发，电话通过SIP转发，流量开proxy隧道\n因为没有必要一直把外卡放在出门用的手机里，我觉得随身携带的手机里插的卡只要能上网就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2071127458150289488",
+        "created_at": "2026-06-28T11:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071188349210239029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943555238574837760",
+              "start": 0,
+              "username": "xynhaha_0602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071188349210239029",
+        "in_reply_to_user_id": "1943555238574837760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071187067523215375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynhaha_0602 嗯，所以我计划把外卡全部放到短信矩阵里面，短信通过webhook转发，电话通过SIP转发，流量开proxy隧道\n因为没有必要一直把外卡放在出门用的手机里，我觉得随身携带的手机里插的卡只要能上网就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943555238574837760",
+        "conversation_id": "2071127458150289488",
+        "created_at": "2026-06-28T11:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071187067523215375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 27,
+              "id": "1763034943599607808",
+              "start": 12,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071187067523215375",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071169934366019936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @moonlight_ruri 但是另一个卡槽插外卡的可能就倒霉了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 454,
+          "like_count": 31908,
+          "listed_count": 7,
+          "media_count": 1803,
+          "tweet_count": 13926
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:17:56.000Z",
+        "description": "2010.6.2/药娘mtf/持证含糖/大证2025.4.3/小证2025.1.3/含糖但家暴党/中文&English/HRT2024.3.11/持证HRT2025.1.3/Minecraft玩家/常住宁波固定往返杭州/不抽烟不喝酒不鉴证不od/欢迎投喂/贴贴喵 可扩列～",
+        "id": "1943555238574837760",
+        "location": "Taipei City, Taiwan",
+        "name": "xynhaha",
+        "pinned_tweet_id": "2024523467140583869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943560087207055365/ZEOj5AFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 57,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "xynhaha_0602",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2071127458150289488",
+    "created_at": "2026-06-28T09:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071169934366019936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071169934366019936",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071127458150289488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 双卡双待的状态将同时激活两张卡的VoLTE通道，通过时分复用modem的射频资源来与ims服务器通信，设定为“主数据卡”的激活数据通道，卡1和卡2根本只是两个卡槽的物理编号，除了对部分卡槽有物理阉割功能（比如omapi权限）的机型之外几乎没什么区别\n另外自动切换数据对两张卡都有流量的用户很有用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2068536491710771200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTq-slacAAVqxR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2071127458150289488",
+        "created_at": "2026-06-28T09:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071169934366019936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071169934366019936",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071127458150289488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 双卡双待的状态将同时激活两张卡的VoLTE通道，通过时分复用modem的射频资源来与ims服务器通信，设定为“主数据卡”的激活数据通道，卡1和卡2根本只是两个卡槽的物理编号，除了对部分卡槽有物理阉割功能（比如omapi权限）的机型之外几乎没什么区别\n另外自动切换数据对两张卡都有流量的用户很有用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068536491710771200"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2071127458150289488",
+        "created_at": "2026-06-28T07:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071127458150289488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaHXz4IrJ1",
+              "end": 165,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2071127458150289488/photo/1",
+              "media_key": "3_2068536491710771200",
+              "start": 142,
+              "url": "https://t.co/WaHXz4IrJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071127458150289488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "手机的卡槽1和卡2槽有什么区别（网速，信号等等）\n手机插两张卡的注意了，很多人卡往手机里一插，随手设置一下就不管了，结果话费扣得比单卡还快，网速反而更差。\n\n原因就一个，两张卡乱插会互相拖累。正确的插法是：流量多专门用来上网的那张插卡1，上网走主卡通道，打电话走副卡，两边互不影响。\n\n还有一个设置很多人忽略了，手机移动网络设置最底部有个自动切换数据的开关，这个开关千万别开，开了之后，主卡信号一弱，手机会悄悄切到副卡流量上网，副卡话费已经在后台默默跑掉了。\n\n这个开关直接关掉，宁可暂时断网也别让它自动切换。按这个设置弄完，网速和话费都会比之前好很多。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 531,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机的卡槽1和卡2槽有什么区别（网速，信号等等）\n手机插两张卡的注意了，很多人卡往手机里一插，随手设置一下就不管了，结果话费扣得比单卡还快，网速反而更差。\n\n原因就一个，两张卡乱插会互相拖累。正确的插法是：流量多专门用来上网的那张插卡1，上网走主卡通道，打电话走副卡，两边互不影响。 https://t.co/WaHXz4IrJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 453,
+          "like_count": 31902,
+          "listed_count": 7,
+          "media_count": 1803,
+          "tweet_count": 13921
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11669,
+          "following_count": 736,
+          "like_count": 1185,
+          "listed_count": 27,
+          "media_count": 376,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

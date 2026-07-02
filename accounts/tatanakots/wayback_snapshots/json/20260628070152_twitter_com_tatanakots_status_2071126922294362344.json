@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071126894704238592"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "2070852954945675382",
+    "created_at": "2026-06-28T07:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071126922294362344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013291448838610944",
+          "start": 0,
+          "username": "yyqx52000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RPIKhS9xLI",
+          "end": 183,
+          "expanded_url": "https://x.com/tatanakots/status/2071126922294362344/photo/1",
+          "media_key": "3_2071126894704238592",
+          "start": 160,
+          "url": "https://t.co/RPIKhS9xLI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071126922294362344",
+    "in_reply_to_user_id": "2013291448838610944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070852954945675382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyqx52000 我比较推荐rakuten kobo电子书城，因为kobo的dedrm貌似比amazon kindle更容易，amazon每隔一段时间会更新drm算法，但是kobo貌似一直没变\n感觉买来的电子书dedrm之后拿着解密的epub在本地才是最安心的，不会哪天amazon又退出什么市场导致电子书看不了了 https://t.co/RPIKhS9xLI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2071126894704238592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4e7_uaoAAczzf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070852888688316416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0luvxb0AASBZ9.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071126894704238592"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2070852954945675382",
+        "created_at": "2026-06-28T07:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071126922294362344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013291448838610944",
+              "start": 0,
+              "username": "yyqx52000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPIKhS9xLI",
+              "end": 183,
+              "expanded_url": "https://x.com/tatanakots/status/2071126922294362344/photo/1",
+              "media_key": "3_2071126894704238592",
+              "start": 160,
+              "url": "https://t.co/RPIKhS9xLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071126922294362344",
+        "in_reply_to_user_id": "2013291448838610944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070852954945675382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyqx52000 我比较推荐rakuten kobo电子书城，因为kobo的dedrm貌似比amazon kindle更容易，amazon每隔一段时间会更新drm算法，但是kobo貌似一直没变\n感觉买来的电子书dedrm之后拿着解密的epub在本地才是最安心的，不会哪天amazon又退出什么市场导致电子书看不了了 https://t.co/RPIKhS9xLI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070852888688316416"
+          ]
+        },
+        "author_id": "2013291448838610944",
+        "conversation_id": "2070852954945675382",
+        "created_at": "2026-06-27T12:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070852954945675382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKP8gw8rpA",
+              "end": 82,
+              "expanded_url": "https://x.com/yyqx52000/status/2070852954945675382/photo/1",
+              "media_key": "3_2070852888688316416",
+              "start": 59,
+              "url": "https://t.co/YKP8gw8rpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070852954945675382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "涨价这么快吗，前三本平均100块，中两本平均400块，后三本就到500块了，是他真的这样，还是我没看懂有什么隐藏规则 https://t.co/YKP8gw8rpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3941,
+          "following_count": 452,
+          "like_count": 31900,
+          "listed_count": 7,
+          "media_count": 1801,
+          "tweet_count": 13911
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:44:29.000Z",
+        "description": "runasama忠实粉丝，做梦都想和大小姐百合的人，",
+        "id": "2013291448838610944",
+        "location": "🚪78     与¥无关，取吉利数字，陌生人不要，熟人不用",
+        "name": "一只普普通通的♠️伪娘千香🇨🇳❤️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013291557567242240/AyAgUxps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 93,
+          "like_count": 256,
+          "listed_count": 7,
+          "media_count": 65,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "yyqx52000",
+        "verified": false
+      }
+    ]
+  }
+}
