@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2073297359845613762",
+    "created_at": "2026-07-04T06:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073297359845613762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nos_project/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/nos_project/status/2072606208880726517",
+          "start": 8,
+          "url": "https://t.co/Xt2gdHSp8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073297359845613762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072606208880726517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "これ欲しいです https://t.co/Xt2gdHSp8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2072289240155865088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJAFZ9awAArOM9.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2072289251732131840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJAGFFakAAwYDf.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2073297359845613762",
+        "created_at": "2026-07-04T06:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073297359845613762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nos_project/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nos_project/status/2072606208880726517",
+              "start": 8,
+              "url": "https://t.co/Xt2gdHSp8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073297359845613762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072606208880726517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これ欲しいです https://t.co/Xt2gdHSp8R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072289240155865088",
+            "3_2072289251732131840"
+          ]
+        },
+        "author_id": "96313434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2072606208880726517",
+        "created_at": "2026-07-02T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072606208880726517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kmq5xWUm3u",
+              "end": 131,
+              "expanded_url": "https://x.com/NOS_PROJECT/status/2072606208880726517/photo/1",
+              "media_key": "3_2072289240155865088",
+              "start": 108,
+              "url": "https://t.co/Kmq5xWUm3u"
+            },
+            {
+              "display_url": "pic.x.com/Kmq5xWUm3u",
+              "end": 131,
+              "expanded_url": "https://x.com/NOS_PROJECT/status/2072606208880726517/photo/1",
+              "media_key": "3_2072289251732131840",
+              "start": 108,
+              "url": "https://t.co/Kmq5xWUm3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072606208880726517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5480,
+          "impression_count": 1489933,
+          "like_count": 12256,
+          "quote_count": 890,
+          "reply_count": 51,
+          "retweet_count": 1367
+        },
+        "reply_settings": "everyone",
+        "text": "【pick up】猫耳メンズパーカー\n\nボスクラスの甘くないビターな黒猫。なのに抱き付きたくなる、キグルミのような優しいフォルム🐈‍⬛折り紙的な要素がミックスされたパターンと縫製テクニックがシルエットのヒミツです。 https://t.co/Kmq5xWUm3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3953,
+          "following_count": 461,
+          "like_count": 32134,
+          "listed_count": 7,
+          "media_count": 1819,
+          "tweet_count": 14066
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-12T09:47:16.000Z",
+        "description": "大人の遊び心を追求した新しい形のリアルクローズを提案。小さい頃に憧れた世界を、大人になった今のあなたに。\nスタッフ巡回してます▷#NOS_PHOTO #ノスプロフォト\nファンアート▷#NOS画廊　\n※これまでの商品をご紹介させていただくこともございます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 64,
+                "tag": "NOS_PHOTO"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "ノスプロフォト"
+              },
+              {
+                "end": 97,
+                "start": 91,
+                "tag": "NOS画廊"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nos-project.jp",
+                "end": 23,
+                "expanded_url": "https://nos-project.jp/",
+                "start": 0,
+                "url": "https://t.co/P5WSKeCqKw"
+              }
+            ]
+          }
+        },
+        "id": "96313434",
+        "location": "日本",
+        "name": "NO.S PROJECT",
+        "pinned_tweet_id": "2069654453561721244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774634956360454144/zKc3uihI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86985,
+          "following_count": 8,
+          "like_count": 3236,
+          "listed_count": 1727,
+          "media_count": 11650,
+          "tweet_count": 14561
+        },
+        "url": "https://t.co/P5WSKeCqKw",
+        "username": "NOS_PROJECT",
+        "verified": true
+      }
+    ]
+  }
+}
