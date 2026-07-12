@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2075513453486506298",
+    "created_at": "2026-07-10T09:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075513453486506298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1924251689823219712",
+          "start": 3,
+          "username": "gezine_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075513453486506298",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074894225460822503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gezine_dev: I created switch 1/2 userland exploit that is not webkit or save exploit\n\n\"But we already have userland exploit from day 1\"…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21400,
+        "height": 1080,
+        "media_key": "13_2074889511482646528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074889511482646528/img/BRFt3chgX11KPDfu.jpg",
+        "public_metrics": {
+          "view_count": 121581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074889511482646528/pl/4P8n6npQInO_OlUj.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074889511482646528/vid/avc1/1920x1080/A5WqDTO-NBTZzKOY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074889511482646528/vid/avc1/640x360/jo449sPRMPn4G7BT.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074889511482646528/vid/avc1/480x270/d2fhcBkoOU4M04wP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074889511482646528/vid/avc1/1280x720/T0GhntRLFRKt1umZ.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2075513453486506298",
+        "created_at": "2026-07-10T09:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075513453486506298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1924251689823219712",
+              "start": 3,
+              "username": "gezine_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075513453486506298",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074894225460822503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gezine_dev: I created switch 1/2 userland exploit that is not webkit or save exploit\n\n\"But we already have userland exploit from day 1\"…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074889511482646528"
+          ]
+        },
+        "author_id": "1924251689823219712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568747261292546",
+              "name": "Gaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2074894225460822503",
+        "created_at": "2026-07-08T16:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:30:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074893977069953485",
+          "2074894225460822503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gNuaYXiIS",
+              "end": 302,
+              "expanded_url": "https://x.com/gezine_dev/status/2074894225460822503/video/1",
+              "media_key": "13_2074889511482646528",
+              "start": 279,
+              "url": "https://t.co/7gNuaYXiIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074894225460822503",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I created switch 1/2 userland exploit that is not webkit or save exploit\n\n\"But we already have userland exploit from day 1\"\nThe difference is existing userland exploit is based on save exploit which can't be used without save transfer using Nintendo Online Service\n\nWhich forces you to be at latest fw\nSo even if kexploit or some sw based privilege escalation is found 99% people can't use save exploit.\n\nBut this one works without any restriction and works at all fw\n\nWhy not hack the webkit?\nSwitch 2 webkit has Arm PAC(Pointer Authentication Code) that prevents ROP code execution\nSo I avoided it as there was more easy one to exploit it"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 724,
+          "impression_count": 352942,
+          "like_count": 3716,
+          "quote_count": 90,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "reply_settings": "following",
+        "text": "I created switch 1/2 userland exploit that is not webkit or save exploit\n\n\"But we already have userland exploit from day 1\"\nThe difference is existing userland exploit is based on save exploit which can't be used without save transfer using Nintendo Online Service\n\nWhich forces https://t.co/7gNuaYXiIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3967,
+          "following_count": 472,
+          "like_count": 32505,
+          "listed_count": 7,
+          "media_count": 1828,
+          "tweet_count": 14229
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T23:53:21.000Z",
+        "description": "Support me :) \nhttps://t.co/E5WVsJqMLK\n\nUSDC (Solana)\n96hqBZSu8cSg6ghdJn6sZKrmTU3iMFpr2fbA8scKpqAx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/Gezine",
+                "end": 38,
+                "expanded_url": "https://github.com/sponsors/Gezine",
+                "start": 15,
+                "url": "https://t.co/E5WVsJqMLK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Gezine",
+                "end": 23,
+                "expanded_url": "https://github.com/Gezine",
+                "start": 0,
+                "url": "https://t.co/68JY35tE1r"
+              }
+            ]
+          }
+        },
+        "id": "1924251689823219712",
+        "name": "Gezine",
+        "pinned_tweet_id": "2050626009985409359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924253979514486784/wSgwvV3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36779,
+          "following_count": 18,
+          "like_count": 150,
+          "listed_count": 46,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/68JY35tE1r",
+        "username": "gezine_dev",
+        "verified": false
+      }
+    ]
+  }
+}

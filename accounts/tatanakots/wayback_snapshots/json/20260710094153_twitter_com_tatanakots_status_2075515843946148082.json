@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2075510884227801189",
+    "created_at": "2026-07-10T09:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075515843946148082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892256210608697344",
+          "start": 0,
+          "username": "feng638061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075515843946148082",
+    "in_reply_to_user_id": "1892256210608697344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075510884227801189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feng638061 苹果公司会发侵权通知的，当然这个看起来是平台检测，我闲鱼之前收到过任天堂的侵权投诉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075510875637833728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2yJRXaYAAwm-5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2075510884227801189",
+        "created_at": "2026-07-10T09:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075515843946148082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892256210608697344",
+              "start": 0,
+              "username": "feng638061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075515843946148082",
+        "in_reply_to_user_id": "1892256210608697344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075510884227801189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feng638061 苹果公司会发侵权通知的，当然这个看起来是平台检测，我闲鱼之前收到过任天堂的侵权投诉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075510875637833728"
+          ]
+        },
+        "author_id": "1892256210608697344",
+        "conversation_id": "2075510884227801189",
+        "created_at": "2026-07-10T09:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075510884227801189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9qw7SSYoF",
+              "end": 54,
+              "expanded_url": "https://x.com/feng638061/status/2075510884227801189/photo/1",
+              "media_key": "3_2075510875637833728",
+              "start": 31,
+              "url": "https://t.co/C9qw7SSYoF"
+            },
+            {
+              "display_url": "x.com/feng638061/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/feng638061/status/2073052259601301710",
+              "start": 55,
+              "url": "https://t.co/b0hGeZYW9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075510884227801189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073052259601301710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闲鱼卖一个苹果18文件\n\n标价0.1元\n\n这都违规了！！！！ https://t.co/C9qw7SSYoF https://t.co/b0hGeZYW9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3967,
+          "following_count": 472,
+          "like_count": 32506,
+          "listed_count": 7,
+          "media_count": 1828,
+          "tweet_count": 14230
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T16:53:47.000Z",
+        "description": "脱下孔乙己的长衫，赚钱即正义！\n\nweb2是生活，web3是梦想 JUST DO IT ！ \n\nHTXDAO志愿者 | #蓝鸟会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "蓝鸟会"
+              }
+            ]
+          }
+        },
+        "id": "1892256210608697344",
+        "name": "7w 🕊️",
+        "pinned_tweet_id": "2075108945358893141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988090512793042944/uBAwecUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15516,
+          "following_count": 7590,
+          "like_count": 6203,
+          "listed_count": 49,
+          "media_count": 1862,
+          "tweet_count": 21636
+        },
+        "url": "",
+        "username": "feng638061",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2074645967065039213",
+    "created_at": "2026-07-08T02:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074683371167592667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "987876884284231680",
+          "start": 0,
+          "username": "Yuushimo2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074683371167592667",
+    "in_reply_to_user_id": "987876884284231680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074645967065039213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuushimo2333 莉可丽丝好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2074645967065039213",
+        "created_at": "2026-07-08T02:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074683371167592667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "987876884284231680",
+              "start": 0,
+              "username": "Yuushimo2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074683371167592667",
+        "in_reply_to_user_id": "987876884284231680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074645967065039213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuushimo2333 莉可丽丝好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "987876884284231680",
+        "conversation_id": "2074645967065039213",
+        "created_at": "2026-07-08T00:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074645967065039213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074645967065039213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美术部动画化10周年了，我也入宅10年了😭\n与此同时伊右群老贼还在画莉可丽丝的七夕贺图😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3962,
+          "following_count": 471,
+          "like_count": 32358,
+          "listed_count": 7,
+          "media_count": 1825,
+          "tweet_count": 14180
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-22T02:12:57.000Z",
+        "description": "前社畜 | 酒寄彩叶单推人 | 东方众 | 音MAD初心者 | 克服社恐中 | ADHDer | INFJ-T \n不键政 | 想认识优秀的人、变得更可爱 | 偶尔会搞抽象/说怪话 | 回fo会查成分致歉 | 欢迎关注~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanamiyuushimo.github.io",
+                "end": 23,
+                "expanded_url": "https://hanamiyuushimo.github.io",
+                "start": 0,
+                "url": "https://t.co/IjcmffFLDC"
+              }
+            ]
+          }
+        },
+        "id": "987876884284231680",
+        "location": "中国",
+        "name": "幽霜Yuushimo",
+        "pinned_tweet_id": "1675378006561533953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016541875373543425/SFaXlmOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 3171,
+          "like_count": 160821,
+          "listed_count": 18,
+          "media_count": 859,
+          "tweet_count": 9133
+        },
+        "url": "https://t.co/IjcmffFLDC",
+        "username": "Yuushimo2333",
+        "verified": false
+      }
+    ]
+  }
+}
