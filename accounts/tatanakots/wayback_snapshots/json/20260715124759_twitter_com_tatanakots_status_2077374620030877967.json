@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2077257740930428935",
+    "created_at": "2026-07-15T12:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077374620030877967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Sarooneov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077374620030877967",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077359317855129733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sarooneov gfw确实只拦出方向但是你的代理请求发到国内服务器了之后国内服务器给的回包也是能拦掉的，这样相当于你打电话但是对方被禁言了，虽然对方听得到但是你说啥都听不到回复的话也不能有效交换数据"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2077257740930428935",
+        "created_at": "2026-07-15T12:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077374620030877967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Sarooneov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077374620030877967",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077359317855129733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sarooneov gfw确实只拦出方向但是你的代理请求发到国内服务器了之后国内服务器给的回包也是能拦掉的，这样相当于你打电话但是对方被禁言了，虽然对方听得到但是你说啥都听不到回复的话也不能有效交换数据"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2077257740930428935",
+        "created_at": "2026-07-15T11:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077359317855129733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600929805515399168",
+              "start": 0,
+              "username": "Luna4rzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077359317855129733",
+        "in_reply_to_user_id": "1600929805515399168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077257740930428935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luna4rzd 实际上你可以用sing-box里面带的Tailscale\n然后可以出国他一定能回国 因为GFW的限制是只针对出方向\n国外进来他管都不管是真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001,
+          "following_count": 472,
+          "like_count": 32711,
+          "listed_count": 7,
+          "media_count": 1850,
+          "tweet_count": 14367
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Produccion:2010/10/10\nHablidades:Go,astro,pnpm,前端全家桶,Linux,互联网\n性格特点：男娘，直球，说话不过脑子梦到什么说什么\n欢迎找我聊天和互关 你还可以操我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/arrjeon",
+                "end": 23,
+                "expanded_url": "https://telegram.me/arrjeon",
+                "start": 0,
+                "url": "https://t.co/MfQKiCQiDE"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "En liñea todas las tempas.",
+        "name": "Las cosas🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2076293736003510356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 135,
+          "like_count": 4031,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/MfQKiCQiDE",
+        "username": "Sarooneov",
+        "verified": false
+      }
+    ]
+  }
+}

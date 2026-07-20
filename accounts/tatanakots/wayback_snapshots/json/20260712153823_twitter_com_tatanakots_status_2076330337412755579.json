@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076329539840749569"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "conversation_id": "2076330337412755579",
+    "created_at": "2026-07-12T15:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076330337412755579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sH26zYzvaC",
+          "end": 145,
+          "expanded_url": "https://x.com/tatanakots/status/2076330337412755579/photo/1",
+          "media_key": "3_2076329539840749569",
+          "start": 122,
+          "url": "https://t.co/sH26zYzvaC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076330337412755579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天心血来潮检查了一下以前部署的没人用的网页的可用性，结果发现两个应该在的服务掉线了（我甚至没注意到掉线邮件）\n排查日志发现有SSL自动申请的报错，提示acme验证失败，我以为是cf拦截了acme验证端点，于是折腾了一番发现关掉cf也不能验证\n最后发现是这俩服务在rn的机器上，之前DC02迁移的时候忘记改新的IP了，发现之后就严肃切换到CNAME解析了，这样我就只需要维护一个域名的IP就行了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天心血来潮检查了一下以前部署的没人用的网页的可用性，结果发现两个应该在的服务掉线了（我甚至没注意到掉线邮件）\n排查日志发现有SSL自动申请的报错，提示acme验证失败，我以为是cf拦截了acme验证端点，于是折腾了一番发现关掉cf也不能验证 https://t.co/sH26zYzvaC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 193,
+        "media_key": "3_2076329539840749569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCatzLbsAE4iwY.png",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076329539840749569"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "2076330337412755579",
+        "created_at": "2026-07-12T15:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076330337412755579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sH26zYzvaC",
+              "end": 145,
+              "expanded_url": "https://x.com/tatanakots/status/2076330337412755579/photo/1",
+              "media_key": "3_2076329539840749569",
+              "start": 122,
+              "url": "https://t.co/sH26zYzvaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330337412755579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天心血来潮检查了一下以前部署的没人用的网页的可用性，结果发现两个应该在的服务掉线了（我甚至没注意到掉线邮件）\n排查日志发现有SSL自动申请的报错，提示acme验证失败，我以为是cf拦截了acme验证端点，于是折腾了一番发现关掉cf也不能验证\n最后发现是这俩服务在rn的机器上，之前DC02迁移的时候忘记改新的IP了，发现之后就严肃切换到CNAME解析了，这样我就只需要维护一个域名的IP就行了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天心血来潮检查了一下以前部署的没人用的网页的可用性，结果发现两个应该在的服务掉线了（我甚至没注意到掉线邮件）\n排查日志发现有SSL自动申请的报错，提示acme验证失败，我以为是cf拦截了acme验证端点，于是折腾了一番发现关掉cf也不能验证 https://t.co/sH26zYzvaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 471,
+          "like_count": 32604,
+          "listed_count": 7,
+          "media_count": 1837,
+          "tweet_count": 14288
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

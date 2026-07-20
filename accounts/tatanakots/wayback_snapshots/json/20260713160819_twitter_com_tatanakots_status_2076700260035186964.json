@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2058137602507829735",
+    "created_at": "2026-07-13T16:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076700260035186964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1834876150470021120",
+          "start": 0,
+          "username": "Lazriel_UnOffi"
+        },
+        {
+          "end": 31,
+          "id": "1807078941087391745",
+          "start": 16,
+          "username": "random__string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076700260035186964",
+    "in_reply_to_user_id": "1834876150470021120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076699174163398988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lazriel_UnOffi @random__string 那这个时候就不是邮件发送方能解决的问题了，收不到叫用户自己换邮件服务商🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2058137602507829735",
+        "created_at": "2026-07-13T16:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076700260035186964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1834876150470021120",
+              "start": 0,
+              "username": "Lazriel_UnOffi"
+            },
+            {
+              "end": 31,
+              "id": "1807078941087391745",
+              "start": 16,
+              "username": "random__string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076700260035186964",
+        "in_reply_to_user_id": "1834876150470021120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076699174163398988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lazriel_UnOffi @random__string 那这个时候就不是邮件发送方能解决的问题了，收不到叫用户自己换邮件服务商🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834876150470021120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2058137602507829735",
+        "created_at": "2026-07-13T16:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076699174163398988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807078941087391745",
+              "start": 0,
+              "username": "random__string"
+            },
+            {
+              "end": 27,
+              "id": "1753293214826848256",
+              "start": 16,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076699174163398988",
+        "in_reply_to_user_id": "1807078941087391745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058405840433107158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@random__string @tatanakots 这个mail tester只是检查你邮局是否被正确配置。\n你正确配置DNS记录和rdns之类的可以轻松得到9.5分左右。\n\n而outlook和Gmail拦截纯凭用户对这个Email地址的反馈（既将这个Email标记为垃圾邮件）。\n所以你甚至会发现outlook把Microsoft的邮件当垃圾邮件的情况。\nGmail也有把Google当垃圾邮件的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 470,
+          "like_count": 32649,
+          "listed_count": 7,
+          "media_count": 1840,
+          "tweet_count": 14313
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-14T08:45:56.000Z",
+        "description": "",
+        "id": "1834876150470021120",
+        "name": "Lazriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052693598433615872/zHDxX6ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Lazriel_UnOffi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T15:49:37.000Z",
+        "description": "Create things with love. /致力于研究自托管技术，尝试为开源社区添砖加瓦。/正在开发 https://t.co/lYW95qY7JX ，为专业用户搭建的 Docker Compose 管理器。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "composia.xyz",
+                "end": 78,
+                "expanded_url": "http://composia.xyz",
+                "start": 55,
+                "url": "https://t.co/lYW95qY7JX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.alexma.top/zh-hans/pages/…",
+                "end": 23,
+                "expanded_url": "https://blog.alexma.top/zh-hans/pages/about-me/",
+                "start": 0,
+                "url": "https://t.co/XWsRGqGKcV"
+              }
+            ]
+          }
+        },
+        "id": "1807078941087391745",
+        "location": "Open Source Community",
+        "name": "alexma233",
+        "pinned_tweet_id": "2048393746790973583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012105841281765376/34TNo8df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 243,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/XWsRGqGKcV",
+        "username": "random__string",
+        "verified": true
+      }
+    ]
+  }
+}

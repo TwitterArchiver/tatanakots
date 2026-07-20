@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076173442676920320",
+        "3_2076173442672635904"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2076173460762722394",
+    "created_at": "2026-07-12T05:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076173460762722394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1766452473840173056",
+          "start": 6,
+          "username": "mikotossd0106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5He1mpWD8v",
+          "end": 141,
+          "expanded_url": "https://x.com/tatanakots/status/2076173460762722394/photo/1",
+          "media_key": "3_2076173442676920320",
+          "start": 118,
+          "url": "https://t.co/5He1mpWD8v"
+        },
+        {
+          "display_url": "pic.x.com/5He1mpWD8v",
+          "end": 141,
+          "expanded_url": "https://x.com/tatanakots/status/2076173460762722394/photo/1",
+          "media_key": "3_2076173442672635904",
+          "start": 118,
+          "url": "https://t.co/5He1mpWD8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076173460762722394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死了，面了@mikotossd0106 \n帮他code review，结果看到了不得了的东西\n速速让他打开api平台一看，果然已经刷光余额了www\n\nvibe coding写出来的东西一定要自己看一遍在上传到GitHub公开仓库哦~ https://t.co/5He1mpWD8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2076173442676920320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAMvv7bkAAIvTY.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2076173442672635904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAMvv6aMAAMX-r.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076173442676920320",
+            "3_2076173442672635904"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2076173460762722394",
+        "created_at": "2026-07-12T05:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076173460762722394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1766452473840173056",
+              "start": 6,
+              "username": "mikotossd0106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5He1mpWD8v",
+              "end": 141,
+              "expanded_url": "https://x.com/tatanakots/status/2076173460762722394/photo/1",
+              "media_key": "3_2076173442676920320",
+              "start": 118,
+              "url": "https://t.co/5He1mpWD8v"
+            },
+            {
+              "display_url": "pic.x.com/5He1mpWD8v",
+              "end": 141,
+              "expanded_url": "https://x.com/tatanakots/status/2076173460762722394/photo/1",
+              "media_key": "3_2076173442672635904",
+              "start": 118,
+              "url": "https://t.co/5He1mpWD8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076173460762722394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了，面了@mikotossd0106 \n帮他code review，结果看到了不得了的东西\n速速让他打开api平台一看，果然已经刷光余额了www\n\nvibe coding写出来的东西一定要自己看一遍在上传到GitHub公开仓库哦~ https://t.co/5He1mpWD8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3974,
+          "following_count": 470,
+          "like_count": 32572,
+          "listed_count": 7,
+          "media_count": 1833,
+          "tweet_count": 14267
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "rim de lacent!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072660313951121408/2IRD8A51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1663,
+          "like_count": 92475,
+          "listed_count": 5,
+          "media_count": 1317,
+          "tweet_count": 5997
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

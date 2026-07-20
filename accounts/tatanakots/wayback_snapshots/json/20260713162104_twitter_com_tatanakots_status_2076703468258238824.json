@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2076685685692710997",
+    "created_at": "2026-07-13T16:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076703468258238824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankxka05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076703468258238824",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076702014164386273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankxka05 我没说公网ip必须是公网ipv4啊，有部分地区ipv6都有nat的，所以必须是公网ip就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2076685685692710997",
+        "created_at": "2026-07-13T16:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076703468258238824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankxka05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076703468258238824",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076702014164386273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankxka05 我没说公网ip必须是公网ipv4啊，有部分地区ipv6都有nat的，所以必须是公网ip就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2076685685692710997",
+        "created_at": "2026-07-13T16:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076702014164386273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 22,
+              "id": "1375730868241670146",
+              "start": 12,
+              "username": "MoMo2007_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702014164386273",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076699644189610069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @MoMo2007_ 其实 有公网ipv6也可以 再配合ddns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 470,
+          "like_count": 32651,
+          "listed_count": 7,
+          "media_count": 1840,
+          "tweet_count": 14315
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "ASDer /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "Flancok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071246292098203648/9_UhuMJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 209,
+          "like_count": 2233,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 1229
+        },
+        "url": "",
+        "username": "frankxka05",
+        "verified": false
+      }
+    ]
+  }
+}

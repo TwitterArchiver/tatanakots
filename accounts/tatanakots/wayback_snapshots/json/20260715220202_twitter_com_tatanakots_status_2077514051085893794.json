@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2077344116145520942",
+    "created_at": "2026-07-15T22:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T23:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077514051085893794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077514051085893794",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077344116145520942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 其实即使你的服务器只有v4或者v6，开启cloudflare加速后会自动激活双栈解析"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2077343438442573824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ02dzbsAANI_a.jpg",
+        "width": 1912
+      },
+      {
+        "height": 991,
+        "media_key": "3_2077343684195196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ1ExTbIAA2Rn7.jpg",
+        "width": 1917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2077344116145520942",
+        "created_at": "2026-07-15T22:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077514051085893794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077514051085893794",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077344116145520942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 其实即使你的服务器只有v4或者v6，开启cloudflare加速后会自动激活双栈解析"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077343438442573824",
+            "3_2077343684195196928"
+          ]
+        },
+        "author_id": "1672078534469369856",
+        "conversation_id": "2077344116145520942",
+        "created_at": "2026-07-15T10:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:45:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077343801308590430",
+          "2077344116145520942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "me.clipsule.cn",
+              "end": 48,
+              "expanded_url": "http://me.clipsule.cn",
+              "start": 25,
+              "status": 403,
+              "unwound_url": "https://me.clipsule.cn/",
+              "url": "https://t.co/69JEHol4Vo"
+            },
+            {
+              "display_url": "v6-me.clipsule.cn",
+              "end": 92,
+              "expanded_url": "http://v6-me.clipsule.cn",
+              "start": 69,
+              "unwound_url": "http://v6-me.clipsule.cn",
+              "url": "https://t.co/PdxHYPPPtG"
+            },
+            {
+              "display_url": "pic.x.com/eMn1CvyqwN",
+              "end": 116,
+              "expanded_url": "https://x.com/csl1027/status/2077344116145520942/photo/1",
+              "media_key": "3_2077343438442573824",
+              "start": 93,
+              "url": "https://t.co/eMn1CvyqwN"
+            },
+            {
+              "display_url": "pic.x.com/eMn1CvyqwN",
+              "end": 116,
+              "expanded_url": "https://x.com/csl1027/status/2077344116145520942/photo/1",
+              "media_key": "3_2077343684195196928",
+              "start": 93,
+              "url": "https://t.co/eMn1CvyqwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077344116145520942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2290,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于搞好了,个人网站以支持IPv6访问,原理：访问https://t.co/69JEHol4Vo,如果识别到访问设备有IPV6,会自动跳转https://t.co/PdxHYPPPtG https://t.co/eMn1CvyqwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4003,
+          "following_count": 474,
+          "like_count": 32724,
+          "listed_count": 7,
+          "media_count": 1853,
+          "tweet_count": 14383
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 艰难存活ing | 出柜变家暴党藏吃药ing | 163cm/44kg | 推魔女伊蕾娜 | 计算机技术宅 | 记录可爱日常～💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.clipsule.cn",
+                "end": 23,
+                "expanded_url": "https://me.clipsule.cn/",
+                "start": 0,
+                "url": "https://t.co/VAVAt3H09t"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "location": "江苏 徐州",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075210180112064747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 28,
+          "like_count": 248,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/VAVAt3H09t",
+        "username": "csl1027",
+        "verified": true
+      }
+    ]
+  }
+}

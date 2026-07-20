@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2076346583143313611",
+    "created_at": "2026-07-12T17:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076363457738453070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076363457738453070",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076346583143313611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "才发现证书过期了，套了cf没开严格检查，vps磁盘100%了没法续期新的证书，于是已经加载到内存中的证书就这么迎来了过期"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2076346459264540672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCqGo8aYAAJEyq.png",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2076346583143313611",
+        "created_at": "2026-07-12T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076363457738453070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076363457738453070",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076346583143313611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才发现证书过期了，套了cf没开严格检查，vps磁盘100%了没法续期新的证书，于是已经加载到内存中的证书就这么迎来了过期"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076346459264540672"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "2076346583143313611",
+        "created_at": "2026-07-12T16:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076346583143313611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4Rc5PwXx6",
+              "end": 40,
+              "expanded_url": "https://x.com/tatanakots/status/2076346583143313611/photo/1",
+              "media_key": "3_2076346459264540672",
+              "start": 17,
+              "url": "https://t.co/E4Rc5PwXx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076346583143313611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好玩，可以手敲HTTP命令😋 https://t.co/E4Rc5PwXx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 471,
+          "like_count": 32606,
+          "listed_count": 7,
+          "media_count": 1838,
+          "tweet_count": 14291
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}
