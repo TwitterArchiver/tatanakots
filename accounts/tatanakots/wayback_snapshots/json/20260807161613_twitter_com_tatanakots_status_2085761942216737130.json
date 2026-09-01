@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2085664018828595239",
+    "created_at": "2026-08-07T16:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085761942216737130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468616147339968513",
+          "start": 0,
+          "username": "0xSorrowRain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085761942216737130",
+    "in_reply_to_user_id": "1468616147339968513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085664018828595239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xSorrowRain 但是我在那个页面的时候总觉得应该长按升级会更好，但是我现在入坑的这个版本很显然已经改成按一下就能解锁了，解决方法不应该是简单的“我们让其直接短按就可以升级了”而应该是在给试图短按的用户一个提示"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2085664018828595239",
+        "created_at": "2026-08-07T16:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085761942216737130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468616147339968513",
+              "start": 0,
+              "username": "0xSorrowRain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085761942216737130",
+        "in_reply_to_user_id": "1468616147339968513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085664018828595239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xSorrowRain 但是我在那个页面的时候总觉得应该长按升级会更好，但是我现在入坑的这个版本很显然已经改成按一下就能解锁了，解决方法不应该是简单的“我们让其直接短按就可以升级了”而应该是在给试图短按的用户一个提示"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468616147339968513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2085664018828595239",
+        "created_at": "2026-08-07T09:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085664018828595239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SplaLog/status…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/SplaLog/status/2085635608727495038",
+              "start": 140,
+              "url": "https://t.co/tBDWin2ztE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085664018828595239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085635608727495038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这本质是一个交互设计问题，长按服务于背包升级的动画、震动，给足玩家反馈感\n\n可惜rtt的引导做的很烂，没写需要长按，短按也没有任何提示\n\n这里真的会出现疑问，我打的时候按了一下，然后反应过来需要长按，没卡住但是也被误导了。对于不玩游戏的人来说绝对会出问题\n\nrtt的ux，敬拜吧 https://t.co/tBDWin2ztE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 488,
+          "like_count": 33762,
+          "listed_count": 7,
+          "media_count": 1904,
+          "tweet_count": 14856
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T16:19:28.000Z",
+        "description": "02年社畜 | B端产品画图狗 ，正在努力生活 | 请多指教哦~ | 锚点：@NeneK0SMTwTF5_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "NeneK0SMTwTF5_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0xsr.dev",
+                "end": 23,
+                "expanded_url": "http://0xsr.dev",
+                "start": 0,
+                "url": "https://t.co/R0nmdIWIg7"
+              }
+            ]
+          }
+        },
+        "id": "1468616147339968513",
+        "name": "SorrowRain",
+        "pinned_tweet_id": "2085594282619294183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002461390054043658/7A6oWi4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 806,
+          "like_count": 888,
+          "listed_count": 3,
+          "media_count": 741,
+          "tweet_count": 7348
+        },
+        "url": "https://t.co/R0nmdIWIg7",
+        "username": "0xSorrowRain",
+        "verified": false
+      }
+    ]
+  }
+}

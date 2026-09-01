@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "2078168875636756535",
+    "created_at": "2026-07-18T04:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078332078685614150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "542497171",
+          "start": 0,
+          "username": "enp39s0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078332078685614150",
+    "in_reply_to_user_id": "542497171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078329111131648011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enp39s0 我测的这家刚开始上专用客户端的时候，专用客户端里面用的节点入口还都是国内中转，我以为是抗通报就觉得还行，后来换成aws亚太了，我以为是国内中转被通报光了，但是后来又换了个延迟造假的所谓“极速版”，并且没有恢复国内中转，依然是亚太aws而且高峰期很卡，就开始失去好感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2078168875636756535",
+        "created_at": "2026-07-18T04:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078332078685614150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "542497171",
+              "start": 0,
+              "username": "enp39s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078332078685614150",
+        "in_reply_to_user_id": "542497171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078329111131648011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enp39s0 我测的这家刚开始上专用客户端的时候，专用客户端里面用的节点入口还都是国内中转，我以为是抗通报就觉得还行，后来换成aws亚太了，我以为是国内中转被通报光了，但是后来又换了个延迟造假的所谓“极速版”，并且没有恢复国内中转，依然是亚太aws而且高峰期很卡，就开始失去好感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "542497171",
+        "conversation_id": "2078168875636756535",
+        "created_at": "2026-07-18T04:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078329111131648011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078329111131648011",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078324948851130484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 如果是用安全、防止订阅被盗用的理由上私有客户端，都还能理解，防不了抓包至少可以防止被爬\n以“官方客户端延迟更低”来推的就很神奇了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 475,
+          "like_count": 32821,
+          "listed_count": 7,
+          "media_count": 1859,
+          "tweet_count": 14452
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-01T12:09:22.000Z",
+        "description": "Adorable nerdy transfem | Android Security Researcher & Developer | Multimedia / Cross-Device Interconnect / RTC",
+        "id": "542497171",
+        "name": "MidoriKochiya0/0/1🐱🍨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861362994267201536/KedpZjpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 1000,
+          "like_count": 16023,
+          "listed_count": 15,
+          "media_count": 451,
+          "tweet_count": 8859
+        },
+        "url": "",
+        "username": "enp39s0",
+        "verified": false
+      }
+    ]
+  }
+}

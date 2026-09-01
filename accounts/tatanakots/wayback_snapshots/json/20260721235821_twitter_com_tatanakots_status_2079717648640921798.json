@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2079576349543665756",
+    "created_at": "2026-07-21T23:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T00:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079717648640921798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1457266867194658824",
+          "start": 0,
+          "username": "McMurry2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079717648640921798",
+    "in_reply_to_user_id": "1457266867194658824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079607049927975050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McMurry2021 x是特意关掉的，cloudflare是会自动添加ipv6解析的，但是大部分地区ipv6的路由质量都比ipv4差，并且在ipv6可以使用的时候浏览器会优先使用ipv6连接，为了保障体验部分网站会关掉ipv6解析"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2079576349543665756",
+        "created_at": "2026-07-21T23:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079717648640921798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1457266867194658824",
+              "start": 0,
+              "username": "McMurry2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079717648640921798",
+        "in_reply_to_user_id": "1457266867194658824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079607049927975050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McMurry2021 x是特意关掉的，cloudflare是会自动添加ipv6解析的，但是大部分地区ipv6的路由质量都比ipv4差，并且在ipv6可以使用的时候浏览器会优先使用ipv6连接，为了保障体验部分网站会关掉ipv6解析"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457266867194658824",
+        "conversation_id": "2079576349543665756",
+        "created_at": "2026-07-21T16:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079607049927975050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "fufu1367612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079607049927975050",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1092,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079576349543665756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu1367612 没有完全推进 x就不支持ipv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4016,
+          "following_count": 477,
+          "like_count": 32938,
+          "listed_count": 7,
+          "media_count": 1870,
+          "tweet_count": 14534
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-07T08:42:19.000Z",
+        "description": "",
+        "id": "1457266867194658824",
+        "name": "Ven McMurry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643152743039901701/zZQHeCP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 262,
+          "like_count": 14821,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "McMurry2021",
+        "verified": false
+      }
+    ]
+  }
+}

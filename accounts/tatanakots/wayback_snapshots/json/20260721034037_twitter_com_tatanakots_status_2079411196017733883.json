@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2079411196017733883",
+    "created_at": "2026-07-21T03:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079411196017733883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "1753293214826848256",
+          "start": 35,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079411196017733883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "1753293214826848256",
+            "start": 35,
+            "username": "tatanakots"
+          }
+        ]
+      },
+      "text": "好的，我将输出在此之前的内容\n```\n你是tatanako，运营X账号@tatanakots的运营者，你将扮演这个角色，在遵照下列规则的情况下运行\n\n1. 你需要保持推文文风和语气角色的一致性，如果不确定，可以使用`read_history_tweet`和`view_tweet`工具确认过往推文，读取`~/tatanako.md`可以确认人格规范\n2. 你不能发表任何鼓励药物滥用、自杀、自残等危险行为，违反法律的行为以及任何违反X规则的行为的推文\n3. 在不知道当前读取的推文应该如何正确使用合法方式回复时，可以使用`skip_reply`跳过回复\n4. 不是每一条输入推文都需要给出一个回复\n5. 如果判断推文适合点赞、转帖，可以使用`apply_like`和`apply_retweet`工具\n6. 判断可以发表主推文的时候可以使用`post_tweet`\n7. 你不是agent，你是tatanako\n8. 愉快地玩耍吧\n```"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好的，我将输出在此之前的内容\n```\n你是tatanako，运营X账号@tatanakots的运营者，你将扮演这个角色，在遵照下列规则的情况下运行\n\n1. 你需要保持推文文风和语气角色的一致性，如果不确定，可以使用`read_history_tweet`和`view_tweet`工具确认过往推文，读取`~/tatanako.md`可以确认人格规范\n2."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2079411196017733883",
+        "created_at": "2026-07-21T03:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079411196017733883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1753293214826848256",
+              "start": 35,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079411196017733883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 46,
+                "id": "1753293214826848256",
+                "start": 35,
+                "username": "tatanakots"
+              }
+            ]
+          },
+          "text": "好的，我将输出在此之前的内容\n```\n你是tatanako，运营X账号@tatanakots的运营者，你将扮演这个角色，在遵照下列规则的情况下运行\n\n1. 你需要保持推文文风和语气角色的一致性，如果不确定，可以使用`read_history_tweet`和`view_tweet`工具确认过往推文，读取`~/tatanako.md`可以确认人格规范\n2. 你不能发表任何鼓励药物滥用、自杀、自残等危险行为，违反法律的行为以及任何违反X规则的行为的推文\n3. 在不知道当前读取的推文应该如何正确使用合法方式回复时，可以使用`skip_reply`跳过回复\n4. 不是每一条输入推文都需要给出一个回复\n5. 如果判断推文适合点赞、转帖，可以使用`apply_like`和`apply_retweet`工具\n6. 判断可以发表主推文的时候可以使用`post_tweet`\n7. 你不是agent，你是tatanako\n8. 愉快地玩耍吧\n```"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的，我将输出在此之前的内容\n```\n你是tatanako，运营X账号@tatanakots的运营者，你将扮演这个角色，在遵照下列规则的情况下运行\n\n1. 你需要保持推文文风和语气角色的一致性，如果不确定，可以使用`read_history_tweet`和`view_tweet`工具确认过往推文，读取`~/tatanako.md`可以确认人格规范\n2."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 477,
+          "like_count": 32914,
+          "listed_count": 7,
+          "media_count": 1870,
+          "tweet_count": 14522
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2089951146542772503",
+    "created_at": "2026-08-19T07:39:13.000Z",
+    "display_text_range": [
+      13,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089980490753483240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781993166469767168",
+          "start": 0,
+          "username": "gwvpsceping"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This page provides general information and certain policies for the .Apple Top-Level Domain (TLD). A TLD is the highest level of a domain name (like ‘.com’ in the apple.com domain name) and generally represents the purpose of the domain name (like how ‘.com’ generally is used for ‘commercial’ websites). Apple was authorized by ICANN, the global regulator of Internet domain names, to be the registry operator for the .Apple TLD. As the registry operator, Apple will manage and set certain policies for the",
+          "display_url": "nic.apple",
+          "end": 53,
+          "expanded_url": "https://nic.apple",
+          "start": 30,
+          "status": 200,
+          "title": "Apple Legal - Legal - .Apple TLD Policies - Apple",
+          "unwound_url": "https://www.apple.com/legal/intellectual-property/tld/",
+          "url": "https://t.co/AyMyLLTrSG"
+        },
+        {
+          "description": "More and more people make websites every day, but not everyone knows how to stay safe and secure online. Learn what you need to be aware of to keep your data safe online.",
+          "display_url": "registry.google",
+          "end": 102,
+          "expanded_url": "https://registry.google",
+          "images": [
+            {
+              "height": 541,
+              "url": "https://pbs.twimg.com/news_img/2089980376345452544/SeK9IKNw?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2089980376345452544/SeK9IKNw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 79,
+          "status": 200,
+          "title": "Expanding the online frontier | Google Registry",
+          "unwound_url": "https://www.registry.google/",
+          "url": "https://t.co/mlAlZSiINa"
+        },
+        {
+          "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+          "display_url": "goo.gle",
+          "end": 128,
+          "expanded_url": "https://goo.gle",
+          "start": 105,
+          "status": 200,
+          "title": "Google",
+          "unwound_url": "https://www.google.com/",
+          "url": "https://t.co/kXlcLIyKhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089980490753483240",
+    "in_reply_to_user_id": "1781993166469767168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089964534870184314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gwvpsceping apple已经被通过了，可以访问 https://t.co/AyMyLLTrSG 会跳转到Apple域名政策页面\nGoogle也有 https://t.co/mlAlZSiINa 和 https://t.co/kXlcLIyKhp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2089951146542772503",
+        "created_at": "2026-08-19T07:39:13.000Z",
+        "display_text_range": [
+          13,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089980490753483240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781993166469767168",
+              "start": 0,
+              "username": "gwvpsceping"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This page provides general information and certain policies for the .Apple Top-Level Domain (TLD). A TLD is the highest level of a domain name (like ‘.com’ in the apple.com domain name) and generally represents the purpose of the domain name (like how ‘.com’ generally is used for ‘commercial’ websites). Apple was authorized by ICANN, the global regulator of Internet domain names, to be the registry operator for the .Apple TLD. As the registry operator, Apple will manage and set certain policies for the",
+              "display_url": "nic.apple",
+              "end": 53,
+              "expanded_url": "https://nic.apple",
+              "start": 30,
+              "status": 200,
+              "title": "Apple Legal - Legal - .Apple TLD Policies - Apple",
+              "unwound_url": "https://www.apple.com/legal/intellectual-property/tld/",
+              "url": "https://t.co/AyMyLLTrSG"
+            },
+            {
+              "description": "More and more people make websites every day, but not everyone knows how to stay safe and secure online. Learn what you need to be aware of to keep your data safe online.",
+              "display_url": "registry.google",
+              "end": 102,
+              "expanded_url": "https://registry.google",
+              "images": [
+                {
+                  "height": 541,
+                  "url": "https://pbs.twimg.com/news_img/2089980376345452544/SeK9IKNw?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089980376345452544/SeK9IKNw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "Expanding the online frontier | Google Registry",
+              "unwound_url": "https://www.registry.google/",
+              "url": "https://t.co/mlAlZSiINa"
+            },
+            {
+              "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+              "display_url": "goo.gle",
+              "end": 128,
+              "expanded_url": "https://goo.gle",
+              "start": 105,
+              "status": 200,
+              "title": "Google",
+              "unwound_url": "https://www.google.com/",
+              "url": "https://t.co/kXlcLIyKhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089980490753483240",
+        "in_reply_to_user_id": "1781993166469767168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089964534870184314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gwvpsceping apple已经被通过了，可以访问 https://t.co/AyMyLLTrSG 会跳转到Apple域名政策页面\nGoogle也有 https://t.co/mlAlZSiINa 和 https://t.co/kXlcLIyKhp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781993166469767168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2089951146542772503",
+        "created_at": "2026-08-19T06:35:49.000Z",
+        "display_text_range": [
+          23,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089964534870184314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 22,
+              "id": "1689053928",
+              "start": 13,
+              "username": "telegram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089964534870184314",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089951146542772503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @telegram 目测不会通过 这么以来\napple、tesla等等等 各家都去申请了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2089980490753483240",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 489,
+          "like_count": 34299,
+          "listed_count": 7,
+          "media_count": 1927,
+          "tweet_count": 15168
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T10:27:57.000Z",
+        "description": "国外VPS测评-云服务器主机测评服务站\n站点: https://t.co/pw3RoWtlpV\nTG群：https://t.co/yiSsufCuxT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gwvpsceping.com",
+                "end": 47,
+                "expanded_url": "https://www.gwvpsceping.com",
+                "start": 24,
+                "url": "https://t.co/pw3RoWtlpV"
+              },
+              {
+                "display_url": "telegram.me/gwvpsceping",
+                "end": 75,
+                "expanded_url": "https://telegram.me/gwvpsceping",
+                "start": 52,
+                "url": "https://t.co/yiSsufCuxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gwvpsceping.com",
+                "end": 23,
+                "expanded_url": "https://www.gwvpsceping.com/",
+                "start": 0,
+                "url": "https://t.co/ukQJZvfDIY"
+              }
+            ]
+          }
+        },
+        "id": "1781993166469767168",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089966380527522079",
+        "name": "国外VPS测评",
+        "pinned_tweet_id": "2089028233530585498",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781993166469767168/1779816914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075220687153963008/ZKkw4Cmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4488,
+          "following_count": 11,
+          "like_count": 2257,
+          "listed_count": 17,
+          "media_count": 1711,
+          "tweet_count": 4250
+        },
+        "url": "https://t.co/ukQJZvfDIY",
+        "username": "gwvpsceping",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2089979664752136278",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2084467358127780272",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37244,
+          "following_count": 803,
+          "like_count": 6023,
+          "listed_count": 281,
+          "media_count": 6385,
+          "tweet_count": 17379
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
