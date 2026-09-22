@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2100896547055759590",
+    "created_at": "2026-09-18T10:35:44.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100896547055759590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100896547055759590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "zcode会上传用户代码库到oss的话\n那么为什么不试试在虚拟文件系统中创建几乎无限的随机数据让它传oss呢\n爱收集数据是吧，塞爆你的oss😋\n等zcode看到下个月的oss账单就不敢这么收集数据了吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2100896547055759590",
+        "created_at": "2026-09-18T10:35:44.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100896547055759590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100896547055759590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "zcode会上传用户代码库到oss的话\n那么为什么不试试在虚拟文件系统中创建几乎无限的随机数据让它传oss呢\n爱收集数据是吧，塞爆你的oss😋\n等zcode看到下个月的oss账单就不敢这么收集数据了吧😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2100896547055759590",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 488,
+          "like_count": 35269,
+          "listed_count": 7,
+          "media_count": 1973,
+          "tweet_count": 15555
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

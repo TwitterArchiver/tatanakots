@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096624945128439808",
+        "3_2096624944616804352",
+        "3_2096624944272801792",
+        "3_2096624944239280128"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096513885516034202",
+    "created_at": "2026-09-06T15:42:15.000Z",
+    "display_text_range": [
+      11,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096625029433967092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1508241671049269255",
+          "start": 0,
+          "username": "Eichan_GZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMOfmONV03",
+          "end": 70,
+          "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+          "media_key": "3_2096624945128439808",
+          "start": 47,
+          "url": "https://t.co/eMOfmONV03"
+        },
+        {
+          "display_url": "pic.x.com/eMOfmONV03",
+          "end": 70,
+          "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+          "media_key": "3_2096624944616804352",
+          "start": 47,
+          "url": "https://t.co/eMOfmONV03"
+        },
+        {
+          "display_url": "pic.x.com/eMOfmONV03",
+          "end": 70,
+          "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+          "media_key": "3_2096624944272801792",
+          "start": 47,
+          "url": "https://t.co/eMOfmONV03"
+        },
+        {
+          "display_url": "pic.x.com/eMOfmONV03",
+          "end": 70,
+          "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+          "media_key": "3_2096624944239280128",
+          "start": 47,
+          "url": "https://t.co/eMOfmONV03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096625029433967092",
+    "in_reply_to_user_id": "1508241671049269255",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096624945128439808"
+      },
+      {
+        "media_key": "3_2096624944616804352"
+      },
+      {
+        "media_key": "3_2096624944272801792"
+      },
+      {
+        "media_key": "3_2096624944239280128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096513885516034202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eichan_GZ 中国製品は安いから\n日本からの方がもっと高い😭\n安いグッズはいいよ😭🥰 https://t.co/eMOfmONV03"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2096624945128439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi1R3magAAKmAO.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096624944616804352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi1R1sbkAAXTCB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096624944272801792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi1R0aagAAkAG-.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096624944239280128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi1R0SbAAAs-Xk.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096513843791097856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhQO63bcAAW6dC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096513843782615040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhQO61aAAAfbbM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096513843795234816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhQO64akAAR8e8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096513843791020032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhQO63aQAAL-IT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096624945128439808",
+            "3_2096624944616804352",
+            "3_2096624944272801792",
+            "3_2096624944239280128"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096513885516034202",
+        "created_at": "2026-09-06T15:42:15.000Z",
+        "display_text_range": [
+          11,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096625029433967092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1508241671049269255",
+              "start": 0,
+              "username": "Eichan_GZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMOfmONV03",
+              "end": 70,
+              "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+              "media_key": "3_2096624945128439808",
+              "start": 47,
+              "url": "https://t.co/eMOfmONV03"
+            },
+            {
+              "display_url": "pic.x.com/eMOfmONV03",
+              "end": 70,
+              "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+              "media_key": "3_2096624944616804352",
+              "start": 47,
+              "url": "https://t.co/eMOfmONV03"
+            },
+            {
+              "display_url": "pic.x.com/eMOfmONV03",
+              "end": 70,
+              "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+              "media_key": "3_2096624944272801792",
+              "start": 47,
+              "url": "https://t.co/eMOfmONV03"
+            },
+            {
+              "display_url": "pic.x.com/eMOfmONV03",
+              "end": 70,
+              "expanded_url": "https://x.com/tatanakots/status/2096625029433967092/photo/1",
+              "media_key": "3_2096624944239280128",
+              "start": 47,
+              "url": "https://t.co/eMOfmONV03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096625029433967092",
+        "in_reply_to_user_id": "1508241671049269255",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096624945128439808"
+          },
+          {
+            "media_key": "3_2096624944616804352"
+          },
+          {
+            "media_key": "3_2096624944272801792"
+          },
+          {
+            "media_key": "3_2096624944239280128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096513885516034202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eichan_GZ 中国製品は安いから\n日本からの方がもっと高い😭\n安いグッズはいいよ😭🥰 https://t.co/eMOfmONV03"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096513843791097856",
+            "3_2096513843782615040",
+            "3_2096513843795234816",
+            "3_2096513843791020032"
+          ]
+        },
+        "author_id": "1508241671049269255",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "2096513885516034202",
+        "created_at": "2026-09-06T08:20:36.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096513885516034202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TazvdsU1TJ",
+              "end": 85,
+              "expanded_url": "https://x.com/Eichan_GZ/status/2096513885516034202/photo/1",
+              "media_key": "3_2096513843791097856",
+              "start": 62,
+              "url": "https://t.co/TazvdsU1TJ"
+            },
+            {
+              "display_url": "pic.x.com/TazvdsU1TJ",
+              "end": 85,
+              "expanded_url": "https://x.com/Eichan_GZ/status/2096513885516034202/photo/1",
+              "media_key": "3_2096513843782615040",
+              "start": 62,
+              "url": "https://t.co/TazvdsU1TJ"
+            },
+            {
+              "display_url": "pic.x.com/TazvdsU1TJ",
+              "end": 85,
+              "expanded_url": "https://x.com/Eichan_GZ/status/2096513885516034202/photo/1",
+              "media_key": "3_2096513843795234816",
+              "start": 62,
+              "url": "https://t.co/TazvdsU1TJ"
+            },
+            {
+              "display_url": "pic.x.com/TazvdsU1TJ",
+              "end": 85,
+              "expanded_url": "https://x.com/Eichan_GZ/status/2096513885516034202/photo/1",
+              "media_key": "3_2096513843791020032",
+              "start": 62,
+              "url": "https://t.co/TazvdsU1TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096513885516034202",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096513843791097856"
+          },
+          {
+            "media_key": "3_2096513843782615040"
+          },
+          {
+            "media_key": "3_2096513843795234816"
+          },
+          {
+            "media_key": "3_2096513843791020032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 31734,
+          "like_count": 510,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "ぼっち・ざ・ろっく！の限定ショップ。以前は日本から流れてきたグッズが多かったけど、今やほとんど中国製。地産地消が進んでいる https://t.co/TazvdsU1TJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2096625029433967092",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4041,
+          "following_count": 488,
+          "like_count": 34930,
+          "listed_count": 7,
+          "media_count": 1966,
+          "tweet_count": 15438
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-28T00:37:36.000Z",
+        "description": "上海在住。生活の様子とか感じたことをnoteに書いたり、現代ビジネス・楽待・内外タイムス等のWEB媒体へ寄稿しています。YouTube https://t.co/eWKEBCmGo8 ではVtuberえいちゃん（燕醤）の活動をしています。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Eichan_GZ",
+                "end": 91,
+                "expanded_url": "https://youtube.com/@Eichan_GZ",
+                "start": 68,
+                "url": "https://t.co/eWKEBCmGo8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/eichan_sh",
+                "end": 23,
+                "expanded_url": "https://note.com/eichan_sh",
+                "start": 0,
+                "url": "https://t.co/wQWzkbTlOB"
+              }
+            ]
+          }
+        },
+        "id": "1508241671049269255",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096603021614739486",
+        "name": "上海在住のえいちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508241671049269255/1653370355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870250714351710211/lKDppqhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16225,
+          "following_count": 879,
+          "like_count": 518269,
+          "listed_count": 182,
+          "media_count": 7955,
+          "tweet_count": 29909
+        },
+        "url": "https://t.co/wQWzkbTlOB",
+        "username": "Eichan_GZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
