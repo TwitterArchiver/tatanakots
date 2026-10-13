@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2108533079447068827",
+    "created_at": "2026-10-09T17:08:30.000Z",
+    "display_text_range": [
+      15,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T18:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108605536463954128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This document describes what it means to say that a Domain Name (DNS name) is reserved for special use, when reserving such a name is appropriate, and the procedure for doing so. It establishes an IANA registry for such domain names, and seeds it with entries for some of the already established special domain names.",
+          "display_url": "rfc-editor.org/info/rfc6761/",
+          "end": 57,
+          "expanded_url": "https://www.rfc-editor.org/info/rfc6761/",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2108605540633100289/sBHEOOeS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2108605540633100289/sBHEOOeS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "RFC 6761: Special-Use Domain Names | RFC Editor",
+          "unwound_url": "https://www.rfc-editor.org/info/rfc6761/",
+          "url": "https://t.co/pSdJFrvWvB"
+        },
+        {
+          "description": "The Internet Domain Name System (DNS) defines a tree of names starting with root, \".\", immediately below which are top level domain (TLD) names such as \".com\" and \".us\". RFC2606 reserved a small number of TLD names for use in documentation examples, private testing, experiments, and other circumstances in which it is desirable to avoid conflict with current or future actual TLD names in the DNS. The evolution of Internet engineering and operation practices since RFC2606 was published in 1999, and the expected addition of new TLD names to the DNS, recommend this update to the list of reserved TLD names, and the creation of a \"reserved TLD name registry\" to which additional names may be added as new requirements arise. It is important to note that TLD names may be reserved, in other contexts, for policy, political, or other reasons that are distinct from the IETF's concern with Internet engineering and operations. This document reserves TLD names only for operational and engineering reas",
+          "display_url": "datatracker.ietf.org/doc/draft-chap…",
+          "end": 108,
+          "expanded_url": "https://datatracker.ietf.org/doc/draft-chapin-rfc2606bis/",
+          "start": 85,
+          "status": 200,
+          "title": "Reserved Top Level Domain Names",
+          "unwound_url": "https://datatracker.ietf.org/doc/draft-chapin-rfc2606bis/",
+          "url": "https://t.co/mDKdTjOaGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108605536463954128",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108552899483840658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 事实上lan并没有在RFC6761（ https://t.co/pSdJFrvWvB ）中被保留，只有一个草稿提议要保留，但是并没有被通过 https://t.co/mDKdTjOaGR"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2108552899483840658].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2108552899483840658",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2108552899483840658"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2108533079447068827",
+        "created_at": "2026-10-09T17:08:30.000Z",
+        "display_text_range": [
+          15,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108605536463954128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This document describes what it means to say that a Domain Name (DNS name) is reserved for special use, when reserving such a name is appropriate, and the procedure for doing so. It establishes an IANA registry for such domain names, and seeds it with entries for some of the already established special domain names.",
+              "display_url": "rfc-editor.org/info/rfc6761/",
+              "end": 57,
+              "expanded_url": "https://www.rfc-editor.org/info/rfc6761/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2108605540633100289/sBHEOOeS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108605540633100289/sBHEOOeS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "RFC 6761: Special-Use Domain Names | RFC Editor",
+              "unwound_url": "https://www.rfc-editor.org/info/rfc6761/",
+              "url": "https://t.co/pSdJFrvWvB"
+            },
+            {
+              "description": "The Internet Domain Name System (DNS) defines a tree of names starting with root, \".\", immediately below which are top level domain (TLD) names such as \".com\" and \".us\". RFC2606 reserved a small number of TLD names for use in documentation examples, private testing, experiments, and other circumstances in which it is desirable to avoid conflict with current or future actual TLD names in the DNS. The evolution of Internet engineering and operation practices since RFC2606 was published in 1999, and the expected addition of new TLD names to the DNS, recommend this update to the list of reserved TLD names, and the creation of a \"reserved TLD name registry\" to which additional names may be added as new requirements arise. It is important to note that TLD names may be reserved, in other contexts, for policy, political, or other reasons that are distinct from the IETF's concern with Internet engineering and operations. This document reserves TLD names only for operational and engineering reas",
+              "display_url": "datatracker.ietf.org/doc/draft-chap…",
+              "end": 108,
+              "expanded_url": "https://datatracker.ietf.org/doc/draft-chapin-rfc2606bis/",
+              "start": 85,
+              "status": 200,
+              "title": "Reserved Top Level Domain Names",
+              "unwound_url": "https://datatracker.ietf.org/doc/draft-chapin-rfc2606bis/",
+              "url": "https://t.co/mDKdTjOaGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108605536463954128",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108552899483840658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 事实上lan并没有在RFC6761（ https://t.co/pSdJFrvWvB ）中被保留，只有一个草稿提议要保留，但是并没有被通过 https://t.co/mDKdTjOaGR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2108605536463954128",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 490,
+          "like_count": 36067,
+          "listed_count": 7,
+          "media_count": 2019,
+          "tweet_count": 15984
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "裏帳 對外不公開\n表帳 @applenekomoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "applenekomoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/5CNGBqFNCw"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106048672589103490",
+        "name": "笨蛋夜星＊淡推生活中",
+        "pinned_tweet_id": "2081264628445979049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224020250733268995/1789089694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103456317017145344/QVuMjAKv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 316,
+          "like_count": 120870,
+          "listed_count": 2,
+          "media_count": 1828,
+          "tweet_count": 19096
+        },
+        "url": "https://t.co/5CNGBqFNCw",
+        "username": "appleneko2001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

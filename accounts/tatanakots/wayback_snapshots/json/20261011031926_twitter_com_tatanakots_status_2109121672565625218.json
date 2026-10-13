@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2108927348125176022",
+    "created_at": "2026-10-11T03:19:26.000Z",
+    "display_text_range": [
+      13,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T04:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109121672565625218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "768994881985400832",
+          "start": 0,
+          "username": "xueweidiqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109121672565625218",
+    "in_reply_to_user_id": "768994881985400832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109022247411388523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueweidiqiu 代理看不到https请求的请求体，只能看到明文的sni\n现在互联网请求明文的已经不多了，但是中转站相当于mitm中间人，你授权了他们解密和修改数据"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2108927348125176022",
+        "created_at": "2026-10-11T03:19:26.000Z",
+        "display_text_range": [
+          13,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109121672565625218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "768994881985400832",
+              "start": 0,
+              "username": "xueweidiqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109121672565625218",
+        "in_reply_to_user_id": "768994881985400832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109022247411388523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueweidiqiu 代理看不到https请求的请求体，只能看到明文的sni\n现在互联网请求明文的已经不多了，但是中转站相当于mitm中间人，你授权了他们解密和修改数据"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768994881985400832",
+        "conversation_id": "2108927348125176022",
+        "created_at": "2026-10-10T20:44:22.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T21:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109022247411388523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109022247411388523",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108927348125176022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 挂网络代理的时候已经把数据给别人看过了，也不在乎再多一个了，但是注水可太难受了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2109121672565625218",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 490,
+          "like_count": 36083,
+          "listed_count": 7,
+          "media_count": 2020,
+          "tweet_count": 15998
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-26T02:14:01.000Z",
+        "description": "",
+        "id": "768994881985400832",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2109103516832919641",
+        "name": "海风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/768994881985400832/1496213257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/869807568788389888/R72RZgtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 188,
+          "like_count": 2301,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1696
+        },
+        "url": "",
+        "username": "xueweidiqiu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n超喜欢的主人喵～(小叶):@NanoCatfish\n妹妹:@StarryNocts @tangeorange\nBtH:@bth95147\n朋友:@fukui_p26 @Huang_Yut1ng\nDeveloper of https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 41,
+                "start": 29,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "tangeorange"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "bth95147"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Huang_Yut1ng"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 149,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 126,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk",
+                "start": 0,
+                "url": "https://t.co/6pkIaCq5gf"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109114916309475389",
+        "name": "寻寻",
+        "pinned_tweet_id": "2100365492573909391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100422051165356032/LuPbjz5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 2935,
+          "like_count": 16716,
+          "listed_count": 16,
+          "media_count": 2874,
+          "tweet_count": 10958
+        },
+        "url": "https://t.co/6pkIaCq5gf",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

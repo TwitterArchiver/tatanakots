@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2104465395939963039",
+    "created_at": "2026-10-04T17:27:34.000Z",
+    "display_text_range": [
+      23,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T18:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106798396250161246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1079483498686164992",
+          "start": 0,
+          "username": "KisaragiSue"
+        },
+        {
+          "end": 22,
+          "id": "1374724817119772674",
+          "start": 13,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106798396250161246",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106781608460407219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KisaragiSue @Mimiaomc 应该听不出来吧，cd本来就是数字介质，是二进制数据，而且现在的抓轨都有精确拷贝（音频crc确认），会和联网数据库里同一张盘的数据进行比较，理论上应该是一样的东西，剩下的变数应该是抓轨之后封装容器用的参数以及播放器的区别了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2104465395939963039",
+        "created_at": "2026-10-04T17:27:34.000Z",
+        "display_text_range": [
+          23,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106798396250161246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            },
+            {
+              "end": 22,
+              "id": "1374724817119772674",
+              "start": 13,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106798396250161246",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106781608460407219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue @Mimiaomc 应该听不出来吧，cd本来就是数字介质，是二进制数据，而且现在的抓轨都有精确拷贝（音频crc确认），会和联网数据库里同一张盘的数据进行比较，理论上应该是一样的东西，剩下的变数应该是抓轨之后封装容器用的参数以及播放器的区别了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2104465395939963039",
+        "created_at": "2026-10-04T16:20:52.000Z",
+        "display_text_range": [
+          22,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106781608460407219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 21,
+              "id": "1374724817119772674",
+              "start": 12,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106781608460407219",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105143587264770211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @Mimiaomc 抓轨和直读确实有区别，尤其是在数播下的确是能听出来的，哪怕是无损抓轨……很难形容，但是确实真的有区别……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2106798396250161246",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 488,
+          "like_count": 35896,
+          "listed_count": 7,
+          "media_count": 2013,
+          "tweet_count": 15890
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2106781608460407219",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2914,
+          "following_count": 655,
+          "like_count": 45108,
+          "listed_count": 5,
+          "media_count": 1266,
+          "tweet_count": 24330
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼系列维基 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "is_identity_verified": false,
+        "location": "CLOUDFLARE.COM",
+        "most_recent_tweet_id": "2106714881391226975",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2098393781074907550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374724817119772674/1783492251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 300,
+          "like_count": 3284,
+          "listed_count": 4,
+          "media_count": 573,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

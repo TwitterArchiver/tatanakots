@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2108755219232473235",
+    "created_at": "2026-10-10T03:17:08.000Z",
+    "display_text_range": [
+      12,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T04:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108758705693249601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089649353724153856",
+          "start": 0,
+          "username": "yu_kirins2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108758705693249601",
+    "in_reply_to_user_id": "2089649353724153856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108755219232473235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kirins2 av号依旧可用且av和bv互转的算法也已经被挖出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2108755219232473235",
+        "created_at": "2026-10-10T03:17:08.000Z",
+        "display_text_range": [
+          12,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T04:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108758705693249601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089649353724153856",
+              "start": 0,
+              "username": "yu_kirins2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108758705693249601",
+        "in_reply_to_user_id": "2089649353724153856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108755219232473235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins2 av号依旧可用且av和bv互转的算法也已经被挖出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089649353724153856",
+        "conversation_id": "2108755219232473235",
+        "created_at": "2026-10-10T03:03:17.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T04:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108755219232473235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108755219232473235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "B站改BV号已经超过6年了，还有多少人记得AV号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2108758705693249601",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 490,
+          "like_count": 36073,
+          "listed_count": 7,
+          "media_count": 2019,
+          "tweet_count": 15986
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T09:44:46.000Z",
+        "description": "叫我小雨或者雨麟｜MTF｜HRT：2025.9.16｜去势：2026.7.27｜BOD：2001.4.29｜同类互fo喵\nVRChat似乎基本大概是退坑了吧\n大号:@yu_kirins，大概是似了，重新开始吧喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "yu_kirins"
+              }
+            ]
+          }
+        },
+        "id": "2089649353724153856",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2108757700284907540",
+        "name": "yu_s_two",
+        "pinned_tweet_id": "2096084062889034164",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095919829471645696/_ZjyUbqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 87,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "yu_kirins2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

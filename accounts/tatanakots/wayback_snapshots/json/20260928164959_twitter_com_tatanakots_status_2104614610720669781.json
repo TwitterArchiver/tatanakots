@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104390979813883904"
+      ],
+      "media_source_tweet_id": [
+        "2104391562075705390"
+      ]
+    },
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2104614610720669781",
+    "created_at": "2026-09-28T16:49:59.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104614610720669781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1170107964834926592",
+          "start": 3,
+          "username": "Freedom_Lian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7c6YUuObmc",
+          "end": 133,
+          "expanded_url": "https://x.com/Freedom_Lian/status/2104391562075705390/photo/1",
+          "media_key": "3_2104390979813883904",
+          "start": 110,
+          "url": "https://t.co/7c6YUuObmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104614610720669781",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104390979813883904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104391562075705390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freedom_Lian: 听闻deepseek男的原画师被网暴删画，本人深感痛心，因此亲自画了一张表示支持。本人已将此图发pixiv并承诺永不删除。任何反对我们看帅哥和画帅哥的网暴分子都将被钉在历史的耻辱柱上 https://t.co/7c6YUuObmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1611,
+        "media_key": "3_2104390979813883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRMclRXwAAveDT.jpg",
+        "width": 1551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104390979813883904"
+          ],
+          "media_source_tweet_id": [
+            "2104391562075705390"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2104614610720669781",
+        "created_at": "2026-09-28T16:49:59.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104614610720669781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1170107964834926592",
+              "start": 3,
+              "username": "Freedom_Lian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7c6YUuObmc",
+              "end": 133,
+              "expanded_url": "https://x.com/Freedom_Lian/status/2104391562075705390/photo/1",
+              "media_key": "3_2104390979813883904",
+              "start": 110,
+              "url": "https://t.co/7c6YUuObmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104614610720669781",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104390979813883904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104391562075705390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freedom_Lian: 听闻deepseek男的原画师被网暴删画，本人深感痛心，因此亲自画了一张表示支持。本人已将此图发pixiv并承诺永不删除。任何反对我们看帅哥和画帅哥的网暴分子都将被钉在历史的耻辱柱上 https://t.co/7c6YUuObmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104390979813883904"
+          ]
+        },
+        "author_id": "1170107964834926592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2104391562075705390",
+        "created_at": "2026-09-28T02:03:40.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104391562075705390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7c6YUuObmc",
+              "end": 115,
+              "expanded_url": "https://x.com/Freedom_Lian/status/2104391562075705390/photo/1",
+              "media_key": "3_2104390979813883904",
+              "start": 92,
+              "url": "https://t.co/7c6YUuObmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104391562075705390",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104390979813883904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 25739,
+          "like_count": 643,
+          "quote_count": 7,
+          "reply_count": 102,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "听闻deepseek男的原画师被网暴删画，本人深感痛心，因此亲自画了一张表示支持。本人已将此图发pixiv并承诺永不删除。任何反对我们看帅哥和画帅哥的网暴分子都将被钉在历史的耻辱柱上 https://t.co/7c6YUuObmc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2104614610720669781",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4060,
+          "following_count": 489,
+          "like_count": 35603,
+          "listed_count": 7,
+          "media_count": 1993,
+          "tweet_count": 15741
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-06T22:54:21.000Z",
+        "description": "欢迎在下面的steam商店把《捡到富婆上司的男宠》加入愿望单。Discord不定期和好厚米聊游戏：https://t.co/OWvUVz2Ju2 我亲自实名上网 @chemgeeklian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "chemgeeklian"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Edj7gc3jMR",
+                "end": 72,
+                "expanded_url": "https://discord.gg/Edj7gc3jMR",
+                "start": 49,
+                "url": "https://t.co/OWvUVz2Ju2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/5013140/_/",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/5013140/_/",
+                "start": 0,
+                "url": "https://t.co/Rq5OqyuWh3"
+              }
+            ]
+          }
+        },
+        "id": "1170107964834926592",
+        "is_identity_verified": false,
+        "location": "Chicago",
+        "most_recent_tweet_id": "2104451945830248868",
+        "name": "Freedom_Lian",
+        "pinned_tweet_id": "2103307428615913909",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170107964834926592/1776640801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104392018793275392/x_3smX-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 445,
+          "like_count": 18402,
+          "listed_count": 22,
+          "media_count": 2455,
+          "tweet_count": 17165
+        },
+        "url": "https://t.co/Rq5OqyuWh3",
+        "username": "Freedom_Lian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

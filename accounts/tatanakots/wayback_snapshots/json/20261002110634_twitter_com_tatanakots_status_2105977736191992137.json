@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "conversation_id": "2105771259271553359",
+    "created_at": "2026-10-02T11:06:34.000Z",
+    "display_text_range": [
+      16,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T12:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105977736191992137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605076301466939392",
+          "start": 0,
+          "username": "flyingfish2662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105977736191992137",
+    "in_reply_to_user_id": "1605076301466939392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105975479396077915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flyingfish2662 对的对的，对于嵌入式设备来说busybox里面内置的vi能开箱即用就很方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2105771259271553359",
+        "created_at": "2026-10-02T11:06:34.000Z",
+        "display_text_range": [
+          16,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105977736191992137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605076301466939392",
+              "start": 0,
+              "username": "flyingfish2662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105977736191992137",
+        "in_reply_to_user_id": "1605076301466939392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105975479396077915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyingfish2662 对的对的，对于嵌入式设备来说busybox里面内置的vi能开箱即用就很方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605076301466939392",
+        "conversation_id": "2105771259271553359",
+        "created_at": "2026-10-02T10:57:36.000Z",
+        "display_text_range": [
+          12,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105975479396077915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105975479396077915",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105771259271553359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots vim習慣了就會很好用 而且vi鍵綁定也是會養成熟悉感的 現在obsidian都是vi的鍵綁定\n實際上功能相當全而且環境覆蓋率非常廣, 低功能版本的vi busybox就有內置\n有相當多原因會選擇使用vim\n這種莫名其妙就認為其他人在演給他看的也真是可悲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2105977736191992137",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 488,
+          "like_count": 35836,
+          "listed_count": 7,
+          "media_count": 2007,
+          "tweet_count": 15840
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T05:43:28.000Z",
+        "description": "The last shaman of the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fishinix.org",
+                "end": 23,
+                "expanded_url": "http://fishinix.org",
+                "start": 0,
+                "url": "https://t.co/oPk2NQOB7d"
+              }
+            ]
+          }
+        },
+        "id": "1605076301466939392",
+        "is_identity_verified": false,
+        "location": "Outer Space",
+        "most_recent_tweet_id": "2105977503999279365",
+        "name": "fish4terrisa-MSDSM",
+        "pinned_tweet_id": "2099058337039970423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605076301466939392/1784480081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078886250375675904/vCRcvRnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 358,
+          "like_count": 48396,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/oPk2NQOB7d",
+        "username": "flyingfish2662",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753293214826848256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2106358306382192931",
+    "created_at": "2026-10-04T19:00:09.000Z",
+    "display_text_range": [
+      10,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T20:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106821695906684993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484296250",
+          "start": 0,
+          "username": "0xBCD18E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106821695906684993",
+    "in_reply_to_user_id": "1484296250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106819028870459804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xBCD18E 华为官网直接写EOS了不给下软件资料\n好在超聚变官网上给账号绑定了机器SN之后就能看文档下软件了\n只是这个一键配置工具就是不给用，本来也是用机器SN自助申请授权的，但是这个授权提示机器过保就不能自动申请，还得联系代表处或系统管理员，但是又不写联系方式\n这些商业产品的权限锁定都太坏了🙁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2106358306382192931",
+        "created_at": "2026-10-04T19:00:09.000Z",
+        "display_text_range": [
+          10,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T20:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106821695906684993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484296250",
+              "start": 0,
+              "username": "0xBCD18E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106821695906684993",
+        "in_reply_to_user_id": "1484296250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106819028870459804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xBCD18E 华为官网直接写EOS了不给下软件资料\n好在超聚变官网上给账号绑定了机器SN之后就能看文档下软件了\n只是这个一键配置工具就是不给用，本来也是用机器SN自助申请授权的，但是这个授权提示机器过保就不能自动申请，还得联系代表处或系统管理员，但是又不写联系方式\n这些商业产品的权限锁定都太坏了🙁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484296250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364368",
+              "name": "HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040990644",
+              "name": "HP Enterprise"
+            }
+          }
+        ],
+        "conversation_id": "2106358306382192931",
+        "created_at": "2026-10-04T18:49:33.000Z",
+        "display_text_range": [
+          12,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106819028870459804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106819028870459804",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106719197648834656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 这个算是从ICT产品过来的老习惯了😁软件包要有授权才能获取，国际大厂HPE之流也不遑多让"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2106821695906684993",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 488,
+          "like_count": 35899,
+          "listed_count": 7,
+          "media_count": 2013,
+          "tweet_count": 15892
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-05T06:59:26.000Z",
+        "description": "•日常分享观察发现，偶尔记录事实核查\n•蛋头视奸新号加列表激进民族主义钢印入脑者勿fo会b",
+        "id": "1484296250",
+        "is_identity_verified": false,
+        "location": "距您2.6公里   IP归属地：球外势力",
+        "most_recent_tweet_id": "2106819028870459804",
+        "name": "花​贝（名字搞长一点可以搞长一点）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484296250/1640325005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041095743625457664/V_o7iIxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 2095,
+          "like_count": 211447,
+          "listed_count": 4,
+          "media_count": 3272,
+          "tweet_count": 36151
+        },
+        "url": "",
+        "username": "0xBCD18E",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
